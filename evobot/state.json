@@ -1,31 +1,18 @@
 {
   "schema": 2,
-  "generation": 7,
+  "generation": 8,
   "core_version": 1,
-  "runs": 6,
-  "pages_learned": 39,
-  "last_run": "2026-09-26T11:55:32+00:00",
+  "runs": 7,
+  "pages_learned": 43,
+  "last_run": "2026-09-26T11:57:36+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/solar-system/",
-    "https://science.nasa.gov/universe/",
-    "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/",
-    "https://science.nasa.gov/mission/hubble/",
-    "https://science.nasa.gov/mission/osiris-rex/",
-    "https://science.nasa.gov/a-to-z-topics-listing/",
-    "https://science.nasa.gov/nasa-missions/",
-    "https://science.nasa.gov/humans-in-space/",
-    "https://science.nasa.gov/aeronautics/",
     "https://science.nasa.gov/technology/",
     "https://science.nasa.gov/learning-resources/",
     "https://science.nasa.gov/about/",
     "https://science.nasa.gov/es/",
     "https://science.nasa.gov/earth/explore",
     "https://science.nasa.gov/climate-change",
-    "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-    "https://images-assets.nasa.gov/image/jsc2026e406664/jsc2026e406664~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint",
-    "https://images-assets.nasa.gov/image/s118e09418/s118e09418~large.jpg?w=1920&h=1307&fit=clip&crop=faces%2Cfocalpoint",
     "https://science.nasa.gov/earth/facts",
     "https://science.nasa.gov/earth/in-action",
     "https://science.nasa.gov/earth/multimedia",
@@ -45,6 +32,29 @@
     "https://science.nasa.gov/earth/explore/",
     "https://science.nasa.gov/climate-change/",
     "https://science.nasa.gov/earth/facts/",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2015/06/edu_climage_change_3.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
+    "https://www.nasa.gov/wp-content/uploads/2024/10/54099828916-45c9bee307-o.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2024/02/the-kibo-laboratory-module-from-the-japan-aerospace-exploration-agency-28149074718-o.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2014/03/ipcc_2099.jpg?w=1024",
+    "https://science.nasa.gov/earth/in-action/",
+    "https://science.nasa.gov/earth/multimedia/",
+    "https://science.nasa.gov/earth-science/",
+    "https://science.nasa.gov/sun/",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg?w=1024",
+    "https://science.nasa.gov/earth-science",
+    "https://science.nasa.gov/mercury/",
+    "https://science.nasa.gov/venus/",
+    "https://science.nasa.gov/moon/",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://www.nature.com/info/cookies",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
@@ -84,7 +94,6 @@
     "https://www.nasa.gov/socialmedia/",
     "https://www.nasa.gov/news/nasa-media-contacts/",
     "https://www.nasa.gov/nasa-interactive-features/",
-    "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg?w=150&h=150&crop=1",
     "https://www.nasa.gov/missions/",
     "https://www.nasa.gov/a-to-z-of-nasa-missions/",
     "https://www.nasa.gov/events/",
@@ -97,27 +106,15 @@
     "https://www.nasa.gov/technology/",
     "https://www.nasa.gov/learning-resources/",
     "https://www.nasa.gov/about/",
-    "https://www.nasa.gov/wp-content/uploads/2015/06/edu_climage_change_3.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/12/1-mackenzie-river-delta.jpeg?w=1024",
     "https://www.nasa.gov/international-space-station/",
     "https://www.nasa.gov/humans-in-space/why-go-to-space/",
     "https://www.nasa.gov/humans-in-space/astronauts/",
     "https://www.nasa.gov/humans-in-space/destinations/",
     "https://www.nasa.gov/humans-in-space/living-in-space/",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2022/06/ahh_dr_iss061e012803.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
-    "https://www.nasa.gov/wp-content/uploads/2024/10/54099828916-45c9bee307-o.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/02/edu_srch_take_aim_at_climate_change_video-a.png?w=320",
-    "https://www.nasa.gov/wp-content/uploads/2024/02/the-kibo-laboratory-module-from-the-japan-aerospace-exploration-agency-28149074718-o.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2014/03/ipcc_2099.jpg?w=1024",
+    "https://www.nasa.gov/es/",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
     "https://www.nature.com/info/privacy",
@@ -216,27 +213,23 @@
     "https://www.innovation-sandbox.in/",
     "https://www.protocols.io/",
     "http://www.imf.org/en/",
-    "https://science.nasa.gov/?search=International+Space+Station",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/2840_sun1280x._less_water.jpg?w=1280&h=605&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/226335main_earthsun_200803XX_HI-768px.jpg?w=768&h=432&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/172/adapting_tn.jpg?w=216&h=144&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/364/bees_tn.jpg?w=324&h=216&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg?w=720&h=947&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/1857/atmospheric_co2_at_mauna_loa.png?w=694&h=543&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/half-degree-triptych-v1-border.jpg?w=768&h=399&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/westernhemisphere_geos_2019246_lrg.jpeg?w=768&h=355&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/165/volcano_tn.jpg?w=216&h=144&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/water/images/rain.jpg?w=720&h=269&fit=clip&crop=faces%2Cfocalpoint",
-    "https://science.nasa.gov/earth/in-action/",
-    "https://science.nasa.gov/earth/multimedia/",
-    "https://science.nasa.gov/earth-science/",
-    "https://science.nasa.gov/sun/",
-    "https://www.nasa.gov/es/",
-    "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg?w=1024",
-    "https://science.nasa.gov/earth-science",
-    "https://science.nasa.gov/mercury/",
-    "https://science.nasa.gov/venus/",
-    "https://science.nasa.gov/moon/"
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg?w=720&h=947&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/1857/atmospheric_co2_at_mauna_loa.png?w=694&h=543&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/westernhemisphere_geos_2019246_lrg.jpeg?w=768&h=355&fit=clip&crop=faces%2Cfocalpoint",
+    "https://science.nasa.gov/universe/",
+    "https://science.nasa.gov/",
+    "https://science.nasa.gov/mission/webb/",
+    "https://science.nasa.gov/mission/hubble/",
+    "https://science.nasa.gov/mission/osiris-rex/",
+    "https://science.nasa.gov/a-to-z-topics-listing/",
+    "https://science.nasa.gov/nasa-missions/",
+    "https://science.nasa.gov/humans-in-space/",
+    "https://science.nasa.gov/aeronautics/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -453,6 +446,38 @@
       "at": "2026-09-26T11:55:53+00:00",
       "status": "ok",
       "hash": "ef3259712f4edb61d7659296a8b714511ab3f708384a67f108446e2b7eeb5558"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/2840_sun1280x._less_water.jpg?w=1280&h=605&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-26T11:57:37+00:00",
+      "status": "ok",
+      "hash": "74b33bd29185d4bcc93c47807001fe9cec71efd78237a496a99f8ae5081a3320"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/226335main_earthsun_200803XX_HI-768px.jpg?w=768&h=432&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-26T11:57:37+00:00",
+      "status": "ok",
+      "hash": "cf5a1dfc83a86e8fb72472ce1d2215304ffa6711d1991ebf028152036a601e57"
+    },
+    "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-26T11:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://images-assets.nasa.gov/image/jsc2026e406664/jsc2026e406664~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-26T11:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://images-assets.nasa.gov/image/s118e09418/s118e09418~large.jpg?w=1920&h=1307&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-26T11:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://science.nasa.gov/?search=International+Space+Station": {
+      "at": "2026-09-26T11:57:39+00:00",
+      "status": "ok",
+      "hash": "943ac06ffe28a21b69c7ac76712bb8776e3fda450ddbd7b4d4464e695903ddd7"
+    },
+    "https://science.nasa.gov/solar-system/": {
+      "at": "2026-09-26T11:57:39+00:00",
+      "status": "ok",
+      "hash": "8bbbf52da1f76a7c08aae0f7fa3e01f1d73f2ed856c916a60f2d8847c0c95c6c"
     }
   },
   "memory": [
@@ -1352,10 +1377,123 @@
       ],
       "hash": "ef3259712f4edb61d7659296a8b714511ab3f708384a67f108446e2b7eeb5558",
       "learned_at": "2026-09-26T11:55:53+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/2840_sun1280x._less_water.jpg?w=1280&h=605&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "2840_sun1280x._less_water.jpg",
+      "summary": "Title: 2840_sun1280x._less_water.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/2840_sun1280x._less_water.jpg?w=1280&h=605&fit=clip&crop=faces,focalpoint Warning: This is a cached snapshot of the original page, consider retry with caching opt-out. Markdown Content: A small body of sunlit water and blue skies",
+      "keywords": [
+        "2840_sun1280x",
+        "_less_water",
+        "assets",
+        "jpg",
+        "science",
+        "1280",
+        "2023",
+        "605",
+        "blue",
+        "body",
+        "cached",
+        "caching",
+        "climate",
+        "clip"
+      ],
+      "hash": "74b33bd29185d4bcc93c47807001fe9cec71efd78237a496a99f8ae5081a3320",
+      "learned_at": "2026-09-26T11:57:37+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/226335main_earthsun_200803XX_HI-768px.jpg?w=768&h=432&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "226335main_earthsun_200803XX_HI-768px.jpg",
+      "summary": "Title: 226335main_earthsun_200803XX_HI-768px.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/226335main_earthsun_200803XX_HI-768px.jpg?w=768&h=432&fit=clip&crop=faces,focalpoint Warning: This is a cached snapshot of the original page, consider retry with caching opt-out. Markdown Content: A starry night sky of Earth continues back to the start of it's cycles",
+      "keywords": [
+        "226335main_earthsun_200803xx_hi-768px",
+        "assets",
+        "jpg",
+        "science",
+        "2023",
+        "432",
+        "768",
+        "back",
+        "cached",
+        "caching",
+        "climate",
+        "clip",
+        "consider",
+        "content"
+      ],
+      "hash": "cf5a1dfc83a86e8fb72472ce1d2215304ffa6711d1991ebf028152036a601e57",
+      "learned_at": "2026-09-26T11:57:37+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/?search=International+Space+Station",
+      "title": "NASA Science Articles & Stories - NASA Science",
+      "summary": "Title: NASA Science Articles & Stories - NASA Science URL Source: https://science.nasa.gov/?search=International+Space+Station Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Mult",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "international",
+        "plus",
+        "podcasts",
+        "space"
+      ],
+      "hash": "943ac06ffe28a21b69c7ac76712bb8776e3fda450ddbd7b4d4464e695903ddd7",
+      "learned_at": "2026-09-26T11:57:39+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/solar-system/",
+      "title": "Solar System Exploration",
+      "summary": "Title: Solar System Exploration URL Source: https://science.nasa.gov/solar-system/ Published Time: 2023-06-08T13:04:16-04:00 Markdown Content: [![Image 9: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 10: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multi",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "8bbbf52da1f76a7c08aae0f7fa3e01f1d73f2ed856c916a60f2d8847c0c95c6c",
+      "learned_at": "2026-09-26T11:57:39+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-26T11:57:40+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.777778,
+      "hosts": 24,
+      "candidate_errors": [
+        "ValueError: forbidden node Lambda",
+        "ValueError: forbidden node Lambda",
+        "ValueError: forbidden node Lambda",
+        "ValueError: forbidden node Lambda",
+        "ValueError: forbidden node Lambda"
+      ]
+    },
+    {
+      "at": "2026-09-26T11:57:39+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 223
+    },
     {
       "at": "2026-09-26T11:55:54+00:00",
       "kind": "core_unchanged",
@@ -1431,10 +1569,10 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 39,
+    "successful_fetches": 43,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 0,
-    "candidate_rejections": 5
+    "candidate_rejections": 6
   }
 }
