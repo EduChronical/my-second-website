@@ -298,13 +298,14 @@ def mutate(s):
     current_genome=dict(default_genome());current_genome.update(s.get("core_genome",{}))
     try:current_env=load_core();current_score=evaluate_core(current_env,s)
     except Exception:current_env=None;current_score=-1.0
-    best_score=current_score;best_genome=current_genome;best_source=None
+    best_score=current_score;best_genome=current_genome;best_source=None;candidate_errors=[]
     for g in candidate_genomes(current_genome):
         try:
             src=source_from_genome(g,hosts);env=compile_candidate(src);score=evaluate_core(env,s)
             if score>best_score+1e-9:
                 best_score=score;best_genome=g;best_source=src
-        except Exception:pass
+        except Exception as e:
+            if len(candidate_errors)<5:candidate_errors.append(f"{type(e).__name__}: {e}")
     # Even without a score increase, fold newly learned reliable hosts into code
     # periodically if it does not regress. This makes the mutable core reflect
     # accumulated web experience instead of merely storing it outside the code.
@@ -320,7 +321,7 @@ def mutate(s):
         event(s,"core_promoted",f"Promoted evolved core v{s['core_version']}",baseline=current_score,candidate=best_score,hosts=len(hosts),genome=best_genome)
     else:
         s["metrics"]["candidate_rejections"]=int(s["metrics"].get("candidate_rejections",0))+1
-        event(s,"core_unchanged","No candidate beat the current core",score=current_score,hosts=len(hosts))
+        event(s,"core_unchanged","No candidate beat the current core",score=current_score,hosts=len(hosts),candidate_errors=candidate_errors)
 
 def main():
     s=load_state();s["runs"]=int(s.get("runs",0))+1;s["generation"]=int(s.get("generation",1))+1;s["last_run"]=utcnow()
