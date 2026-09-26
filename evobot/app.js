@@ -1,129 +1,213 @@
-const SKEY="evobot.internet.state.v1",WKEY="evobot.internet.web.session",AKEY="evobot.internet.ai.session";
-const $=id=>document.getElementById(id);
-function baseState(){return {memory:{},failures:[],history:[],sources:0,generation:1,autoWeb:true}}
-let state=load();
-function load(){try{return Object.assign(baseState(),JSON.parse(localStorage.getItem(SKEY)||"{}"))}catch(e){return baseState()}}
-function save(){localStorage.setItem(SKEY,JSON.stringify(state))}
-function norm(x){return String(x==null?"":x).trim()}
-function webCfg(){try{return JSON.parse(sessionStorage.getItem(WKEY)||"{}")}catch(e){return {}}}
-function aiCfg(){try{return JSON.parse(sessionStorage.getItem(AKEY)||"{}")}catch(e){return {}}}
-function webHeaders(){const c=webCfg(),h={Accept:"text/plain"};if(c.key)h.Authorization="Bearer "+c.key;return h}
-function validUrl(u){try{const x=new URL(u);return /^https?:$/.test(x.protocol)?x.href:null}catch(e){return null}}
+const $ = id => document.getElementById(id);
+const LOCAL_KEY = 'evobot.chat.v3';
+const SETTINGS_KEY = 'evobot.session.v3';
+const REMOTE_STATE = 'https://raw.githubusercontent.com/EduChronical/my-second-website/main/evobot/state.json';
+const READER = 'https://r.jina.ai/';
+const SEARCH = 'https://s.jina.ai/?q=';
+
+let local = loadLocal();
+let remote = null;
+let busy = false;
+
+function loadLocal(){
+  try { return Object.assign({messages:[],memory:{},failures:[],learning:true,web:true,localCycles:0,lastLocalCycle:null}, JSON.parse(localStorage.getItem(LOCAL_KEY)||'{}')); }
+  catch { return {messages:[],memory:{},failures:[],learning:true,web:true,localCycles:0,lastLocalCycle:null}; }
+}
+function saveLocal(){ localStorage.setItem(LOCAL_KEY, JSON.stringify(local)); }
+function settings(){ try{return JSON.parse(sessionStorage.getItem(SETTINGS_KEY)||'{}')}catch{return {}} }
+function saveSettings(x){ sessionStorage.setItem(SETTINGS_KEY, JSON.stringify(x)); }
+function esc(s){ return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function now(){ return new Date().toISOString(); }
+function toast(msg){ const t=$('toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),1800); }
+const STOP=new Set(['the','and','for','with','that','this','from','into','your','you','are','was','were','have','has','had','but','not','can','will','would','about','what','when','where','which','their','there','than','then','them','they','its','our','out','all','also','more','most','how','why','who','an','of','to','in','on','at','is','it','as','be','or','by']);
+function tokens(text){ return (String(text).toLowerCase().match(/[a-z0-9][a-z0-9_-]{2,}/g)||[]).filter(x=>!STOP.has(x)); }
+
+function addMessage(role,text,meta='',sources=[]){
+  local.messages.push({role,text,meta,sources,at:now()});
+  local.messages=local.messages.slice(-80); saveLocal(); renderMessages();
+}
+function shortUrl(u){ try{const x=new URL(u);return x.hostname+x.pathname.slice(0,42)}catch{return u.slice(0,52)} }
+function renderMessages(){
+  const box=$('messages');
+  $('empty').style.display=local.messages.length?'none':'grid';
+  box.innerHTML=local.messages.map(m=>{
+    const src=(m.sources||[]).slice(0,6).map(u=>'<a class="source" href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(shortUrl(u))+'</a>').join('');
+    return '<div class="msg"><div class="avatar '+(m.role==='user'?'user':'bot')+'">'+(m.role==='user'?'You':'E')+'</div><div class="bubble '+(m.role==='user'?'user':'bot')+'">'+esc(m.text)+(m.meta?'<div class="meta">'+esc(m.meta)+'</div>':'')+(src?'<div class="sources">'+src+'</div>':'')+'</div></div>';
+  }).join('');
+  setTimeout(()=>window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'}),20);
+}
+
+function openDrawer(){ $('overlay').classList.add('show'); refreshDrawer(); }
+function closeDrawer(){ $('overlay').classList.remove('show'); }
+window.openDrawer=openDrawer; window.closeDrawer=closeDrawer;
+function toggleLearning(){ local.learning=!local.learning; saveLocal(); refreshDrawer(); toast(local.learning?'Continuous learning on':'Continuous learning paused'); }
+function toggleWeb(){ local.web=!local.web; saveLocal(); refreshDrawer(); toast(local.web?'Public web on':'Public web off'); }
+window.toggleLearning=toggleLearning; window.toggleWeb=toggleWeb;
+function saveJina(){ const s=settings(); s.jinaKey=$('jinaKey').value.trim(); saveSettings(s); toast('Web key saved for this tab'); }
+window.saveJina=saveJina;
+function saveAI(){ const s=settings(); s.aiEndpoint=$('aiEndpoint').value.trim(); s.aiModel=$('aiModel').value.trim(); s.aiKey=$('aiKey').value; saveSettings(s); toast('AI connector saved for this tab'); }
+window.saveAI=saveAI;
+async function testWeb(){ toast('Testing web…'); try{const t=await webSearch('ISRO'); toast(t.text.length>80?'Web connected':'Web returned little data')}catch(e){toast('Web test failed')} }
+window.testWeb=testWeb;
+async function testAI(){ toast('Testing AI…'); try{const r=await callAI('Reply with exactly CONNECTED', ''); toast(String(r).includes('CONNECTED')?'AI connected':'AI response received')}catch(e){toast('AI test failed')} }
+window.testAI=testAI;
+function newChat(){ local.messages=[]; saveLocal(); renderMessages(); closeDrawer(); }
+window.newChat=newChat;
+
+async function refreshRemote(){
+  try{
+    const r=await fetch(REMOTE_STATE+'?t='+Date.now(),{cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    remote=await r.json();
+    updateStatus(); refreshDrawer();
+  }catch(e){ updateStatus(true); }
+}
+function updateStatus(failed=false){
+  const el=$('statusText');
+  if(failed){el.textContent='learner reconnecting';return;}
+  if(!remote||!remote.last_run){el.textContent='learner starting';return;}
+  const age=(Date.now()-Date.parse(remote.last_run))/60000;
+  el.textContent=age<20?'24/7 learner online':'learner delayed';
+}
+function refreshDrawer(){
+  $('learnToggle').classList.toggle('on',!!local.learning);
+  $('webToggle').classList.toggle('on',!!local.web);
+  const s=settings();
+  if(document.activeElement!==$('jinaKey')) $('jinaKey').value=s.jinaKey||'';
+  if(document.activeElement!==$('aiEndpoint')) $('aiEndpoint').value=s.aiEndpoint||'';
+  if(document.activeElement!==$('aiModel')) $('aiModel').value=s.aiModel||'';
+  if(document.activeElement!==$('aiKey')) $('aiKey').value=s.aiKey||'';
+  $('coreVersion').textContent='v'+(remote?.core_version||1);
+  $('knowledgeCount').textContent=remote?.pages_learned||0;
+  $('failureCount').textContent=(remote?.failures||[]).length+(local.failures||[]).length;
+  $('sourceCount').textContent=remote?.metrics?.successful_fetches||0;
+  $('lastCycle').textContent=remote?.last_run?new Date(remote.last_run).toLocaleString():'starting…';
+  const events=(remote?.events||[]).slice(0,12);
+  $('activity').innerHTML=events.length?events.map(e=>'<div class="event"><b>'+esc(e.kind||'event')+'</b><br>'+esc(e.message||'')+'<br><small>'+esc(e.at||'')+'</small></div>').join(''):'<div class="small">Background learner is starting.</div>';
+}
+
+function searchRemoteMemory(query,limit=6){
+  if(!remote||!Array.isArray(remote.memory)) return [];
+  const q=tokens(query), qset=new Set(q);
+  return remote.memory.map(m=>{
+    const hay=(String(m.title||'')+' '+String(m.summary||'')+' '+(m.keywords||[]).join(' ')).toLowerCase();
+    let score=0; for(const t of qset){ if(hay.includes(t)) score+=2; if((m.keywords||[]).includes(t)) score+=2; }
+    return {score,m};
+  }).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,limit).map(x=>x.m);
+}
+function memoryContext(query){
+  const ms=searchRemoteMemory(query,6);
+  if(!ms.length) return {text:'',sources:[]};
+  const text=ms.map((m,i)=>'[Memory '+(i+1)+'] '+m.title+'\n'+m.summary+'\nSource: '+m.url).join('\n\n');
+  return {text,sources:ms.map(m=>m.url).filter(Boolean)};
+}
 
 async function readUrl(url){
- const u=validUrl(url);if(!u)return "Invalid http/https URL.";
- const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),30000);
- try{
-  const r=await fetch("https://r.jina.ai/"+u,{headers:webHeaders(),signal:ctl.signal});
-  const t=(await r.text()).slice(0,60000);
-  if(!r.ok)throw new Error("HTTP "+r.status+" "+t.slice(0,220));
-  state.sources++;save();render();
-  return "SOURCE: "+u+"\n\n"+t;
- }catch(e){return "Web reader failed: "+e.message+"\n\nThe page may require login/CAPTCHA, block automated access, or the reader service may be rate-limited."}
- finally{clearTimeout(tm)}
+  const u=new URL(url); if(!/^https?:$/.test(u.protocol)) throw new Error('Only public http/https URLs are supported');
+  const r=await fetch(READER+url,{headers:{Accept:'text/plain'}});
+  const t=await r.text(); if(!r.ok) throw new Error('Reader HTTP '+r.status);
+  return {text:t.slice(0,60000),sources:[url]};
+}
+function extractUrls(text){
+  const re=/https?:\/\/[^\s)\]}>"']+/g; const out=[]; const seen=new Set();
+  for(const m of String(text).match(re)||[]){ const u=m.replace(/[.,;]+$/,''); if(!seen.has(u)){seen.add(u);out.push(u)} }
+  return out.slice(0,24);
+}
+async function webSearch(query){
+  const s=settings();
+  if(s.jinaKey){
+    const r=await fetch(SEARCH+encodeURIComponent(query),{headers:{Accept:'text/plain',Authorization:'Bearer '+s.jinaKey}});
+    const t=await r.text(); if(!r.ok) throw new Error('Search HTTP '+r.status);
+    return {text:t.slice(0,70000),sources:extractUrls(t)};
+  }
+  const searchUrl='https://www.google.com/search?q='+encodeURIComponent(query);
+  const r=await fetch(READER+searchUrl,{headers:{Accept:'text/plain'}});
+  const t=await r.text();
+  if(r.ok&&t.length>300) return {text:t.slice(0,50000),sources:extractUrls(t).filter(u=>!u.includes('google.com')).slice(0,12)};
+  throw new Error('Live search currently needs a Jina key; background learned memory is still available.');
 }
 
-async function searchWeb(q){
- q=norm(q);const c=webCfg();
- if(!q)return "Enter a search query.";
- if(!c.key)return "LIVE SEARCH NEEDS A KEY\n\nOpen Internet research connector and enter a Jina API key for this browser session. Direct URL reading can still work without a key.";
- const ctl=new AbortController(),tm=setTimeout(()=>ctl.abort(),35000);
- try{
-  const r=await fetch("https://s.jina.ai/?q="+encodeURIComponent(q),{headers:webHeaders(),signal:ctl.signal});
-  const t=(await r.text()).slice(0,80000);
-  if(!r.ok)throw new Error("HTTP "+r.status+" "+t.slice(0,220));
-  state.sources+=5;save();render();
-  return t;
- }catch(e){return "Web search failed: "+e.message}
- finally{clearTimeout(tm)}
+async function callNativeAI(prompt,context){
+  try{
+    if(window.LanguageModel&&typeof window.LanguageModel.create==='function'){
+      const session=await window.LanguageModel.create(); return await session.prompt((context?context+'\n\n':'')+prompt);
+    }
+    if(window.ai?.languageModel?.create){
+      const session=await window.ai.languageModel.create(); return await session.prompt((context?context+'\n\n':'')+prompt);
+    }
+  }catch(e){}
+  return null;
+}
+async function callAI(prompt,context){
+  const native=await callNativeAI(prompt,context); if(native) return native;
+  const s=settings(); if(!s.aiEndpoint||!s.aiModel) return null;
+  const headers={'Content-Type':'application/json'}; if(s.aiKey) headers.Authorization='Bearer '+s.aiKey;
+  const r=await fetch(s.aiEndpoint,{method:'POST',headers,body:JSON.stringify({model:s.aiModel,temperature:.2,messages:[{role:'system',content:'You are EvoBot. Answer accurately and directly. Use supplied sources and learned memory, preserve uncertainty, and include a short Sources section when sources are provided.'},{role:'user',content:(context?context+'\n\n':'')+prompt}]})});
+  if(!r.ok) throw new Error('AI HTTP '+r.status);
+  const j=await r.json(); return j?.choices?.[0]?.message?.content||j?.output_text||j?.response||null;
 }
 
-async function callAi(prompt){
- const c=aiCfg();if(!c.enabled||!c.endpoint||!c.model)return null;
- const h={"Content-Type":"application/json"};if(c.key)h.Authorization="Bearer "+c.key;
- try{
-  const r=await fetch(c.endpoint,{method:"POST",headers:h,body:JSON.stringify({model:c.model,messages:[{role:"system",content:"You are EvoBot's reasoning brain. Use supplied web evidence carefully, preserve useful source URLs, distinguish facts from uncertainty, and answer directly."},{role:"user",content:prompt}],temperature:.2})});
-  if(!r.ok)throw new Error("HTTP "+r.status);
-  const j=await r.json(),o=j&&j.choices&&j.choices[0]&&j.choices[0].message?j.choices[0].message.content:(j.output_text||j.response);
-  if(!o)throw new Error("No recognizable text response");return String(o);
- }catch(e){return "AI connector error: "+e.message}
+function localMath(q){
+  const m=String(q).trim().match(/^(-?\d+(?:\.\d+)?)\s*([+\-*\/])\s*(-?\d+(?:\.\d+)?)$/); if(!m)return null;
+  const a=+m[1],b=+m[3],op=m[2]; if(op==='+')return String(a+b); if(op==='-')return String(a-b); if(op==='*')return String(a*b); if(op==='/')return b===0?'Division by zero is undefined.':String(a/b);
 }
+function maybeMemoryCommand(q){
+  let m;
+  if((m=q.match(/^remember\s+(.+?)\s+(?:is|=)\s+([\s\S]+)$/i))){local.memory[m[1].trim()]=m[2].trim();saveLocal();return 'Remembered.'}
+  if((m=q.match(/^recall\s+(.+)$/i))){return Object.prototype.hasOwnProperty.call(local.memory,m[1].trim())?String(local.memory[m[1].trim()]):'I do not have that local memory yet.'}
+  return null;
+}
+async function solve(q){
+  const math=localMath(q); if(math!==null) return {text:math,meta:'local reasoning',sources:[]};
+  const memcmd=maybeMemoryCommand(q); if(memcmd!==null) return {text:memcmd,meta:'persistent local memory',sources:[]};
+  const direct=q.trim().match(/https?:\/\/\S+/);
+  let gathered={text:'',sources:[]};
+  const learned=memoryContext(q);
+  if(direct){
+    try{gathered=await readUrl(direct[0]);}catch(e){gathered={text:'',sources:[]};}
+  } else if(local.web){
+    try{gathered=await webSearch(q);}catch(e){gathered={text:'',sources:[]};}
+  }
+  const combined=[learned.text,gathered.text].filter(Boolean).join('\n\n--- LIVE / LEARNED EVIDENCE ---\n\n').slice(0,65000);
+  const sources=[...new Set([...(learned.sources||[]),...(gathered.sources||[])])].slice(0,12);
+  try{
+    const ai=await callAI(q,combined);
+    if(ai) return {text:String(ai),meta:'core v'+(remote?.core_version||1)+' · web+memory synthesis',sources};
+  }catch(e){ local.failures.push({at:now(),task:q,error:String(e)});local.failures=local.failures.slice(-100);saveLocal(); }
+  if(combined){
+    return {text:'I found relevant material but this browser has no general reasoning model connected. Here is the strongest retrieved context:\n\n'+combined.slice(0,7000),meta:'core v'+(remote?.core_version||1)+' · retrieval mode',sources};
+  }
+  local.failures.push({at:now(),task:q,error:'no reasoning backend and no retrieved evidence'}); local.failures=local.failures.slice(-100); saveLocal();
+  return {text:'The 24/7 learner is running, but this browser still needs either retrievable web evidence or a reasoning model for this open-ended question. I recorded this as a capability gap for future evolution.',meta:'capability gap recorded',sources:[]};
+}
+async function submit(){
+  if(busy)return; const q=$('prompt').value.trim(); if(!q)return;
+  busy=true; $('send').disabled=true; $('prompt').value=''; resizePrompt(); addMessage('user',q);
+  const id='typing-'+Date.now(); $('messages').insertAdjacentHTML('beforeend','<div id="'+id+'" class="msg"><div class="avatar bot">E</div><div class="bubble bot typing">Thinking…</div></div>'); window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'});
+  try{ const r=await solve(q); document.getElementById(id)?.remove(); addMessage('bot',r.text,r.meta,r.sources); }
+  catch(e){ document.getElementById(id)?.remove(); local.failures.push({at:now(),task:q,error:String(e)}); saveLocal(); addMessage('bot','I hit an error while handling that request: '+e.message,'failure recorded'); }
+  finally{busy=false;$('send').disabled=false;$('prompt').focus();refreshDrawer();}
+}
+function resizePrompt(){const el=$('prompt');el.style.height='auto';el.style.height=Math.min(el.scrollHeight,180)+'px';}
+$('prompt').addEventListener('input',resizePrompt);
+$('prompt').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();submit()}});
+$('send').addEventListener('click',submit);
+document.querySelectorAll('.suggestion').forEach(b=>b.addEventListener('click',()=>{$('prompt').value=b.dataset.prompt;resizePrompt();submit()}));
 
-async function research(q){
- const material=await searchWeb(q);
- if(material.startsWith("LIVE SEARCH NEEDS")||material.startsWith("Web search failed:"))return material;
- const ai=await callAi("Research question: "+q+"\n\nWeb search material:\n\n"+material.slice(0,65000)+"\n\nProduce a factual answer with a short Sources section using the URLs present above.");
- if(ai&&!ai.startsWith("AI connector error:"))return ai;
- return "WEB RESEARCH MATERIAL\n\n"+material+"\n\nConnect the optional AI brain if you want EvoBot to synthesize these sources into a single answer.";
+async function runLearningCycle(manual=false){
+  if(!local.learning&&!manual)return;
+  const recent=local.messages.slice(-12).map(x=>x.text).join(' ');
+  for(const t of tokens(recent).slice(0,20)) local.memory['topic:'+t]=(local.memory['topic:'+t]||0)+1;
+  local.localCycles=(local.localCycles||0)+1; local.lastLocalCycle=now(); saveLocal();
+  await refreshRemote(); if(manual)toast('Learning state refreshed');
 }
+window.runLearningCycle=runLearningCycle;
+setInterval(()=>runLearningCycle(false),60000);
 
-function calc(t){
- let m;if((m=t.match(/^\s*(-?\d+(?:\.\d+)?)\s*([+\-*\/])\s*(-?\d+(?:\.\d+)?)\s*$/))){
-  const a=+m[1],b=+m[3],op=m[2];if(op==="+")return String(a+b);if(op==="-")return String(a-b);if(op==="*")return String(a*b);if(op==="/")return b===0?"Division by zero is undefined.":String(a/b)
- }
- if((m=t.match(/^(\d+(?:\.\d+)?)%\s+of\s+(-?\d+(?:\.\d+)?)$/i)))return String((+m[1]/100)*(+m[2]));
- return null
+function boot(){
+  renderMessages(); refreshDrawer(); refreshRemote();
+  setInterval(refreshRemote,60000);
+  setTimeout(()=>runLearningCycle(false),15000);
+  $('prompt').focus();
 }
-
-async function solve(task){
- task=norm(task);if(!task)return {text:"Enter a task.",via:"none"};let m,x;
- if((x=calc(task))!==null)return {text:x,via:"local-math"};
- if((m=task.match(/^remember\s+(.+?)\s+(?:is|=)\s+([\s\S]+)$/i))){state.memory[m[1].trim()]=m[2].trim();save();return {text:"Remembered.",via:"memory"}}
- if((m=task.match(/^recall\s+(.+)$/i))){const k=m[1].trim();return {text:Object.prototype.hasOwnProperty.call(state.memory,k)?String(state.memory[k]):"I do not have that memory.",via:"memory"}}
- if(/^list memory$/i.test(task))return {text:JSON.stringify(state.memory,null,2),via:"memory"};
- if((m=task.match(/^forget\s+(.+)$/i))){delete state.memory[m[1].trim()];save();return {text:"Forgotten.",via:"memory"}}
- if((m=task.match(/^(?:browse|read|fetch)\s+(https?:\/\/\S+)$/i)))return {text:await readUrl(m[1]),via:"web-reader"};
- if((m=task.match(/^(?:search(?: the)? web for|web search\s*:)\s*([\s\S]+)$/i)))return {text:await searchWeb(m[1]),via:"web-search"};
- if((m=task.match(/^(?:research|deep research|browse the web for)\s*:?\s*([\s\S]+)$/i)))return {text:await research(m[1]),via:"web-research"};
- if(/^https?:\/\//i.test(task))return {text:await readUrl(task),via:"web-reader"};
- const c=webCfg();
- if(c.enabled&&c.key&&state.autoWeb)return {text:await research(task),via:"auto-web-research"};
- const ai=await callAi(task);if(ai)return {text:ai,via:"external-ai"};
- state.failures.push({task:task,at:new Date().toISOString(),generation:state.generation});state.failures=state.failures.slice(-100);save();render();
- return {text:"I need internet search or an AI connector for this task. Enable Public web and add a search key, or give me a public URL to read.",via:"capability-gap"}
-}
-
-async function runTask(){
- const t=$("task").value;$("answer").textContent="Working…";
- const r=await solve(t);$("answer").textContent=r.text+"\n\n[via: "+r.via+"]";render()
-}
-function clearTask(){$("task").value="";$("answer").textContent="Ready."}
-function copyAnswer(){navigator.clipboard&&navigator.clipboard.writeText($("answer").textContent)}
-$("task").addEventListener("keydown",e=>{if(e.ctrlKey&&e.key==="Enter")runTask()});
-
-function toggleWeb(on){
- $("webCfg").classList.toggle("hidden",!on);$("webOn").classList.toggle("active",on);$("webOff").classList.toggle("active",!on);
- const c=webCfg();c.enabled=on;sessionStorage.setItem(WKEY,JSON.stringify(c));render()
-}
-function saveWeb(){sessionStorage.setItem(WKEY,JSON.stringify({enabled:true,key:$("jinaKey").value}));toggleWeb(true);$("webTest").textContent="Saved for this browser session only."}
-async function testWeb(){saveWeb();$("webTest").textContent="Testing…";const r=await searchWeb("OpenAI");$("webTest").textContent=r.startsWith("Web search failed:")||r.startsWith("LIVE SEARCH NEEDS")?r:"Connected. Live public-web search is working."}
-
-function toggleAi(on){
- $("aiCfg").classList.toggle("hidden",!on);$("aiOn").classList.toggle("active",on);$("aiOff").classList.toggle("active",!on);
- const c=aiCfg();c.enabled=on;sessionStorage.setItem(AKEY,JSON.stringify(c))
-}
-function saveAi(){sessionStorage.setItem(AKEY,JSON.stringify({enabled:true,endpoint:norm($("aiEndpoint").value),model:norm($("aiModel").value),key:$("aiKey").value}));toggleAi(true);$("evolution").textContent="AI connector saved for this browser session only."}
-async function testAi(){saveAi();$("evolution").textContent="Testing AI…";const r=await callAi("Reply with exactly CONNECTED");$("evolution").textContent=r||"AI is not configured."}
-
-function observe(){$("evolution").textContent=JSON.stringify({generation:state.generation,auto_web:state.autoWeb,recent_failures:state.failures.slice(-10),memory_keys:Object.keys(state.memory)},null,2)}
-function evolve(){
- const before=state.autoWeb;state.autoWeb=true;state.generation++;
- const h={at:new Date().toISOString(),generation:state.generation,change:"Prefer live web research for unknown tasks",reason:state.failures.length?"Observed capability gaps":"General research routing",promoted:true};
- state.history.unshift(h);state.history=state.history.slice(0,30);save();$("evolution").textContent=JSON.stringify(h,null,2);render()
-}
-function resetLearning(){state=baseState();save();$("evolution").textContent="Learned state reset.";render()}
-
-const examples=["search web for latest ISRO news","research: latest AI developments","browse https://www.isro.gov.in/","compare current quantum-computing platforms","find official sources about India's latest space missions","17% of 850","remember project is Orion","recall project"];
-function render(){
- const wc=webCfg();$("webStat").textContent=wc.enabled?(wc.key?"ON":"READ"):"OFF";$("webStat").className="value "+(wc.enabled?"status-good":"status-bad");
- $("sourceCount").textContent=state.sources;$("memoryCount").textContent=Object.keys(state.memory).length;$("failureCount").textContent=state.failures.length;
- $("memory").textContent=Object.keys(state.memory).length?JSON.stringify(state.memory,null,2):"No memory yet.";
- $("examples").innerHTML=examples.map(x=>'<span class="chip" data-x="'+encodeURIComponent(x)+'">'+x+"</span>").join("");
- document.querySelectorAll("[data-x]").forEach(el=>el.onclick=()=>{$("task").value=decodeURIComponent(el.dataset.x);runTask()});
- $("history").innerHTML=state.history.length?state.history.map(x=>'<div class="event"><b>Generation '+x.generation+'</b> · '+x.change+'<br><small>'+new Date(x.at).toLocaleString()+' · '+x.reason+"</small></div>").join(""):'<div class="sub">No evolution events yet.</div>';
-}
-(function init(){
- const w=webCfg();if(w.key)$("jinaKey").value=w.key;if(w.enabled)toggleWeb(true);
- const a=aiCfg();if(a.endpoint)$("aiEndpoint").value=a.endpoint;if(a.model)$("aiModel").value=a.model;if(a.enabled)toggleAi(true);
- render()
-})();
+boot();
