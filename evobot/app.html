@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#07101d">
+<title>EvoBot Internet — Self-Improving Web Agent</title>
+<style>
+:root{--bg:#07101d;--card:#0d1829;--card2:#101f35;--line:#253a5b;--text:#eef5ff;--muted:#96a9c8;--a:#7762ff;--b:#20d6a3;--w:#eda63e;--bad:#ff6678}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(circle at 12% 0,#1b2b5d 0,transparent 32%),linear-gradient(180deg,#07101d,#08111f);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial}
+.wrap{max-width:1180px;margin:auto;padding:24px 14px 70px}.hero{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;flex-wrap:wrap}.hero h1{font-size:clamp(42px,7vw,72px);letter-spacing:-.055em;line-height:.95;margin:0}.hero h1 span{color:#9c8cff}.hero p{max-width:840px;color:var(--muted);line-height:1.6}.badge{border:1px solid #355079;background:#111d30;border-radius:999px;padding:9px 12px;font-size:13px}.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--b);box-shadow:0 0 14px var(--b);margin-right:7px}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;margin-top:18px}.card{background:linear-gradient(180deg,rgba(17,29,50,.98),rgba(10,18,31,.98));border:1px solid var(--line);border-radius:20px;padding:17px;box-shadow:0 20px 55px rgba(0,0,0,.16)}.stat{grid-column:span 3}.half{grid-column:span 6}.wide{grid-column:span 12}
+.label{font-size:12px;color:var(--muted)}.value{font-size:28px;font-weight:850;margin-top:6px}.title{font-size:17px;font-weight:800;margin-bottom:11px}.sub{font-size:13px;color:var(--muted);line-height:1.55}.row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+textarea,input{width:100%;background:#070e19;border:1px solid #31496f;color:#fff;border-radius:13px;padding:13px 14px;font:inherit;outline:none}textarea{min-height:110px;resize:vertical}textarea:focus,input:focus{border-color:var(--a)}
+button{border:0;border-radius:13px;background:linear-gradient(135deg,var(--a),#536dfe);color:#fff;font-weight:780;padding:12px 15px;cursor:pointer}button.secondary{background:#18253d;border:1px solid #344d75}button.good{background:linear-gradient(135deg,#0a9970,var(--b))}button.warn{background:linear-gradient(135deg,#bd7410,var(--w))}button.bad{background:linear-gradient(135deg,#a93648,var(--bad))}
+.out{margin-top:11px;white-space:pre-wrap;background:#060c16;border:1px solid #1f304d;border-radius:13px;padding:13px;min-height:74px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:#dce8ff;overflow:auto;max-height:640px}.toolgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.tool{background:#0a1220;border:1px solid #213451;border-radius:14px;padding:12px}.tool b{display:block;margin-bottom:4px}.tool span{font-size:12px;color:var(--muted)}.chips{display:flex;gap:7px;flex-wrap:wrap}.chip{padding:6px 9px;border:1px solid #30466b;border-radius:999px;color:#cad8f2;font-size:12px;cursor:pointer}.event{padding:10px 0;border-bottom:1px solid #1e2b45}.event small{color:var(--muted)}.hidden{display:none!important}.tabs{display:flex;gap:7px;margin-bottom:10px}.tab{background:#111d31;border:1px solid #30486e;padding:8px 10px;font-size:12px}.tab.active{background:#5c50d7}.status-good{color:#55e1b8}.status-bad{color:#ff8593}
+@media(max-width:840px){.stat{grid-column:span 6}.half{grid-column:span 12}.toolgrid{grid-template-columns:repeat(2,1fr)}}@media(max-width:520px){.stat{grid-column:span 6}.wrap{padding:18px 11px 48px}.card{border-radius:16px;padding:14px}.hero h1{font-size:44px}.toolgrid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <div><h1>EvoBot <span>Internet</span></h1><p>A self-improving public-web agent. It can search the live web, read public webpages and PDFs through a reader service, gather source material, remember useful facts, and optionally use an external AI brain to synthesize multi-source answers.</p></div>
+    <div class="badge"><span class="dot"></span>public-web research mode</div>
+  </div>
+
+  <div class="grid">
+    <div class="card stat"><div class="label">Internet</div><div id="webStat" class="value">OFF</div></div>
+    <div class="card stat"><div class="label">Sources fetched</div><div id="sourceCount" class="value">0</div></div>
+    <div class="card stat"><div class="label">Memory items</div><div id="memoryCount" class="value">0</div></div>
+    <div class="card stat"><div class="label">Failures learned</div><div id="failureCount" class="value">0</div></div>
+
+    <div class="card half">
+      <div class="title">Ask EvoBot anything</div>
+      <textarea id="task" placeholder="Examples: research the latest ISRO launch; browse https://www.isro.gov.in/; compare current AI search tools; find official sources about..."></textarea>
+      <div class="row" style="margin-top:9px"><button class="good" onclick="runTask()">Run task</button><button class="secondary" onclick="clearTask()">Clear</button><button class="secondary" onclick="copyAnswer()">Copy</button></div>
+      <div id="answer" class="out">Ready.</div>
+      <div class="sub" style="margin-top:9px">For unknown questions, EvoBot automatically uses web search when the web connector is enabled.</div>
+    </div>
+
+    <div class="card half">
+      <div class="title">Internet research connector</div>
+      <div class="tabs"><button id="webOff" class="tab active" onclick="toggleWeb(false)">Web off</button><button id="webOn" class="tab" onclick="toggleWeb(true)">Public web on</button></div>
+      <div id="webCfg" class="hidden">
+        <input id="jinaKey" type="password" placeholder="Jina Search/Reader API key (session only)">
+        <div class="row" style="margin-top:9px"><button onclick="saveWeb()">Use this session</button><button class="secondary" onclick="testWeb()">Test live search</button></div>
+      </div>
+      <div id="webTest" class="out">Web search is disabled.</div>
+      <div class="sub" style="margin-top:9px">Direct public-URL reading can work without a key at a lower rate limit. Search requires a Jina key. The key stays in this browser tab's session storage and is sent directly to Jina.</div>
+    </div>
+
+    <div class="card wide">
+      <div class="title">Internet capabilities</div>
+      <div class="toolgrid">
+        <div class="tool"><b>Live web search</b><span>search current public webpages and return source URLs/content</span></div>
+        <div class="tool"><b>URL reader</b><span>open public webpages and many PDFs as clean text</span></div>
+        <div class="tool"><b>Deep research</b><span>collect search material and optionally synthesize it with an AI brain</span></div>
+        <div class="tool"><b>Automatic browsing</b><span>unknown tasks can fall back to web research instead of UNKNOWN</span></div>
+        <div class="tool"><b>Persistent memory</b><span>remember and recall facts locally in this browser</span></div>
+        <div class="tool"><b>Failure learning</b><span>record unsuccessful tasks and use them to expand future routing</span></div>
+        <div class="tool"><b>Source-aware answers</b><span>preserve source URLs in research material and synthesis prompts</span></div>
+        <div class="tool"><b>AI brain bridge</b><span>optional OpenAI-compatible endpoint for reasoning over retrieved sources</span></div>
+      </div>
+    </div>
+
+    <div class="card half">
+      <div class="title">Optional AI brain</div>
+      <div class="tabs"><button id="aiOff" class="tab active" onclick="toggleAi(false)">AI off</button><button id="aiOn" class="tab" onclick="toggleAi(true)">AI on</button></div>
+      <div id="aiCfg" class="hidden">
+        <input id="aiEndpoint" placeholder="OpenAI-compatible chat completions URL">
+        <div class="row" style="margin-top:8px"><input id="aiModel" placeholder="Model name"><input id="aiKey" type="password" placeholder="API key (session only)"></div>
+        <div class="row" style="margin-top:8px"><button onclick="saveAi()">Use this session</button><button class="secondary" onclick="testAi()">Test AI</button></div>
+      </div>
+      <div class="sub">When enabled, EvoBot can synthesize retrieved web material into a direct answer. No AI credential is bundled into this public site.</div>
+    </div>
+
+    <div class="card half">
+      <div class="title">Self-improvement</div>
+      <div class="row"><button class="secondary" onclick="observe()">Observe failures</button><button class="warn" onclick="evolve()">Evolve routing</button><button class="bad" onclick="resetLearning()">Reset learned state</button></div>
+      <div id="evolution" class="out">Ready.</div>
+      <div class="sub" style="margin-top:9px">This static browser version improves routing/memory and records failures. It does not silently retrain foundation-model weights.</div>
+    </div>
+
+    <div class="card half">
+      <div class="title">Quick commands</div>
+      <div id="examples" class="chips"></div>
+    </div>
+
+    <div class="card half">
+      <div class="title">Memory</div>
+      <div id="memory" class="out">No memory yet.</div>
+    </div>
+
+    <div class="card wide">
+      <div class="title">Evolution history</div>
+      <div id="history"></div>
+    </div>
+  </div>
+</div>
+<script src="./app.js"></script>
+</body>
+</html>
