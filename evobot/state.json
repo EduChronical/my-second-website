@@ -1,0 +1,21 @@
+{
+  "schema": 2,
+  "generation": 1,
+  "core_version": 1,
+  "runs": 0,
+  "pages_learned": 0,
+  "last_run": null,
+  "last_model_mutation": null,
+  "frontier": [],
+  "visited": {},
+  "memory": [],
+  "failures": [],
+  "events": [],
+  "metrics": {
+    "successful_fetches": 0,
+    "failed_fetches": 0,
+    "duplicate_pages": 0,
+    "candidate_promotions": 0,
+    "candidate_rejections": 0
+  }
+}
