@@ -209,8 +209,8 @@ CURRENT CORE:
 {current}
 Return exactly this format and nothing else:\n<RATIONALE>short explanation</RATIONALE>\n<SOURCE>\ncomplete Python module\n</SOURCE>"""
     try:
-        obj=json_object(model([{"role":"system","content":"Produce conservative, testable code improvements and obey the JSON contract exactly."},{"role":"user","content":prompt}]))
-        source=str(obj.get("source",""));rationale=str(obj.get("rationale","AI mutation"))[:600];env=compile_candidate(source);cand=benchmark(env)
+        raw=model([{"role":"system","content":"Produce conservative, testable code improvements and obey the tagged output contract exactly."},{"role":"user","content":prompt}])
+        source,rationale=parse_candidate(raw);rationale=rationale[:600];env=compile_candidate(source);cand=benchmark(env)
         if cand+1e-9<baseline:raise ValueError(f"benchmark regression {baseline}->{cand}")
         if digest(source)==digest(current):raise ValueError("candidate identical")
         CORE_PATH.write_text(source.rstrip()+"\n",encoding="utf-8");s["core_version"]=int(s.get("core_version",1))+1;s["last_model_mutation"]=utcnow()
