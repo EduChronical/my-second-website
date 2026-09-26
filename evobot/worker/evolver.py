@@ -188,7 +188,7 @@ def json_object(text):
         raise
 def mutate(s):
     runs=int(s.get("runs",0));recent=s.get("failures",[])[-10:]
-    if not (runs%12==0 or (len(recent)>=6 and s.get("last_model_mutation")!=s.get("last_run"))):return
+    force=os.environ.get("EVOBOT_FORCE_MUTATE","").lower()=="true"\n    if not (force or runs%12==0 or (len(recent)>=6 and s.get("last_model_mutation")!=s.get("last_run"))):return
     current=CORE_PATH.read_text(encoding="utf-8");curmod=load_core();baseline=benchmark(curmod);topics=Counter(k for m in s.get("memory",[])[-80:] for k in m.get("keywords",[])).most_common(20)
     prompt=f"""Improve EvoBot's MUTABLE PURE CORE. A protected supervisor owns networking, files, secrets, execution and promotion.
 Required functions:
