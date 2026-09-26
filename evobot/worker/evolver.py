@@ -178,14 +178,19 @@ def model(messages):
     body=json.dumps({"model":os.environ.get("EVOBOT_MODEL","openai/gpt-4.1"),"temperature":.2,"messages":messages,"max_tokens":5000}).encode()
     req=urllib.request.Request(MODEL_ENDPOINT,data=body,method="POST",headers={"Authorization":f"Bearer {token}","Content-Type":"application/json","Accept":"application/json"})
     with urllib.request.urlopen(req,timeout=60) as r:return json.loads(r.read().decode())["choices"][0]["message"]["content"]
-def json_object(text):
-    text=text.strip();fence=chr(96)*3
-    if text.startswith(fence):text=text.replace(fence+"json","",1).replace(fence,"").strip()
-    try:return json.loads(text)
-    except Exception:
-        a,b=text.find("{"),text.rfind("}")
-        if a>=0 and b>a:return json.loads(text[a:b+1])
-        raise
+def parse_candidate(text):
+    text=text.strip()
+    sm=re.search(r"<SOURCE>\\s*(.*?)\\s*</SOURCE>",text,re.S|re.I)
+    rm=re.search(r"<RATIONALE>\\s*(.*?)\\s*</RATIONALE>",text,re.S|re.I)
+    if sm:return sm.group(1).strip(),(rm.group(1).strip() if rm else "AI mutation")
+    fence=chr(96)*3
+    if fence in text:
+        parts=text.split(fence)
+        for part in parts:
+            p=part.strip()
+            if p.startswith("python"):p=p[6:].lstrip()
+            if "def rank_urls" in p and "def extract_keywords" in p and "def answer_hint" in p:return p,"AI mutation"
+    raise ValueError("model response did not contain a source module")
 def mutate(s):
     runs=int(s.get("runs",0));recent=s.get("failures",[])[-10:]
     force=os.environ.get("EVOBOT_FORCE_MUTATE","").lower()=="true"
@@ -202,7 +207,7 @@ Recent topics: {topics}
 Recent crawler failures: {recent}
 CURRENT CORE:
 {current}
-Return ONLY valid JSON with keys rationale and source (complete Python module)."""
+Return exactly this format and nothing else:\n<RATIONALE>short explanation</RATIONALE>\n<SOURCE>\ncomplete Python module\n</SOURCE>"""
     try:
         obj=json_object(model([{"role":"system","content":"Produce conservative, testable code improvements and obey the JSON contract exactly."},{"role":"user","content":prompt}]))
         source=str(obj.get("source",""));rationale=str(obj.get("rationale","AI mutation"))[:600];env=compile_candidate(source);cand=benchmark(env)
