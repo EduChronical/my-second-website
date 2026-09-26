@@ -226,8 +226,8 @@ def rank_urls(urls,query):
 def extract_keywords(text,limit=12):
     counts={}
     for t in _tokens(text):counts[t]=counts.get(t,0)+1
-    rows=sorted(counts.items(),key=lambda kv:(-kv[1],kv[0]))
-    return [k for k,_ in rows[:max(1,int(limit))]]
+    rows=sorted([(-v,k) for k,v in counts.items()])
+    return [k for _,k in rows[:max(1,int(limit))]]
 
 def answer_hint(query,memories):
     q=set(_tokens(query));rows=[]
