@@ -172,55 +172,156 @@ def benchmark(env):
         score+=1 if "isro" in str(hint("latest ISRO mission",mem)).lower() else 0;score+=1 if isinstance(hint("unknown subject",mem),str) else 0
     except Exception:pass
     return round(score/total,4)
-def model(messages):
-    token=os.environ.get("GITHUB_TOKEN","").strip()
-    if not token:raise RuntimeError("GITHUB_TOKEN unavailable")
-    body=json.dumps({"model":os.environ.get("EVOBOT_MODEL","openai/gpt-4.1"),"temperature":.2,"messages":messages,"max_tokens":5000}).encode()
-    req=urllib.request.Request(MODEL_ENDPOINT,data=body,method="POST",headers={"Authorization":f"Bearer {token}","Content-Type":"application/json","Accept":"application/json"})
-    with urllib.request.urlopen(req,timeout=60) as r:
-        raw=r.read().decode("utf-8","replace")
-    try:payload=json.loads(raw)
-    except Exception as e:raise RuntimeError("GitHub Models returned non-JSON: "+raw[:300]) from e
-    return payload["choices"][0]["message"]["content"]
-def parse_candidate(text):
-    text=text.strip()
-    sm=re.search(r"<SOURCE>\\s*(.*?)\\s*</SOURCE>",text,re.S|re.I)
-    rm=re.search(r"<RATIONALE>\\s*(.*?)\\s*</RATIONALE>",text,re.S|re.I)
-    if sm:return sm.group(1).strip(),(rm.group(1).strip() if rm else "AI mutation")
-    fence=chr(96)*3
-    if fence in text:
-        parts=text.split(fence)
-        for part in parts:
-            p=part.strip()
-            if p.startswith("python"):p=p[6:].lstrip()
-            if "def rank_urls" in p and "def extract_keywords" in p and "def answer_hint" in p:return p,"AI mutation"
-    raise ValueError("model response did not contain a source module")
+def learned_hosts(s):
+    counts=Counter()
+    for m in s.get("memory",[])[-300:]:
+        try:
+            h=urllib.parse.urlsplit(m.get("url","")).hostname
+            if h:counts[h.lower()]+=1
+        except Exception:pass
+    preferred=["isro.gov.in","nasa.gov","noaa.gov","who.int","worldbank.org","imf.org","rbi.org.in","sebi.gov.in","pib.gov.in","data.gov.in","arxiv.org","nature.com","science.org"]
+    out=[]
+    for h in preferred+[h for h,_ in counts.most_common(20)]:
+        if h and h not in out:out.append(h)
+    return out[:24]
+
+def default_genome():
+    return {"query_weight":3.0,"trusted_bonus":1.0,"https_bonus":0.2,"title_bonus":2.0,"keyword_bonus":2.0,"summary_bonus":1.0,"keyword_min":3,"answer_top":4,"summary_chars":360}
+
+def source_from_genome(g,hosts):
+    stop=["the","and","for","with","that","this","from","into","your","you","are","was","were","have","has","had","but","not","can","will","would","about","what","when","where","which","their","there","than","then","them","they","its","our","out","all","also","more","most","how","why","who","an","of","to","in","on","at","is","it","as","be","or","by"]
+    return '''"""EvoBot evolved pure core. Generated and benchmarked by the protected supervisor."""
+STOPWORDS=%r
+TRUSTED_HOSTS=%r
+QUERY_WEIGHT=%r
+TRUSTED_BONUS=%r
+HTTPS_BONUS=%r
+TITLE_BONUS=%r
+KEYWORD_BONUS=%r
+SUMMARY_BONUS=%r
+KEYWORD_MIN=%r
+ANSWER_TOP=%r
+SUMMARY_CHARS=%r
+
+def _tokens(text):
+    out=[];word=""
+    for ch in str(text).lower():
+        if ch.isalnum() or ch in "_-":word+=ch
+        elif word:
+            if len(word)>=KEYWORD_MIN and word not in STOPWORDS:out.append(word)
+            word=""
+    if word and len(word)>=KEYWORD_MIN and word not in STOPWORDS:out.append(word)
+    return out
+
+def rank_urls(urls,query):
+    q=set(_tokens(query));rows=[]
+    for i,url in enumerate(urls):
+        low=str(url).lower();score=sum(QUERY_WEIGHT for t in q if t in low)
+        if any(h in low for h in TRUSTED_HOSTS):score+=TRUSTED_BONUS
+        if low.startswith("https://"):score+=HTTPS_BONUS
+        rows.append((score,-i,url))
+    rows.sort(reverse=True)
+    return [x[2] for x in rows]
+
+def extract_keywords(text,limit=12):
+    counts={}
+    for t in _tokens(text):counts[t]=counts.get(t,0)+1
+    rows=sorted(counts.items(),key=lambda kv:(-kv[1],kv[0]))
+    return [k for k,_ in rows[:max(1,int(limit))]]
+
+def answer_hint(query,memories):
+    q=set(_tokens(query));rows=[]
+    for i,m in enumerate(memories):
+        title=str(m.get("title","")).lower();summary=str(m.get("summary","")).lower();keys=[str(x).lower() for x in m.get("keywords",[])]
+        score=0.0
+        for t in q:
+            if t in title:score+=TITLE_BONUS
+            if t in keys:score+=KEYWORD_BONUS
+            if t in summary:score+=SUMMARY_BONUS
+        if score:rows.append((score,-i,m))
+    rows.sort(reverse=True)
+    out=[]
+    for _,__,m in rows[:ANSWER_TOP]:
+        out.append(str(m.get("title",""))+" — "+str(m.get("summary",""))[:SUMMARY_CHARS]+" ["+str(m.get("url",""))+"]")
+    return "\\n\\n".join(out)
+'''%(stop,hosts,float(g["query_weight"]),float(g["trusted_bonus"]),float(g["https_bonus"]),float(g["title_bonus"]),float(g["keyword_bonus"]),float(g["summary_bonus"]),int(g["keyword_min"]),int(g["answer_top"]),int(g["summary_chars"]))
+
+def evaluate_core(env,s):
+    base=benchmark(env)*6.0;points=base;total=6.0
+    if isinstance(env,dict):rank,kw,hint=env["rank_urls"],env["extract_keywords"],env["answer_hint"]
+    else:rank,kw,hint=env.rank_urls,env.extract_keywords,env.answer_hint
+    cases=[
+        (["https://example.com/bank-policy","https://www.rbi.org.in/"],"bank policy","rbi.org.in"),
+        (["https://example.com/space-research","https://www.nasa.gov/"],"space research","nasa.gov"),
+        (["https://example.com/science-paper","https://arxiv.org/abs/1234"],"science paper","arxiv.org"),
+        (["https://random.example/python-docs","https://docs.python.org/3/"],"python docs","python.org")
+    ]
+    for urls,q,host in cases:
+        total+=1
+        try:
+            r=list(rank(urls,q));points+=1 if r and host in r[0] else 0
+        except Exception:pass
+    mem=s.get("memory",[])
+    for idx,m in enumerate(mem[-8:]):
+        keys=m.get("keywords",[])
+        if not keys:continue
+        distract=[x for x in mem[max(0,len(mem)-30):] if x is not m][:3]
+        sample=[m]+distract;total+=1
+        try:
+            h=str(hint(str(keys[0]),sample));points+=1 if str(m.get("url","")) in h else 0
+        except Exception:pass
+    return round(points/max(total,1),6)
+
+def candidate_genomes(current):
+    out=[];seen=set()
+    def add(g):
+        key=tuple(sorted(g.items()))
+        if key not in seen:seen.add(key);out.append(g)
+    add(dict(current))
+    for v in [2.0,3.0,4.0]:g=dict(current);g["query_weight"]=v;add(g)
+    for v in [2.0,4.0,6.0,8.0,10.0]:g=dict(current);g["trusted_bonus"]=v;add(g)
+    for v in [1.0,2.0,3.0,4.0]:g=dict(current);g["title_bonus"]=v;add(g)
+    for v in [1.0,2.0,3.0,4.0]:g=dict(current);g["keyword_bonus"]=v;add(g)
+    for v in [0.5,1.0,1.5,2.0]:g=dict(current);g["summary_bonus"]=v;add(g)
+    for v in [3,4,5]:g=dict(current);g["keyword_min"]=v;add(g)
+    for v in [3,4,5,6]:g=dict(current);g["answer_top"]=v;add(g)
+    for v in [280,360,480,600]:g=dict(current);g["summary_chars"]=v;add(g)
+    # Coordinated variants let improvements emerge from interacting parameters.
+    combos=[(3,8,3,3,1),(2,8,4,3,1.5),(3,10,4,4,1.5),(4,10,3,4,2)]
+    for qw,tb,tib,kb,sb in combos:
+        g=dict(current);g.update({"query_weight":float(qw),"trusted_bonus":float(tb),"title_bonus":float(tib),"keyword_bonus":float(kb),"summary_bonus":float(sb)});add(g)
+    return out
+
 def mutate(s):
-    runs=int(s.get("runs",0));recent=s.get("failures",[])[-10:]
-    force=os.environ.get("EVOBOT_FORCE_MUTATE","").lower()=="true"
-    if not (force or runs%12==0 or (len(recent)>=6 and s.get("last_model_mutation")!=s.get("last_run"))):return
-    current=CORE_PATH.read_text(encoding="utf-8");curmod=load_core();baseline=benchmark(curmod);topics=Counter(k for m in s.get("memory",[])[-80:] for k in m.get("keywords",[])).most_common(20)
-    prompt=f"""Improve EvoBot's MUTABLE PURE CORE. A protected supervisor owns networking, files, secrets, execution and promotion.
-Required functions:
-rank_urls(urls, query) -> list of the input URLs, best first
-extract_keywords(text, limit=12) -> list[str]
-answer_hint(query, memories) -> str
-Hard constraints: no imports; no file/network/process access; no eval/exec/open; no classes; deterministic; source under 12000 chars.
-Current benchmark: {baseline}
-Recent topics: {topics}
-Recent crawler failures: {recent}
-CURRENT CORE:
-{current}
-Return exactly this format and nothing else:\n<RATIONALE>short explanation</RATIONALE>\n<SOURCE>\ncomplete Python module\n</SOURCE>"""
-    try:
-        raw=model([{"role":"system","content":"Produce conservative, testable code improvements and obey the tagged output contract exactly."},{"role":"user","content":prompt}])
-        source,rationale=parse_candidate(raw);rationale=rationale[:600];env=compile_candidate(source);cand=benchmark(env)
-        if cand+1e-9<baseline:raise ValueError(f"benchmark regression {baseline}->{cand}")
-        if digest(source)==digest(current):raise ValueError("candidate identical")
-        CORE_PATH.write_text(source.rstrip()+"\n",encoding="utf-8");s["core_version"]=int(s.get("core_version",1))+1;s["last_model_mutation"]=utcnow()
-        s["metrics"]["candidate_promotions"]=int(s["metrics"].get("candidate_promotions",0))+1;event(s,"core_promoted",f"Promoted mutable core v{s['core_version']}",baseline=baseline,candidate=cand,rationale=rationale)
-    except Exception as e:
-        s["last_model_mutation"]=utcnow();s["metrics"]["candidate_rejections"]=int(s["metrics"].get("candidate_rejections",0))+1;event(s,"core_rejected","Rejected proposed core mutation",reason=f"{type(e).__name__}: {e}"[:700])
+    force=os.environ.get("EVOBOT_FORCE_MUTATE","").lower()=="true";runs=int(s.get("runs",0))
+    hosts=learned_hosts(s);old_hosts=s.get("core_hosts",[])
+    current_genome=dict(default_genome());current_genome.update(s.get("core_genome",{}))
+    try:current_env=load_core();current_score=evaluate_core(current_env,s)
+    except Exception:current_env=None;current_score=-1.0
+    best_score=current_score;best_genome=current_genome;best_source=None
+    for g in candidate_genomes(current_genome):
+        try:
+            src=source_from_genome(g,hosts);env=compile_candidate(src);score=evaluate_core(env,s)
+            if score>best_score+1e-9:
+                best_score=score;best_genome=g;best_source=src
+        except Exception:pass
+    # Even without a score increase, fold newly learned reliable hosts into code
+    # periodically if it does not regress. This makes the mutable core reflect
+    # accumulated web experience instead of merely storing it outside the code.
+    if best_source is None and hosts!=old_hosts and (force or runs%3==0):
+        try:
+            src=source_from_genome(current_genome,hosts);env=compile_candidate(src);score=evaluate_core(env,s)
+            if score+1e-9>=current_score:best_source=src;best_score=score;best_genome=current_genome
+        except Exception:pass
+    if best_source is not None:
+        CORE_PATH.write_text(best_source.rstrip()+"\n",encoding="utf-8")
+        s["core_genome"]=best_genome;s["core_hosts"]=hosts;s["core_version"]=int(s.get("core_version",1))+1
+        s["metrics"]["candidate_promotions"]=int(s["metrics"].get("candidate_promotions",0))+1
+        event(s,"core_promoted",f"Promoted evolved core v{s['core_version']}",baseline=current_score,candidate=best_score,hosts=len(hosts),genome=best_genome)
+    else:
+        s["metrics"]["candidate_rejections"]=int(s["metrics"].get("candidate_rejections",0))+1
+        event(s,"core_unchanged","No candidate beat the current core",score=current_score,hosts=len(hosts))
+
 def main():
     s=load_state();s["runs"]=int(s.get("runs",0))+1;s["generation"]=int(s.get("generation",1))+1;s["last_run"]=utcnow()
     try:core=load_core()
