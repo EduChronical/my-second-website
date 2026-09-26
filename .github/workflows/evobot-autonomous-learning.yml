@@ -1,0 +1,52 @@
+name: EvoBot Autonomous Learning
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "evobot/worker/**"
+      - "evobot/generated_core.py"
+      - ".github/workflows/evobot-autonomous-learning.yml"
+  schedule:
+    - cron: "2/5 * * * *"
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: evobot-autonomous-learning
+  cancel-in-progress: false
+
+jobs:
+  learn-and-evolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout current brain
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl, learn, test and evolve
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVOBOT_MODEL: openai/gpt-4.1
+        run: python evobot/worker/evolver.py
+
+      - name: Persist learned state and promoted core
+        run: |
+          if git diff --quiet -- evobot/state.json evobot/generated_core.py; then
+            echo "No persistent changes."
+            exit 0
+          fi
+          git config user.name "EvoBot Learner"
+          git config user.email "evobot-actions@users.noreply.github.com"
+          git add evobot/state.json evobot/generated_core.py
+          git commit -m "EvoBot autonomous learning cycle"
+          git push
