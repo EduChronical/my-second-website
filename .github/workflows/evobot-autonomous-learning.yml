@@ -12,7 +12,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 concurrency:
   group: evobot-autonomous-learning
@@ -35,8 +34,6 @@ jobs:
 
       - name: Crawl, learn, test and evolve
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EVOBOT_MODEL: openai/gpt-4.1
           EVOBOT_FORCE_MUTATE: ${{ github.event_name == 'push' }}
         run: python evobot/worker/evolver.py
 
