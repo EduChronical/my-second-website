@@ -37,6 +37,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EVOBOT_MODEL: openai/gpt-4.1
+          EVOBOT_FORCE_MUTATE: ${{ github.event_name == 'push' }}
         run: python evobot/worker/evolver.py
 
       - name: Persist learned state and promoted core
