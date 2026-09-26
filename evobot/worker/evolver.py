@@ -177,7 +177,11 @@ def model(messages):
     if not token:raise RuntimeError("GITHUB_TOKEN unavailable")
     body=json.dumps({"model":os.environ.get("EVOBOT_MODEL","openai/gpt-4.1"),"temperature":.2,"messages":messages,"max_tokens":5000}).encode()
     req=urllib.request.Request(MODEL_ENDPOINT,data=body,method="POST",headers={"Authorization":f"Bearer {token}","Content-Type":"application/json","Accept":"application/json"})
-    with urllib.request.urlopen(req,timeout=60) as r:return json.loads(r.read().decode())["choices"][0]["message"]["content"]
+    with urllib.request.urlopen(req,timeout=60) as r:
+        raw=r.read().decode("utf-8","replace")
+    try:payload=json.loads(raw)
+    except Exception as e:raise RuntimeError("GitHub Models returned non-JSON: "+raw[:300]) from e
+    return payload["choices"][0]["message"]["content"]
 def parse_candidate(text):
     text=text.strip()
     sm=re.search(r"<SOURCE>\\s*(.*?)\\s*</SOURCE>",text,re.S|re.I)
