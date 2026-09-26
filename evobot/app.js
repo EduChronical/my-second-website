@@ -1,6 +1,6 @@
 const $ = id => document.getElementById(id);
-const LOCAL_KEY = 'evobot.chat.v3';
-const SETTINGS_KEY = 'evobot.session.v3';
+const LOCAL_KEY = 'evobot.chat.v6';
+const SETTINGS_KEY = 'evobot.session.v6';
 const REMOTE_STATE = 'https://raw.githubusercontent.com/EduChronical/my-second-website/main/evobot/state.json';
 const READER = 'https://r.jina.ai/';
 const SEARCH = 'https://s.jina.ai/?q=';
@@ -31,8 +31,9 @@ function renderMessages(){
   const box=$('messages');
   $('empty').style.display=local.messages.length?'none':'grid';
   box.innerHTML=local.messages.map(m=>{
-    const src=(m.sources||[]).slice(0,6).map(u=>'<a class="source" href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(shortUrl(u))+'</a>').join('');
-    return '<div class="msg"><div class="avatar '+(m.role==='user'?'user':'bot')+'">'+(m.role==='user'?'You':'E')+'</div><div class="bubble '+(m.role==='user'?'user':'bot')+'">'+esc(m.text)+(m.meta?'<div class="meta">'+esc(m.meta)+'</div>':'')+(src?'<div class="sources">'+src+'</div>':'')+'</div></div>';
+    const srcList=[...new Set(m.sources||[])].slice(0,8);
+    const src=srcList.length?'<details class="sourcebox"><summary>Sources · '+srcList.length+'</summary><div class="source-list">'+srcList.map(u=>'<a class="source" href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(shortUrl(u))+'</a>').join('')+'</div></details>':'';
+    return '<div class="msg"><div class="avatar '+(m.role==='user'?'user':'bot')+'">'+(m.role==='user'?'You':'E')+'</div><div class="bubble '+(m.role==='user'?'user':'bot')+'">'+esc(m.text)+(m.meta&&/error|failure|required/i.test(m.meta)?'<div class="meta">'+esc(m.meta)+'</div>':'')+(src||'')+'</div></div>';
   }).join('');
   setTimeout(()=>window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'}),20);
 }
@@ -120,10 +121,6 @@ async function webSearch(query){
     const t=await r.text(); if(!r.ok) throw new Error('Search HTTP '+r.status);
     return {text:t.slice(0,70000),sources:extractUrls(t)};
   }
-  const searchUrl='https://www.google.com/search?q='+encodeURIComponent(query);
-  const r=await fetch(READER+searchUrl,{headers:{Accept:'text/plain'}});
-  const t=await r.text();
-  if(r.ok&&t.length>300) return {text:t.slice(0,50000),sources:extractUrls(t).filter(u=>!u.includes('google.com')).slice(0,12)};
   throw new Error('Live search currently needs a Jina key; background learned memory is still available.');
 }
 
@@ -142,7 +139,7 @@ async function callAI(prompt,context){
   const native=await callNativeAI(prompt,context); if(native) return native;
   const s=settings(); if(!s.aiEndpoint||!s.aiModel) return null;
   const headers={'Content-Type':'application/json'}; if(s.aiKey) headers.Authorization='Bearer '+s.aiKey;
-  const r=await fetch(s.aiEndpoint,{method:'POST',headers,body:JSON.stringify({model:s.aiModel,temperature:.2,messages:[{role:'system',content:'You are EvoBot. Answer accurately and directly. Use supplied sources and learned memory, preserve uncertainty, and include a short Sources section when sources are provided.'},{role:'user',content:(context?context+'\n\n':'')+prompt}]})});
+  const r=await fetch(s.aiEndpoint,{method:'POST',headers,body:JSON.stringify({model:s.aiModel,temperature:.2,messages:[{role:'system',content:'You are EvoBot, a polished general-purpose conversational assistant. Give a direct, coherent, well-structured answer comparable in presentation quality to leading AI assistants. Use supplied evidence when relevant, distinguish established facts from uncertainty, never expose raw search markup, crawler logs, query strings, URL-encoded text, internal routing notes, or unprocessed snippets. Use concise Markdown and natural prose. Do not fabricate facts or citations.'},{role:'user',content:(context?context+'\n\n':'')+prompt}]})});
   if(!r.ok) throw new Error('AI HTTP '+r.status);
   const j=await r.json(); return j?.choices?.[0]?.message?.content||j?.output_text||j?.response||null;
 }
@@ -175,7 +172,11 @@ async function solve(q){
     if(ai) return {text:String(ai),meta:'core v'+(remote?.core_version||1)+' · web+memory synthesis',sources};
   }catch(e){ local.failures.push({at:now(),task:q,error:String(e)});local.failures=local.failures.slice(-100);saveLocal(); }
   if(combined){
-    return {text:'I found relevant material but this browser has no general reasoning model connected. Here is the strongest retrieved context:\n\n'+combined.slice(0,7000),meta:'core v'+(remote?.core_version||1)+' · retrieval mode',sources};
+    return {
+      text:'I found relevant source material, but this browser does not currently have a general reasoning model connected. I will not dump raw search text or encoded URLs into the chat. Connect a reasoning model in Settings for a coherent ChatGPT-style answer.',
+      meta:'reasoning model required',
+      sources
+    };
   }
   local.failures.push({at:now(),task:q,error:'no reasoning backend and no retrieved evidence'}); local.failures=local.failures.slice(-100); saveLocal();
   return {text:'The 24/7 learner is running, but this browser still needs either retrievable web evidence or a reasoning model for this open-ended question. I recorded this as a capability gap for future evolution.',meta:'capability gap recorded',sources:[]};
