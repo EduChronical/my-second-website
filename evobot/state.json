@@ -1,24 +1,18 @@
 {
   "schema": 2,
-  "generation": 17,
+  "generation": 18,
   "core_version": 3,
-  "runs": 16,
-  "pages_learned": 94,
-  "last_run": "2026-09-27T18:40:03+00:00",
+  "runs": 17,
+  "pages_learned": 99,
+  "last_run": "2026-09-27T21:38:29+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/nasa-missions/",
-    "https://science.nasa.gov/humans-in-space/",
-    "https://science.nasa.gov/aeronautics/",
-    "https://science.nasa.gov/about/",
-    "https://www.nasa.gov/wp-content/uploads/2023/12/1-mackenzie-river-delta.jpeg?w=1024",
-    "https://www.pib.gov.in/images/decrease-font-size.png",
-    "https://science.nasa.gov/climate-change",
-    "https://science.nasa.gov/earth/facts",
-    "https://science.nasa.gov/earth/in-action",
-    "https://science.nasa.gov/earth/multimedia",
-    "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
-    "https://www.nasa.gov/wp-content/uploads/2007/10/edu_srch_global_climate_change_vital_signs_of_the_planet.png?w=1024",
+    "https://science.nasa.gov/venus/",
+    "https://science.nasa.gov/moon/",
+    "https://science.nasa.gov/universe/",
+    "https://science.nasa.gov/",
+    "https://science.nasa.gov/mission/webb/",
+    "https://science.nasa.gov/a-to-z-topics-listing/",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
     "https://www.nasa.gov/?search=Artemis",
@@ -77,6 +71,9 @@
     "https://www.pib.gov.in/images/standard-view.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
+    "https://www.rbi.org.in/images/font-increase.gif",
+    "https://www.rbi.org.in/images/font-reset.gif",
+    "https://www.rbi.org.in/images/font-decrease.gif",
     "https://www.nature.com/gp/open-science",
     "https://www.springernature.com/gp/open-science/oa-agreements",
     "https://pib.gov.in/organisationalsetuph.aspx",
@@ -94,9 +91,10 @@
     "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
-    "https://www.rbi.org.in/images/font-increase.gif",
-    "https://www.rbi.org.in/images/font-reset.gif",
-    "https://www.rbi.org.in/images/font-decrease.gif",
+    "https://www.rbi.org.in/images/dark-theme.gif",
+    "https://www.rbi.org.in/images/bright-theme.gif",
+    "https://www.rbi.org.in/images/graytheme.gif",
+    "https://therbimuseum.rbi.org.in/",
     "https://www.nature.com/info/cookies",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
@@ -149,25 +147,21 @@
     "https://www.nature.com/gp/librarians",
     "https://www.springernature.com/investors-live-global",
     "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
-    "https://www.rbi.org.in/images/dark-theme.gif",
-    "https://www.rbi.org.in/images/bright-theme.gif",
-    "https://www.rbi.org.in/images/graytheme.gif",
     "https://rbi.org.in/home.aspx",
     "https://cab.rbi.org.in/",
     "https://cos.rbi.org.in/",
-    "https://therbimuseum.rbi.org.in/",
     "https://arxiv.org/static/browse/0.3.4/images/icons/site.webmanifest",
     "https://arxiv.org/static/browse/0.3.4/images/icons/safari-pinned-tab.svg",
     "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
     "https://info.arxiv.org/about/donate.html",
     "http://www.imf.org/en/",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
-    "https://www.facebook.com/Nature",
-    "https://twitter.com/nature",
-    "https://www.natureindex.com/",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
+    "https://www.facebook.com/Nature",
+    "https://twitter.com/nature",
+    "https://www.natureindex.com/",
     "https://news.ycombinator.com/",
     "https://github.com/trending",
     "https://link.springer.com/shop/all-disciplines/en-eu/",
@@ -178,8 +172,6 @@
     "https://www.innovation-sandbox.in/",
     "https://www.protocols.io/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://www.nasa.gov/2026-news-releases/",
-    "https://science.nasa.gov/earth/facts/",
     "https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
@@ -188,14 +180,17 @@
     "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
     "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
+    "https://science.nasa.gov/aeronautics/",
+    "https://science.nasa.gov/about/",
+    "https://science.nasa.gov/climate-change",
+    "https://science.nasa.gov/earth/facts",
+    "https://science.nasa.gov/earth/in-action",
+    "https://science.nasa.gov/earth/multimedia",
+    "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
+    "https://www.nasa.gov/2026-news-releases/",
+    "https://science.nasa.gov/earth/facts/",
     "https://science.nasa.gov/earth-science",
-    "https://science.nasa.gov/mercury/",
-    "https://science.nasa.gov/venus/",
-    "https://science.nasa.gov/moon/",
-    "https://science.nasa.gov/universe/",
-    "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/",
-    "https://science.nasa.gov/a-to-z-topics-listing/"
+    "https://science.nasa.gov/mercury/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -699,6 +694,31 @@
       "at": "2026-09-27T18:40:26+00:00",
       "status": "ok",
       "hash": "43d9c2fbcc28ecef7ce6b8549e0559fc187dcb9bb6e1955fa921db529c0eedf5"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/12/1-mackenzie-river-delta.jpeg?w=1024": {
+      "at": "2026-09-27T21:38:35+00:00",
+      "status": "ok",
+      "hash": "032ec0840c05737935d5bdce2221afa1dea30e0620ce901aa9c85041cdaeaa07"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2007/10/edu_srch_global_climate_change_vital_signs_of_the_planet.png?w=1024": {
+      "at": "2026-09-27T21:38:39+00:00",
+      "status": "ok",
+      "hash": "653b0132f2a029973f92a84a58c9c01f5cb3e14ca7e863d36d637c62715c8601"
+    },
+    "https://science.nasa.gov/nasa-missions/": {
+      "at": "2026-09-27T21:38:46+00:00",
+      "status": "ok",
+      "hash": "eba8a64ee143b5f1bda7899518ef82ba73816970ddb86ed88812aae98e7735f4"
+    },
+    "https://science.nasa.gov/humans-in-space/": {
+      "at": "2026-09-27T21:38:51+00:00",
+      "status": "ok",
+      "hash": "a088640a791f39c19030de249818a042300ec60f51a9d41bfe24b978321e02d6"
+    },
+    "https://www.pib.gov.in/images/decrease-font-size.png": {
+      "at": "2026-09-27T21:38:52+00:00",
+      "status": "ok",
+      "hash": "97e10dd1f4c15eba1f0e1ea1e8f954897c801aa8118e16faa086e4d802319209"
     }
   },
   "memory": [
@@ -2863,10 +2883,140 @@
       ],
       "hash": "43d9c2fbcc28ecef7ce6b8549e0559fc187dcb9bb6e1955fa921db529c0eedf5",
       "learned_at": "2026-09-27T18:40:26+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/12/1-mackenzie-river-delta.jpeg?w=1024",
+      "title": "1-mackenzie-river-delta.jpeg",
+      "summary": "Title: 1-mackenzie-river-delta.jpeg URL Source: https://www.nasa.gov/wp-content/uploads/2023/12/1-mackenzie-river-delta.jpeg?w=1024 Published Time: Sun, 27 Sep 2026 21:38:33 GMT Markdown Content: A view down upon red sand tips and murky seawater",
+      "keywords": [
+        "1-mackenzie-river-delta",
+        "jpeg",
+        "1024",
+        "2023",
+        "2026",
+        "content",
+        "down",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "murky",
+        "nasa",
+        "published"
+      ],
+      "hash": "032ec0840c05737935d5bdce2221afa1dea30e0620ce901aa9c85041cdaeaa07",
+      "learned_at": "2026-09-27T21:38:35+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2007/10/edu_srch_global_climate_change_vital_signs_of_the_planet.png?w=1024",
+      "title": "edu_srch_global_climate_change_vital_signs_of_the_planet.png",
+      "summary": "Title: edu_srch_global_climate_change_vital_signs_of_the_planet.png URL Source: https://www.nasa.gov/wp-content/uploads/2007/10/edu_srch_global_climate_change_vital_signs_of_the_planet.png?w=1024 Published Time: Sun, 27 Sep 2026 21:38:37 GMT Markdown Content: A view of the sphere Earth as seen from outer space with the white snow on an unknown continent is shown",
+      "keywords": [
+        "edu_srch_global_climate_change_vital_signs_of_the_planet",
+        "png",
+        "1024",
+        "2007",
+        "2026",
+        "content",
+        "continent",
+        "earth",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "outer"
+      ],
+      "hash": "653b0132f2a029973f92a84a58c9c01f5cb3e14ca7e863d36d637c62715c8601",
+      "learned_at": "2026-09-27T21:38:39+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/nasa-missions/",
+      "title": "Missions - NASA",
+      "summary": "Title: Missions - NASA URL Source: https://science.nasa.gov/nasa-missions/ Published Time: 2023-02-27T16:24:23Z Markdown Content: [![Image 16: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov/ne",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "science",
+        "image",
+        "plus",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "eba8a64ee143b5f1bda7899518ef82ba73816970ddb86ed88812aae98e7735f4",
+      "learned_at": "2026-09-27T21:38:46+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/humans-in-space/",
+      "title": "Humans in Space Archives - NASA Science",
+      "summary": "Title: Humans in Space Archives - NASA Science URL Source: https://science.nasa.gov/humans-in-space/ Markdown Content: Advanced Air Mobility Pathfinders Aeronautics Air Traffic Solutions Drones & You Flight Innovation Green Aviation Tech NASA Aircraft Science in the Air Supersonic Flight AeroSpace Frontiers Air Mobility Pathfinders project Air Traffic Control Labs Astronomy Audio Podcasts Budget & Annual Reports Careers Life at NASA What We Do Doing Business with NASA E-Books Earth Climate Change Ozone Layer Earth Day Earth Observatory Earth's Atmosphere Earth's Magnetic Field Extreme Weather Events Natural Disasters Hurricanes & Typhoons Volcanoes Wildfires Oceans Remote Sensing Technology Water on Earth Earth and Climate (do not use) Eclipses Solar Eclipses 2023 Solar Eclipse Events General Get Involved Citizen Science NASA Art Program Opportunities For International Participants to Ge",
+      "keywords": [
+        "earth",
+        "nasa",
+        "get",
+        "involved",
+        "air",
+        "charles",
+        "opportunities",
+        "james",
+        "john",
+        "science",
+        "andrew",
+        "astronauts",
+        "donald",
+        "douglas"
+      ],
+      "hash": "a088640a791f39c19030de249818a042300ec60f51a9d41bfe24b978321e02d6",
+      "learned_at": "2026-09-27T21:38:51+00:00"
+    },
+    {
+      "url": "https://www.pib.gov.in/images/decrease-font-size.png",
+      "title": "decrease-font-size.png",
+      "summary": "Title: decrease-font-size.png URL Source: https://www.pib.gov.in/images/decrease-font-size.png Published Time: Mon, 04 Dec 2017 08:25:00 GMT Markdown Content: A 22x22 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "decrease-font-size",
+        "png",
+        "2017",
+        "22x22",
+        "avatar",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely"
+      ],
+      "hash": "97e10dd1f4c15eba1f0e1ea1e8f954897c801aa8118e16faa086e4d802319209",
+      "learned_at": "2026-09-27T21:38:52+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-27T21:38:52+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-09-27T21:38:52+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 184
+    },
     {
       "at": "2026-09-27T18:40:26+00:00",
       "kind": "core_unchanged",
@@ -3120,11 +3270,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 94,
+    "successful_fetches": 99,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 2,
-    "candidate_rejections": 13
+    "candidate_rejections": 14
   },
   "core_genome": {
     "query_weight": 3.0,
