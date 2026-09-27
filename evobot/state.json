@@ -1,28 +1,12 @@
 {
   "schema": 2,
-  "generation": 13,
+  "generation": 14,
   "core_version": 2,
-  "runs": 12,
-  "pages_learned": 68,
-  "last_run": "2026-09-26T23:51:42+00:00",
+  "runs": 13,
+  "pages_learned": 74,
+  "last_run": "2026-09-27T03:00:53+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/wp-content/uploads/2021/11/GISS_20211117_air_pollution_in_the_united_states.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2020/11/1-arctic-fox-dominique-berteaux-bylot-2.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2022/11/global-temperature-anomaly-data-2017-to-2021.jpg?w=985",
-    "https://www.nasa.gov/wp-content/uploads/2023/07/52991670790_ff55a540db_o.jpg?w=985",
-    "https://science.nasa.gov/wp-content/uploads/2014/09/screenshot-2024-01-18-at-11.26.50-am.png?w=1024",
-    "https://science.nasa.gov/climate-change/causes",
-    "https://science.nasa.gov/earth/earth-observatory/world-of-change/global-temperatures",
-    "https://www.nasa.gov/2026-news-releases/",
-    "https://science.nasa.gov/climate-change/",
-    "https://science.nasa.gov/earth/facts/",
-    "https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
     "https://www.nasa.gov/wp-content/uploads/2024/10/54099828916-45c9bee307-o.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2024/02/the-kibo-laboratory-module-from-the-japan-aerospace-exploration-agency-28149074718-o.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
@@ -36,6 +20,18 @@
     "https://science.nasa.gov/universe/",
     "https://science.nasa.gov/",
     "https://science.nasa.gov/mission/webb/",
+    "https://science.nasa.gov/a-to-z-topics-listing/",
+    "https://science.nasa.gov/nasa-missions/",
+    "https://science.nasa.gov/humans-in-space/",
+    "https://science.nasa.gov/aeronautics/",
+    "https://science.nasa.gov/about/",
+    "https://science.nasa.gov/es/",
+    "https://science.nasa.gov/earth/explore",
+    "https://science.nasa.gov/climate-change",
+    "https://science.nasa.gov/earth/facts",
+    "https://science.nasa.gov/earth/in-action",
+    "https://science.nasa.gov/earth/multimedia",
+    "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
     "https://www.nasa.gov/?search=Artemis",
@@ -202,26 +198,24 @@
     "https://www.innovation-sandbox.in/",
     "https://www.protocols.io/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/climateprojection_768_80.jpg?w=768&h=359&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/366/giss_temperature_tn.jpg?w=324&h=216&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg?w=720&h=947&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/1857/atmospheric_co2_at_mauna_loa.png?w=694&h=543&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/westernhemisphere_geos_2019246_lrg.jpeg?w=768&h=355&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/NEW_Atlantic_cover_1024x576.jpeg?w=1024&h=576&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/content/dam/science/hpd/heat/content-pictures/Milankovitch_Variations.gif?w=479&h=363&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/fema-nasa_release_image.jpeg?w=985&h=554&fit=clip&crop=faces%2Cfocalpoint",
-    "https://science.nasa.gov/a-to-z-topics-listing/",
-    "https://science.nasa.gov/nasa-missions/",
-    "https://science.nasa.gov/humans-in-space/",
-    "https://science.nasa.gov/aeronautics/",
-    "https://science.nasa.gov/about/",
-    "https://science.nasa.gov/es/",
-    "https://science.nasa.gov/earth/explore",
-    "https://science.nasa.gov/climate-change",
-    "https://science.nasa.gov/earth/facts",
-    "https://science.nasa.gov/earth/in-action",
-    "https://science.nasa.gov/earth/multimedia",
-    "https://science.nasa.gov/earth/explore/wildfires-and-climate-change"
+    "https://www.nasa.gov/wp-content/uploads/2022/11/global-temperature-anomaly-data-2017-to-2021.jpg?w=985",
+    "https://www.nasa.gov/wp-content/uploads/2023/07/52991670790_ff55a540db_o.jpg?w=985",
+    "https://science.nasa.gov/earth/earth-observatory/world-of-change/global-temperatures",
+    "https://www.nasa.gov/2026-news-releases/",
+    "https://science.nasa.gov/climate-change/",
+    "https://science.nasa.gov/earth/facts/",
+    "https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -595,6 +589,36 @@
       "at": "2026-09-26T23:51:56+00:00",
       "status": "ok",
       "hash": "e6b4f82ac460598c93a7af08295ed82dabe79971b29745793dae760e23a46675"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/climateprojection_768_80.jpg?w=768&h=359&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-27T03:00:55+00:00",
+      "status": "ok",
+      "hash": "9a0e4747185dda4e40055d698a59aeb0f81c90afde8102a82f8daf8d22a0305e"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/366/giss_temperature_tn.jpg?w=324&h=216&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-27T03:00:56+00:00",
+      "status": "ok",
+      "hash": "9f007af1a256c4339354f8ccb81817ebd37a7c3769e715cd664d6bac566c55eb"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2021/11/GISS_20211117_air_pollution_in_the_united_states.jpg?w=1024": {
+      "at": "2026-09-27T03:01:00+00:00",
+      "status": "ok",
+      "hash": "0daf0e6e32f7f786c21426fea58711bcdb84762258c1759dc176c23eb1fb10ae"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2020/11/1-arctic-fox-dominique-berteaux-bylot-2.jpg?w=1024": {
+      "at": "2026-09-27T03:01:04+00:00",
+      "status": "ok",
+      "hash": "192754a124a1ef560f2714f8747a2cfbf5dca012f69a509f63e5732961f92797"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2014/09/screenshot-2024-01-18-at-11.26.50-am.png?w=1024": {
+      "at": "2026-09-27T03:01:10+00:00",
+      "status": "ok",
+      "hash": "38684bf9ff6c108698ce96b28802801b003ce9bdf484a16033ab335f41a91f89"
+    },
+    "https://science.nasa.gov/climate-change/causes": {
+      "at": "2026-09-27T03:01:15+00:00",
+      "status": "ok",
+      "hash": "cf615439de0b55e2c7cef6910e5bc0d836c01da3085421145bd6165da7734d78"
     }
   },
   "memory": [
@@ -2161,10 +2185,163 @@
       ],
       "hash": "e6b4f82ac460598c93a7af08295ed82dabe79971b29745793dae760e23a46675",
       "learned_at": "2026-09-26T23:51:56+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/climateprojection_768_80.jpg?w=768&h=359&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "climateprojection_768_80.jpg",
+      "summary": "Title: climateprojection_768_80.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/climateprojection_768_80.jpg?w=768&h=359&fit=clip&crop=faces,focalpoint Markdown Content: showing a world map with different colors corresponding to lines of latitude",
+      "keywords": [
+        "assets",
+        "climateprojection_768_80",
+        "jpg",
+        "science",
+        "2023",
+        "359",
+        "768",
+        "climate",
+        "clip",
+        "colors",
+        "content",
+        "corresponding",
+        "crop",
+        "different"
+      ],
+      "hash": "9a0e4747185dda4e40055d698a59aeb0f81c90afde8102a82f8daf8d22a0305e",
+      "learned_at": "2026-09-27T03:00:55+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/366/giss_temperature_tn.jpg?w=324&h=216&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "giss_temperature_tn.jpg",
+      "summary": "Title: giss_temperature_tn.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/366/giss_temperature_tn.jpg?w=324&h=216&fit=clip&crop=faces,focalpoint Markdown Content: Black cloud billowing form industrial emissions falling over nature",
+      "keywords": [
+        "assets",
+        "giss_temperature_tn",
+        "jpg",
+        "science",
+        "216",
+        "324",
+        "366",
+        "billowing",
+        "black",
+        "clip",
+        "cloud",
+        "content",
+        "crop",
+        "dynamicimage"
+      ],
+      "hash": "9f007af1a256c4339354f8ccb81817ebd37a7c3769e715cd664d6bac566c55eb",
+      "learned_at": "2026-09-27T03:00:56+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/11/GISS_20211117_air_pollution_in_the_united_states.jpg?w=1024",
+      "title": "GISS_20211117_air_pollution_in_the_united_states.jpg",
+      "summary": "Title: GISS_20211117_air_pollution_in_the_united_states.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2021/11/GISS_20211117_air_pollution_in_the_united_states.jpg?w=1024 Published Time: Sun, 27 Sep 2026 03:00:58 GMT Markdown Content: A large factory with power lines and tall towers",
+      "keywords": [
+        "giss_20211117_air_pollution_in_the_united_states",
+        "jpg",
+        "1024",
+        "2021",
+        "2026",
+        "content",
+        "factory",
+        "gmt",
+        "gov",
+        "https",
+        "large",
+        "lines",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "0daf0e6e32f7f786c21426fea58711bcdb84762258c1759dc176c23eb1fb10ae",
+      "learned_at": "2026-09-27T03:01:00+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2020/11/1-arctic-fox-dominique-berteaux-bylot-2.jpg?w=1024",
+      "title": "1-arctic-fox-dominique-berteaux-bylot-2.jpg",
+      "summary": "Title: 1-arctic-fox-dominique-berteaux-bylot-2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2020/11/1-arctic-fox-dominique-berteaux-bylot-2.jpg?w=1024 Published Time: Sun, 27 Sep 2026 03:01:02 GMT Markdown Content: a fox walking with a ball in its mouth",
+      "keywords": [
+        "1-arctic-fox-dominique-berteaux-bylot-2",
+        "jpg",
+        "1024",
+        "2020",
+        "2026",
+        "ball",
+        "content",
+        "fox",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mouth",
+        "nasa"
+      ],
+      "hash": "192754a124a1ef560f2714f8747a2cfbf5dca012f69a509f63e5732961f92797",
+      "learned_at": "2026-09-27T03:01:04+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2014/09/screenshot-2024-01-18-at-11.26.50-am.png?w=1024",
+      "title": "screenshot-2024-01-18-at-11.26.50-am.png",
+      "summary": "Title: screenshot-2024-01-18-at-11.26.50-am.png URL Source: https://science.nasa.gov/wp-content/uploads/2014/09/screenshot-2024-01-18-at-11.26.50-am.png?w=1024 Published Time: Sun, 27 Sep 2026 03:01:07 GMT Markdown Content: The image represents turbulent ocean waves with a stark caption contrasting urgent environmental issues through the title",
+      "keywords": [
+        "50-am",
+        "png",
+        "screenshot-2024-01-18-at-11",
+        "title",
+        "1024",
+        "2014",
+        "2026",
+        "caption",
+        "content",
+        "contrasting",
+        "environmental",
+        "gmt",
+        "gov",
+        "https"
+      ],
+      "hash": "38684bf9ff6c108698ce96b28802801b003ce9bdf484a16033ab335f41a91f89",
+      "learned_at": "2026-09-27T03:01:10+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/climate-change/causes",
+      "title": "Causes - NASA Science",
+      "summary": "Title: Causes - NASA Science URL Source: https://science.nasa.gov/climate-change/causes Published Time: 2022-06-15T17:50:43-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * M",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "cf615439de0b55e2c7cef6910e5bc0d836c01da3085421145bd6165da7734d78",
+      "learned_at": "2026-09-27T03:01:15+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-27T03:01:15+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-09-27T03:01:15+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 209
+    },
     {
       "at": "2026-09-26T23:51:56+00:00",
       "kind": "core_unchanged",
@@ -2347,11 +2524,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 68,
+    "successful_fetches": 74,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 1,
-    "candidate_rejections": 10
+    "candidate_rejections": 11
   },
   "core_genome": {
     "query_weight": 3.0,
