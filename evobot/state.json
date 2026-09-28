@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generation": 20,
+  "generation": 21,
   "core_version": 4,
-  "runs": 19,
-  "pages_learned": 110,
-  "last_run": "2026-09-28T05:12:07+00:00",
+  "runs": 20,
+  "pages_learned": 118,
+  "last_run": "2026-09-28T11:44:55+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/a-to-z-topics-listing/",
-    "https://science.nasa.gov/aeronautics/",
-    "https://science.nasa.gov/about/",
-    "https://science.nasa.gov/climate-change",
-    "https://www.nasa.gov/2026-news-releases/",
+    "https://science.nasa.gov/venus/",
+    "https://science.nasa.gov/moon/",
+    "https://science.nasa.gov/universe/",
+    "https://science.nasa.gov/",
+    "https://science.nasa.gov/mission/webb/",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
     "https://www.nasa.gov/?search=Artemis",
@@ -73,6 +73,12 @@
     "https://www.rbi.org.in/images/font-increase.gif",
     "https://www.rbi.org.in/images/font-reset.gif",
     "https://www.rbi.org.in/images/font-decrease.gif",
+    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
+    "https://spaceplace.nasa.gov/days/en/",
+    "https://spaceplace.nasa.gov/leap-year/en/",
+    "https://climatekids.nasa.gov/climate-change-meaning/",
+    "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-a-train",
+    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
     "https://www.nature.com/gp/open-science",
     "https://www.springernature.com/gp/open-science/oa-agreements",
     "https://pib.gov.in/organisationalsetuph.aspx",
@@ -171,35 +177,31 @@
     "https://www.innovation-sandbox.in/",
     "https://www.protocols.io/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
     "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
-    "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
-    "https://science.nasa.gov/kids/earth/",
     "https://science.nasa.gov/earth/multimedia",
     "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
     "https://science.nasa.gov/earth/facts/",
     "https://science.nasa.gov/earth-science",
-    "https://science.nasa.gov/mercury/",
-    "https://spaceplace.nasa.gov/atmosphere/en/",
-    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
-    "https://spaceplace.nasa.gov/review/planets/planets-03.en.png",
-    "https://spaceplace.nasa.gov/days/en/",
-    "https://spaceplace.nasa.gov/years-on-other-planets/en/",
-    "https://spaceplace.nasa.gov/leap-year/en/",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Mercury_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Earth_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Jupiter_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Saturn_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg",
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg",
+    "https://www.youtube.com/watch?v=y6D3qUPEVGA",
+    "https://ssd.jpl.nasa.gov/",
     "https://spaceplace.nasa.gov/all-about-earth/earth2.en.jpg",
     "https://spaceplace.nasa.gov/all-about-earth/earth3.en.png",
-    "https://climatekids.nasa.gov/climate-change-meaning/",
-    "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-a-train",
-    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
-    "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-earth-systems",
-    "https://science.nasa.gov/venus/",
-    "https://science.nasa.gov/moon/",
-    "https://science.nasa.gov/universe/",
-    "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/"
+    "https://science.nasa.gov/a-to-z-topics-listing/",
+    "https://science.nasa.gov/aeronautics/",
+    "https://science.nasa.gov/about/",
+    "https://science.nasa.gov/climate-change",
+    "https://www.nasa.gov/2026-news-releases/",
+    "https://science.nasa.gov/mercury/",
+    "https://spaceplace.nasa.gov/atmosphere/en/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -783,6 +785,46 @@
       "at": "2026-09-28T05:12:27+00:00",
       "status": "ok",
       "hash": "370d8f9981c3e2a8fbcc959ff18fc9ac8f202c5e21c6b5e0d48668ddab43640c"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-09-28T11:44:57+00:00",
+      "status": "ok",
+      "hash": "359aaba5723b20ae9ef706612c1ace141573f774842961f00cfba45f5d59957d"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024": {
+      "at": "2026-09-28T11:45:01+00:00",
+      "status": "ok",
+      "hash": "d4a2ebe0f9e80943d7a655766b92b938cb108432ca0772d08f235fcd318eb9c2"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329": {
+      "at": "2026-09-28T11:45:04+00:00",
+      "status": "ok",
+      "hash": "b864725cc1f9b50fc97ed06dba0e484efdffbf22ecf293fcf282a1be7eec68fc"
+    },
+    "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/": {
+      "at": "2026-09-28T11:45:11+00:00",
+      "status": "ok",
+      "hash": "0a6043643e49235cb69aef3d17d864627809a8a8f42e5b0d43a0b5171c9deaf3"
+    },
+    "https://science.nasa.gov/kids/earth/": {
+      "at": "2026-09-28T11:45:15+00:00",
+      "status": "ok",
+      "hash": "f58e67f0f424284589d4018027457b40fbcb44d037877ec71fd000bfbc1cba48"
+    },
+    "https://spaceplace.nasa.gov/review/planets/planets-03.en.png": {
+      "at": "2026-09-28T11:45:19+00:00",
+      "status": "ok",
+      "hash": "f379923c769e16263a40095b82b923fc6b952fc8703c6e32a633ffb0a0582864"
+    },
+    "https://spaceplace.nasa.gov/years-on-other-planets/en/": {
+      "at": "2026-09-28T11:45:22+00:00",
+      "status": "ok",
+      "hash": "a0ea52e3031b54d068d5812e1a274f4ccb34c737c33a13ed28012d0e152c37e7"
+    },
+    "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-earth-systems": {
+      "at": "2026-09-28T11:45:30+00:00",
+      "status": "ok",
+      "hash": "eb6548bcc46894487c5e81a52d12e023c5b60d63d0e512144b5a46aff2af1780"
     }
   },
   "memory": [
@@ -3315,10 +3357,209 @@
       ],
       "hash": "370d8f9981c3e2a8fbcc959ff18fc9ac8f202c5e21c6b5e0d48668ddab43640c",
       "learned_at": "2026-09-28T05:12:27+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "australiawildflowes_oli_20260830_th.jpg",
+      "summary": "Title: australiawildflowes_oli_20260830_th.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: a desert actually you can see cracks in it that look like veins of blood",
+      "keywords": [
+        "assets",
+        "australiawildflowes_oli_20260830_th",
+        "jpg",
+        "science",
+        "2026",
+        "300",
+        "actually",
+        "blood",
+        "boom-year-for-desert-blooms",
+        "clip",
+        "content",
+        "cracks",
+        "crop",
+        "desert"
+      ],
+      "hash": "359aaba5723b20ae9ef706612c1ace141573f774842961f00cfba45f5d59957d",
+      "learned_at": "2026-09-28T11:44:57+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
+      "title": "iss01-389-023-fec693.jpg",
+      "summary": "Title: iss01-389-023-fec693.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024 Published Time: Mon, 28 Sep 2026 11:44:59 GMT Markdown Content: This is a space shuttle in space",
+      "keywords": [
+        "iss01-389-023-fec693",
+        "jpg",
+        "space",
+        "1024",
+        "2025",
+        "2026",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mon",
+        "nasa",
+        "published"
+      ],
+      "hash": "d4a2ebe0f9e80943d7a655766b92b938cb108432ca0772d08f235fcd318eb9c2",
+      "learned_at": "2026-09-28T11:45:01+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
+      "title": "1_breakthroughs-sidebar-image.jpg",
+      "summary": "Title: 1_breakthroughs-sidebar-image.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329 Published Time: Mon, 28 Sep 2026 11:45:02 GMT Markdown Content: On the top row there is a picture of some research facility being used by a scientist who is in a blue shirt",
+      "keywords": [
+        "1_breakthroughs-sidebar-image",
+        "jpg",
+        "2020",
+        "2026",
+        "329",
+        "being",
+        "blue",
+        "content",
+        "facility",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mon"
+      ],
+      "hash": "b864725cc1f9b50fc97ed06dba0e484efdffbf22ecf293fcf282a1be7eec68fc",
+      "learned_at": "2026-09-28T11:45:04+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+      "title": "Boom Year for Desert Blooms - NASA Science",
+      "summary": "Title: Boom Year for Desert Blooms - NASA Science URL Source: https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/ Published Time: 2026-09-23T00:01:00-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources]",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "earth",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "0a6043643e49235cb69aef3d17d864627809a8a8f42e5b0d43a0b5171c9deaf3",
+      "learned_at": "2026-09-28T11:45:11+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/kids/earth/",
+      "title": "Earth - NASA Science",
+      "summary": "Title: Earth - NASA Science URL Source: https://science.nasa.gov/kids/earth/ Published Time: 2025-08-15T13:32:18-04:00 Markdown Content: [![Image 11: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 12: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "earth",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "f58e67f0f424284589d4018027457b40fbcb44d037877ec71fd000bfbc1cba48",
+      "learned_at": "2026-09-28T11:45:15+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/planets/planets-03.en.png",
+      "title": "planets-03.en.png",
+      "summary": "Title: planets-03.en.png URL Source: https://spaceplace.nasa.gov/review/planets/planets-03.en.png Markdown Content: A simplistic animated illustration of Earth with speech bubble containing the motivational message 'Life is great!'",
+      "keywords": [
+        "planets-03",
+        "png",
+        "animated",
+        "bubble",
+        "containing",
+        "content",
+        "earth",
+        "gov",
+        "great",
+        "https",
+        "illustration",
+        "life",
+        "markdown",
+        "message"
+      ],
+      "hash": "f379923c769e16263a40095b82b923fc6b952fc8703c6e32a633ffb0a0582864",
+      "learned_at": "2026-09-28T11:45:19+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/years-on-other-planets/en/",
+      "title": "How Long is a Year on Other Planets?",
+      "summary": "Title: How Long is a Year on Other Planets? URL Source: https://spaceplace.nasa.gov/years-on-other-planets/en/ Markdown Content: **The Short Answer:** Here is how long it takes each of the planets in our solar system to orbit around the Sun (in Earth days): [![Image 1](https://spaceplace.nasa.gov/review/years-on-other-planets/Mercury_small.en.jpg)](https://spaceplace.nasa.gov/all-about-mercury)**Mercury**: 88 days [![Image 2](https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg)](https://spaceplace.nasa.gov/all-about-venus)**Venus**: 225 days [![Image 3](https://spaceplace.nasa.gov/review/years-on-other-planets/Earth_small.en.jpg)](https://spaceplace.nasa.gov/all-about-earth)**Earth**: 365 days [![Image 4](https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg)](https://spaceplace.nasa.gov/all-about-mars)**Mars**: 687 days [![Image 5](https://",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "spaceplace",
+        "days",
+        "image",
+        "years-on-other-planets",
+        "earth",
+        "jpg",
+        "review",
+        "sun",
+        "orbit",
+        "planets",
+        "year"
+      ],
+      "hash": "a0ea52e3031b54d068d5812e1a274f4ccb34c737c33a13ed28012d0e152c37e7",
+      "learned_at": "2026-09-28T11:45:22+00:00"
+    },
+    {
+      "url": "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-earth-systems",
+      "title": "NASA eClips - NASA Science",
+      "summary": "Title: NASA eClips - NASA Science URL Source: https://nasaeclips.arc.nasa.gov/video/realworld/real-world-earth-systems Published Time: 2025-02-24T14:14:54-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "eb6548bcc46894487c5e81a52d12e023c5b60d63d0e512144b5a46aff2af1780",
+      "learned_at": "2026-09-28T11:45:30+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-28T11:45:31+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-09-28T11:45:30+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 23,
+      "frontier": 195
+    },
     {
       "at": "2026-09-28T05:12:27+00:00",
       "kind": "core_unchanged",
@@ -3628,11 +3869,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 110,
+    "successful_fetches": 118,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 3,
-    "candidate_rejections": 15
+    "candidate_rejections": 16
   },
   "core_genome": {
     "query_weight": 3.0,
