@@ -1,13 +1,17 @@
 {
   "schema": 2,
-  "generation": 19,
+  "generation": 20,
   "core_version": 4,
-  "runs": 18,
-  "pages_learned": 103,
-  "last_run": "2026-09-27T23:59:05+00:00",
+  "runs": 19,
+  "pages_learned": 110,
+  "last_run": "2026-09-28T05:12:07+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/mercury/",
+    "https://science.nasa.gov/a-to-z-topics-listing/",
+    "https://science.nasa.gov/aeronautics/",
+    "https://science.nasa.gov/about/",
+    "https://science.nasa.gov/climate-change",
+    "https://www.nasa.gov/2026-news-releases/",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
     "https://www.nasa.gov/?search=Artemis",
@@ -167,34 +171,35 @@
     "https://www.innovation-sandbox.in/",
     "https://www.protocols.io/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
     "https://www.nasa.gov/wp-content/uploads/2025/11/iss01-389-023-fec693.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2020/10/1_breakthroughs-sidebar-image.jpg?w=329",
     "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
-    "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-    "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
     "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
     "https://science.nasa.gov/kids/earth/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://spaceplace.nasa.gov/all-about-earth/",
     "https://science.nasa.gov/earth/multimedia",
     "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
     "https://science.nasa.gov/earth/facts/",
     "https://science.nasa.gov/earth-science",
+    "https://science.nasa.gov/mercury/",
+    "https://spaceplace.nasa.gov/atmosphere/en/",
+    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
+    "https://spaceplace.nasa.gov/review/planets/planets-03.en.png",
+    "https://spaceplace.nasa.gov/days/en/",
+    "https://spaceplace.nasa.gov/years-on-other-planets/en/",
+    "https://spaceplace.nasa.gov/leap-year/en/",
+    "https://spaceplace.nasa.gov/all-about-earth/earth2.en.jpg",
+    "https://spaceplace.nasa.gov/all-about-earth/earth3.en.png",
+    "https://climatekids.nasa.gov/climate-change-meaning/",
+    "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-a-train",
+    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
+    "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-earth-systems",
     "https://science.nasa.gov/venus/",
     "https://science.nasa.gov/moon/",
     "https://science.nasa.gov/universe/",
     "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/",
-    "https://science.nasa.gov/a-to-z-topics-listing/",
-    "https://science.nasa.gov/aeronautics/",
-    "https://science.nasa.gov/about/",
-    "https://science.nasa.gov/climate-change",
-    "https://www.nasa.gov/2026-news-releases/"
+    "https://science.nasa.gov/mission/webb/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -743,6 +748,41 @@
       "at": "2026-09-27T23:59:24+00:00",
       "status": "ok",
       "hash": "1694600498a8ee40b50e8cf48be4f65467e672a9b64436cdc631f4d12a48188c"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-09-28T05:12:10+00:00",
+      "status": "ok",
+      "hash": "0aa9a721a83ef2fe249996136f5071acd8c0251c0277e9c99f8e8b0ff7fa5c83"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-09-28T05:12:11+00:00",
+      "status": "ok",
+      "hash": "823e3f4913cc9da142cd93e7dfed48e42e934cf176ac3d74bd4953375a59a4ec"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024": {
+      "at": "2026-09-28T05:12:15+00:00",
+      "status": "ok",
+      "hash": "97d2d8e4bdcc2e6dc8ee5b90ab81f6ba8664083c3d2feb92cda363065fb23342"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024": {
+      "at": "2026-09-28T05:12:19+00:00",
+      "status": "ok",
+      "hash": "d32949e7edab3b9b68aad0cc1a78d7bcd2bbfe8442b355a9b161427a962a8473"
+    },
+    "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/": {
+      "at": "2026-09-28T05:12:21+00:00",
+      "status": "ok",
+      "hash": "e6a4b93fde31423e522c9fce7eeefd505d23dfe41a351cd149ce79c2d08d0a4a"
+    },
+    "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/": {
+      "at": "2026-09-28T05:12:23+00:00",
+      "status": "ok",
+      "hash": "53a2865c71c1e541e8576842382e88dc2260fca7c017141359ec4863c161b653"
+    },
+    "https://spaceplace.nasa.gov/all-about-earth/": {
+      "at": "2026-09-28T05:12:27+00:00",
+      "status": "ok",
+      "hash": "370d8f9981c3e2a8fbcc959ff18fc9ac8f202c5e21c6b5e0d48668ddab43640c"
     }
   },
   "memory": [
@@ -3114,10 +3154,186 @@
       ],
       "hash": "1694600498a8ee40b50e8cf48be4f65467e672a9b64436cdc631f4d12a48188c",
       "learned_at": "2026-09-27T23:59:24+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "hurricanepolo_amo_20260923_th.jpg",
+      "summary": "Title: hurricanepolo_amo_20260923_th.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: Satellittekuva voimakkassa ulkomassasta arviolta intensiivisen sään aikana, jossa ei ole tekstiä ja taustalla on sinistä ja valkoista",
+      "keywords": [
+        "assets",
+        "hurricanepolo_amo_20260923_th",
+        "jpg",
+        "science",
+        "2026",
+        "300",
+        "aikana",
+        "arviolta",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage",
+        "esd",
+        "explosive-intensification-for-hurricane-polo"
+      ],
+      "hash": "0aa9a721a83ef2fe249996136f5071acd8c0251c0277e9c99f8e8b0ff7fa5c83",
+      "learned_at": "2026-09-28T05:12:10+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "westcoastfog_tmo_20260919_th.jpg",
+      "summary": "Title: westcoastfog_tmo_20260919_th.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: A satellite image that shows the snow on top of a mountain and other discoveries of locales and features in nature",
+      "keywords": [
+        "assets",
+        "jpg",
+        "science",
+        "westcoastfog_tmo_20260919_th",
+        "2026",
+        "300",
+        "clip",
+        "cloudy-cloak-over-the-northwest",
+        "content",
+        "crop",
+        "discoveries",
+        "dynamicimage",
+        "esd",
+        "faces"
+      ],
+      "hash": "823e3f4913cc9da142cd93e7dfed48e42e934cf176ac3d74bd4953375a59a4ec",
+      "learned_at": "2026-09-28T05:12:11+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
+      "title": "jsc2021e064218_alt.jpg",
+      "summary": "Title: jsc2021e064218_alt.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024 Published Time: Mon, 28 Sep 2026 05:12:14 GMT Markdown Content: An earth station satellite is shown in space as it is powered by solar panels on each side",
+      "keywords": [
+        "jpg",
+        "jsc2021e064218_alt",
+        "1024",
+        "2023",
+        "2026",
+        "content",
+        "each",
+        "earth",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mon",
+        "nasa"
+      ],
+      "hash": "97d2d8e4bdcc2e6dc8ee5b90ab81f6ba8664083c3d2feb92cda363065fb23342",
+      "learned_at": "2026-09-28T05:12:15+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024",
+      "title": "iss068e022435_orig.jpg",
+      "summary": "Title: iss068e022435_orig.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/05/iss068e022435_orig.jpg?w=1024 Published Time: Mon, 28 Sep 2026 05:12:18 GMT Markdown Content: Astronaut in space working with equipment",
+      "keywords": [
+        "iss068e022435_orig",
+        "jpg",
+        "1024",
+        "2023",
+        "2026",
+        "astronaut",
+        "content",
+        "equipment",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mon",
+        "nasa"
+      ],
+      "hash": "d32949e7edab3b9b68aad0cc1a78d7bcd2bbfe8442b355a9b161427a962a8473",
+      "learned_at": "2026-09-28T05:12:19+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+      "title": "Explosive Intensification for Hurricane Polo - NASA Science",
+      "summary": "Title: Explosive Intensification for Hurricane Polo - NASA Science URL Source: https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/ Published Time: 2026-09-25T00:01:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "earth",
+        "image",
+        "plus",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "e6a4b93fde31423e522c9fce7eeefd505d23dfe41a351cd149ce79c2d08d0a4a",
+      "learned_at": "2026-09-28T05:12:21+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+      "title": "Cloudy Cloak Over the Northwest - NASA Science",
+      "summary": "Title: Cloudy Cloak Over the Northwest - NASA Science URL Source: https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/ Published Time: 2026-09-24T00:01:00-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Re",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "earth",
+        "image",
+        "plus",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "53a2865c71c1e541e8576842382e88dc2260fca7c017141359ec4863c161b653",
+      "learned_at": "2026-09-28T05:12:23+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/all-about-earth/",
+      "title": "All About Earth | NASA Space Place – NASA Science for Kids",
+      "summary": "Title: All About Earth | NASA Space Place – NASA Science for Kids URL Source: https://spaceplace.nasa.gov/all-about-earth/ Markdown Content: Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface. Explore Earth! Click and drag to rotate Earth. Scroll or pinch to zoom in and out. Credit: NASA Visualization Technology Applications and Development (VTAD) Our [atmosphere](https://spaceplace.nasa.gov/atmosphere/en/) is made mostly of nitrogen and has plenty of oxygen for us to breathe. The atmosphere also protects us from incoming [meteoroids](https://spaceplace.nasa.gov/asteroid-or-meteor/en/), most of which break up in our atmosphere before they can strike the surface as meteorites. Since we live here, you might think",
+      "keywords": [
+        "earth",
+        "nasa",
+        "planet",
+        "gov",
+        "https",
+        "spaceplace",
+        "atmosphere",
+        "know",
+        "one",
+        "surface",
+        "day",
+        "home",
+        "learn",
+        "solar"
+      ],
+      "hash": "370d8f9981c3e2a8fbcc959ff18fc9ac8f202c5e21c6b5e0d48668ddab43640c",
+      "learned_at": "2026-09-28T05:12:27+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-28T05:12:27+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-09-28T05:12:27+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 193
+    },
     {
       "at": "2026-09-27T23:59:24+00:00",
       "kind": "core_promoted",
@@ -3412,11 +3628,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 103,
+    "successful_fetches": 110,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 3,
-    "candidate_rejections": 14
+    "candidate_rejections": 15
   },
   "core_genome": {
     "query_weight": 3.0,
