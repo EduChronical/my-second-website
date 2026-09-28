@@ -1,18 +1,12 @@
 {
   "schema": 2,
-  "generation": 21,
-  "core_version": 4,
-  "runs": 20,
-  "pages_learned": 118,
-  "last_run": "2026-09-28T11:44:55+00:00",
+  "generation": 22,
+  "core_version": 5,
+  "runs": 21,
+  "pages_learned": 124,
+  "last_run": "2026-09-28T18:45:27+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/venus/",
-    "https://science.nasa.gov/moon/",
-    "https://science.nasa.gov/universe/",
-    "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
     "https://www.nasa.gov/?search=Artemis",
     "https://www.nasa.gov/?search=Expedition+64",
@@ -79,8 +73,12 @@
     "https://climatekids.nasa.gov/climate-change-meaning/",
     "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-a-train",
     "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
-    "https://www.nature.com/gp/open-science",
-    "https://www.springernature.com/gp/open-science/oa-agreements",
+    "https://ssd.jpl.nasa.gov/",
+    "https://science.nasa.gov/a-to-z-topics-listing/",
+    "https://science.nasa.gov/aeronautics/",
+    "https://science.nasa.gov/about/",
+    "https://science.nasa.gov/climate-change",
+    "https://science.nasa.gov/mercury/",
     "https://pib.gov.in/organisationalsetuph.aspx",
     "https://www.sebi.gov.in/qr-verification.html",
     "https://www.sebi.gov.in/upi-verification.html",
@@ -100,6 +98,8 @@
     "https://www.rbi.org.in/images/bright-theme.gif",
     "https://www.rbi.org.in/images/graytheme.gif",
     "https://therbimuseum.rbi.org.in/",
+    "https://www.nature.com/gp/open-science",
+    "https://www.springernature.com/gp/open-science/oa-agreements",
     "https://www.nature.com/info/cookies",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
@@ -176,32 +176,26 @@
     "https://www.ncfe.org.in/",
     "https://www.innovation-sandbox.in/",
     "https://www.protocols.io/",
+    "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
-    "https://science.nasa.gov/earth/multimedia",
-    "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
-    "https://science.nasa.gov/earth/facts/",
-    "https://science.nasa.gov/earth-science",
-    "https://spaceplace.nasa.gov/review/years-on-other-planets/Mercury_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg",
-    "https://spaceplace.nasa.gov/review/years-on-other-planets/Earth_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Jupiter_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Saturn_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg",
-    "https://www.youtube.com/watch?v=y6D3qUPEVGA",
-    "https://ssd.jpl.nasa.gov/",
     "https://spaceplace.nasa.gov/all-about-earth/earth2.en.jpg",
     "https://spaceplace.nasa.gov/all-about-earth/earth3.en.png",
-    "https://science.nasa.gov/a-to-z-topics-listing/",
-    "https://science.nasa.gov/aeronautics/",
-    "https://science.nasa.gov/about/",
-    "https://science.nasa.gov/climate-change",
+    "https://science.nasa.gov/earth/facts/",
+    "https://science.nasa.gov/earth-science",
     "https://www.nasa.gov/2026-news-releases/",
-    "https://science.nasa.gov/mercury/",
-    "https://spaceplace.nasa.gov/atmosphere/en/"
+    "https://spaceplace.nasa.gov/atmosphere/en/",
+    "https://science.nasa.gov/venus/",
+    "https://science.nasa.gov/moon/",
+    "https://science.nasa.gov/universe/",
+    "https://science.nasa.gov/",
+    "https://science.nasa.gov/mission/webb/",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=870"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -825,6 +819,36 @@
       "at": "2026-09-28T11:45:30+00:00",
       "status": "ok",
       "hash": "eb6548bcc46894487c5e81a52d12e023c5b60d63d0e512144b5a46aff2af1780"
+    },
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Earth_small.en.jpg": {
+      "at": "2026-09-28T18:45:30+00:00",
+      "status": "ok",
+      "hash": "0e69d0ef863f17957f7ffdda2a7dc77566bf465b619b95bd93642cd24094a48c"
+    },
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Mercury_small.en.jpg": {
+      "at": "2026-09-28T18:45:31+00:00",
+      "status": "ok",
+      "hash": "14f6177628940ce3e95bb4d0672e7f7d9faa444537779e25595ba13778d949cc"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024": {
+      "at": "2026-09-28T18:45:35+00:00",
+      "status": "ok",
+      "hash": "ec9606af0ce4ff661990233775375839dca23a28cf2f4bff08c1fdd42c943102"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024": {
+      "at": "2026-09-28T18:45:40+00:00",
+      "status": "ok",
+      "hash": "d79ccc9814d8bef668f7d5fc824cf4a52ef26e03f93890d18c0a191d42e7ca4b"
+    },
+    "https://science.nasa.gov/earth/multimedia": {
+      "at": "2026-09-28T18:45:44+00:00",
+      "status": "ok",
+      "hash": "19483f1ddf20144e7c3a02b3bbe7b66916f4d18083ec086386883c4da2b408e3"
+    },
+    "https://science.nasa.gov/earth/explore/wildfires-and-climate-change": {
+      "at": "2026-09-28T18:45:49+00:00",
+      "status": "ok",
+      "hash": "4142c35ae32a527e9edf2ffd8bbacec7b3147b0c7aa8a73c0e1958f76e0364b6"
     }
   },
   "memory": [
@@ -3541,10 +3565,174 @@
       ],
       "hash": "eb6548bcc46894487c5e81a52d12e023c5b60d63d0e512144b5a46aff2af1780",
       "learned_at": "2026-09-28T11:45:30+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Earth_small.en.jpg",
+      "title": "Earth_small.en.jpg",
+      "summary": "Title: Earth_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Earth_small.en.jpg Markdown Content: A cartoon Earth with Americas landmass colored green and blue ocean water filled",
+      "keywords": [
+        "earth_small",
+        "jpg",
+        "americas",
+        "blue",
+        "cartoon",
+        "colored",
+        "content",
+        "earth",
+        "filled",
+        "gov",
+        "green",
+        "https",
+        "landmass",
+        "markdown"
+      ],
+      "hash": "0e69d0ef863f17957f7ffdda2a7dc77566bf465b619b95bd93642cd24094a48c",
+      "learned_at": "2026-09-28T18:45:30+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Mercury_small.en.jpg",
+      "title": "Mercury_small.en.jpg",
+      "summary": "Title: Mercury_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Mercury_small.en.jpg Markdown Content: A 42x42 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "jpg",
+        "mercury_small",
+        "42x42",
+        "avatar",
+        "content",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo",
+        "markdown",
+        "nasa",
+        "review"
+      ],
+      "hash": "14f6177628940ce3e95bb4d0672e7f7d9faa444537779e25595ba13778d949cc",
+      "learned_at": "2026-09-28T18:45:31+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024",
+      "title": "agriculture_ast_lrg.jpg",
+      "summary": "Title: agriculture_ast_lrg.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2021/09/agriculture_ast_lrg.jpg?w=1024 Published Time: Mon, 28 Sep 2026 18:45:33 GMT Markdown Content: The image is a composite of six different satellite images or terrestrial photographs showcasing agricultural terrains",
+      "keywords": [
+        "agriculture_ast_lrg",
+        "jpg",
+        "1024",
+        "2021",
+        "2026",
+        "agricultural",
+        "composite",
+        "content",
+        "different",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "images"
+      ],
+      "hash": "ec9606af0ce4ff661990233775375839dca23a28cf2f4bff08c1fdd42c943102",
+      "learned_at": "2026-09-28T18:45:35+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024",
+      "title": "eo-westcoastsmoke-aug_20.2020_0-1.jpg",
+      "summary": "Title: eo-westcoastsmoke-aug_20.2020_0-1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2021/01/eo-westcoastsmoke-aug_20.2020_0-1.jpg?w=1024 Published Time: Mon, 28 Sep 2026 18:45:37 GMT Markdown Content: A thorough view of California and Washington with tall white mountains and clouds covering the state",
+      "keywords": [
+        "2020_0-1",
+        "eo-westcoastsmoke-aug_20",
+        "jpg",
+        "1024",
+        "2021",
+        "2026",
+        "california",
+        "clouds",
+        "content",
+        "covering",
+        "gmt",
+        "gov",
+        "https",
+        "markdown"
+      ],
+      "hash": "d79ccc9814d8bef668f7d5fc824cf4a52ef26e03f93890d18c0a191d42e7ca4b",
+      "learned_at": "2026-09-28T18:45:40+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/multimedia",
+      "title": "Earth Multimedia & Galleries - NASA Science",
+      "summary": "Title: Earth Multimedia & Galleries - NASA Science URL Source: https://science.nasa.gov/earth/multimedia Published Time: 2023-06-16T15:58:53-04:00 Markdown Content: [![Image 7: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 8: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-med",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "multimedia",
+        "news",
+        "earth",
+        "images",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "19483f1ddf20144e7c3a02b3bbe7b66916f4d18083ec086386883c4da2b408e3",
+      "learned_at": "2026-09-28T18:45:44+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/explore/wildfires-and-climate-change",
+      "title": "Wildfires and Climate Change - NASA Science",
+      "summary": "Title: Wildfires and Climate Change - NASA Science URL Source: https://science.nasa.gov/earth/explore/wildfires-and-climate-change Published Time: 2025-01-30T12:39:58-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "climate",
+        "earth",
+        "image",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "4142c35ae32a527e9edf2ffd8bbacec7b3147b0c7aa8a73c0e1958f76e0364b6",
+      "learned_at": "2026-09-28T18:45:49+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-28T18:45:50+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v5",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-09-28T18:45:50+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 189
+    },
     {
       "at": "2026-09-28T11:45:31+00:00",
       "kind": "core_unchanged",
@@ -3869,10 +4057,10 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 118,
+    "successful_fetches": 124,
     "failed_fetches": 0,
     "duplicate_pages": 0,
-    "candidate_promotions": 3,
+    "candidate_promotions": 4,
     "candidate_rejections": 16
   },
   "core_genome": {
@@ -3904,12 +4092,12 @@
     "www.nasa.gov",
     "assets.science.nasa.gov",
     "www.nature.com",
+    "spaceplace.nasa.gov",
     "www.pib.gov.in",
     "plus.nasa.gov",
     "static.pib.gov.in",
     "www.sebi.gov.in",
     "www.imf.org",
-    "www.rbi.org.in",
-    "www.science.org"
+    "www.rbi.org.in"
   ]
 }
