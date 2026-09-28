@@ -1,24 +1,12 @@
 {
   "schema": 2,
-  "generation": 22,
+  "generation": 23,
   "core_version": 5,
-  "runs": 21,
-  "pages_learned": 124,
-  "last_run": "2026-09-28T18:45:27+00:00",
+  "runs": 22,
+  "pages_learned": 130,
+  "last_run": "2026-09-28T23:34:07+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
-    "https://www.nasa.gov/?search=Artemis",
-    "https://www.nasa.gov/?search=Expedition+64",
-    "https://www.nasa.gov/?search=Mars+perseverance",
-    "https://www.nasa.gov/?search=SpaceX+Crew-2",
-    "https://www.nasa.gov/social-media/",
-    "https://www.nasa.gov/news/media-contacts/",
-    "https://www.nasa.gov/events",
-    "https://www.nasa.gov/event-type/launch-schedule/",
-    "https://www.nasa.gov/nasa-virtual-guest-program/",
-    "https://www.nasa.gov/multimedia/",
-    "https://www.nasa.gov/images/",
     "https://www.nasa.gov/live",
     "https://www.nasa.gov/news/recently-published/",
     "https://www.nasa.gov/podcasts-and-audio/",
@@ -79,6 +67,12 @@
     "https://science.nasa.gov/about/",
     "https://science.nasa.gov/climate-change",
     "https://science.nasa.gov/mercury/",
+    "https://science.nasa.gov/venus/",
+    "https://science.nasa.gov/moon/",
+    "https://science.nasa.gov/universe/",
+    "https://science.nasa.gov/",
+    "https://science.nasa.gov/mission/webb/",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://pib.gov.in/organisationalsetuph.aspx",
     "https://www.sebi.gov.in/qr-verification.html",
     "https://www.sebi.gov.in/upi-verification.html",
@@ -178,24 +172,51 @@
     "https://www.protocols.io/",
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg",
-    "https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Jupiter_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Saturn_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg",
     "https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg",
     "https://spaceplace.nasa.gov/all-about-earth/earth2.en.jpg",
     "https://spaceplace.nasa.gov/all-about-earth/earth3.en.png",
-    "https://science.nasa.gov/earth/facts/",
-    "https://science.nasa.gov/earth-science",
-    "https://www.nasa.gov/2026-news-releases/",
+    "https://science.nasa.gov/wp-content/uploads/2026/09/davinci-heat-test-1.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg?w=1919&h=894&fit=clip&crop=faces%2Cfocalpoint",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300",
+    "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/340558main_EC72-3431_full.jpg?w=300",
+    "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-san-marino-76-092526.jpg?w=300",
+    "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg?w=300",
+    "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/",
+    "https://images-assets.nasa.gov/image/iss074e0395792/iss074e0395792~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint",
+    "https://images-assets.nasa.gov/image/NHQ20260830_admin_0002/NHQ20260830_admin_0002~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint",
     "https://spaceplace.nasa.gov/atmosphere/en/",
-    "https://science.nasa.gov/venus/",
-    "https://science.nasa.gov/moon/",
-    "https://science.nasa.gov/universe/",
-    "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=870"
+    "https://www.nasa.gov/wp-content/uploads/2021/10/nasa_meatball_4-1.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2020/02/katherine-johnson.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2022/04/51982552683_915c5cb164_k.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/11/orex-022.jpg?w=1024",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=872",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=869",
+    "https://www.nasa.gov/mcmc-reduced-greenhouse-gases",
+    "https://www.nasa.gov/careers/pathways",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/85000/85591/wyoming_etm_2013145.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/landsat-1-3-mission-pages/mss.png?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/86000/86244/lakenyos_oli_2014352.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/10/takaroa-8.13.24_L9-2.jpg?w=3085&h=1735&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153337/Eastonglacier_pho_202408.jpg?w=720&h=321&fit=clip&crop=faces%2Cfocalpoint",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2021/12/armada_feature2.jpg?w=740&h=370&fit=clip&crop=faces%2Cfocalpoint",
+    "https://www.nasa.gov/?search=Artemis",
+    "https://www.nasa.gov/?search=Expedition+64",
+    "https://www.nasa.gov/?search=Mars+perseverance",
+    "https://www.nasa.gov/?search=SpaceX+Crew-2",
+    "https://www.nasa.gov/social-media/",
+    "https://www.nasa.gov/news/media-contacts/",
+    "https://www.nasa.gov/events",
+    "https://www.nasa.gov/event-type/launch-schedule/",
+    "https://www.nasa.gov/nasa-virtual-guest-program/",
+    "https://www.nasa.gov/multimedia/",
+    "https://www.nasa.gov/images/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -849,6 +870,36 @@
       "at": "2026-09-28T18:45:49+00:00",
       "status": "ok",
       "hash": "4142c35ae32a527e9edf2ffd8bbacec7b3147b0c7aa8a73c0e1958f76e0364b6"
+    },
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg": {
+      "at": "2026-09-28T23:34:12+00:00",
+      "status": "ok",
+      "hash": "3f4ea9e9c41fe0f856f665fa7a45c896eb5f8d643ae574847de334c369686aba"
+    },
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg": {
+      "at": "2026-09-28T23:34:14+00:00",
+      "status": "ok",
+      "hash": "2cc531a3060d6941313e8a3cfb3616facc39269675c0dbc68955315c064d64c7"
+    },
+    "https://science.nasa.gov/earth/facts/": {
+      "at": "2026-09-28T23:34:16+00:00",
+      "status": "ok",
+      "hash": "075bd21a549bcf17163c7fb643050c036f1817de92e6d8ebc1f3c5d62e80fa6b"
+    },
+    "https://science.nasa.gov/earth-science": {
+      "at": "2026-09-28T23:34:19+00:00",
+      "status": "ok",
+      "hash": "16f3c5631999c5307b85afdb716b901f084a66824eb644057a5b542a491c0d28"
+    },
+    "https://www.nasa.gov/2026-news-releases/": {
+      "at": "2026-09-28T23:34:21+00:00",
+      "status": "ok",
+      "hash": "5697b8b5145a1f90d68e4409eb05da86f7ee9837a1b41fb5bcc320dc0e8c1388"
+    },
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=873": {
+      "at": "2026-09-28T23:34:29+00:00",
+      "status": "ok",
+      "hash": "46485d538e25215383c2569557199eb115efafd48bee2dc48a9031ba08c10b32"
     }
   },
   "memory": [
@@ -3703,10 +3754,163 @@
       ],
       "hash": "4142c35ae32a527e9edf2ffd8bbacec7b3147b0c7aa8a73c0e1958f76e0364b6",
       "learned_at": "2026-09-28T18:45:49+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg",
+      "title": "Venus_small.en.jpg",
+      "summary": "Title: Venus_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Venus_small.en.jpg Markdown Content: The image is a small, lowest resolution icon or data file encoding D: the letter D, in a style that appears to be a solid green circle with a few pale yellow horizontal stripes",
+      "keywords": [
+        "jpg",
+        "venus_small",
+        "appears",
+        "circle",
+        "content",
+        "data",
+        "encoding",
+        "few",
+        "file",
+        "gov",
+        "green",
+        "horizontal",
+        "https",
+        "icon"
+      ],
+      "hash": "3f4ea9e9c41fe0f856f665fa7a45c896eb5f8d643ae574847de334c369686aba",
+      "learned_at": "2026-09-28T23:34:12+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg",
+      "title": "Mars_small.en.jpg",
+      "summary": "Title: Mars_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Mars_small.en.jpg Markdown Content: a blurry red circle",
+      "keywords": [
+        "jpg",
+        "mars_small",
+        "blurry",
+        "circle",
+        "content",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "red",
+        "review",
+        "source",
+        "spaceplace",
+        "title"
+      ],
+      "hash": "2cc531a3060d6941313e8a3cfb3616facc39269675c0dbc68955315c064d64c7",
+      "learned_at": "2026-09-28T23:34:14+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/facts/",
+      "title": "Facts About Earth",
+      "summary": "Title: Facts About Earth URL Source: https://science.nasa.gov/earth/facts/ Published Time: 2023-05-30T18:58:22-04:00 Markdown Content: ## Quick Facts While Earth is only the fifth largest planet in the solar system, it is the only planet in our solar system with liquid water on the surface. Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal. Earth is the only planet in the solar system whose English name does not come from Greek or Roman mythology. The name was taken from Old English and Germanic. It simply means \"the ground.\" There are, of course, many names for our planet in the thousands of languages spoken by the people of the third planet from the Sun. ## Namesake The name Earth is about 1,000 years old. All of the planets, except for Earth, were named after Greek and Roman gods and goddesses. ",
+      "keywords": [
+        "earth",
+        "planet",
+        "sun",
+        "one",
+        "system",
+        "day",
+        "life",
+        "name",
+        "planets",
+        "solar",
+        "distance",
+        "facts",
+        "liquid",
+        "only"
+      ],
+      "hash": "075bd21a549bcf17163c7fb643050c036f1817de92e6d8ebc1f3c5d62e80fa6b",
+      "learned_at": "2026-09-28T23:34:16+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth-science",
+      "title": "Earth Science Researchers - NASA Science",
+      "summary": "Title: Earth Science Researchers - NASA Science URL Source: https://science.nasa.gov/earth-science Published Time: 2007-06-10T10:33:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-con",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "earth",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "16f3c5631999c5307b85afdb716b901f084a66824eb644057a5b542a491c0d28",
+      "learned_at": "2026-09-28T23:34:19+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "summary": "Title: 2026 News Releases - NASA URL Source: https://www.nasa.gov/2026-news-releases/ Published Time: 2026-01-02T16:37:23Z Markdown Content: [![Image 1](https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300)](https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/) [NASA, Boeing Share Update on Commercial Starliner Development Plans](https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/) 4 min read On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space… News Release [![Image 2](https://www.nasa.gov/wp-content/uploads/2023/03/340558main_EC72-3431_full.jpg?w=300)](https://ww",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "news-release",
+        "2026",
+        "300",
+        "artemis",
+        "image",
+        "jpg",
+        "min",
+        "news",
+        "read",
+        "uploads"
+      ],
+      "hash": "5697b8b5145a1f90d68e4409eb05da86f7ee9837a1b41fb5bcc320dc0e8c1388",
+      "learned_at": "2026-09-28T23:34:21+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
+      "title": "Page Not Found - NASA",
+      "summary": "Title: Page Not Found - NASA URL Source: https://www.nasa.gov/search/?search=Climate+Change&search_page=873 Warning: Target URL returned error 404: Not Found Markdown Content: Filter Results ### Content Type * Articles * Press Release * Gallery * Topic * People * Mission * Blog ### Categories * Earth Observatory (2895) * Apollo (2406) * Earth (1007) * Photojournal (698) * Climate Change (671) * Mars (604) * Earth Science (494) ### Changed * Last Year (8672) * Last Month (546) * Last Week (165) ### Language * English * Español * We're working continuously to improve our search results. If you aren't finding what you expect, please use our [feedback form](https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit) to share the search query and expected result with us so we can improve. * [![Image 1: Snowmelt Has Been Coming Earlier in Wyoming - NASA Science ](https://assets.science.nasa",
+      "keywords": [
+        "science",
+        "nasa",
+        "earth",
+        "gov",
+        "https",
+        "change",
+        "climate",
+        "assets",
+        "search",
+        "mars",
+        "mss",
+        "2cfocalpoint",
+        "_https",
+        "artemis"
+      ],
+      "hash": "46485d538e25215383c2569557199eb115efafd48bee2dc48a9031ba08c10b32",
+      "learned_at": "2026-09-28T23:34:29+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-28T23:34:29+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-09-28T23:34:29+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 210
+    },
     {
       "at": "2026-09-28T18:45:50+00:00",
       "kind": "core_promoted",
@@ -4057,11 +4261,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 124,
+    "successful_fetches": 130,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 4,
-    "candidate_rejections": 16
+    "candidate_rejections": 17
   },
   "core_genome": {
     "query_weight": 3.0,
