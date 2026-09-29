@@ -1,24 +1,25 @@
 {
   "schema": 2,
-  "generation": 24,
-  "core_version": 5,
-  "runs": 23,
-  "pages_learned": 137,
-  "last_run": "2026-09-29T02:43:20+00:00",
+  "generation": 25,
+  "core_version": 6,
+  "runs": 24,
+  "pages_learned": 145,
+  "last_run": "2026-09-29T09:05:51+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/universe/",
-    "https://science.nasa.gov/",
-    "https://science.nasa.gov/mission/webb/",
-    "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=150&h=150&crop=1",
-    "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300",
     "https://www.nasa.gov/wp-content/uploads/2023/03/340558main_EC72-3431_full.jpg?w=300",
     "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-san-marino-76-092526.jpg?w=300",
     "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg?w=300",
-    "https://spaceplace.nasa.gov/atmosphere/en/",
     "https://www.nasa.gov/wp-content/uploads/2021/10/nasa_meatball_4-1.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2022/04/51982552683_915c5cb164_k.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2025/11/orex-022.jpg?w=1024",
+    "https://science.nasa.gov/aeronautics/",
+    "https://science.nasa.gov/about/",
+    "https://science.nasa.gov/climate-change",
+    "https://science.nasa.gov/mercury/",
+    "https://science.nasa.gov/venus/",
+    "https://science.nasa.gov/moon/",
+    "https://spaceplace.nasa.gov/atmosphere/en/",
     "https://www.nasa.gov/live",
     "https://www.nasa.gov/news/recently-published/",
     "https://www.nasa.gov/podcasts-and-audio/",
@@ -105,9 +106,9 @@
     "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
-    "https://therbimuseum.rbi.org.in/",
     "https://www.nature.com/gp/open-science",
     "https://www.springernature.com/gp/open-science/oa-agreements",
+    "https://therbimuseum.rbi.org.in/",
     "https://www.rbi.org.in/images/font-increase.gif",
     "https://www.rbi.org.in/images/font-reset.gif",
     "https://www.rbi.org.in/images/font-decrease.gif",
@@ -193,20 +194,11 @@
     "https://www.protocols.io/",
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg",
-    "https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/86000/86244/lakenyos_oli_2014352.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/10/takaroa-8.13.24_L9-2.jpg?w=3085&h=1735&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153337/Eastonglacier_pho_202408.jpg?w=720&h=321&fit=clip&crop=faces%2Cfocalpoint",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2021/12/armada_feature2.jpg?w=740&h=370&fit=clip&crop=faces%2Cfocalpoint",
     "https://spaceplace.nasa.gov/all-about-earth/earth2.en.jpg",
     "https://spaceplace.nasa.gov/all-about-earth/earth3.en.png",
-    "https://science.nasa.gov/aeronautics/",
-    "https://science.nasa.gov/about/",
-    "https://science.nasa.gov/climate-change",
-    "https://science.nasa.gov/mercury/",
-    "https://science.nasa.gov/venus/",
-    "https://science.nasa.gov/moon/"
+    "https://science.nasa.gov/mission/webb/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -937,6 +929,46 @@
       "at": "2026-09-29T02:43:50+00:00",
       "status": "ok",
       "hash": "f41ac7ed3b7b10c24d9737d39e5a838aa84f1ff38eccf9a4846f53c3b630d4e4"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/86000/86244/lakenyos_oli_2014352.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-29T09:05:53+00:00",
+      "status": "ok",
+      "hash": "b8e27ad28ae2f6b19a45d74fdae6c26ad745fba24525a93be757c5c7f093059f"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/10/takaroa-8.13.24_L9-2.jpg?w=3085&h=1735&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-09-29T09:05:56+00:00",
+      "status": "ok",
+      "hash": "d31dcfc97422113eca5bdd1df318808ae865fd639f7ac5d84dd43cc34f1ec698"
+    },
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg": {
+      "at": "2026-09-29T09:05:58+00:00",
+      "status": "ok",
+      "hash": "e0390ed4fd7829bd1f5154a3b35e8f53fe9b84a7880b126df60b4a9c8b16bc5c"
+    },
+    "https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg": {
+      "at": "2026-09-29T09:06:01+00:00",
+      "status": "ok",
+      "hash": "380b6f7c4c5510933cb89f69947bcca80a54055f16ca23578e45dab1b3e3270d"
+    },
+    "https://science.nasa.gov/universe/": {
+      "at": "2026-09-29T09:06:07+00:00",
+      "status": "ok",
+      "hash": "dc2b975c281017a2f93db0a8e20a28ddc39a5336cc95e343a4875063170d57ba"
+    },
+    "https://science.nasa.gov/": {
+      "at": "2026-09-29T09:06:09+00:00",
+      "status": "ok",
+      "hash": "796347cddbfba4644345fd2df46e574305772ab181a9b521f4240335c4b1c8b0"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=150&h=150&crop=1": {
+      "at": "2026-09-29T09:06:12+00:00",
+      "status": "ok",
+      "hash": "a81b683c233bd146f6707ac8f791d87047fc2e80e1aa2aa1179d94ba2017f74b"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300": {
+      "at": "2026-09-29T09:06:14+00:00",
+      "status": "ok",
+      "hash": "d2b1dcba5ae30d1f718190cf1571d320edb372ede5fb6a0530133e415fef1092"
     }
   },
   "memory": [
@@ -4090,10 +4122,220 @@
       ],
       "hash": "f41ac7ed3b7b10c24d9737d39e5a838aa84f1ff38eccf9a4846f53c3b630d4e4",
       "learned_at": "2026-09-29T02:43:50+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/86000/86244/lakenyos_oli_2014352.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "lakenyos_oli_2014352.jpg",
+      "summary": "Title: lakenyos_oli_2014352.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/86000/86244/lakenyos_oli_2014352.jpg?w=720&h=480&fit=clip&crop=faces,focalpoint Markdown Content: Sputnik view of Lake Nyoos, about 20 minutes from Boulder, Colorado",
+      "keywords": [
+        "assets",
+        "jpg",
+        "lakenyos_oli_2014352",
+        "science",
+        "480",
+        "720",
+        "86000",
+        "86244",
+        "boulder",
+        "clip",
+        "colorado",
+        "content",
+        "crop",
+        "dynamicimage"
+      ],
+      "hash": "b8e27ad28ae2f6b19a45d74fdae6c26ad745fba24525a93be757c5c7f093059f",
+      "learned_at": "2026-09-29T09:05:53+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/10/takaroa-8.13.24_L9-2.jpg?w=3085&h=1735&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "takaroa-8.13.24_L9-2.jpg",
+      "summary": "Title: takaroa-8.13.24_L9-2.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/10/takaroa-8.13.24_L9-2.jpg?w=3085&h=1735&fit=clip&crop=faces,focalpoint Markdown Content: An aerial view of two island up close",
+      "keywords": [
+        "24_l9-2",
+        "assets",
+        "jpg",
+        "science",
+        "takaroa-8",
+        "1735",
+        "2024",
+        "3085",
+        "aerial",
+        "clip",
+        "close",
+        "content",
+        "crop",
+        "dynamicimage"
+      ],
+      "hash": "d31dcfc97422113eca5bdd1df318808ae865fd639f7ac5d84dd43cc34f1ec698",
+      "learned_at": "2026-09-29T09:05:56+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg",
+      "title": "Uranus_small.en.jpg",
+      "summary": "Title: Uranus_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Uranus_small.en.jpg Markdown Content: A 56x112 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "jpg",
+        "uranus_small",
+        "56x112",
+        "avatar",
+        "content",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo",
+        "markdown",
+        "nasa",
+        "review"
+      ],
+      "hash": "e0390ed4fd7829bd1f5154a3b35e8f53fe9b84a7880b126df60b4a9c8b16bc5c",
+      "learned_at": "2026-09-29T09:05:58+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg",
+      "title": "Neptune_small.en.jpg",
+      "summary": "Title: Neptune_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Neptune_small.en.jpg Markdown Content: A 2D graphic of a planet colored in shades of blue",
+      "keywords": [
+        "jpg",
+        "neptune_small",
+        "blue",
+        "colored",
+        "content",
+        "gov",
+        "graphic",
+        "https",
+        "markdown",
+        "nasa",
+        "planet",
+        "review",
+        "shades",
+        "source"
+      ],
+      "hash": "380b6f7c4c5510933cb89f69947bcca80a54055f16ca23578e45dab1b3e3270d",
+      "learned_at": "2026-09-29T09:06:01+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/universe/",
+      "title": "Universe - NASA Science",
+      "summary": "Title: Universe - NASA Science URL Source: https://science.nasa.gov/universe/ Published Time: 2024-06-03T10:45:30-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "universe",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "dc2b975c281017a2f93db0a8e20a28ddc39a5336cc95e343a4875063170d57ba",
+      "learned_at": "2026-09-29T09:06:07+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/",
+      "title": "NASA Science",
+      "summary": "Title: NASA Science URL Source: https://science.nasa.gov/ Published Time: 2023-03-07T13:59:14-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimedia](htt",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "796347cddbfba4644345fd2df46e574305772ab181a9b521f4240335c4b1c8b0",
+      "learned_at": "2026-09-29T09:06:09+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=150&h=150&crop=1",
+      "title": "stsci-h-p26023a-m-2000x1207-1.jpg",
+      "summary": "Title: stsci-h-p26023a-m-2000x1207-1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=150&h=150&crop=1 Published Time: Tue, 29 Sep 2026 09:06:11 GMT Markdown Content: This is a black and white image looking up to see lot of stars",
+      "keywords": [
+        "150",
+        "2026",
+        "jpg",
+        "stsci-h-p26023a-m-2000x1207-1",
+        "black",
+        "content",
+        "crop",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "looking",
+        "lot",
+        "markdown"
+      ],
+      "hash": "a81b683c233bd146f6707ac8f791d87047fc2e80e1aa2aa1179d94ba2017f74b",
+      "learned_at": "2026-09-29T09:06:12+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300",
+      "title": "starliner-update-sept-28.jpg",
+      "summary": "Title: starliner-update-sept-28.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300 Published Time: Tue, 29 Sep 2026 09:06:14 GMT Markdown Content: Some sort of spacecraft in deep space",
+      "keywords": [
+        "2026",
+        "jpg",
+        "starliner-update-sept-28",
+        "300",
+        "content",
+        "deep",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "published",
+        "sep",
+        "some"
+      ],
+      "hash": "d2b1dcba5ae30d1f718190cf1571d320edb372ede5fb6a0530133e415fef1092",
+      "learned_at": "2026-09-29T09:06:14+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-29T09:06:15+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v6",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-09-29T09:06:15+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 13,
+      "frontier": 192
+    },
     {
       "at": "2026-09-29T02:43:50+00:00",
       "kind": "core_unchanged",
@@ -4474,10 +4716,10 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 137,
+    "successful_fetches": 145,
     "failed_fetches": 0,
     "duplicate_pages": 0,
-    "candidate_promotions": 4,
+    "candidate_promotions": 5,
     "candidate_rejections": 18
   },
   "core_genome": {
@@ -4508,8 +4750,8 @@
     "science.nasa.gov",
     "www.nasa.gov",
     "assets.science.nasa.gov",
-    "www.nature.com",
     "spaceplace.nasa.gov",
+    "www.nature.com",
     "www.pib.gov.in",
     "plus.nasa.gov",
     "static.pib.gov.in",
