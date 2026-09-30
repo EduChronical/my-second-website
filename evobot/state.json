@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 29,
+  "generation": 30,
   "core_version": 6,
-  "runs": 28,
-  "pages_learned": 171,
-  "last_run": "2026-09-30T02:28:25+00:00",
+  "runs": 29,
+  "pages_learned": 179,
+  "last_run": "2026-09-30T08:56:33+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.pib.gov.in/images/handicape-icon.png",
-    "https://www.pib.gov.in/images/standard-view.png",
     "https://www.pib.gov.in/images/increase-text-size.png",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/standard-view.png",
@@ -62,6 +60,20 @@
     "https://www.nasa.gov/humans-in-space/artemis/",
     "https://www.nasa.gov/a-to-z-topics-listing/",
     "https://www.nasa.gov/nasa-missions/",
+    "https://www.nasa.gov/humans-in-space/",
+    "https://www.nasa.gov/aeronautics/",
+    "https://www.nasa.gov/technology/",
+    "https://www.nasa.gov/learning-resources/",
+    "https://www.nasa.gov/about/",
+    "https://www.nasa.gov/international-space-station/",
+    "https://www.nasa.gov/humans-in-space/why-go-to-space/",
+    "https://www.nasa.gov/humans-in-space/astronauts/",
+    "https://www.nasa.gov/humans-in-space/destinations/",
+    "https://www.nasa.gov/humans-in-space/living-in-space/",
+    "https://www.nasa.gov/es/",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=6",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=5",
+    "https://www.sebi.gov.in/images/hindi.png",
     "https://pib.gov.in/organisationalsetuph.aspx",
     "https://www.sebi.gov.in/qr-verification.html",
     "https://www.sebi.gov.in/upi-verification.html",
@@ -164,37 +176,20 @@
     "https://www.protocols.io/",
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://spaceplace.nasa.gov/atmosphere/en/ionosphere.en.png",
-    "https://spaceplace.nasa.gov/atmosphere/en/exosphere.en.png",
-    "https://spaceplace.nasa.gov/atmosphere/en/ground.en.png",
-    "https://science.nasa.gov/mission/webb/faqs-full/",
-    "https://science.nasa.gov/mission/webb/faqs-full/",
-    "https://science.nasa.gov/mission/webb/faqs-full/",
-    "https://science.nasa.gov/mission/webb/faqs-full/",
-    "https://science.nasa.gov/mission/webb/faqs-full/",
-    "https://science.nasa.gov/mission/webb/faqs-full/",
-    "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
-    "https://science.nasa.gov/mission/webb/science-overview/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=2048",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2026/STScI-01M3AK8JYK2EJ2M70ZQ0KKBSVC.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif?fit=clip&crop=faces%2Cfocalpoint&w=300",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://www.nasa.gov/humans-in-space/",
-    "https://www.nasa.gov/aeronautics/",
-    "https://www.nasa.gov/technology/",
-    "https://www.nasa.gov/learning-resources/",
-    "https://www.nasa.gov/about/",
-    "https://www.nasa.gov/international-space-station/",
-    "https://www.nasa.gov/humans-in-space/why-go-to-space/",
-    "https://www.nasa.gov/humans-in-space/astronauts/",
-    "https://www.nasa.gov/humans-in-space/destinations/",
-    "https://www.nasa.gov/humans-in-space/living-in-space/",
-    "https://www.nasa.gov/es/",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=6",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=5",
-    "https://www.sebi.gov.in/images/hindi.png"
+    "https://spaceplace.nasa.gov/atmosphere/en/ground.en.png",
+    "https://science.nasa.gov/mission/webb/who-is-james-webb/",
+    "https://science.nasa.gov/mission/hubble/observatory/hubble-vs-webb/",
+    "https://science.nasa.gov/mission/webb/launch/",
+    "https://www.nasa.gov/people/james-e-webb/",
+    "https://webb.nasa.gov/content/webbLaunch/deploymentExplorer.html",
+    "https://blogs.nasa.gov/webb/",
+    "https://www.nasa.gov/feature/goddard/2017/nasa-s-james-webb-space-telescope-completes-final-cryogenic-testing",
+    "https://www.nasa.gov/feature/goddard/2017/self-portrait-of-nasa-s-james-webb-space-telescope-marks-critical-test",
+    "https://science.nasa.gov/mission/webb/science-overview/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1095,6 +1090,46 @@
       "at": "2026-09-30T02:28:55+00:00",
       "status": "ok",
       "hash": "8b8b0b636d0d2602f370f82f90893e880cad821f1435941a210ef3cb23b6ed87"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=2048": {
+      "at": "2026-09-30T08:56:39+00:00",
+      "status": "ok",
+      "hash": "b44d7e3ed103c15e43a4ee6187f834052110b41c483010d55365db9eca44f888"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2026/STScI-01M3AK8JYK2EJ2M70ZQ0KKBSVC.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-09-30T08:56:41+00:00",
+      "status": "ok",
+      "hash": "4621630161ef3dc40c58f58810d83a17dd5f644b678e4e2e83bbc3e4ce5c4fe2"
+    },
+    "https://spaceplace.nasa.gov/atmosphere/en/ionosphere.en.png": {
+      "at": "2026-09-30T08:56:44+00:00",
+      "status": "ok",
+      "hash": "a3f1e5eb16e09eadb2eb14fb4f33612505ed8125781937d4be6d09021f64e1bb"
+    },
+    "https://spaceplace.nasa.gov/atmosphere/en/exosphere.en.png": {
+      "at": "2026-09-30T08:56:46+00:00",
+      "status": "ok",
+      "hash": "edeed549184f5d041bba39808f449fbd940cf032e5e62215bb8d75ee97623b03"
+    },
+    "https://science.nasa.gov/mission/webb/faqs-full/": {
+      "at": "2026-09-30T08:56:48+00:00",
+      "status": "ok",
+      "hash": "c7ae6083bc715e7965d6f87253d2124172abb64f6566462f9a1dd2c3a04b38d5"
+    },
+    "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/": {
+      "at": "2026-09-30T08:56:50+00:00",
+      "status": "ok",
+      "hash": "fd669824439c5deb41b963d84d5d97bcad47a0a8d08cc8af3a9d6eb9827514f9"
+    },
+    "https://www.pib.gov.in/images/handicape-icon.png": {
+      "at": "2026-09-30T08:56:51+00:00",
+      "status": "ok",
+      "hash": "e1311ee9d7bde1ee3e78f5d0409055e1e93403a4d7b9f4a81e4145d4a3a246e6"
+    },
+    "https://www.pib.gov.in/images/standard-view.png": {
+      "at": "2026-09-30T08:56:52+00:00",
+      "status": "ok",
+      "hash": "38f91d7ec3dec511b2782d2b6871a2372e2305aa6d05dd18702b9a81b5ceaa2c"
     }
   },
   "memory": [
@@ -5030,10 +5065,209 @@
       ],
       "hash": "8b8b0b636d0d2602f370f82f90893e880cad821f1435941a210ef3cb23b6ed87",
       "learned_at": "2026-09-30T02:28:55+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=2048",
+      "title": "STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png",
+      "summary": "Title: STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces,focalpoint&w=2048 Markdown Content: A mesmerizing view of a starry night sky with vibrant nebula clouds wisping through the darkness, a dazzling array of stars adding a touch of celestial magic to the scene",
+      "keywords": [
+        "science",
+        "assets",
+        "png",
+        "stsci-01m0jffad7sdccnhwt7t7p3qx9",
+        "2026",
+        "2048",
+        "adding",
+        "array",
+        "celestial",
+        "clip",
+        "clouds",
+        "content",
+        "crop",
+        "darkness"
+      ],
+      "hash": "b44d7e3ed103c15e43a4ee6187f834052110b41c483010d55365db9eca44f888",
+      "learned_at": "2026-09-30T08:56:39+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2026/STScI-01M3AK8JYK2EJ2M70ZQ0KKBSVC.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "STScI-01M3AK8JYK2EJ2M70ZQ0KKBSVC.jpg",
+      "summary": "Title: STScI-01M3AK8JYK2EJ2M70ZQ0KKBSVC.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2026/STScI-01M3AK8JYK2EJ2M70ZQ0KKBSVC.jpg?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: A NASA picture of galaxy at the center shows pink light and stars moving around the galaxy which is a spiral galaxy",
+      "keywords": [
+        "galaxy",
+        "assets",
+        "jpg",
+        "nasa",
+        "science",
+        "stsci-01m3ak8jyk2ej2m70zq0kkbsvc",
+        "2026",
+        "300",
+        "around",
+        "center",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage"
+      ],
+      "hash": "4621630161ef3dc40c58f58810d83a17dd5f644b678e4e2e83bbc3e4ce5c4fe2",
+      "learned_at": "2026-09-30T08:56:41+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/atmosphere/en/ionosphere.en.png",
+      "title": "ionosphere.en.png",
+      "summary": "Title: ionosphere.en.png URL Source: https://spaceplace.nasa.gov/atmosphere/en/ionosphere.en.png Markdown Content: lonosphere is the logo for this website",
+      "keywords": [
+        "ionosphere",
+        "png",
+        "atmosphere",
+        "content",
+        "gov",
+        "https",
+        "logo",
+        "lonosphere",
+        "markdown",
+        "nasa",
+        "source",
+        "spaceplace",
+        "title",
+        "url"
+      ],
+      "hash": "a3f1e5eb16e09eadb2eb14fb4f33612505ed8125781937d4be6d09021f64e1bb",
+      "learned_at": "2026-09-30T08:56:44+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/atmosphere/en/exosphere.en.png",
+      "title": "exosphere.en.png",
+      "summary": "Title: exosphere.en.png URL Source: https://spaceplace.nasa.gov/atmosphere/en/exosphere.en.png Markdown Content: An ellipse banner with ExpoSphere and stars",
+      "keywords": [
+        "exosphere",
+        "png",
+        "atmosphere",
+        "banner",
+        "content",
+        "ellipse",
+        "exposphere",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "source",
+        "spaceplace",
+        "stars"
+      ],
+      "hash": "edeed549184f5d041bba39808f449fbd940cf032e5e62215bb8d75ee97623b03",
+      "learned_at": "2026-09-30T08:56:46+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/webb/faqs-full/",
+      "title": "Webb FAQs - NASA Science",
+      "summary": "Title: Webb FAQs - NASA Science URL Source: https://science.nasa.gov/mission/webb/faqs-full/ Published Time: 2024-08-12T17:52:23-04:00 Markdown Content: ## Webb FAQ Frequently Asked Questions _All of the key questions answered about Webb targeted for the general interest level._ ## General Questions About Webb * **[What is the James Webb Space Telescope?](https://science.nasa.gov/mission/webb/faqs-full/#h-what-is-the-james-webb-space-telescope)** * **[What was the Webb called before it was named after James Webb?](https://science.nasa.gov/mission/webb/faqs-full/#h-what-was-the-webb-called-before-it-was-named-after-james-webb)** * **[Who was James E. Webb?](https://science.nasa.gov/mission/webb/faqs-full/#h-who-was-james-e-webb)** * **[How will Webb be better than the Hubble Space Telescope?](https://science.nasa.gov/mission/webb/faqs-full/#h-how-will-webb-be-better-than-the-hubble-space-",
+      "keywords": [
+        "webb",
+        "nasa",
+        "mission",
+        "science",
+        "faqs-full",
+        "gov",
+        "https",
+        "did",
+        "hubble",
+        "space",
+        "james",
+        "launched",
+        "questions",
+        "after"
+      ],
+      "hash": "c7ae6083bc715e7965d6f87253d2124172abb64f6566462f9a1dd2c3a04b38d5",
+      "learned_at": "2026-09-30T08:56:48+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
+      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation - NASA Science",
+      "summary": "Title: NASA’s Webb Reveals Dynamic Panorama of Star Formation - NASA Science URL Source: https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/ Published Time: 2026-09-15T10:00:00-04:00 Markdown Content: [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "apps",
+        "artemis"
+      ],
+      "hash": "fd669824439c5deb41b963d84d5d97bcad47a0a8d08cc8af3a9d6eb9827514f9",
+      "learned_at": "2026-09-30T08:56:50+00:00"
+    },
+    {
+      "url": "https://www.pib.gov.in/images/handicape-icon.png",
+      "title": "handicape-icon.png",
+      "summary": "Title: handicape-icon.png URL Source: https://www.pib.gov.in/images/handicape-icon.png Published Time: Mon, 04 Dec 2017 08:25:00 GMT Markdown Content: A 16x16 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "handicape-icon",
+        "png",
+        "16x16",
+        "2017",
+        "avatar",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely"
+      ],
+      "hash": "e1311ee9d7bde1ee3e78f5d0409055e1e93403a4d7b9f4a81e4145d4a3a246e6",
+      "learned_at": "2026-09-30T08:56:51+00:00"
+    },
+    {
+      "url": "https://www.pib.gov.in/images/standard-view.png",
+      "title": "standard-view.png",
+      "summary": "Title: standard-view.png URL Source: https://www.pib.gov.in/images/standard-view.png Published Time: Fri, 23 Aug 2019 07:08:14 GMT Markdown Content: A 22x22 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "png",
+        "standard-view",
+        "2019",
+        "22x22",
+        "aug",
+        "avatar",
+        "content",
+        "fri",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images"
+      ],
+      "hash": "38f91d7ec3dec511b2782d2b6871a2372e2305aa6d05dd18702b9a81b5ceaa2c",
+      "learned_at": "2026-09-30T08:56:52+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-30T08:56:52+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-09-30T08:56:52+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 19,
+      "frontier": 183
+    },
     {
       "at": "2026-09-30T02:28:55+00:00",
       "kind": "core_unchanged",
@@ -5500,11 +5734,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 171,
+    "successful_fetches": 179,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 5,
-    "candidate_rejections": 22
+    "candidate_rejections": 23
   },
   "core_genome": {
     "query_weight": 3.0,
