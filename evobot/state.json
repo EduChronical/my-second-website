@@ -1,15 +1,15 @@
 {
   "schema": 2,
-  "generation": 30,
-  "core_version": 6,
-  "runs": 29,
-  "pages_learned": 179,
-  "last_run": "2026-09-30T08:56:33+00:00",
+  "generation": 31,
+  "core_version": 7,
+  "runs": 30,
+  "pages_learned": 187,
+  "last_run": "2026-09-30T15:47:23+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/feature/goddard/2017/self-portrait-of-nasa-s-james-webb-space-telescope-marks-critical-test",
     "https://www.pib.gov.in/images/increase-text-size.png",
     "https://www.pib.gov.in/images/high-contrast.png",
-    "https://www.pib.gov.in/images/standard-view.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
     "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
@@ -176,20 +176,41 @@
     "https://www.protocols.io/",
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif?fit=clip&crop=faces%2Cfocalpoint&w=300",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://spaceplace.nasa.gov/atmosphere/en/ground.en.png",
-    "https://science.nasa.gov/mission/webb/who-is-james-webb/",
-    "https://science.nasa.gov/mission/hubble/observatory/hubble-vs-webb/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracing-the-growth-of-galaxies/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/",
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
+    "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-outer-planets-and-moons/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
+    "https://www.nobelprize.org/prizes/physics/2011/prize-announcement/",
+    "https://www.youtube.com/watch?v=NoOKQTb2h7A",
+    "https://www.youtube.com/watch?v=j3mk6tUokm4",
+    "https://jwst.nasa.gov/content/observatory/ote/mirrors/index.html",
+    "https://youtu.be/ZM3rnomT9iU",
+    "https://www.youtube.com/watch?v=SQvp5_XlzRI",
     "https://science.nasa.gov/mission/webb/launch/",
-    "https://www.nasa.gov/people/james-e-webb/",
-    "https://webb.nasa.gov/content/webbLaunch/deploymentExplorer.html",
-    "https://blogs.nasa.gov/webb/",
-    "https://www.nasa.gov/feature/goddard/2017/nasa-s-james-webb-space-telescope-completes-final-cryogenic-testing",
-    "https://www.nasa.gov/feature/goddard/2017/self-portrait-of-nasa-s-james-webb-space-telescope-marks-critical-test",
-    "https://science.nasa.gov/mission/webb/science-overview/"
+    "https://science.nasa.gov/mission/webb/science-overview/",
+    "https://science.nasa.gov/blogs/webb/2026/08/04/webb-unravels-small-cosmic-details-with-interferometry-observing-mode/",
+    "https://science.nasa.gov/blogs/webb/2026/03/06/how-nasas-webb-helped-rule-out-asteroids-chance-of-2032-lunar-impact/",
+    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
+    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
+    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
+    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
+    "https://www.nasa.gov/feature/goddard/2017/nasa-closes-chamber-a-door-to-commence-webb-telescope-testing",
+    "https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light",
+    "https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a",
+    "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark",
+    "https://www.nasa.gov/feature/goddard/2016/the-complex-material-engineering-of-nasas-webb-telescope-sunshield/",
+    "https://www.nasa.gov/webb",
+    "https://www.nasa.gov/goddard",
+    "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
+    "https://jwst.nasa.gov/miri.html",
+    "https://jwst.nasa.gov/cryocooler.html",
+    "https://jwst.nasa.gov/sunshield.html",
+    "http://www.webb.nasa.gov/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1130,6 +1151,50 @@
       "at": "2026-09-30T08:56:52+00:00",
       "status": "ok",
       "hash": "38f91d7ec3dec511b2782d2b6871a2372e2305aa6d05dd18702b9a81b5ceaa2c"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-09-30T15:47:24+00:00",
+      "status": "ok",
+      "hash": "c0c3065ce45b729462a44270304c768740994b4661e20fa4a263fffc596eb766"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-09-30T15:47:26+00:00",
+      "status": "ok",
+      "hash": "a31047d3b14bb275b2773328dd140454a93f1d214abb8c222c3fa325da87ee88"
+    },
+    "https://spaceplace.nasa.gov/atmosphere/en/ground.en.png": {
+      "at": "2026-09-30T15:47:29+00:00",
+      "status": "ok",
+      "hash": "8cd271251f1934d6f1107c9513351a8633424270a90f39409f2f911e56ac63a7"
+    },
+    "https://science.nasa.gov/mission/webb/who-is-james-webb/": {
+      "at": "2026-09-30T15:47:33+00:00",
+      "status": "ok",
+      "hash": "530fed5577599411ea4446a37253b2a63eede5e1adb500c9f2f98e9eb7b9cced"
+    },
+    "https://science.nasa.gov/mission/hubble/observatory/hubble-vs-webb/": {
+      "at": "2026-09-30T15:47:38+00:00",
+      "status": "ok",
+      "hash": "109532a064d8fb5073073136c19be6cc326a8610382167fd6ced1d9fed36787b"
+    },
+    "https://www.nasa.gov/people/james-e-webb/": {
+      "at": "2026-09-30T15:47:42+00:00",
+      "status": "ok",
+      "hash": "9dc60fb9688553f6eba836af37a318c4831e352b714c82f887f60995c4fcc26b"
+    },
+    "https://webb.nasa.gov/content/webbLaunch/deploymentExplorer.html": {
+      "at": "2026-09-30T15:47:43+00:00",
+      "status": "robots_disallow"
+    },
+    "https://blogs.nasa.gov/webb/": {
+      "at": "2026-09-30T15:47:45+00:00",
+      "status": "ok",
+      "hash": "35fbf06aaca1672d545f37d00d7ca7025b0d0bd4774445382ad63dd5cb06b00d"
+    },
+    "https://www.nasa.gov/feature/goddard/2017/nasa-s-james-webb-space-telescope-completes-final-cryogenic-testing": {
+      "at": "2026-09-30T15:47:50+00:00",
+      "status": "ok",
+      "hash": "60933f85f0eb09ec53a2a5cabd08f153a9eac72b5b57ae0460863e64a31e6c47"
     }
   },
   "memory": [
@@ -5249,10 +5314,220 @@
       ],
       "hash": "38f91d7ec3dec511b2782d2b6871a2372e2305aa6d05dd18702b9a81b5ceaa2c",
       "learned_at": "2026-09-30T08:56:52+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png",
+      "summary": "Title: STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: A zoomed in picture of the Milky Way",
+      "keywords": [
+        "science",
+        "assets",
+        "png",
+        "stsci-01m0jffad7sdccnhwt7t7p3qx9",
+        "2026",
+        "300",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage",
+        "faces",
+        "fit",
+        "focalpoint",
+        "gov"
+      ],
+      "hash": "c0c3065ce45b729462a44270304c768740994b4661e20fa4a263fffc596eb766",
+      "learned_at": "2026-09-30T15:47:24+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif",
+      "summary": "Title: STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M2K51AAZQFYV9R5G0K19SXTN.tif?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: The image is a visual display of various celestial objects captured by a telescopic telescope or space-based observatory",
+      "keywords": [
+        "science",
+        "assets",
+        "stsci-01m2k51aazqfyv9r5g0k19sxtn",
+        "tif",
+        "2026",
+        "300",
+        "captured",
+        "celestial",
+        "clip",
+        "content",
+        "crop",
+        "display",
+        "dynamicimage",
+        "faces"
+      ],
+      "hash": "a31047d3b14bb275b2773328dd140454a93f1d214abb8c222c3fa325da87ee88",
+      "learned_at": "2026-09-30T15:47:26+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/atmosphere/en/ground.en.png",
+      "title": "ground.en.png",
+      "summary": "Title: ground.en.png URL Source: https://spaceplace.nasa.gov/atmosphere/en/ground.en.png Markdown Content: white background full screen with side of mountain and pine trees",
+      "keywords": [
+        "ground",
+        "png",
+        "atmosphere",
+        "background",
+        "content",
+        "full",
+        "gov",
+        "https",
+        "markdown",
+        "mountain",
+        "nasa",
+        "pine",
+        "screen",
+        "side"
+      ],
+      "hash": "8cd271251f1934d6f1107c9513351a8633424270a90f39409f2f911e56ac63a7",
+      "learned_at": "2026-09-30T15:47:29+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/webb/who-is-james-webb/",
+      "title": "Who is James Webb? - NASA Science",
+      "summary": "Title: Who is James Webb? - NASA Science URL Source: https://science.nasa.gov/mission/webb/who-is-james-webb/ Published Time: 2022-06-01T00:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nas",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "530fed5577599411ea4446a37253b2a63eede5e1adb500c9f2f98e9eb7b9cced",
+      "learned_at": "2026-09-30T15:47:33+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/observatory/hubble-vs-webb/",
+      "title": "Hubble vs. Webb - NASA Science",
+      "summary": "Title: Hubble vs. Webb - NASA Science URL Source: https://science.nasa.gov/mission/hubble/observatory/hubble-vs-webb/ Published Time: 2022-10-06T03:21:04-04:00 Markdown Content: ## Observatory: Hubble vs. Webb ## On The Shoulders of a Giant Hubble and Webb work together to explore the cosmos. Their observations complement each other, providing us with a broad view of the universe. ## Overview In 1675, famed physicist and mathematician, Isaac Newton, penned a letter to his contemporary and rival, polymath Robert Hooke. In that letter, Newton wrote what would become one of his most famous remarks: “If I have seen further, it is by standing on the shoulders of giants.” Over time, this simple statement has come to represent the process of science itself, each new discovery building upon previous work. The same is true for NASA’s Hubble Space Telescope and its observing partner, NASA’s James ",
+      "keywords": [
+        "science",
+        "hubble",
+        "nasa",
+        "https",
+        "gov",
+        "mission",
+        "science-highlights",
+        "space",
+        "webb",
+        "telescope",
+        "time",
+        "universe",
+        "2011",
+        "discovery"
+      ],
+      "hash": "109532a064d8fb5073073136c19be6cc326a8610382167fd6ced1d9fed36787b",
+      "learned_at": "2026-09-30T15:47:38+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/people/james-e-webb/",
+      "title": "James E. Webb - NASA",
+      "summary": "Title: James E. Webb - NASA URL Source: https://www.nasa.gov/people/james-e-webb/ Published Time: 2023-03-30T19:30:56Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.g",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "science",
+        "apps"
+      ],
+      "hash": "9dc60fb9688553f6eba836af37a318c4831e352b714c82f887f60995c4fcc26b",
+      "learned_at": "2026-09-30T15:47:42+00:00"
+    },
+    {
+      "url": "https://blogs.nasa.gov/webb/",
+      "title": "James Webb Space Telescope Archives - NASA Science",
+      "summary": "Title: James Webb Space Telescope Archives - NASA Science URL Source: https://blogs.nasa.gov/webb/ Markdown Content: * August 4, 2026 10:00AM## [Webb Unravels Small Cosmic Details With Interferometry Observing Mode ![Image 1: A prototype of NASA’s James Webb Space Telescope’s NIRISS (Near Infrared Imager and Slitless Spectrograph) non-redundant mask with seven hexagonal pinholes with outlines of the telescope’s primary mirror segments and secondary mirror support struts. When light passes through these pinholes, it creates a pattern of overlapping light waves. Similar to overlapping waves in water, these light waves can interfere constructively (combine together) or destructively (cancel out) with each other, creating a complex pattern of light and dark spots known as fringes.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/blog/2026/NIRISS_NRM_hardware.jpg?w=9",
+      "keywords": [
+        "nasa",
+        "webb",
+        "science",
+        "2026",
+        "circle",
+        "gov",
+        "https",
+        "scale",
+        "assets",
+        "black",
+        "image",
+        "legend",
+        "light",
+        "telescope"
+      ],
+      "hash": "35fbf06aaca1672d545f37d00d7ca7025b0d0bd4774445382ad63dd5cb06b00d",
+      "learned_at": "2026-09-30T15:47:45+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/feature/goddard/2017/nasa-s-james-webb-space-telescope-completes-final-cryogenic-testing",
+      "title": "NASA’s James Webb Space Telescope Completes Final Cryogenic Testing - NASA",
+      "summary": "Title: NASA’s James Webb Space Telescope Completes Final Cryogenic Testing - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/nasa-s-james-webb-space-telescope-completes-final-cryogenic-testing Published Time: 2017-11-20T14:04:00-05:00 Markdown Content: The vault-like, 40-foot diameter, 40-ton door of Chamber A at NASA’s Johnson Space Center in Houston was unsealed on November 18, signaling the end of cryogenic testing for NASA’s James Webb Space Telescope. The historic chamber’s massive door opening brings to a close about 100 days of testing for Webb, a significant milestone in the telescope’s journey to the launch pad. The cryogenic vacuum test began when the [chamber was sealed shut](https://www.nasa.gov/feature/goddard/2017/nasa-closes-chamber-a-door-to-commence-webb-telescope-testing) on July 10, 2017. Scientists and engineers at Johnson put Webb’s optical telescope and i",
+      "keywords": [
+        "nasa",
+        "webb",
+        "telescope",
+        "space",
+        "testing",
+        "goddard",
+        "chamber",
+        "cryogenic",
+        "test",
+        "2017",
+        "johnson",
+        "feature",
+        "gov",
+        "harris"
+      ],
+      "hash": "60933f85f0eb09ec53a2a5cabd08f153a9eac72b5b57ae0460863e64a31e6c47",
+      "learned_at": "2026-09-30T15:47:50+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-09-30T15:47:50+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v7",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-09-30T15:47:50+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 14,
+      "frontier": 204
+    },
     {
       "at": "2026-09-30T08:56:52+00:00",
       "kind": "core_unchanged",
@@ -5734,10 +6009,10 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 179,
+    "successful_fetches": 187,
     "failed_fetches": 0,
     "duplicate_pages": 0,
-    "candidate_promotions": 5,
+    "candidate_promotions": 6,
     "candidate_rejections": 23
   },
   "core_genome": {
@@ -5771,9 +6046,9 @@
     "spaceplace.nasa.gov",
     "www.nature.com",
     "www.pib.gov.in",
+    "www.sebi.gov.in",
     "plus.nasa.gov",
     "static.pib.gov.in",
-    "www.sebi.gov.in",
     "www.imf.org",
     "www.rbi.org.in"
   ]
