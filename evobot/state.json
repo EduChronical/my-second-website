@@ -1,12 +1,14 @@
 {
   "schema": 2,
-  "generation": 33,
-  "core_version": 7,
-  "runs": 32,
-  "pages_learned": 198,
-  "last_run": "2026-10-01T00:00:47+00:00",
+  "generation": 34,
+  "core_version": 8,
+  "runs": 33,
+  "pages_learned": 203,
+  "last_run": "2026-10-01T05:41:37+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/feature/goddard/2016/the-complex-material-engineering-of-nasas-webb-telescope-sunshield/",
+    "https://www.nasa.gov/webb",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -189,18 +191,20 @@
     "https://www.youtube.com/watch?v=j3mk6tUokm4",
     "https://youtu.be/ZM3rnomT9iU",
     "https://www.youtube.com/watch?v=SQvp5_XlzRI",
-    "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/",
-    "https://science.nasa.gov/wp-content/uploads/2023/01/hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png?w=1024",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
     "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
     "https://www.youtube.com/watch?v=SDuXAHuc7W0",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces%2Cfocalpoint",
+    "http://sat.gov.in/scripts/showdailyboard.asp",
+    "https://science.nasa.gov/?search=ISS",
+    "https://science.nasa.gov/?search=Roman",
+    "https://science.nasa.gov/?search=Webb",
+    "https://science.nasa.gov/?search=Quesst",
+    "https://science.nasa.gov/?search=Moon+Base",
+    "https://science.nasa.gov/mars/",
+    "https://science.nasa.gov/wp-content/uploads/2023/01/hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png?w=1024",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
     "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
     "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-outer-planets-and-moons/",
@@ -213,11 +217,8 @@
     "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
     "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
     "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
-    "https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light",
-    "https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a",
-    "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark",
-    "https://www.nasa.gov/feature/goddard/2016/the-complex-material-engineering-of-nasas-webb-telescope-sunshield/",
-    "https://www.nasa.gov/webb"
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
+    "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1261,6 +1262,31 @@
       "at": "2026-10-01T00:01:16+00:00",
       "status": "ok",
       "hash": "e3740e54df9cb4cd45cd07ad93811d614f7470eff714420927b1e24da2c61a00"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-01T05:42:01+00:00",
+      "status": "ok",
+      "hash": "e25854909f4e1187debe9efa8cc6702ba4704ac018daeed0bc5ca4f84b04b0e0"
+    },
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/": {
+      "at": "2026-10-01T05:42:05+00:00",
+      "status": "ok",
+      "hash": "c6393279e789b7d6bde7085332d5b2a655df5349715eb3c895b1c1a6e4c71db0"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024": {
+      "at": "2026-10-01T05:42:08+00:00",
+      "status": "ok",
+      "hash": "cc3302dc9b82ff1c55a5c38f67d82dc4129f64d6172969d9eec30fd6175bd6bf"
+    },
+    "https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light": {
+      "at": "2026-10-01T05:42:13+00:00",
+      "status": "ok",
+      "hash": "4780880dd3ce2de69fd2fbb961ae41b3bd5f5f5402c1cf3427e9692a5b69edf5"
+    },
+    "https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a": {
+      "at": "2026-10-01T05:42:20+00:00",
+      "status": "ok",
+      "hash": "3191d3e2b7d8b06c7cfa87c520989942ebf916962f15eddef5429322124222fd"
     }
   },
   "memory": [
@@ -5817,10 +5843,151 @@
       ],
       "hash": "e3740e54df9cb4cd45cd07ad93811d614f7470eff714420927b1e24da2c61a00",
       "learned_at": "2026-10-01T00:01:16+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Hubble_Abell370_heic1711a.jpg",
+      "summary": "Title: Hubble_Abell370_heic1711a.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces,focalpoint Markdown Content: The Hubble image is one of the best of its series including eight panoramic field and composite images of the constellationuckหารלכתเอกฤกษ์ที่ซื่อตั้งอยู่ตัดกันที่จุดตึกรุนแรงที่ใกล้กับจุดตึกรุนแรง กัสรังจันทร์ ซึ่งตั้งอยู่ด้านบนของภาพ มัสตาร์ดใจสีขาวเหล่านี้มีขนาดต่างกัน และละลายเข้ากับกาแล็กซี המწאריที่ล้อมรอบ ส่วนใหญ่เป็นกาแล็กซีที่มีหอคอยวนพานลอนหอบที่ไม่มีบริเวณที่ตื้น พร้อมด้วยกาแล็กซีที่มีหูหิ้ว เดินหน้า หรือมีรูปทรงไขว่ห้างมากกว่า ภาพนี้ได้รวมถึงสองภาพกระจกขยายสัญญาณแบบแทรกซีสในการทำให้วัตถุจักรวาลต่างๆ ปรากฏชัดเจนและสว่างขึ้น",
+      "keywords": [
+        "assets",
+        "hubble",
+        "hubble_abell370_heic1711a",
+        "jpg",
+        "science",
+        "งอย",
+        "3594",
+        "4000",
+        "best",
+        "clip",
+        "clusters",
+        "composite",
+        "constellationuckหารלכתเอกฤกษ",
+        "content"
+      ],
+      "hash": "e25854909f4e1187debe9efa8cc6702ba4704ac018daeed0bc5ca4f84b04b0e0",
+      "learned_at": "2026-10-01T05:42:01+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/",
+      "title": "Page not found - NASA Science",
+      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedi",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "c6393279e789b7d6bde7085332d5b2a655df5349715eb3c895b1c1a6e4c71db0",
+      "learned_at": "2026-10-01T05:42:05+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024",
+      "title": "hubble_opal_composite.png",
+      "summary": "Title: hubble_opal_composite.png URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024 Published Time: Thu, 01 Oct 2026 05:42:07 GMT Markdown Content: Pictures of different planets in space, the image is divided into three parts",
+      "keywords": [
+        "hubble_opal_composite",
+        "png",
+        "1024",
+        "2023",
+        "2026",
+        "content",
+        "different",
+        "divided",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "cc3302dc9b82ff1c55a5c38f67d82dc4129f64d6172969d9eec30fd6175bd6bf",
+      "learned_at": "2026-10-01T05:42:08+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light",
+      "title": "Aligning the Primary Mirror Segments of NASA’s James Webb Space Telescope with Light - NASA",
+      "summary": "Title: Aligning the Primary Mirror Segments of NASA’s James Webb Space Telescope with Light - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light Published Time: 2017-09-20T14:30:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nas",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "space",
+        "apps"
+      ],
+      "hash": "4780880dd3ce2de69fd2fbb961ae41b3bd5f5f5402c1cf3427e9692a5b69edf5",
+      "learned_at": "2026-10-01T05:42:13+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a",
+      "title": "How Does NASA’s Webb Telescope Stay Cool in Chamber A? - NASA",
+      "summary": "Title: How Does NASA’s Webb Telescope Stay Cool in Chamber A? - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a Published Time: 2017-08-09T14:20:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsl",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "science",
+        "image",
+        "plus",
+        "podcasts",
+        "webb"
+      ],
+      "hash": "3191d3e2b7d8b06c7cfa87c520989942ebf916962f15eddef5429322124222fd",
+      "learned_at": "2026-10-01T05:42:20+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-01T05:42:20+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v8",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-01T05:42:20+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 212
+    },
     {
       "at": "2026-10-01T00:01:17+00:00",
       "kind": "core_unchanged",
@@ -6358,10 +6525,10 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 198,
+    "successful_fetches": 203,
     "failed_fetches": 0,
     "duplicate_pages": 0,
-    "candidate_promotions": 6,
+    "candidate_promotions": 7,
     "candidate_rejections": 25
   },
   "core_genome": {
@@ -6393,8 +6560,8 @@
     "www.nasa.gov",
     "assets.science.nasa.gov",
     "spaceplace.nasa.gov",
-    "www.nature.com",
     "www.pib.gov.in",
+    "www.nature.com",
     "www.sebi.gov.in",
     "plus.nasa.gov",
     "static.pib.gov.in",
