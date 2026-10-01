@@ -1,13 +1,12 @@
 {
   "schema": 2,
-  "generation": 32,
+  "generation": 33,
   "core_version": 7,
-  "runs": 31,
-  "pages_learned": 192,
-  "last_run": "2026-09-30T20:20:43+00:00",
+  "runs": 32,
+  "pages_learned": 198,
+  "last_run": "2026-10-01T00:00:47+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.pib.gov.in/images/increase-text-size.png",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -78,6 +77,10 @@
     "https://jwst.nasa.gov/miri.html",
     "https://jwst.nasa.gov/cryocooler.html",
     "https://jwst.nasa.gov/sunshield.html",
+    "https://www.nasa.gov/?search=ISS",
+    "https://www.nasa.gov/?search=Roman",
+    "https://www.nasa.gov/?search=Quesst",
+    "https://www.nasa.gov/?search=Moon+Base",
     "http://www.webb.nasa.gov/",
     "https://pib.gov.in/organisationalsetuph.aspx",
     "https://www.sebi.gov.in/qr-verification.html",
@@ -187,11 +190,17 @@
     "https://youtu.be/ZM3rnomT9iU",
     "https://www.youtube.com/watch?v=SQvp5_XlzRI",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint",
-    "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=150&h=150&crop=1",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg?w=1024",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracing-the-growth-of-galaxies/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/",
+    "https://science.nasa.gov/wp-content/uploads/2023/01/hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png?w=1024",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
+    "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
+    "https://www.youtube.com/watch?v=SDuXAHuc7W0",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces%2Cfocalpoint",
     "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
     "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-outer-planets-and-moons/",
@@ -204,11 +213,6 @@
     "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
     "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
     "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
-    "https://www.nasa.gov/?search=ISS",
-    "https://www.nasa.gov/?search=Roman",
-    "https://www.nasa.gov/?search=Webb",
-    "https://www.nasa.gov/?search=Quesst",
-    "https://www.nasa.gov/?search=Moon+Base",
     "https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light",
     "https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a",
     "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark",
@@ -1223,6 +1227,40 @@
       "at": "2026-09-30T20:21:05+00:00",
       "status": "ok",
       "hash": "f10116d661aa44046d57d76175c9e9327d0846c8d4d1c134199c6c9f488d1e23"
+    },
+    "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-01T00:00:48+00:00",
+      "status": "robots_disallow"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg?w=1024": {
+      "at": "2026-10-01T00:00:50+00:00",
+      "status": "ok",
+      "hash": "f1c43246f0441caa0fe3a491521514c98645e3e3c031f15ec58323dfc9ac47d8"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=150&h=150&crop=1": {
+      "at": "2026-10-01T00:00:54+00:00",
+      "status": "ok",
+      "hash": "f9d742a759959b0cbeb0ab70f9b989234d044d90c19e8202ab5a47e4f29e9e26"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracing-the-growth-of-galaxies/": {
+      "at": "2026-10-01T00:01:00+00:00",
+      "status": "ok",
+      "hash": "c40b68b888464843ea0e1105184462dd459e8d109296c412801fdb0891ee9a0f"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/": {
+      "at": "2026-10-01T00:01:06+00:00",
+      "status": "ok",
+      "hash": "69e27ff28e2a949234af630d5daebf9f3ff6e14bb4f4bec0aeb45b84ce87de9c"
+    },
+    "https://www.nasa.gov/?search=Webb": {
+      "at": "2026-10-01T00:01:15+00:00",
+      "status": "ok",
+      "hash": "685a0318c37434888d3e30bd025edc5a116deef1f1f00d6c8e3053cff0e9ef3d"
+    },
+    "https://www.pib.gov.in/images/increase-text-size.png": {
+      "at": "2026-10-01T00:01:16+00:00",
+      "status": "ok",
+      "hash": "e3740e54df9cb4cd45cd07ad93811d614f7470eff714420927b1e24da2c61a00"
     }
   },
   "memory": [
@@ -5641,10 +5679,163 @@
       ],
       "hash": "f10116d661aa44046d57d76175c9e9327d0846c8d4d1c134199c6c9f488d1e23",
       "learned_at": "2026-09-30T20:21:05+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg?w=1024",
+      "title": "Swift_in_space_09.jpg",
+      "summary": "Title: Swift_in_space_09.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg?w=1024 Markdown Content: a black science device in outer space by a planet which is blue and white with stars around it",
+      "keywords": [
+        "science",
+        "assets",
+        "jpg",
+        "swift_in_space_09",
+        "1024",
+        "around",
+        "black",
+        "blue",
+        "content",
+        "device",
+        "dynamicimage",
+        "gov",
+        "https",
+        "markdown"
+      ],
+      "hash": "f1c43246f0441caa0fe3a491521514c98645e3e3c031f15ec58323dfc9ac47d8",
+      "learned_at": "2026-10-01T00:00:50+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=150&h=150&crop=1",
+      "title": "starliner-update-sept-28.jpg",
+      "summary": "Title: starliner-update-sept-28.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=150&h=150&crop=1 Published Time: Thu, 01 Oct 2026 00:00:53 GMT Markdown Content: A partially visible spacecraft viewed from an unusual angle",
+      "keywords": [
+        "150",
+        "2026",
+        "jpg",
+        "starliner-update-sept-28",
+        "angle",
+        "content",
+        "crop",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "oct",
+        "partially"
+      ],
+      "hash": "f9d742a759959b0cbeb0ab70f9b989234d044d90c19e8202ab5a47e4f29e9e26",
+      "learned_at": "2026-10-01T00:00:54+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/tracing-the-growth-of-galaxies/",
+      "title": "Tracing the Growth of Galaxies - NASA Science",
+      "summary": "Title: Tracing the Growth of Galaxies - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/tracing-the-growth-of-galaxies/ Published Time: 2021-12-22T00:06:21-05:00 Markdown Content: Like documenting a child’s development in a scrapbook, astronomers use Hubble to capture the appearance of many developing galaxies throughout cosmic time. This is possible because of the relationship between cosmic distance and time: the deeper Hubble peers into space, the farther back it looks in time. The most distant and earliest galaxies spotted by Hubble are smaller and more irregularly shaped than today's grand spiral and elliptical galaxies. This is evidence that galaxies grew over time through mergers with other galaxies to become the giant systems we see today. [Video 6](https://www.youtube.com/watch?v=Gr_AF_AB1AU) Taken over the course of 10 days in 1995, t",
+      "keywords": [
+        "hubble",
+        "galaxies",
+        "nasa",
+        "time",
+        "deep",
+        "field",
+        "galaxy",
+        "https",
+        "science",
+        "milky",
+        "way",
+        "andromeda",
+        "collision",
+        "cosmic"
+      ],
+      "hash": "c40b68b888464843ea0e1105184462dd459e8d109296c412801fdb0891ee9a0f",
+      "learned_at": "2026-10-01T00:01:00+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/",
+      "title": "Exploring the Birth of Stars - NASA Science",
+      "summary": "Title: Exploring the Birth of Stars - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/ Published Time: 2021-12-22T03:03:21-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "apps",
+        "artemis"
+      ],
+      "hash": "69e27ff28e2a949234af630d5daebf9f3ff6e14bb4f4bec0aeb45b84ce87de9c",
+      "learned_at": "2026-10-01T00:01:06+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/?search=Webb",
+      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+      "summary": "Title: NASA Opens 2027 Human Lander Challenge for Lunar Communications URL Source: https://www.nasa.gov/?search=Webb Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "webb"
+      ],
+      "hash": "685a0318c37434888d3e30bd025edc5a116deef1f1f00d6c8e3053cff0e9ef3d",
+      "learned_at": "2026-10-01T00:01:15+00:00"
+    },
+    {
+      "url": "https://www.pib.gov.in/images/increase-text-size.png",
+      "title": "increase-text-size.png",
+      "summary": "Title: increase-text-size.png URL Source: https://www.pib.gov.in/images/increase-text-size.png Published Time: Mon, 04 Dec 2017 08:25:00 GMT Markdown Content: A 22x22 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "increase-text-size",
+        "png",
+        "2017",
+        "22x22",
+        "avatar",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely"
+      ],
+      "hash": "e3740e54df9cb4cd45cd07ad93811d614f7470eff714420927b1e24da2c61a00",
+      "learned_at": "2026-10-01T00:01:16+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-01T00:01:17+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-01T00:01:16+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 211
+    },
     {
       "at": "2026-09-30T20:21:06+00:00",
       "kind": "core_unchanged",
@@ -6167,11 +6358,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 192,
+    "successful_fetches": 198,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 6,
-    "candidate_rejections": 24
+    "candidate_rejections": 25
   },
   "core_genome": {
     "query_weight": 3.0,
