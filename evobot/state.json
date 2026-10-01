@@ -1,19 +1,15 @@
 {
   "schema": 2,
-  "generation": 36,
+  "generation": 37,
   "core_version": 8,
-  "runs": 35,
-  "pages_learned": 211,
-  "last_run": "2026-10-01T17:38:29+00:00",
+  "runs": 36,
+  "pages_learned": 215,
+  "last_run": "2026-10-01T22:00:02+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
-    "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark",
-    "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-    "https://science.nasa.gov/?search=ISS",
-    "https://science.nasa.gov/?search=Roman",
     "https://science.nasa.gov/?search=Quesst",
     "https://science.nasa.gov/?search=Moon+Base",
+    "https://science.nasa.gov/mars/",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -199,8 +195,14 @@
     "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
     "https://www.youtube.com/watch?v=SDuXAHuc7W0",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-witnesses-asteroids-mysterious-disintegration/",
+    "https://science.nasa.gov/missions/hubble/suspected-asteroid-collision-leaves-odd-x-pattern-of-trailing-debris/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble-nebula-crab-nebula-display-1-jpg.webp?w=1024",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/the-death-throes-of-stars/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/recognizing-worlds-beyond-our-sun/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble-v838mon-heic0405a-jpg.webp?w=936",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
     "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
     "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
@@ -218,7 +220,9 @@
     "https://science.nasa.gov/asset/webb/ic-348-nircam-image-2/",
     "https://science.nasa.gov/asset/webb/ic-348-collage/",
     "https://science.nasa.gov/asset/hubble/trans-neptunian-object-illustration/",
-    "https://science.nasa.gov/mars/"
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
+    "https://science.nasa.gov/?search=ISS",
+    "https://science.nasa.gov/?search=Roman"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1327,6 +1331,26 @@
       "at": "2026-10-01T17:38:48+00:00",
       "status": "ok",
       "hash": "2b0e9b3f10a6aa585e3e5c205ab6345722489747cd7d847e3177cf908912bf95"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/": {
+      "at": "2026-10-01T22:00:06+00:00",
+      "status": "ok",
+      "hash": "5a1286a265c9cfbeffea00d3239241ece4e1f748070a983caa26a6ce3b533273"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/": {
+      "at": "2026-10-01T22:00:10+00:00",
+      "status": "ok",
+      "hash": "58df15633ca75dc8c2bbdc9641c88d7cec37c15c4b53138485db2bf1b66e9478"
+    },
+    "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark": {
+      "at": "2026-10-01T22:00:15+00:00",
+      "status": "ok",
+      "hash": "563642b30248e79719a26dee7e372a09a32900df39cbb2ffe99cb524c0d38aeb"
+    },
+    "https://www.nasa.gov/image-article/webb-opens-treasure-chest/": {
+      "at": "2026-10-01T22:00:19+00:00",
+      "status": "ok",
+      "hash": "6ed3b7e956c2bef6a8bc999a5b9c3f984e3c6998f7725ebb7e1c639c71caedf5"
     }
   },
   "memory": [
@@ -6182,10 +6206,117 @@
       ],
       "hash": "2b0e9b3f10a6aa585e3e5c205ab6345722489747cd7d847e3177cf908912bf95",
       "learned_at": "2026-10-01T17:38:48+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/",
+      "title": "Studying the Planets and Moons - NASA Science",
+      "summary": "Title: Studying the Planets and Moons - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/ Published Time: 2021-12-22T01:46:14-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialm",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "5a1286a265c9cfbeffea00d3239241ece4e1f748070a983caa26a6ce3b533273",
+      "learned_at": "2026-10-01T22:00:06+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/",
+      "title": "Tracking Evolution in the Asteroid Belt - NASA Science",
+      "summary": "Title: Tracking Evolution in the Asteroid Belt - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/ Published Time: 2021-12-22T02:07:40-05:00 Markdown Content: Between the orbits of Mars and Jupiter lies a large concentration of asteroids, which are conglomerates of rock and ice that hold clues to the formation of our solar system. This ‘Asteroid Belt’ is the rubble left over from the construction of our solar system, and Hubble’s observations have helped shape our understanding of their interactions and compositions. * ### **A Fragmented Asteroid** Hubble watched the slow disintegration of asteroid P/2013 R3 into 10 smaller pieces. The Hubble data revealed that the fragments are drifting away from each other at a leisurely one mile per hour — slower than the speed of a strolling human — which suggests the ",
+      "keywords": [
+        "asteroid",
+        "hubble",
+        "nasa",
+        "science",
+        "asteroids",
+        "belt",
+        "gov",
+        "https",
+        "collision",
+        "comet",
+        "dust",
+        "like",
+        "missions",
+        "other"
+      ],
+      "hash": "58df15633ca75dc8c2bbdc9641c88d7cec37c15c4b53138485db2bf1b66e9478",
+      "learned_at": "2026-10-01T22:00:10+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark",
+      "title": "Keeping NASA’s James Webb Space Telescope in the Dark - NASA",
+      "summary": "Title: Keeping NASA’s James Webb Space Telescope in the Dark - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark Published Time: 2017-09-12T13:39:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsle",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "science",
+        "image",
+        "plus",
+        "podcasts",
+        "webb"
+      ],
+      "hash": "563642b30248e79719a26dee7e372a09a32900df39cbb2ffe99cb524c0d38aeb",
+      "learned_at": "2026-10-01T22:00:15+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+      "title": "Webb Opens Treasure Chest - NASA",
+      "summary": "Title: Webb Opens Treasure Chest - NASA URL Source: https://www.nasa.gov/image-article/webb-opens-treasure-chest/ Published Time: 2026-08-21T17:35:11Z Markdown Content: [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Med",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "webb"
+      ],
+      "hash": "6ed3b7e956c2bef6a8bc999a5b9c3f984e3c6998f7725ebb7e1c639c71caedf5",
+      "learned_at": "2026-10-01T22:00:19+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-01T22:00:19+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-01T22:00:19+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 216
+    },
     {
       "at": "2026-10-01T17:38:49+00:00",
       "kind": "core_unchanged",
@@ -6779,11 +6910,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 211,
+    "successful_fetches": 215,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 27
+    "candidate_rejections": 28
   },
   "core_genome": {
     "query_weight": 3.0,
