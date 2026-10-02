@@ -1,12 +1,24 @@
 {
   "schema": 2,
-  "generation": 41,
+  "generation": 42,
   "core_version": 8,
-  "runs": 40,
-  "pages_learned": 226,
-  "last_run": "2026-10-02T19:15:27+00:00",
+  "runs": 41,
+  "pages_learned": 228,
+  "last_run": "2026-10-02T23:03:31+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://science.nasa.gov/mission/webb/launch/",
+    "https://science.nasa.gov/mission/webb/science-overview/",
+    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
+    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
+    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
+    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
+    "https://science.nasa.gov/asset/webb/centaurus-a-poster/",
+    "https://science.nasa.gov/asset/webb/ic-348-nircam-image-2/",
+    "https://science.nasa.gov/asset/webb/ic-348-collage/",
+    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-meteoroid.en.png",
+    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteor-shower.en.png",
+    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteorite.en.png",
     "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://science.nasa.gov/?search=ISS",
     "https://science.nasa.gov/?search=Roman",
@@ -16,6 +28,7 @@
     "https://spaceplace.nasa.gov/asteroid/en/",
     "https://spaceplace.nasa.gov/asteroid/en/",
     "https://www.jpl.nasa.gov/edu/events/2021/6/30/asteroid-day/",
+    "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -26,7 +39,6 @@
     "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
     "https://ssd.jpl.nasa.gov/",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
-    "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
     "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
     "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=872",
@@ -201,45 +213,35 @@
     "https://www.youtube.com/watch?v=SQvp5_XlzRI",
     "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
     "https://www.youtube.com/watch?v=SDuXAHuc7W0",
+    "https://www.youtube.com/watch?v=rYnA4EeU8f8",
+    "https://www.youtube.com/watch?v=9eAxR_5iGwU",
     "http://sat.gov.in/scripts/showdailyboard.asp",
+    "https://www.youtube.com/watch?v=0rJQi6oaZf0",
+    "http://svs.gsfc.nasa.gov/goto",
+    "https://svs.gsfc.nasa.gov/goto",
+    "https://www.nasa.gov/content/goddard/astronomers-bring-the-third-dimension-to-a-doomed-stars-outburst/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/stsci-prc11-15a-jpg.webp?w=1024",
+    "https://science.nasa.gov/missions/hubble/hubble-delivers-first-hints-of-possible-water-content-of-trappist-1-planets/",
+    "https://science.nasa.gov/universe/exoplanets/exoplanet-apparently-disappears-in-latest-hubble-observations/",
+    "https://science.nasa.gov/missions/hubble/hubble-detects-a-exocomets-taking-the-plunge-into-a-young-star/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-outer-planets-and-moons/",
     "https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/",
-    "https://science.nasa.gov/missions/hubble/nasa-observatories-take-an-unprecedented-look-into-superstar-eta-carinae/",
     "https://science.nasa.gov/missions/hubble/hubble-celebrates-34th-anniversary-with-little-dumbbell-nebula/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp?w=1024",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/stsci-prc11-15a-jpg.webp?w=1024",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/",
-    "https://science.nasa.gov/missions/hubble/hubble-delivers-first-hints-of-possible-water-content-of-trappist-1-planets/",
     "https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/",
-    "https://science.nasa.gov/universe/exoplanets/exoplanet-apparently-disappears-in-latest-hubble-observations/",
     "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
     "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
-    "https://science.nasa.gov/missions/hubble/hubble-detects-a-exocomets-taking-the-plunge-into-a-young-star/",
     "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-strange-new-worlds/",
-    "https://www.youtube.com/watch?v=rYnA4EeU8f8",
-    "https://www.youtube.com/watch?v=9eAxR_5iGwU",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
     "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
     "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-outer-planets-and-moons/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
-    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
-    "https://science.nasa.gov/mission/webb/launch/",
-    "https://science.nasa.gov/mission/webb/science-overview/",
-    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
-    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
-    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
-    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
-    "https://science.nasa.gov/asset/webb/centaurus-a-poster/",
-    "https://science.nasa.gov/asset/webb/ic-348-nircam-image-2/",
-    "https://science.nasa.gov/asset/webb/ic-348-collage/",
-    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-meteoroid.en.png",
-    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteor-shower.en.png",
-    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteorite.en.png"
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1423,6 +1425,16 @@
       "at": "2026-10-02T19:15:43+00:00",
       "status": "ok",
       "hash": "1162ef6da8e04749ef73e291cdca9388bed5996ee5b85499104e6514e7e3c1b5"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp?w=1024": {
+      "at": "2026-10-02T23:03:35+00:00",
+      "status": "ok",
+      "hash": "90c4588babe86f843fb1076ec3ee537404fc55e897a3415899a5f12e850eaa48"
+    },
+    "https://science.nasa.gov/missions/hubble/nasa-observatories-take-an-unprecedented-look-into-superstar-eta-carinae/": {
+      "at": "2026-10-02T23:03:39+00:00",
+      "status": "ok",
+      "hash": "044e66467c889b077fb4b71d72a0224e1668e2ead9813fc4dd2daa55f718aaf9"
     }
   },
   "memory": [
@@ -6623,10 +6635,71 @@
       ],
       "hash": "1162ef6da8e04749ef73e291cdca9388bed5996ee5b85499104e6514e7e3c1b5",
       "learned_at": "2026-10-02T19:15:43+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp?w=1024",
+      "title": "hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp",
+      "summary": "Title: hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp?w=1024 Published Time: Fri, 02 Oct 2026 23:03:32 GMT Markdown Content: This is mapping out a galaxy cluster in a light mode that Hopkins Space Telescope Built",
+      "keywords": [
+        "hubble_ultra_deep_field_stsci-prc04-07a-jpg",
+        "webp",
+        "1024",
+        "2023",
+        "2026",
+        "built",
+        "cluster",
+        "content",
+        "fri",
+        "galaxy",
+        "gmt",
+        "gov",
+        "hopkins",
+        "https"
+      ],
+      "hash": "90c4588babe86f843fb1076ec3ee537404fc55e897a3415899a5f12e850eaa48",
+      "learned_at": "2026-10-02T23:03:35+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/nasa-observatories-take-an-unprecedented-look-into-superstar-eta-carinae/",
+      "title": "NASA Observatories Take an Unprecedented Look into Superstar Eta Carinae - NASA Science",
+      "summary": "Title: NASA Observatories Take an Unprecedented Look into Superstar Eta Carinae - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasa-observatories-take-an-unprecedented-look-into-superstar-eta-carinae/ Published Time: 2015-01-05T20:00:00-05:00 Markdown Content: Eta Carinae, the most luminous and massive stellar system within 10,000 light-years of Earth, is known for its surprising behavior, erupting twice in the 19th century for reasons scientists still don't understand. A long-term study led by astronomers at NASA's Goddard Space Flight Center in Greenbelt, Maryland, used NASA satellites, ground-based telescopes and theoretical modeling to produce the most comprehensive picture of Eta Carinae to date. New findings include Hubble Space Telescope images that show decade-old shells of ionized gas racing away from the largest star at a million miles an hour, and new 3-D ",
+      "keywords": [
+        "nasa",
+        "carinae",
+        "eta",
+        "goddard",
+        "star",
+        "million",
+        "space",
+        "stars",
+        "times",
+        "astronomers",
+        "away",
+        "behavior",
+        "center",
+        "flight"
+      ],
+      "hash": "044e66467c889b077fb4b71d72a0224e1668e2ead9813fc4dd2daa55f718aaf9",
+      "learned_at": "2026-10-02T23:03:39+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-02T23:03:39+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-02T23:03:39+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 235
+    },
     {
       "at": "2026-10-02T19:15:43+00:00",
       "kind": "core_unchanged",
@@ -7295,11 +7368,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 226,
+    "successful_fetches": 228,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 32
+    "candidate_rejections": 33
   },
   "core_genome": {
     "query_weight": 3.0,
