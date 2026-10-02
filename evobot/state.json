@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 38,
+  "generation": 39,
   "core_version": 8,
-  "runs": 37,
-  "pages_learned": 217,
-  "last_run": "2026-10-02T01:35:47+00:00",
+  "runs": 38,
+  "pages_learned": 219,
+  "last_run": "2026-10-02T07:30:40+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/asset/hubble/trans-neptunian-object-illustration/",
-    "https://science.nasa.gov/?search=Quesst",
     "https://science.nasa.gov/?search=Moon+Base",
     "https://science.nasa.gov/mars/",
     "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
@@ -199,9 +197,8 @@
     "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
     "https://www.youtube.com/watch?v=SDuXAHuc7W0",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble-nebula-crab-nebula-display-1-jpg.webp?w=1024",
     "https://science.nasa.gov/wp-content/uploads/2023/04/hubble-v838mon-heic0405a-jpg.webp?w=936",
+    "https://science.nasa.gov/asset/hubble/trans-neptunian-object-illustration/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/the-death-throes-of-stars/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/recognizing-worlds-beyond-our-sun/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
@@ -220,7 +217,8 @@
     "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
     "https://science.nasa.gov/asset/webb/centaurus-a-poster/",
     "https://science.nasa.gov/asset/webb/ic-348-nircam-image-2/",
-    "https://science.nasa.gov/asset/webb/ic-348-collage/"
+    "https://science.nasa.gov/asset/webb/ic-348-collage/",
+    "https://science.nasa.gov/?search=Quesst"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1359,6 +1357,16 @@
       "at": "2026-10-02T01:35:55+00:00",
       "status": "ok",
       "hash": "70a099bbc55f39c64b31d98c68b9598710e070cc7e5fcc691cc0af1be6434b45"
+    },
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails/": {
+      "at": "2026-10-02T07:30:47+00:00",
+      "status": "ok",
+      "hash": "51b8ae4d817caaa0d2b851562030017a9811024134f2c3c6a218e576238264cb"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2023/04/hubble-nebula-crab-nebula-display-1-jpg.webp?w=1024": {
+      "at": "2026-10-02T07:30:51+00:00",
+      "status": "ok",
+      "hash": "3d9ed4c197610b7a737ea39e101ff0f42f6b6e6cdf9a7b39f790384d7cfd8e61"
     }
   },
   "memory": [
@@ -6352,10 +6360,71 @@
       ],
       "hash": "70a099bbc55f39c64b31d98c68b9598710e070cc7e5fcc691cc0af1be6434b45",
       "learned_at": "2026-10-02T01:35:55+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails/",
+      "title": "Page not found - NASA Science",
+      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroid-spouting-six-comet-like-tails/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "51b8ae4d817caaa0d2b851562030017a9811024134f2c3c6a218e576238264cb",
+      "learned_at": "2026-10-02T07:30:47+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble-nebula-crab-nebula-display-1-jpg.webp?w=1024",
+      "title": "hubble-nebula-crab-nebula-display-1-jpg.webp",
+      "summary": "Title: hubble-nebula-crab-nebula-display-1-jpg.webp URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/hubble-nebula-crab-nebula-display-1-jpg.webp?w=1024 Published Time: Fri, 02 Oct 2026 07:30:49 GMT Markdown Content: A frame of brightly colored and fine syntactic nebulae in the darkness of space",
+      "keywords": [
+        "hubble-nebula-crab-nebula-display-1-jpg",
+        "webp",
+        "1024",
+        "2023",
+        "2026",
+        "brightly",
+        "colored",
+        "content",
+        "darkness",
+        "fine",
+        "frame",
+        "fri",
+        "gmt",
+        "gov"
+      ],
+      "hash": "3d9ed4c197610b7a737ea39e101ff0f42f6b6e6cdf9a7b39f790384d7cfd8e61",
+      "learned_at": "2026-10-02T07:30:51+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-02T07:30:51+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-02T07:30:51+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 212
+    },
     {
       "at": "2026-10-02T01:35:55+00:00",
       "kind": "core_unchanged",
@@ -6979,11 +7048,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 217,
+    "successful_fetches": 219,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 29
+    "candidate_rejections": 30
   },
   "core_genome": {
     "query_weight": 3.0,
