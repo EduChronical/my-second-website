@@ -1,22 +1,18 @@
 {
   "schema": 2,
-  "generation": 43,
+  "generation": 44,
   "core_version": 8,
-  "runs": 42,
-  "pages_learned": 232,
-  "last_run": "2026-10-03T01:53:26+00:00",
+  "runs": 43,
+  "pages_learned": 235,
+  "last_run": "2026-10-03T07:35:03+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
-    "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-strange-new-worlds/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
-    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
-    "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
-    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
+    "https://science.nasa.gov/missions/hubble/hubble-celebrates-34th-anniversary-with-little-dumbbell-nebula/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/",
+    "https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/",
+    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
     "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://science.nasa.gov/?search=ISS",
     "https://science.nasa.gov/?search=Roman",
@@ -28,6 +24,7 @@
     "https://www.jpl.nasa.gov/edu/events/2021/6/30/asteroid-day/",
     "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
     "https://www.nasa.gov/content/goddard/astronomers-bring-the-third-dimension-to-a-doomed-stars-outburst/",
+    "https://spaceplace.nasa.gov/meteor-shower/en/",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -100,7 +97,6 @@
     "https://www.nasa.gov/?search=Roman",
     "https://www.nasa.gov/?search=Quesst",
     "https://www.nasa.gov/?search=Moon+Base",
-    "https://spaceplace.nasa.gov/meteor-shower/en/",
     "https://ares.jsc.nasa.gov/astromaterials3d/",
     "https://svs.gsfc.nasa.gov/goto",
     "http://www.webb.nasa.gov/",
@@ -218,9 +214,17 @@
     "https://www.youtube.com/watch?v=9eAxR_5iGwU",
     "https://www.youtube.com/watch?v=0rJQi6oaZf0",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/universe/exoplanets/exoplanet-apparently-disappears-in-latest-hubble-observations/",
-    "https://science.nasa.gov/missions/hubble/hubble-detects-a-exocomets-taking-the-plunge-into-a-young-star/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-outer-planets-and-moons/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
+    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
+    "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-strange-new-worlds/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
+    "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
     "https://science.nasa.gov/mission/webb/launch/",
     "https://science.nasa.gov/mission/webb/science-overview/",
     "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
@@ -230,14 +234,7 @@
     "https://science.nasa.gov/asset/webb/centaurus-a-poster/",
     "https://science.nasa.gov/asset/webb/ic-348-nircam-image-2/",
     "https://science.nasa.gov/asset/webb/ic-348-collage/",
-    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteorite.en.png",
-    "https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/",
-    "https://science.nasa.gov/missions/hubble/hubble-celebrates-34th-anniversary-with-little-dumbbell-nebula/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/",
-    "https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/",
-    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/"
+    "https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1451,6 +1448,21 @@
       "at": "2026-10-03T01:53:39+00:00",
       "status": "ok",
       "hash": "889286a0be5bd38525fff7f842a5b873c7fa935c682da61d7aa1f2901ea1d96f"
+    },
+    "https://science.nasa.gov/universe/exoplanets/exoplanet-apparently-disappears-in-latest-hubble-observations/": {
+      "at": "2026-10-03T07:35:06+00:00",
+      "status": "ok",
+      "hash": "e48efd393993729d43e92cb4f554cdcc0115f99878e54075f117c1bd7ce668c1"
+    },
+    "https://science.nasa.gov/missions/hubble/hubble-detects-a-exocomets-taking-the-plunge-into-a-young-star/": {
+      "at": "2026-10-03T07:35:09+00:00",
+      "status": "ok",
+      "hash": "9ef17cbaaca0f56818f32943870889107d26c037ef8c934b9d5fa14088775869"
+    },
+    "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteorite.en.png": {
+      "at": "2026-10-03T07:35:13+00:00",
+      "status": "ok",
+      "hash": "947e15ea544974809d385b0c38361eefaacbbc11fc20af5d0e67f72b582f183a"
     }
   },
   "memory": [
@@ -6789,10 +6801,94 @@
       ],
       "hash": "889286a0be5bd38525fff7f842a5b873c7fa935c682da61d7aa1f2901ea1d96f",
       "learned_at": "2026-10-03T01:53:39+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/universe/exoplanets/exoplanet-apparently-disappears-in-latest-hubble-observations/",
+      "title": "Exoplanet Apparently Disappears in Latest Hubble Observations - NASA Science",
+      "summary": "Title: Exoplanet Apparently Disappears in Latest Hubble Observations - NASA Science URL Source: https://science.nasa.gov/universe/exoplanets/exoplanet-apparently-disappears-in-latest-hubble-observations/ Published Time: 2020-04-20T15:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Soci",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "universe"
+      ],
+      "hash": "e48efd393993729d43e92cb4f554cdcc0115f99878e54075f117c1bd7ce668c1",
+      "learned_at": "2026-10-03T07:35:06+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/hubble-detects-a-exocomets-taking-the-plunge-into-a-young-star/",
+      "title": "Hubble Detects 'Exocomets' Taking the Plunge into a Young Star - NASA Science",
+      "summary": "Title: Hubble Detects 'Exocomets' Taking the Plunge into a Young Star - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-detects-a-exocomets-taking-the-plunge-into-a-young-star/ Published Time: 2017-01-06T15:15:00-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "9ef17cbaaca0f56818f32943870889107d26c037ef8c934b9d5fa14088775869",
+      "learned_at": "2026-10-03T07:35:09+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteorite.en.png",
+      "title": "meteorite.en.png",
+      "summary": "Title: meteorite.en.png URL Source: https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteorite.en.png Markdown Content: Man walking in a desert with a rock",
+      "keywords": [
+        "meteorite",
+        "png",
+        "asteroid-or-meteor",
+        "content",
+        "desert",
+        "gov",
+        "https",
+        "man",
+        "markdown",
+        "nasa",
+        "rock",
+        "source",
+        "spaceplace",
+        "title"
+      ],
+      "hash": "947e15ea544974809d385b0c38361eefaacbbc11fc20af5d0e67f72b582f183a",
+      "learned_at": "2026-10-03T07:35:13+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-03T07:35:13+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-03T07:35:13+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 3 new pages",
+      "attempted": 24,
+      "frontier": 228
+    },
     {
       "at": "2026-10-03T01:53:39+00:00",
       "kind": "core_unchanged",
@@ -7491,11 +7587,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 232,
+    "successful_fetches": 235,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 34
+    "candidate_rejections": 35
   },
   "core_genome": {
     "query_weight": 3.0,
