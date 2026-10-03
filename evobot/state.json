@@ -1,15 +1,12 @@
 {
   "schema": 2,
-  "generation": 47,
+  "generation": 48,
   "core_version": 8,
-  "runs": 46,
-  "pages_learned": 241,
-  "last_run": "2026-10-03T19:31:31+00:00",
+  "runs": 47,
+  "pages_learned": 243,
+  "last_run": "2026-10-03T22:23:57+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/?search=ISS",
-    "https://science.nasa.gov/?search=Roman",
-    "https://science.nasa.gov/?search=Quesst",
     "https://science.nasa.gov/?search=Moon+Base",
     "https://science.nasa.gov/mars/",
     "https://spaceplace.nasa.gov/asteroid/en/",
@@ -18,6 +15,7 @@
     "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
     "https://www.nasa.gov/content/goddard/astronomers-bring-the-third-dimension-to-a-doomed-stars-outburst/",
     "https://spaceplace.nasa.gov/meteor-shower/en/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -207,8 +205,22 @@
     "https://www.youtube.com/watch?v=9eAxR_5iGwU",
     "https://www.youtube.com/watch?v=0rJQi6oaZf0",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/",
+    "https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/",
+    "https://science.nasa.gov/gallery/hubble-images-of-galaxies-with-tidal-tails/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/shining-a-light-on-dark-matter/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/",
+    "https://www.youtube.com/watch?v=ynjNentVaxk",
+    "https://www.youtube.com/watch?v=HNWyu6G8PtQ",
+    "https://science.nasa.gov/missions/hubble/hubble-tracks-the-fading-optical-counterpart-of-a-gamma-ray-burst/",
+    "https://science.nasa.gov/missions/hubble/gamma-ray-bursts-common-to-normal-galaxies-hubble-data-offer-new-clues-and-puzzles/",
+    "https://science.nasa.gov/missions/hubble/hubble-finds-smoking-gun-after-gamma-ray-blast/",
+    "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
+    "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/",
+    "https://science.nasa.gov/missions/hubble/hubble-space-telescope-resolves-gaseous-ring-around-supernova/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-celebrates-sn-1987as-20th-anniversary/",
+    "https://science.nasa.gov/missions/hubble/hubble-gives-unprecedented-early-view-of-a-doomed-stars-destruction/",
+    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/",
     "https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/",
     "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
@@ -228,7 +240,9 @@
     "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
     "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
     "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024"
+    "https://science.nasa.gov/?search=ISS",
+    "https://science.nasa.gov/?search=Roman",
+    "https://science.nasa.gov/?search=Quesst"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1487,6 +1501,16 @@
       "at": "2026-10-03T19:31:38+00:00",
       "status": "ok",
       "hash": "c364f944613bdc60a97c5e6eb14de8a2c508efcd8647703c76959d6eae163595"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/": {
+      "at": "2026-10-03T22:24:03+00:00",
+      "status": "ok",
+      "hash": "dd952b1f4e6a5c8e0c8ce6cacd6671f27dfd9dbd85b63fd34e5d0915c4668e66"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/": {
+      "at": "2026-10-03T22:24:06+00:00",
+      "status": "ok",
+      "hash": "664d5a8ba7af7c490c5296f2954c16944fd1b3d6b2076602b230bc0de76a04ca"
     }
   },
   "memory": [
@@ -7032,10 +7056,71 @@
       ],
       "hash": "c364f944613bdc60a97c5e6eb14de8a2c508efcd8647703c76959d6eae163595",
       "learned_at": "2026-10-03T19:31:38+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/",
+      "title": "Galaxy Details and Mergers - NASA Science",
+      "summary": "Title: Galaxy Details and Mergers - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/ Published Time: 2021-12-22T03:33:01-05:00 Markdown Content: Astronomer Edwin Hubble pioneered the study of galaxies based simply on their appearance and categorized them according to three basic shapes: spiral, elliptical, and irregular. Some 60 years later, the sharp vision of the space telescope named in his honor began seeing unprecedented details in galaxies, revealing intricate, dark dust lanes and glowing knots of star formation. Hubble observations showed galaxies often interact, that mergers are common, and that galaxies grow and evolve by merging. [Video 5](https://www.youtube.com/watch?v=ynjNentVaxk) The Antennae Galaxies, officially designated as NGC 4038 and NGC 4039, present a celestial ballet within the vast cosmic theat",
+      "keywords": [
+        "galaxies",
+        "hubble",
+        "https",
+        "nasa",
+        "science",
+        "space",
+        "antennae",
+        "mergers",
+        "galaxy",
+        "gov",
+        "mice",
+        "these",
+        "triangle",
+        "video"
+      ],
+      "hash": "dd952b1f4e6a5c8e0c8ce6cacd6671f27dfd9dbd85b63fd34e5d0915c4668e66",
+      "learned_at": "2026-10-03T22:24:03+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/",
+      "title": "Homing in on Cosmic Explosions - NASA Science",
+      "summary": "Title: Homing in on Cosmic Explosions - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/ Published Time: 2024-12-02T11:44:10-05:00 Markdown Content: For decades, astronomers pondered the source of one of the most energetic and mysterious events in the universe, gamma-ray bursts (GRB). In a few seconds, GRBs can emit more energy than the Sun over its entire 10-billion-year life. It wasn’t until Hubble began observing the visible source of these events that astronomers began to better understand their origins. * ### Gamma-Ray Bursts In 1997, astronomers employed Hubble's high resolution and sensitivity to hunt down a rapidly dimming fireball in the region of space that had produced a GRB. The explosive remnant rapidly faded, and ground-based observatories could no longer see it. Hubble observations allowed astronome",
+      "keywords": [
+        "hubble",
+        "gamma-ray",
+        "science",
+        "source",
+        "astronomers",
+        "nasa",
+        "bursts",
+        "gov",
+        "grb",
+        "https",
+        "blast",
+        "fading",
+        "galaxy",
+        "kilonova"
+      ],
+      "hash": "664d5a8ba7af7c490c5296f2954c16944fd1b3d6b2076602b230bc0de76a04ca",
+      "learned_at": "2026-10-03T22:24:06+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-03T22:24:07+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-03T22:24:07+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 236
+    },
     {
       "at": "2026-10-03T19:31:38+00:00",
       "kind": "core_unchanged",
@@ -7794,11 +7879,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 241,
+    "successful_fetches": 243,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 38
+    "candidate_rejections": 39
   },
   "core_genome": {
     "query_weight": 3.0,
