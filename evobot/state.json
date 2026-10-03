@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 46,
+  "generation": 47,
   "core_version": 8,
-  "runs": 45,
-  "pages_learned": 239,
-  "last_run": "2026-10-03T16:46:04+00:00",
+  "runs": 46,
+  "pages_learned": 241,
+  "last_run": "2026-10-03T19:31:31+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/asset/webb/centaurus-a-poster/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://science.nasa.gov/?search=ISS",
     "https://science.nasa.gov/?search=Roman",
     "https://science.nasa.gov/?search=Quesst",
@@ -209,7 +207,6 @@
     "https://www.youtube.com/watch?v=9eAxR_5iGwU",
     "https://www.youtube.com/watch?v=0rJQi6oaZf0",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/galaxy-details-and-mergers/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/homing-in-on-cosmic-explosions/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/",
@@ -230,7 +227,8 @@
     "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
     "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
     "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
-    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/"
+    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1479,6 +1477,16 @@
       "at": "2026-10-03T16:46:11+00:00",
       "status": "ok",
       "hash": "0a49b09944dd943837594a346d65f5c249facaed74d37fd0455943a85c6d4c6e"
+    },
+    "https://science.nasa.gov/asset/webb/centaurus-a-poster/": {
+      "at": "2026-10-03T19:31:34+00:00",
+      "status": "ok",
+      "hash": "599d0443269b5ca9cae79557a05589b7b616b3424899984b61445eef9c24ea1c"
+    },
+    "https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/": {
+      "at": "2026-10-03T19:31:38+00:00",
+      "status": "ok",
+      "hash": "c364f944613bdc60a97c5e6eb14de8a2c508efcd8647703c76959d6eae163595"
     }
   },
   "memory": [
@@ -6978,10 +6986,71 @@
       ],
       "hash": "0a49b09944dd943837594a346d65f5c249facaed74d37fd0455943a85c6d4c6e",
       "learned_at": "2026-10-03T16:46:11+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/webb/centaurus-a-poster/",
+      "title": "Centaurus A Poster - NASA Science",
+      "summary": "Title: Centaurus A Poster - NASA Science URL Source: https://science.nasa.gov/asset/webb/centaurus-a-poster/ Published Time: 2026-09-25T11:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "webb"
+      ],
+      "hash": "599d0443269b5ca9cae79557a05589b7b616b3424899984b61445eef9c24ea1c",
+      "learned_at": "2026-10-03T19:31:34+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/",
+      "title": "Page not found - NASA Science",
+      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/missions/hubble/giant-mosaic-of-the-crab-nebula/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "c364f944613bdc60a97c5e6eb14de8a2c508efcd8647703c76959d6eae163595",
+      "learned_at": "2026-10-03T19:31:38+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-03T19:31:38+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-03T19:31:38+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 222
+    },
     {
       "at": "2026-10-03T16:46:11+00:00",
       "kind": "core_unchanged",
@@ -7725,11 +7794,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 239,
+    "successful_fetches": 241,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 37
+    "candidate_rejections": 38
   },
   "core_genome": {
     "query_weight": 3.0,
