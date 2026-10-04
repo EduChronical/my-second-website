@@ -1,20 +1,18 @@
 {
   "schema": 2,
-  "generation": 49,
+  "generation": 50,
   "core_version": 8,
-  "runs": 48,
-  "pages_learned": 245,
-  "last_run": "2026-10-04T01:49:28+00:00",
+  "runs": 49,
+  "pages_learned": 247,
+  "last_run": "2026-10-04T07:29:49+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
-    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
-    "https://science.nasa.gov/mission/webb/launch/",
-    "https://science.nasa.gov/mission/webb/science-overview/",
-    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
-    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
-    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
-    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
+    "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-strange-new-worlds/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
+    "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
     "https://science.nasa.gov/?search=Moon+Base",
     "https://science.nasa.gov/mars/",
     "https://spaceplace.nasa.gov/asteroid/en/",
@@ -219,9 +217,15 @@
     "https://www.youtube.com/watch?v=HNWyu6G8PtQ",
     "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/missions/hubble/hubble-tracks-the-fading-optical-counterpart-of-a-gamma-ray-burst/",
-    "https://science.nasa.gov/missions/hubble/hubble-finds-smoking-gun-after-gamma-ray-blast/",
     "https://science.nasa.gov/missions/hubble/hubble-gives-unprecedented-early-view-of-a-doomed-stars-destruction/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
+    "https://science.nasa.gov/mission/webb/launch/",
+    "https://science.nasa.gov/mission/webb/science-overview/",
+    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
+    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
+    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
+    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
     "https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/shining-a-light-on-dark-matter/",
@@ -234,13 +238,7 @@
     "https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/",
     "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
-    "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-strange-new-worlds/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
-    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
-    "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/"
+    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1519,6 +1517,16 @@
       "at": "2026-10-04T01:49:36+00:00",
       "status": "ok",
       "hash": "ce64731735ab3843eb2b2a34c69d981547e094cd2fe9f4f33b6ca5c4f7bde2e9"
+    },
+    "https://science.nasa.gov/missions/hubble/hubble-tracks-the-fading-optical-counterpart-of-a-gamma-ray-burst/": {
+      "at": "2026-10-04T07:29:53+00:00",
+      "status": "ok",
+      "hash": "2db78d2f8182eee4757894f1d3232e71b729ed2aa1baa3484360686098754979"
+    },
+    "https://science.nasa.gov/missions/hubble/hubble-finds-smoking-gun-after-gamma-ray-blast/": {
+      "at": "2026-10-04T07:29:59+00:00",
+      "status": "ok",
+      "hash": "688708975f9ae50013883dfe006c2709eeed27443322dff9aa629cb25ee376c8"
     }
   },
   "memory": [
@@ -7156,10 +7164,71 @@
       ],
       "hash": "ce64731735ab3843eb2b2a34c69d981547e094cd2fe9f4f33b6ca5c4f7bde2e9",
       "learned_at": "2026-10-04T01:49:36+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/hubble-tracks-the-fading-optical-counterpart-of-a-gamma-ray-burst/",
+      "title": "Hubble Tracks the Fading Optical Counterpart of a Gamma-Ray Burst - NASA Science",
+      "summary": "Title: Hubble Tracks the Fading Optical Counterpart of a Gamma-Ray Burst - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-tracks-the-fading-optical-counterpart-of-a-gamma-ray-burst/ Published Time: 1997-04-01T00:00:00-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "2db78d2f8182eee4757894f1d3232e71b729ed2aa1baa3484360686098754979",
+      "learned_at": "2026-10-04T07:29:53+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/hubble-finds-smoking-gun-after-gamma-ray-blast/",
+      "title": "Hubble Finds 'Smoking Gun' After Gamma-Ray Blast - NASA Science",
+      "summary": "Title: Hubble Finds 'Smoking Gun' After Gamma-Ray Blast - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-finds-smoking-gun-after-gamma-ray-blast/ Published Time: 2013-08-03T12:45:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/s",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "688708975f9ae50013883dfe006c2709eeed27443322dff9aa629cb25ee376c8",
+      "learned_at": "2026-10-04T07:29:59+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-04T07:29:59+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-04T07:29:59+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 232
+    },
     {
       "at": "2026-10-04T01:49:37+00:00",
       "kind": "core_unchanged",
@@ -7948,11 +8017,11 @@
     }
   ],
   "metrics": {
-    "successful_fetches": 245,
+    "successful_fetches": 247,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 7,
-    "candidate_rejections": 40
+    "candidate_rejections": 41
   },
   "core_genome": {
     "query_weight": 3.0,
