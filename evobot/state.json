@@ -1,27 +1,26 @@
 {
   "schema": 2,
-  "generation": 54,
-  "core_version": 9,
-  "runs": 53,
-  "pages_learned": 272,
-  "last_run": "2026-10-04T23:32:33+00:00",
+  "generation": 55,
+  "core_version": 10,
+  "runs": 54,
+  "pages_learned": 278,
+  "last_run": "2026-10-05T02:21:09+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://spaceplace.nasa.gov/asteroid/en/osiris-rex.en.png",
+    "https://science.nasa.gov/missions/hubble/hubble-space-telescope-resolves-gaseous-ring-around-supernova/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-celebrates-sn-1987as-20th-anniversary/",
+    "https://science.nasa.gov/mission/hubble/multimedia/hubble-glossary/",
+    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
+    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
+    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
     "https://spaceplace.nasa.gov/meteor-shower/en/Meteor_shower.en.jpg",
-    "https://science.nasa.gov/image-detail/hubble-distance-ladder-stsci-01evsw8v60tdzv2m2v1m1j8as8/",
-    "https://science.nasa.gov/mission/hubble/hubble-news/",
-    "https://science.nasa.gov/mission/hubble/hubble-news/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/03/STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif?w=900",
-    "https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
-    "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
-    "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
     "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
     "https://www.jpl.nasa.gov/",
     "https://www.jpl.nasa.gov/who-we-are/",
-    "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://solarsystem.nasa.gov/small-bodies/meteors-and-meteorites/overview/?page=0&per_page=40&order=id+asc&condition_1=meteor_shower%3Abody_type",
     "https://ssd.jpl.nasa.gov/about/",
     "https://ssd.jpl.nasa.gov/faq.html",
@@ -48,6 +47,8 @@
     "https://science.nasa.gov/mission/webb/latestnews/",
     "https://science.nasa.gov/mission/webb/multimedia/images/",
     "https://science.nasa.gov/mission/webb/multimedia/images/",
+    "https://www.jpl.nasa.gov/site/research/",
+    "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
@@ -210,6 +211,10 @@
     "https://info.arxiv.org/about/donate.html",
     "https://x.com/NASAJPL",
     "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "http://www.imf.org/en/",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
@@ -259,37 +264,25 @@
     "https://www.youtube.com/watch?v=cBG1KYa95JY",
     "https://www.youtube.com/watch?v=G03N5_13Os0",
     "https://www.youtube.com/watch?v=Ab2L1ktl8v0",
-    "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/missions/hubble/astronomers-find-ring-of-dark-matter-with-hubble-space-telescope/",
-    "https://science.nasa.gov/missions/hubble/cosmic-lens-used-to-probe-dark-energy-for-first-time/",
-    "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-dark-universe/",
     "https://www.youtube.com/watch?v=Rwhv38BVjUM",
+    "http://sat.gov.in/scripts/showdailyboard.asp",
+    "https://science.nasa.gov/missions/hubble/cosmic-lens-used-to-probe-dark-energy-for-first-time/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
     "https://science.nasa.gov/asset/hubble/view-of-distant-faint-galaxies-reveals-young-galaxy-building-blocks/",
     "https://science.nasa.gov/missions/hubble/the-universe-down-under-is-the-latest-target-for-hubbles-latest-deep-view/",
     "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+    "https://science.nasa.gov/image-detail/hubble-distance-ladder-stsci-01evsw8v60tdzv2m2v1m1j8as8/",
+    "https://science.nasa.gov/mission/hubble/hubble-news/",
+    "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
     "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
     "https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/",
     "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
-    "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/",
-    "https://science.nasa.gov/missions/hubble/hubble-space-telescope-resolves-gaseous-ring-around-supernova/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-celebrates-sn-1987as-20th-anniversary/",
-    "https://science.nasa.gov/mission/hubble/multimedia/hubble-glossary/",
-    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
-    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://www.jpl.nasa.gov/site/research/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg"
+    "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1703,6 +1696,36 @@
       "at": "2026-10-04T23:32:42+00:00",
       "status": "ok",
       "hash": "0df7c624aa88266a2f03f99661dafe36305ff64604fa9c590f7fbc20592ae12b"
+    },
+    "https://science.nasa.gov/missions/hubble/astronomers-find-ring-of-dark-matter-with-hubble-space-telescope/": {
+      "at": "2026-10-05T02:21:12+00:00",
+      "status": "ok",
+      "hash": "cc88e4796d7094ca5c35c96178fc8baf36f43ffb6f56c4497148543ad07083bc"
+    },
+    "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-dark-universe/": {
+      "at": "2026-10-05T02:21:16+00:00",
+      "status": "ok",
+      "hash": "9bc44f8f456f85933b1fd1e406596dc680e5e3e66c6bd1474a19d6c76fb24173"
+    },
+    "https://spaceplace.nasa.gov/asteroid/en/osiris-rex.en.png": {
+      "at": "2026-10-05T02:21:19+00:00",
+      "status": "ok",
+      "hash": "990544d8879d3b10a13e3d2cc68b21084af7fe190e6adb3acdba4b3787f6245c"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/03/STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif?w=900": {
+      "at": "2026-10-05T02:21:21+00:00",
+      "status": "ok",
+      "hash": "f9fb5cfe8932e0e301983caf11cec6186fc2d8c9078cd366c87ddd0dd689775e"
+    },
+    "https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png": {
+      "at": "2026-10-05T02:21:25+00:00",
+      "status": "ok",
+      "hash": "df754e939c766047952456734502f7012b15c3e4cb7051ec046b8f562a3f3ba1"
+    },
+    "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png": {
+      "at": "2026-10-05T02:21:28+00:00",
+      "status": "ok",
+      "hash": "12eae35cf38988c30b5ecf94f3418b9470a9ea64d39af74b8a5cf4c0fe4af72e"
     }
   },
   "memory": [
@@ -7961,10 +7984,174 @@
       ],
       "hash": "0df7c624aa88266a2f03f99661dafe36305ff64604fa9c590f7fbc20592ae12b",
       "learned_at": "2026-10-04T23:32:42+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/astronomers-find-ring-of-dark-matter-with-hubble-space-telescope/",
+      "title": "Astronomers Find Ring of Dark Matter With Hubble Space Telescope - NASA Science",
+      "summary": "Title: Astronomers Find Ring of Dark Matter With Hubble Space Telescope - NASA Science URL Source: https://science.nasa.gov/missions/hubble/astronomers-find-ring-of-dark-matter-with-hubble-space-telescope/ Published Time: 2007-05-14T23:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [So",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "cc88e4796d7094ca5c35c96178fc8baf36f43ffb6f56c4497148543ad07083bc",
+      "learned_at": "2026-10-05T02:21:12+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-dark-universe/",
+      "title": "Hubble Focus: Dark Universe - NASA Science",
+      "summary": "Title: Hubble Focus: Dark Universe - NASA Science URL Source: https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-dark-universe/ Published Time: 2024-04-05T03:23:21-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media R",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "multimedia",
+        "news",
+        "images",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "universe"
+      ],
+      "hash": "9bc44f8f456f85933b1fd1e406596dc680e5e3e66c6bd1474a19d6c76fb24173",
+      "learned_at": "2026-10-05T02:21:16+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/asteroid/en/osiris-rex.en.png",
+      "title": "osiris-rex.en.png",
+      "summary": "Title: osiris-rex.en.png URL Source: https://spaceplace.nasa.gov/asteroid/en/osiris-rex.en.png Markdown Content: A satellite with solar panels is positioned near the lithospheric surface of a planet, presumably the moon",
+      "keywords": [
+        "osiris-rex",
+        "png",
+        "asteroid",
+        "content",
+        "gov",
+        "https",
+        "lithospheric",
+        "markdown",
+        "moon",
+        "nasa",
+        "near",
+        "panels",
+        "planet",
+        "positioned"
+      ],
+      "hash": "990544d8879d3b10a13e3d2cc68b21084af7fe190e6adb3acdba4b3787f6245c",
+      "learned_at": "2026-10-05T02:21:19+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/03/STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif?w=900",
+      "title": "STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif",
+      "summary": "Title: STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/03/STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif?w=900 Markdown Content: Two separate images of nebula made by Webb and Hubble Telescope",
+      "keywords": [
+        "assets",
+        "hubble",
+        "science",
+        "stsci-01hr59v3805kkw7akrndp7k8fj",
+        "tif",
+        "2024",
+        "900",
+        "content",
+        "dynamicimage",
+        "gov",
+        "https",
+        "images",
+        "made",
+        "markdown"
+      ],
+      "hash": "f9fb5cfe8932e0e301983caf11cec6186fc2d8c9078cd366c87ddd0dd689775e",
+      "learned_at": "2026-10-05T02:21:21+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
+      "title": "logo_nasa_trio.png",
+      "summary": "Title: logo_nasa_trio.png URL Source: https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png Published Time: Wed, 25 Mar 2026 06:55:49 GMT Markdown Content: The image shows the NASA logo, which consists of a blue circle with the text NASA at the bottom and a red swirly line across it",
+      "keywords": [
+        "nasa",
+        "logo_nasa_trio",
+        "png",
+        "2026",
+        "across",
+        "blue",
+        "bottom",
+        "circle",
+        "consists",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "image"
+      ],
+      "hash": "df754e939c766047952456734502f7012b15c3e4cb7051ec046b8f562a3f3ba1",
+      "learned_at": "2026-10-05T02:21:25+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
+      "title": "ssd_title_overlay.png",
+      "summary": "Title: ssd_title_overlay.png URL Source: https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png Published Time: Wed, 25 Mar 2026 06:55:49 GMT Markdown Content: a white background with a big blue area",
+      "keywords": [
+        "png",
+        "ssd_title_overlay",
+        "2026",
+        "area",
+        "background",
+        "big",
+        "blue",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "images",
+        "jpl",
+        "mar"
+      ],
+      "hash": "12eae35cf38988c30b5ecf94f3418b9470a9ea64d39af74b8a5cf4c0fe4af72e",
+      "learned_at": "2026-10-05T02:21:28+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-05T02:21:29+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v10",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-05T02:21:28+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 276
+    },
     {
       "at": "2026-10-04T23:32:42+00:00",
       "kind": "core_unchanged",
@@ -8790,26 +8977,13 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 233
-    },
-    {
-      "at": "2026-09-26T11:51:28+00:00",
-      "kind": "core_rejected",
-      "message": "Rejected proposed core mutation",
-      "reason": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "at": "2026-09-26T11:51:28+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 3 new pages",
-      "attempted": 24,
-      "frontier": 218
     }
   ],
   "metrics": {
-    "successful_fetches": 272,
+    "successful_fetches": 278,
     "failed_fetches": 0,
     "duplicate_pages": 0,
-    "candidate_promotions": 8,
+    "candidate_promotions": 9,
     "candidate_rejections": 44
   },
   "core_genome": {
@@ -8841,12 +9015,12 @@
     "www.nasa.gov",
     "assets.science.nasa.gov",
     "spaceplace.nasa.gov",
+    "www.jpl.nasa.gov",
     "www.pib.gov.in",
     "www.nature.com",
+    "ssd.jpl.nasa.gov",
     "www.sebi.gov.in",
-    "www.jpl.nasa.gov",
     "plus.nasa.gov",
-    "static.pib.gov.in",
-    "www.imf.org"
+    "static.pib.gov.in"
   ]
 }
