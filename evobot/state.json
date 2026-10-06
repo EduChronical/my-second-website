@@ -1,16 +1,12 @@
 {
   "schema": 2,
-  "generation": 60,
-  "core_version": 10,
-  "runs": 59,
-  "pages_learned": 292,
-  "last_run": "2026-10-06T13:37:27+00:00",
+  "generation": 61,
+  "core_version": 11,
+  "runs": 60,
+  "pages_learned": 297,
+  "last_run": "2026-10-06T19:04:41+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
-    "https://www.jpl.nasa.gov/who-we-are/",
-    "https://ssd.jpl.nasa.gov/about/",
-    "https://ssd.jpl.nasa.gov/faq.html",
     "https://ssd.jpl.nasa.gov/sitemap.html",
     "https://www.jpl.nasa.gov/topics/robotics/",
     "https://www.jpl.nasa.gov/topics/solar-system/",
@@ -256,7 +252,6 @@
     "https://www.youtube.com/watch?v=Ab2L1ktl8v0",
     "https://www.youtube.com/watch?v=Rwhv38BVjUM",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/",
     "https://science.nasa.gov/wp-content/uploads/2023/04/prc97-01-jpg.webp?w=1024",
     "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
     "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/",
@@ -275,7 +270,35 @@
     "https://science.nasa.gov/image-detail/hubble-distance-ladder-stsci-01evsw8v60tdzv2m2v1m1j8as8/",
     "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/hubble-news/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/"
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
+    "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg",
+    "https://www.jpl.nasa.gov/who-we-are/executive-council/",
+    "https://www.jpl.nasa.gov/who-we-are/history/",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/",
+    "https://www.jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
+    "https://www.jpl.nasa.gov/timeline/",
+    "https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/",
+    "https://www.jpl.nasa.gov/events/tours/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/InSight_high_five_tighter.2e16d0ba.fill-1024x512-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P9007A-640.width-1024.jpg",
+    "https://jpl.jobs/",
+    "https://jpl.nasa.gov/timeline",
+    "https://ssd.jpl.nasa.gov/planets/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/ephem/",
+    "https://ssd.jpl.nasa.gov/sb/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/gravity.html",
+    "https://cneos.jpl.nasa.gov/",
+    "https://ammos.nasa.gov/",
+    "https://science.nasa.gov/solar-system",
+    "https://ssd.jpl.nasa.gov”/",
+    "https://ssd.jpl.nasa.gov/images/comet_elem_diagram.jpg",
+    "https://ssd.jpl.nasa.gov/faq/b02.html",
+    "https://ssd.jpl.nasa.gov/horizons/",
+    "https://ssd.jpl.nasa.gov/horizons/",
+    "http://www.jpl.nasa.gov/copyrights.cfm",
+    "http://www.iau.org/static/resolutions/IAU2012_English.pdf"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1789,6 +1812,31 @@
       "at": "2026-10-06T13:37:35+00:00",
       "status": "ok",
       "hash": "c3643e0341250004d769cf76abef33d0e099d67eb5c0fdda9983fde227696e66"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900": {
+      "at": "2026-10-06T19:04:44+00:00",
+      "status": "ok",
+      "hash": "b786ee14c85a2d11b12267e042905c345531bfda5b9de2a15cfae1df72ff04a5"
+    },
+    "https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/": {
+      "at": "2026-10-06T19:04:48+00:00",
+      "status": "ok",
+      "hash": "a1bf5118ac28a872e8b1c35dc69bcbd71958196ce315a8031f99d093dd074d7a"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/": {
+      "at": "2026-10-06T19:04:51+00:00",
+      "status": "ok",
+      "hash": "6f09bb4b3943f71563c67e18987f730896189163cf19698342926e5767149c2e"
+    },
+    "https://ssd.jpl.nasa.gov/about/": {
+      "at": "2026-10-06T19:04:55+00:00",
+      "status": "ok",
+      "hash": "97a3f3ea6006446b8a60a1964136bfeae1e5767e086c7635a910db60b5ac28c8"
+    },
+    "https://ssd.jpl.nasa.gov/faq.html": {
+      "at": "2026-10-06T19:04:59+00:00",
+      "status": "ok",
+      "hash": "cb1de822dba2fd5b0bd43a4088d2b5381e2bcc2daa0dd010bf666ce5a9698ac2"
     }
   },
   "memory": [
@@ -8507,10 +8555,151 @@
       ],
       "hash": "c3643e0341250004d769cf76abef33d0e099d67eb5c0fdda9983fde227696e66",
       "learned_at": "2026-10-06T13:37:35+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
+      "title": "k218bstsci.jpg",
+      "summary": "Title: k218bstsci.jpg URL Source: https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900 Published Time: Tue, 06 Oct 2026 19:04:43 GMT Markdown Content: A closeup of a planet shows weather patterns",
+      "keywords": [
+        "jpg",
+        "k218bstsci",
+        "2025",
+        "2026",
+        "900",
+        "closeup",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "oct",
+        "patterns"
+      ],
+      "hash": "b786ee14c85a2d11b12267e042905c345531bfda5b9de2a15cfae1df72ff04a5",
+      "learned_at": "2026-10-06T19:04:44+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/",
+      "title": "Galaxy Cluster MACS J0717 - NASA Science",
+      "summary": "Title: Galaxy Cluster MACS J0717 - NASA Science URL Source: https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/ Published Time: 2009-04-16T11:00:00-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.na",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "a1bf5118ac28a872e8b1c35dc69bcbd71958196ce315a8031f99d093dd074d7a",
+      "learned_at": "2026-10-06T19:04:48+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/who-we-are/",
+      "title": "Who We Are",
+      "summary": "Title: Who We Are URL Source: https://www.jpl.nasa.gov/who-we-are/ Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3: JPL campus 2020](https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg) Credit: NASA/JPL-Caltech [Who We Are](https://www.jpl.nasa.gov/who-we-a",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "who-we-are",
+        "space",
+        "image",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "home",
+        "net",
+        "_nuxt",
+        "content"
+      ],
+      "hash": "6f09bb4b3943f71563c67e18987f730896189163cf19698342926e5767149c2e",
+      "learned_at": "2026-10-06T19:04:51+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/about/",
+      "title": "What does SSD do?",
+      "summary": "Title: What does SSD do? URL Source: https://ssd.jpl.nasa.gov/about/ Markdown Content: JPL’s Solar System Dynamics (SSD) group is part of Mission Design and Navigation section. The SSD group focuses on determining the motion and physical parameters of natural planetary objects and our primary products, services, and charter are described below. * [Solar System Dynamics Website](https://ssd.jpl.nasa.gov/) * [Planetary Ephemerides](https://ssd.jpl.nasa.gov/planets/orbits.html) * [Satellite Ephemerides](https://ssd.jpl.nasa.gov/sats/ephem/) * [Asteroid & Comet Ephemerides](https://ssd.jpl.nasa.gov/sb/orbits.html) * [Gravity/Radio Science](https://ssd.jpl.nasa.gov/tools/gravity.html) * [Center for Near Earth Object Studies (CNEOS)](https://cneos.jpl.nasa.gov/) ### Charter The SSD group generates accurate position and velocity histories (ephemerides), gravity fields, and rotational parameters",
+      "keywords": [
+        "ssd",
+        "jpl",
+        "nasa",
+        "system",
+        "gov",
+        "https",
+        "solar",
+        "ephemerides",
+        "group",
+        "gravity",
+        "bodies",
+        "data",
+        "dynamics",
+        "mission"
+      ],
+      "hash": "97a3f3ea6006446b8a60a1964136bfeae1e5767e086c7635a910db60b5ac28c8",
+      "learned_at": "2026-10-06T19:04:55+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/faq.html",
+      "title": "Frequently Asked Questions (FAQs)",
+      "summary": "Title: Frequently Asked Questions (FAQs) URL Source: https://ssd.jpl.nasa.gov/faq.html Markdown Content: * [What are orbital elements?](https://ssd.jpl.nasa.gov/faq.html#a02) * [I'm teaching a course on the solar system. Can you help?](https://ssd.jpl.nasa.gov/faq.html#a04) * [I'd like to publish information from your site on my site. Do I need permission?](https://ssd.jpl.nasa.gov/faq.html#a05) * [Do you have equations for computing approximate positions of the planets?](https://ssd.jpl.nasa.gov/faq.html#b01) * [I want to write my own solar system \"calculator\". Where do I find the relevant equations?](https://ssd.jpl.nasa.gov/faq.html#b02) * [How do I find out where my favorite planet is going to be at some specified time?](https://ssd.jpl.nasa.gov/faq.html#b03) * [Do you provide star-charts, star coordinates, or other stellar data?](https://ssd.jpl.nasa.gov/faq.html#b04) * [What is an ",
+      "keywords": [
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "ssd",
+        "faq",
+        "html",
+        "elements",
+        "perihelion",
+        "orbital",
+        "argument",
+        "comet",
+        "longitude",
+        "orbit"
+      ],
+      "hash": "cb1de822dba2fd5b0bd43a4088d2b5381e2bcc2daa0dd010bf666ce5a9698ac2",
+      "learned_at": "2026-10-06T19:04:59+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-06T19:04:59+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v11",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-06T19:04:59+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 292
+    },
     {
       "at": "2026-10-06T13:37:36+00:00",
       "kind": "core_unchanged",
@@ -9333,28 +9522,13 @@
       "message": "Crawl cycle learned 5 new pages",
       "attempted": 24,
       "frontier": 219
-    },
-    {
-      "at": "2026-09-26T18:36:50+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-26T18:36:50+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 224
     }
   ],
   "metrics": {
-    "successful_fetches": 292,
+    "successful_fetches": 297,
     "failed_fetches": 0,
     "duplicate_pages": 0,
-    "candidate_promotions": 9,
+    "candidate_promotions": 10,
     "candidate_rejections": 49
   },
   "core_genome": {
@@ -9387,9 +9561,9 @@
     "assets.science.nasa.gov",
     "spaceplace.nasa.gov",
     "www.jpl.nasa.gov",
+    "ssd.jpl.nasa.gov",
     "www.pib.gov.in",
     "www.nature.com",
-    "ssd.jpl.nasa.gov",
     "www.sebi.gov.in",
     "plus.nasa.gov",
     "static.pib.gov.in"
