@@ -1,13 +1,16 @@
 {
   "schema": 2,
-  "generation": 61,
+  "generation": 62,
   "core_version": 11,
-  "runs": 60,
-  "pages_learned": 297,
-  "last_run": "2026-10-06T19:04:41+00:00",
+  "runs": 61,
+  "pages_learned": 301,
+  "last_run": "2026-10-06T23:00:05+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://ssd.jpl.nasa.gov/sitemap.html",
+    "https://ssd.jpl.nasa.gov”/",
+    "https://ssd.jpl.nasa.gov/faq/b02.html",
+    "https://ssd.jpl.nasa.gov/horizons/",
+    "https://ssd.jpl.nasa.gov/horizons/",
     "https://www.jpl.nasa.gov/topics/robotics/",
     "https://www.jpl.nasa.gov/topics/solar-system/",
     "https://www.jpl.nasa.gov/topics/mars/",
@@ -33,6 +36,18 @@
     "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
     "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=150&h=150&crop=1",
     "https://solarsystem.nasa.gov/small-bodies/meteors-and-meteorites/overview/?page=0&per_page=40&order=id+asc&condition_1=meteor_shower%3Abody_type",
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
+    "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg",
+    "https://www.jpl.nasa.gov/who-we-are/executive-council/",
+    "https://www.jpl.nasa.gov/who-we-are/history/",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/",
+    "https://www.jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
+    "https://www.jpl.nasa.gov/timeline/",
+    "https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/",
+    "https://www.jpl.nasa.gov/events/tours/",
+    "https://jpl.nasa.gov/timeline",
+    "https://cneos.jpl.nasa.gov/",
+    "https://science.nasa.gov/solar-system",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
@@ -109,6 +124,8 @@
     "https://svs.gsfc.nasa.gov/goto",
     "https://eyes.nasa.gov/",
     "https://www.nasa.gov/general/accessibility/",
+    "https://ammos.nasa.gov/",
+    "http://www.jpl.nasa.gov/copyrights.cfm",
     "https://pib.gov.in/organisationalsetuph.aspx",
     "https://www.sebi.gov.in/qr-verification.html",
     "https://www.sebi.gov.in/upi-verification.html",
@@ -200,6 +217,10 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/InSight_high_five_tighter.2e16d0ba.fill-1024x512-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P9007A-640.width-1024.jpg",
     "http://www.imf.org/en/",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
@@ -218,6 +239,7 @@
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://esahubble.org/images/heic1215a/",
+    "https://jpl.jobs/",
     "http://www.facebook.com/NASAJPL",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
@@ -252,8 +274,15 @@
     "https://www.youtube.com/watch?v=Ab2L1ktl8v0",
     "https://www.youtube.com/watch?v=Rwhv38BVjUM",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/prc97-01-jpg.webp?w=1024",
-    "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
+    "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
+    "https://ssd.jpl.nasa.gov/contact/",
+    "https://ssd.jpl.nasa.gov/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
+    "https://ssd.jpl.nasa.gov/ephem.html",
+    "https://ssd.jpl.nasa.gov/planets/",
+    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
     "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/",
     "https://science.nasa.gov/missions/hubble/hubble-space-telescope-resolves-gaseous-ring-around-supernova/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-celebrates-sn-1987as-20th-anniversary/",
@@ -261,7 +290,6 @@
     "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
     "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
@@ -271,34 +299,10 @@
     "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
-    "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg",
-    "https://www.jpl.nasa.gov/who-we-are/executive-council/",
-    "https://www.jpl.nasa.gov/who-we-are/history/",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/",
-    "https://www.jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
-    "https://www.jpl.nasa.gov/timeline/",
-    "https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/",
-    "https://www.jpl.nasa.gov/events/tours/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/InSight_high_five_tighter.2e16d0ba.fill-1024x512-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P9007A-640.width-1024.jpg",
-    "https://jpl.jobs/",
-    "https://jpl.nasa.gov/timeline",
     "https://ssd.jpl.nasa.gov/planets/orbits.html",
     "https://ssd.jpl.nasa.gov/sats/ephem/",
     "https://ssd.jpl.nasa.gov/sb/orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/gravity.html",
-    "https://cneos.jpl.nasa.gov/",
-    "https://ammos.nasa.gov/",
-    "https://science.nasa.gov/solar-system",
-    "https://ssd.jpl.nasa.gov”/",
-    "https://ssd.jpl.nasa.gov/images/comet_elem_diagram.jpg",
-    "https://ssd.jpl.nasa.gov/faq/b02.html",
-    "https://ssd.jpl.nasa.gov/horizons/",
-    "https://ssd.jpl.nasa.gov/horizons/",
-    "http://www.jpl.nasa.gov/copyrights.cfm",
-    "http://www.iau.org/static/resolutions/IAU2012_English.pdf"
+    "https://ssd.jpl.nasa.gov/tools/gravity.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1837,6 +1841,26 @@
       "at": "2026-10-06T19:04:59+00:00",
       "status": "ok",
       "hash": "cb1de822dba2fd5b0bd43a4088d2b5381e2bcc2daa0dd010bf666ce5a9698ac2"
+    },
+    "https://ssd.jpl.nasa.gov/images/comet_elem_diagram.jpg": {
+      "at": "2026-10-06T23:00:07+00:00",
+      "status": "ok",
+      "hash": "d9adfefab295bc75483ab206a302d7bfeeffb27131f4cff9cf2cd91ab71f53fc"
+    },
+    "https://ssd.jpl.nasa.gov/sitemap.html": {
+      "at": "2026-10-06T23:00:09+00:00",
+      "status": "ok",
+      "hash": "073160962665077b2e91a9bd83844212e6f6cb6e477e629e326862d11b133e62"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2023/04/prc97-01-jpg.webp?w=1024": {
+      "at": "2026-10-06T23:00:13+00:00",
+      "status": "ok",
+      "hash": "800e7c230898c4592eaf7fe55538132dfb7fc35c9271de377f6ca9a8302c5347"
+    },
+    "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/": {
+      "at": "2026-10-06T23:00:18+00:00",
+      "status": "ok",
+      "hash": "52fb436db299365f4c9f0a625cd903b7b2f46898c4a28397ba2a2f3692bddd6c"
     }
   },
   "memory": [
@@ -8670,10 +8694,117 @@
       ],
       "hash": "cb1de822dba2fd5b0bd43a4088d2b5381e2bcc2daa0dd010bf666ce5a9698ac2",
       "learned_at": "2026-10-06T19:04:59+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/images/comet_elem_diagram.jpg",
+      "title": "comet_elem_diagram.jpg",
+      "summary": "Title: comet_elem_diagram.jpg URL Source: https://ssd.jpl.nasa.gov/images/comet_elem_diagram.jpg Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: A diagram that explains the names and points of the earth's and comet halleys orbits",
+      "keywords": [
+        "comet_elem_diagram",
+        "jpg",
+        "2023",
+        "comet",
+        "content",
+        "diagram",
+        "earth",
+        "explains",
+        "gmt",
+        "gov",
+        "halleys",
+        "https",
+        "images",
+        "jpl"
+      ],
+      "hash": "d9adfefab295bc75483ab206a302d7bfeeffb27131f4cff9cf2cd91ab71f53fc",
+      "learned_at": "2026-10-06T23:00:07+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sitemap.html",
+      "title": "Sitemap",
+      "summary": "Title: Sitemap URL Source: https://ssd.jpl.nasa.gov/sitemap.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sitemap.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sitemap.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "sitemap",
+        "planets",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "073160962665077b2e91a9bd83844212e6f6cb6e477e629e326862d11b133e62",
+      "learned_at": "2026-10-06T23:00:09+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/prc97-01-jpg.webp?w=1024",
+      "title": "prc97-01-jpg.webp",
+      "summary": "Title: prc97-01-jpg.webp URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/prc97-01-jpg.webp?w=1024 Published Time: Tue, 06 Oct 2026 23:00:11 GMT Markdown Content: Four images showing the same nebula coloured in reds",
+      "keywords": [
+        "prc97-01-jpg",
+        "webp",
+        "1024",
+        "2023",
+        "2026",
+        "coloured",
+        "content",
+        "four",
+        "gmt",
+        "gov",
+        "https",
+        "images",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "800e7c230898c4592eaf7fe55538132dfb7fc35c9271de377f6ca9a8302c5347",
+      "learned_at": "2026-10-06T23:00:13+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
+      "title": "NASA Missions Catch First Light from a Gravitational-Wave Event - NASA Science",
+      "summary": "Title: NASA Missions Catch First Light from a Gravitational-Wave Event - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/ Published Time: 2017-10-16T10:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Soci",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "missions",
+        "plus",
+        "podcasts",
+        "resources"
+      ],
+      "hash": "52fb436db299365f4c9f0a625cd903b7b2f46898c4a28397ba2a2f3692bddd6c",
+      "learned_at": "2026-10-06T23:00:18+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-06T23:00:18+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-06T23:00:18+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 296
+    },
     {
       "at": "2026-10-06T19:04:59+00:00",
       "kind": "core_promoted",
@@ -9507,29 +9638,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 215
-    },
-    {
-      "at": "2026-09-26T21:34:16+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-26T21:34:16+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 219
     }
   ],
   "metrics": {
-    "successful_fetches": 297,
+    "successful_fetches": 301,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 10,
-    "candidate_rejections": 49
+    "candidate_rejections": 50
   },
   "core_genome": {
     "query_weight": 3.0,
