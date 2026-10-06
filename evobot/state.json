@@ -1,13 +1,13 @@
 {
   "schema": 2,
-  "generation": 57,
+  "generation": 58,
   "core_version": 10,
-  "runs": 56,
-  "pages_learned": 282,
-  "last_run": "2026-10-05T18:37:54+00:00",
+  "runs": 57,
+  "pages_learned": 286,
+  "last_run": "2026-10-06T00:20:28+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/",
+    "https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/",
     "https://spaceplace.nasa.gov/meteor-shower/en/Meteor_shower.en.jpg",
     "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
     "https://www.jpl.nasa.gov/",
@@ -38,6 +38,8 @@
     "https://science.nasa.gov/mission/webb/multimedia/images/",
     "https://science.nasa.gov/mission/webb/multimedia/images/",
     "https://www.jpl.nasa.gov/site/research/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=150&h=150&crop=1",
     "https://solarsystem.nasa.gov/small-bodies/meteors-and-meteorites/overview/?page=0&per_page=40&order=id+asc&condition_1=meteor_shower%3Abody_type",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://www.pib.gov.in/images/high-contrast.png",
@@ -257,11 +259,6 @@
     "https://www.youtube.com/watch?v=Ab2L1ktl8v0",
     "https://www.youtube.com/watch?v=Rwhv38BVjUM",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
-    "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=150&h=150&crop=1",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=1024",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900",
-    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/",
     "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
     "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/",
@@ -281,8 +278,7 @@
     "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
-    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
-    "https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/"
+    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1746,6 +1742,26 @@
       "at": "2026-10-05T18:38:01+00:00",
       "status": "ok",
       "hash": "d777895abb70af6160f3e7de154e4977b3143bddac00005718bd7df7341f7a7e"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=1024": {
+      "at": "2026-10-06T00:20:30+00:00",
+      "status": "ok",
+      "hash": "bc8281e0fabe722e44715252753e5ecbfd0382083e9929be964b0d53aaf31308"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900": {
+      "at": "2026-10-06T00:20:33+00:00",
+      "status": "ok",
+      "hash": "d6b8d806de86d3576530bbabfe5385e3fb057af077c53c215edae6893f5482d0"
+    },
+    "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/": {
+      "at": "2026-10-06T00:20:37+00:00",
+      "status": "ok",
+      "hash": "28fe90b64ff81086705303845f0798be94336837ee444231ed86b3969caf2899"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/": {
+      "at": "2026-10-06T00:20:41+00:00",
+      "status": "ok",
+      "hash": "5c0c1e7b329c145584a0d490be37e1edc7a775b9248ad8955ac5952ce37648ac"
     }
   },
   "memory": [
@@ -8234,10 +8250,117 @@
       ],
       "hash": "d777895abb70af6160f3e7de154e4977b3143bddac00005718bd7df7341f7a7e",
       "learned_at": "2026-10-05T18:38:01+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=1024",
+      "title": "Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg",
+      "summary": "Title: Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=1024 Markdown Content: A starry night looks down at a astronomer",
+      "keywords": [
+        "202017_ben",
+        "20by-nc-sa",
+        "20flickr_cc",
+        "20goldstein",
+        "20meteor",
+        "20shower",
+        "20via",
+        "assets",
+        "jpg",
+        "orionid",
+        "science",
+        "1024",
+        "2026",
+        "astronomer"
+      ],
+      "hash": "bc8281e0fabe722e44715252753e5ecbfd0382083e9929be964b0d53aaf31308",
+      "learned_at": "2026-10-06T00:20:30+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900",
+      "title": "STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif",
+      "summary": "Title: STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900 Markdown Content: The image is likely a digital overlay",
+      "keywords": [
+        "assets",
+        "science",
+        "stsci-01evvfrf8nfagry57jvnd6f8k7",
+        "tif",
+        "1998",
+        "900",
+        "content",
+        "digital",
+        "dynamicimage",
+        "gov",
+        "https",
+        "hubble",
+        "image",
+        "likely"
+      ],
+      "hash": "d6b8d806de86d3576530bbabfe5385e3fb057af077c53c215edae6893f5482d0",
+      "learned_at": "2026-10-06T00:20:33+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
+      "title": "Hubble’s Nebulae - NASA Science",
+      "summary": "Title: Hubble’s Nebulae - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/ Published Time: 2023-01-13T09:09:36-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "28fe90b64ff81086705303845f0798be94336837ee444231ed86b3969caf2899",
+      "learned_at": "2026-10-06T00:20:37+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/",
+      "title": "Focusing in on Gravitational Lenses - NASA Science",
+      "summary": "Title: Focusing in on Gravitational Lenses - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/ Published Time: 2024-12-02T11:14:50-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.g",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "5c0c1e7b329c145584a0d490be37e1edc7a775b9248ad8955ac5952ce37648ac",
+      "learned_at": "2026-10-06T00:20:41+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-06T00:20:41+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-06T00:20:41+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 272
+    },
     {
       "at": "2026-10-05T18:38:02+00:00",
       "kind": "core_unchanged",
@@ -9071,35 +9194,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 234
-    },
-    {
-      "at": "2026-09-26T11:57:40+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.777778,
-      "hosts": 24,
-      "candidate_errors": [
-        "ValueError: forbidden node Lambda",
-        "ValueError: forbidden node Lambda",
-        "ValueError: forbidden node Lambda",
-        "ValueError: forbidden node Lambda",
-        "ValueError: forbidden node Lambda"
-      ]
-    },
-    {
-      "at": "2026-09-26T11:57:39+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 223
     }
   ],
   "metrics": {
-    "successful_fetches": 282,
+    "successful_fetches": 286,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 9,
-    "candidate_rejections": 46
+    "candidate_rejections": 47
   },
   "core_genome": {
     "query_weight": 3.0,
