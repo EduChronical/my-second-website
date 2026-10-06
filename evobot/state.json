@@ -1,12 +1,13 @@
 {
   "schema": 2,
-  "generation": 59,
+  "generation": 60,
   "core_version": 10,
-  "runs": 58,
-  "pages_learned": 290,
-  "last_run": "2026-10-06T06:36:46+00:00",
+  "runs": 59,
+  "pages_learned": 292,
+  "last_run": "2026-10-06T13:37:27+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
     "https://www.jpl.nasa.gov/who-we-are/",
     "https://ssd.jpl.nasa.gov/about/",
     "https://ssd.jpl.nasa.gov/faq.html",
@@ -17,7 +18,6 @@
     "https://www.jpl.nasa.gov/topics/technology/",
     "https://www.jpl.nasa.gov/topics/robotics/",
     "https://www.jpl.nasa.gov/edu/",
-    "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
     "https://science.nasa.gov/?search=Moon+Base",
     "https://science.nasa.gov/mars/",
     "https://science.nasa.gov/?search=ISS",
@@ -221,6 +221,7 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
+    "https://esahubble.org/images/heic1215a/",
     "http://www.facebook.com/NASAJPL",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
@@ -256,11 +257,7 @@
     "https://www.youtube.com/watch?v=Rwhv38BVjUM",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/",
-    "https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/",
-    "https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/",
-    "https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/",
     "https://science.nasa.gov/wp-content/uploads/2023/04/prc97-01-jpg.webp?w=1024",
-    "https://esahubble.org/images/heic1215a/",
     "https://science.nasa.gov/missions/hubble/nasa-missions-catch-first-light-from-a-gravitational-wave-event/",
     "https://science.nasa.gov/missions/hubble/nasa-hubble-pinpoints-record-breaking-explosion/",
     "https://science.nasa.gov/missions/hubble/hubble-space-telescope-resolves-gaseous-ring-around-supernova/",
@@ -278,8 +275,7 @@
     "https://science.nasa.gov/image-detail/hubble-distance-ladder-stsci-01evsw8v60tdzv2m2v1m1j8as8/",
     "https://science.nasa.gov/mission/hubble/hubble-news/",
     "https://science.nasa.gov/mission/hubble/hubble-news/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/",
-    "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900"
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/finding-planetary-construction-zones/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -1783,6 +1779,16 @@
       "at": "2026-10-06T06:37:04+00:00",
       "status": "ok",
       "hash": "18bcb4cec3011196b0cc074853e1237e60eee30cd953e712e39f85c04fd6e583"
+    },
+    "https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/": {
+      "at": "2026-10-06T13:37:31+00:00",
+      "status": "ok",
+      "hash": "c67b829f88c069a75f218ef765be2a60ed1af7364d56ccca51fce06b5420e566"
+    },
+    "https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/": {
+      "at": "2026-10-06T13:37:35+00:00",
+      "status": "ok",
+      "hash": "c3643e0341250004d769cf76abef33d0e099d67eb5c0fdda9983fde227696e66"
     }
   },
   "memory": [
@@ -8455,10 +8461,71 @@
       ],
       "hash": "18bcb4cec3011196b0cc074853e1237e60eee30cd953e712e39f85c04fd6e583",
       "learned_at": "2026-10-06T06:37:04+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/",
+      "title": "Slime Mold Simulations Used to Map Dark Matter Holding Universe Together - NASA Science",
+      "summary": "Title: Slime Mold Simulations Used to Map Dark Matter Holding Universe Together - NASA Science URL Source: https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/ Published Time: 2020-03-10T13:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/new",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "universe"
+      ],
+      "hash": "c67b829f88c069a75f218ef765be2a60ed1af7364d56ccca51fce06b5420e566",
+      "learned_at": "2026-10-06T13:37:31+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/",
+      "title": "Hubble Maps the Cosmic Web of \"Clumpy\" Dark Matter in 3-D - NASA Science",
+      "summary": "Title: Hubble Maps the Cosmic Web of \"Clumpy\" Dark Matter in 3-D - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/ Published Time: 2007-01-07T13:30:00-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](http",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "c3643e0341250004d769cf76abef33d0e099d67eb5c0fdda9983fde227696e66",
+      "learned_at": "2026-10-06T13:37:35+00:00"
     }
   ],
   "failures": [],
   "events": [
+    {
+      "at": "2026-10-06T13:37:36+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-06T13:37:36+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 269
+    },
     {
       "at": "2026-10-06T06:37:04+00:00",
       "kind": "core_unchanged",
@@ -9281,29 +9348,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 224
-    },
-    {
-      "at": "2026-09-26T15:08:09+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-26T15:08:09+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 228
     }
   ],
   "metrics": {
-    "successful_fetches": 290,
+    "successful_fetches": 292,
     "failed_fetches": 0,
     "duplicate_pages": 0,
     "candidate_promotions": 9,
-    "candidate_rejections": 48
+    "candidate_rejections": 49
   },
   "core_genome": {
     "query_weight": 3.0,
