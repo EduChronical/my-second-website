@@ -1,28 +1,27 @@
 {
   "schema": 2,
-  "generation": 67,
+  "generation": 68,
   "core_version": 13,
-  "runs": 66,
-  "pages_learned": 325,
-  "last_run": "2026-10-08T00:59:44+00:00",
+  "runs": 67,
+  "pages_learned": 329,
+  "last_run": "2026-10-08T07:15:47+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
-    "https://ssd.jpl.nasa.gov/orbits_doc.html",
-    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
-    "https://science.nasa.gov/mission/webb/launch/",
-    "https://science.nasa.gov/mission/webb/science-overview/",
-    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
-    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
-    "https://science.nasa.gov/james-webb-space-telescope/",
-    "https://science.nasa.gov/mission/webb/latestnews/",
-    "https://science.nasa.gov/mission/webb/latestnews/",
-    "https://ssd.jpl.nasa.gov/glossary/ra.html",
-    "https://ssd.jpl.nasa.gov/glossary/dec.html",
-    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
     "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-black-holes/",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-energy/",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-exoplanets/",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gamma-ray-bursts/",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
+    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
+    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+    "https://ssd.jpl.nasa.gov/planets/discovery.html",
+    "https://ssd.jpl.nasa.gov/sats/",
     "https://www.jpl.nasa.gov/topics/robotics/",
     "https://www.jpl.nasa.gov/topics/mars/",
     "https://www.jpl.nasa.gov/topics/technology/",
@@ -238,6 +237,7 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://esahubble.org/images/heic1215a/",
     "https://jpl.jobs/",
+    "https://www.stunnel.org/platforms.html",
     "http://www.facebook.com/NASAJPL",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
@@ -283,30 +283,6 @@
     "https://minorplanetcenter.net/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-energy/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-exoplanets/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gamma-ray-bursts/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
-    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/missions/hubble/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://ssd.jpl.nasa.gov/planets/discovery.html",
-    "https://ssd.jpl.nasa.gov/sats/",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf)",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf)",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf)",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf`",
-    "https://www.stunnel.org/platforms.html",
     "https://www.stunnel.org/downloads.html",
     "https://www.stunnel.org/downloads.html",
     "https://www.stunnel.org/",
@@ -390,7 +366,30 @@
     "https://ssd.jpl.nasa.gov/planets/phys_par.html",
     "https://ssd.jpl.nasa.gov/email_list.html",
     "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/",
-    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf"
+    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+    "https://ssd.jpl.nasa.gov/sb/great_comets.html",
+    "https://ssd.jpl.nasa.gov/sb/neos.html",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf`",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
+    "https://ssd.jpl.nasa.gov/orbits_doc.html",
+    "https://science.nasa.gov/mission/webb/launch/",
+    "https://science.nasa.gov/mission/webb/science-overview/",
+    "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
+    "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
+    "https://science.nasa.gov/james-webb-space-telescope/",
+    "https://science.nasa.gov/mission/webb/latestnews/",
+    "https://science.nasa.gov/mission/webb/latestnews/",
+    "https://ssd.jpl.nasa.gov/glossary/ra.html",
+    "https://ssd.jpl.nasa.gov/glossary/dec.html",
+    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2078,6 +2077,26 @@
       "at": "2026-10-08T00:59:55+00:00",
       "status": "ok",
       "hash": "c5ad0a97c79950017d5f394991d7a023b13882430ad10eb75dcf327df1dc2bef"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf": {
+      "at": "2026-10-08T07:15:49+00:00",
+      "status": "ok",
+      "hash": "1110984fae54cb6f45ef50c420e65d909e47e8dd42d57860656c64c8935b647b"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf)": {
+      "at": "2026-10-08T07:15:51+00:00",
+      "status": "ok",
+      "hash": "29b90836d8f6836a7477ac48c8a0f520e3813ec8c9074526920bded8bf53d467"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/": {
+      "at": "2026-10-08T07:15:55+00:00",
+      "status": "ok",
+      "hash": "9b0672a9110182aa6497629cb696dc2900ee4a272be3e1ff6129531e16795372"
+    },
+    "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/": {
+      "at": "2026-10-08T07:15:59+00:00",
+      "status": "ok",
+      "hash": "52666b74cf0d26718923a353af4ac5abf4e787b30b902683330ce6b94879186a"
     }
   },
   "memory": [
@@ -9555,6 +9574,98 @@
       ],
       "hash": "c5ad0a97c79950017d5f394991d7a023b13882430ad10eb75dcf327df1dc2bef",
       "learned_at": "2026-10-08T00:59:55+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+      "title": "horizons_stunnel_client.conf",
+      "summary": "# horizons_stunnel_client.conf # # External CLIENT configuration file for Horizons command-line interface # https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf # # Install 'stunnel' on local system. See documentation: # https://ssd.jpl.nasa.gov/horizons/horizons_tls_access.html # # When 'stunnel' is running, connect to Horizons with terminal commands ... # # telnet localhost 6775 # # or ... # # telnet 127.0.0.1 6775 # # Modification History: # # DATE Who Change # ----------- --- ---------------------------------------------------------- # 2024-Sep-01 JDG Version 1 # 2025-Sep-29 JDG Updated link to documentation # # Key: # JDG= Jon.D.Giorgini@jpl.nasa.gov #------------------------------------------------------------------------------ # # Horizons external client service definition ; [Horizons_TLS_command_line CLIENT] client = yes accept = 127.0.0.1:6775 connect = ssd.jpl.nasa.go",
+      "keywords": [
+        "gov",
+        "horizons",
+        "jpl",
+        "nasa",
+        "file",
+        "ssd",
+        "client",
+        "stunnel",
+        "6775",
+        "jdg",
+        "local",
+        "127",
+        "cafile",
+        "change"
+      ],
+      "hash": "1110984fae54cb6f45ef50c420e65d909e47e8dd42d57860656c64c8935b647b",
+      "learned_at": "2026-10-08T07:15:49+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf)",
+      "title": "Sorry: Page not Found",
+      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf) Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf)#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.",
+      "keywords": [
+        "ssd",
+        "https",
+        "nasa",
+        "jpl",
+        "gov",
+        "html",
+        "conf",
+        "ftp",
+        "horizons_stunnel_client",
+        "planets",
+        "orbits",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "29b90836d8f6836a7477ac48c8a0f520e3813ec8c9074526920bded8bf53d467",
+      "learned_at": "2026-10-08T07:15:51+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/",
+      "title": "Hubble Dark Matter - NASA Science",
+      "summary": "Title: Hubble Dark Matter - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/ Published Time: 2024-09-22T23:06:05-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Medi",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "9b0672a9110182aa6497629cb696dc2900ee4a272be3e1ff6129531e16795372",
+      "learned_at": "2026-10-08T07:15:55+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/",
+      "title": "How NASA’s Webb Telescope Supports Our Search for Life Beyond Earth - NASA Science",
+      "summary": "Title: How NASA’s Webb Telescope Supports Our Search for Life Beyond Earth - NASA Science URL Source: https://science.nasa.gov/blogs/webb/2025/04/18/how-nasas-webb-telescope-supports-our-search-for-life-beyond-earth/ Published Time: 2025-04-18T14:47:58-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newslett",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "webb",
+        "earth",
+        "image",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "52666b74cf0d26718923a353af4ac5abf4e787b30b902683330ce6b94879186a",
+      "learned_at": "2026-10-08T07:15:59+00:00"
     }
   ],
   "failures": [
@@ -9565,6 +9676,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-08T07:15:59+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-08T07:15:59+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 383
+    },
     {
       "at": "2026-10-08T00:59:56+00:00",
       "kind": "core_promoted",
@@ -10409,29 +10535,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 188
-    },
-    {
-      "at": "2026-09-27T21:38:52+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-27T21:38:52+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 184
     }
   ],
   "metrics": {
-    "successful_fetches": 325,
+    "successful_fetches": 329,
     "failed_fetches": 1,
     "duplicate_pages": 0,
     "candidate_promotions": 12,
-    "candidate_rejections": 53
+    "candidate_rejections": 54
   },
   "core_genome": {
     "query_weight": 3.0,
