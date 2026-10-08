@@ -1,22 +1,12 @@
 {
   "schema": 2,
-  "generation": 69,
+  "generation": 70,
   "core_version": 13,
-  "runs": 68,
-  "pages_learned": 333,
-  "last_run": "2026-10-08T14:40:29+00:00",
+  "runs": 69,
+  "pages_learned": 341,
+  "last_run": "2026-10-08T20:10:55+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://ssd.jpl.nasa.gov/sb/",
-    "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
-    "https://ssd.jpl.nasa.gov/tools/sbdb_query.html",
-    "https://science.nasa.gov/missions/hubble/hubble-captures-a-shadow-play-caused-by-possible-planet/",
-    "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
-    "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
-    "https://ssd.jpl.nasa.gov/planets/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/ephem/",
-    "https://science.nasa.gov/mission/webb/for-fun/",
-    "https://www.jpl.nasa.gov/topics/robotics/",
     "https://www.jpl.nasa.gov/topics/mars/",
     "https://www.jpl.nasa.gov/topics/technology/",
     "https://www.jpl.nasa.gov/topics/robotics/",
@@ -44,7 +34,10 @@
     "https://naif.jpl.nasa.gov/naif/index.html",
     "https://naif.jpl.nasa.gov/naif/toolkit.html",
     "https://naif.jpl.nasa.gov/naif/tutorials.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/planetfact.html",
+    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
+    "https://science.nasa.gov/feed/",
+    "https://jpl.nasa.gov/",
+    "https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
@@ -55,7 +48,6 @@
     "https://spaceplace.nasa.gov/leap-year/en/",
     "https://climatekids.nasa.gov/climate-change-meaning/",
     "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-a-train",
-    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
     "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
     "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
@@ -236,6 +228,12 @@
     "https://www.stunnel.org/downloads.html",
     "https://www.stunnel.org/",
     "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_DSOC_adj1.2e16d0ba.fill-480x480-c70.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_PIA26145.dsoc-screen.2e16d0ba.fill-122x122-c70.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Ingenuity_adj_2.2e16d0ba.fill-480x480-c70.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ingenuityl.2e16d0ba.fill-122x122-c70.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25281.2e16d0ba.fill-122x122-c70.jpg",
     "http://www.facebook.com/NASAJPL",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
@@ -281,33 +279,10 @@
     "https://minorplanetcenter.net/",
     "https://www.rutschle.net/tech/sslh/README.html",
     "https://www.youtube.com/watch?v=5_z7k4DjClk",
+    "https://gmpg.org/xfn/11",
+    "https://cdn.parsely.com/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/",
-    "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/",
-    "https://science.nasa.gov/asset/webb/extreme-debris-disk-artists-concept/",
-    "https://science.nasa.gov/asset/webb/composition-of-extreme-debris-disks-across-time/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAKR83MS8GD7SCTVSQYRXG.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://gmpg.org/xfn/11",
-    "https://science.nasa.gov/solar-system/meteors-meteorites/",
-    "https://cdn.parsely.com/",
-    "https://science.nasa.gov/feed/",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_DSOC_adj1.2e16d0ba.fill-480x480-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_PIA26145.dsoc-screen.2e16d0ba.fill-122x122-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Ingenuity_adj_2.2e16d0ba.fill-480x480-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ingenuityl.2e16d0ba.fill-122x122-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25281.2e16d0ba.fill-122x122-c70.jpg",
-    "https://jpl.nasa.gov/",
-    "https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
-    "https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Mars_Cube_One.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA22561.2e16d0ba.fill-480x480-c70.jpg",
@@ -393,7 +368,36 @@
     "https://ssd.jpl.nasa.gov/tools/orbit_diagram.html",
     "https://ssd.jpl.nasa.gov/sats/phys_par/",
     "https://ssd.jpl.nasa.gov/sats/obs_data.html",
-    "https://ssd.jpl.nasa.gov/sats/discovery.html"
+    "https://ssd.jpl.nasa.gov/sats/discovery.html",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAKR83MS8GD7SCTVSQYRXG.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+    "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://ssd.jpl.nasa.gov/images/vesta.png",
+    "https://ssd.jpl.nasa.gov/sb/why_asteroids.html",
+    "https://ssd.jpl.nasa.gov/sb/why_comets.html",
+    "https://www.iau.org/",
+    "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
+    "https://ssd.jpl.nasa.gov/tools/sbdb_query.html",
+    "https://science.nasa.gov/missions/hubble/hubble-captures-a-shadow-play-caused-by-possible-planet/",
+    "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
+    "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
+    "https://ssd.jpl.nasa.gov/planets/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/ephem/",
+    "https://science.nasa.gov/mission/webb/for-fun/",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
+    "https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/",
+    "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2121,6 +2125,46 @@
       "at": "2026-10-08T14:40:40+00:00",
       "status": "ok",
       "hash": "d5081fb7eb9c1cfcb428418f9ade06e889c1e561598ef40a9b88e52394c4f0c1"
+    },
+    "https://science.nasa.gov/asset/webb/composition-of-extreme-debris-disks-across-time/": {
+      "at": "2026-10-08T20:11:00+00:00",
+      "status": "ok",
+      "hash": "aef9613bc676997318e97de313a7356fbe8008cf072302e6910d4156c8590fed"
+    },
+    "https://science.nasa.gov/asset/webb/extreme-debris-disk-artists-concept/": {
+      "at": "2026-10-08T20:11:02+00:00",
+      "status": "ok",
+      "hash": "9045fbea881335190c5262e3aa767fe70ad3d19ec8ad654db1818da17ee5fdc8"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-10-08T20:11:03+00:00",
+      "status": "ok",
+      "hash": "9629087bae68780265476fe59a1aa5add331c1b300e54e79b4c4f5b5d9de2b98"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-10-08T20:11:05+00:00",
+      "status": "ok",
+      "hash": "f4a3a3ae6eac62745f610a7b657aa83738c0854652a338b6af96e80362f041bc"
+    },
+    "https://ssd.jpl.nasa.gov/sb/": {
+      "at": "2026-10-08T20:11:09+00:00",
+      "status": "ok",
+      "hash": "e4b91f4fcfeed2cc4f17ff5c7f8c53bd0ca8dd4dc6f5a760c796deeccc48df9b"
+    },
+    "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html": {
+      "at": "2026-10-08T20:11:09+00:00",
+      "status": "ok",
+      "hash": "093100ee9c7ef58e984a95f0cf76dda8d1799150ac3ef1202e24e62fb53d5cd8"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/planetfact.html": {
+      "at": "2026-10-08T20:11:11+00:00",
+      "status": "ok",
+      "hash": "fd3aba680ae3f040f77597db373d0ff8016f71e15525825631daf5055095552e"
+    },
+    "https://www.jpl.nasa.gov/topics/robotics/": {
+      "at": "2026-10-08T20:11:14+00:00",
+      "status": "ok",
+      "hash": "0c44c9b7247f5e5135075d1dc452a28f32a0b37e841d3814223c5f6563321601"
     }
   },
   "memory": [
@@ -9782,6 +9826,190 @@
       ],
       "hash": "d5081fb7eb9c1cfcb428418f9ade06e889c1e561598ef40a9b88e52394c4f0c1",
       "learned_at": "2026-10-08T14:40:40+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/webb/composition-of-extreme-debris-disks-across-time/",
+      "title": "Composition of Extreme Debris Disks Across Time - NASA Science",
+      "summary": "Title: Composition of Extreme Debris Disks Across Time - NASA Science URL Source: https://science.nasa.gov/asset/webb/composition-of-extreme-debris-disks-across-time/ Published Time: 2026-10-01T09:59:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "webb"
+      ],
+      "hash": "aef9613bc676997318e97de313a7356fbe8008cf072302e6910d4156c8590fed",
+      "learned_at": "2026-10-08T20:11:00+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/webb/extreme-debris-disk-artists-concept/",
+      "title": "Extreme Debris Disk (Artist’s Concept) - NASA Science",
+      "summary": "Title: Extreme Debris Disk (Artist’s Concept) - NASA Science URL Source: https://science.nasa.gov/asset/webb/extreme-debris-disk-artists-concept/ Published Time: 2026-10-01T09:59:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Reso",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "webb"
+      ],
+      "hash": "9045fbea881335190c5262e3aa767fe70ad3d19ec8ad654db1818da17ee5fdc8",
+      "learned_at": "2026-10-08T20:11:02+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png",
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0001,\u0000\u0000\u0001\u0018\b\u0002\u0000\u0000\u0000i�\\�\u0000\u0000\u0000 pHYs\u0000\u0000 \u0013\u0000\u0000 \u0013\u0001\u0000��\u0018\u0000\u0000 \u0000IDATx�|� �e�y �Y������ξ�s���ڻz����8$�3á� �\u0019\u000e�ݔDR�E��(Q 9ZLS�MG�e;�\u0015��%[��Ȳ\u0003;F�D�eÑ\u0012��%(��\u0018�\u0002�N\u0002$��}U]3C\u001b8(�z���խ�������O_��+R�R�2��&�5*4�-� �\u0004)\u0014#����y���ݷv��S�`6uu��n��+oi}����� �����`-g�\u0010 !��w�6\u0014��Մ�� Bn��js$�\u0010�ڞ �3���<��D��o(�K�\"T�����\u0001��~�|~�����'��Bo�\\)���Q��� �\"�b�\u0013[�2�*L{J\u001a�k�\u0007F��\u000e\\��0(�$7��έ�L��3��P�>�U��<c(W\u0014Wyfpn\u0019���E.��d�\u0010ԣ�ϦE��,�y*P*�D�3�$|��kWq2�i�2X<Mh��<UY��T��3�� \u0017��\u0001\u0017�\u0010%��\u0013^��y�\u0019�=f��Z���÷��������ޓ\u0015\u0015�\u0003e\u0003� �5�\u0001cOH�(PR\u0011\\\u0012\\�g*�j��2�qE �rC�E�B�����b\\b�(*9i\b�(Q P 0�P�)*\u0019|�-r����l��4�Y*�D���2 �H��\u0019�<�Y��T\u0014�-2�2�%*��,eɌ0j�LL�t���x�7Ai�f3�$4�W !����MQX�ͣ�:Oi2� �%\"��t&�)�M�t��\u0013��h2��)��?�N�t��\u0019�N�d��\u0019��\u0015�I1�N��\u0014��!�8�'{ٸ���4�\u0007�����Z6���\u0014]|u:�_��\u0019�M�\u0018���g3<��4a��\u0004֌� �\u0013�%<M� � ���� N\u0013�-҄&32��$�WPf����Nf�, �r�2U� e<�PIf��[y��� ��n���p\u0014�c�\u000f�;�z��ֺm ����|ଥ��\u0012������!80Rr>g|-�JˍT\u001b)�F j},�VɭU\u0007Ɯ0�Eby w�f�cþX� r�N~��|����� Y�Qb��ZЅ�",
+      "keywords": [
+        "1v1",
+        "2nƺt",
+        "3kp",
+        "4㨐jx",
+        "6uu",
+        "7ai",
+        "80rr",
+        "8_r",
+        "9zls",
+        "c2oi",
+        "coh",
+        "cþx",
+        "eby",
+        "eɍ0j"
+      ],
+      "hash": "9629087bae68780265476fe59a1aa5add331c1b300e54e79b4c4f5b5d9de2b98",
+      "learned_at": "2026-10-08T20:11:03+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png",
+      "summary": "Title: STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: Two space images labeled Splitter and Webb, with theSplitter showing bits of green and pink peeking through the dense star mado fot wraped in scorching heat",
+      "keywords": [
+        "science",
+        "assets",
+        "png",
+        "stsci-01m2rc9gy4d8rdr1gdjv7tcqj7",
+        "webb",
+        "2026",
+        "300",
+        "bits",
+        "clip",
+        "content",
+        "crop",
+        "dense",
+        "dynamicimage",
+        "faces"
+      ],
+      "hash": "f4a3a3ae6eac62745f610a7b657aa83738c0854652a338b6af96e80362f041bc",
+      "learned_at": "2026-10-08T20:11:05+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sb/",
+      "title": "Small Bodies",
+      "summary": "Title: Small Bodies URL Source: https://ssd.jpl.nasa.gov/sb/ Markdown Content: [![Image 1: Asteroid 4 Vesta](https://ssd.jpl.nasa.gov/images/vesta.png)](https://www.jpl.nasa.gov/images/full-view-of-vesta) Mosaic of asteroid 4 Vesta from the Dawn spacecraft. For this website, we define the term “Small Body” to include all natural bodies that are not a planet or natural satellite. This usually means all asteroids and comets, but can also include dwarf planets (e.g., Ceres) as small bodies. The [IAU](https://www.iau.org/) defines a slighly different term “Small Solar System Bodies” which excludes dwarf planets. See [IAU resolution B5](https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf). * [Why Study Asteroids?](https://ssd.jpl.nasa.gov/sb/why_asteroids.html) * [Why Study Comets?](https://ssd.jpl.nasa.gov/sb/why_comets.html) ### Description of Menu Items | Page | Description | | ",
+      "keywords": [
+        "https",
+        "gov",
+        "jpl",
+        "nasa",
+        "ssd",
+        "html",
+        "bodies",
+        "small",
+        "provides",
+        "tools",
+        "database",
+        "iau",
+        "known",
+        "list"
+      ],
+      "hash": "e4b91f4fcfeed2cc4f17ff5c7f8c53bd0ca8dd4dc6f5a760c796deeccc48df9b",
+      "learned_at": "2026-10-08T20:11:09+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+      "title": "Small-Body Database Lookup",
+      "summary": "Title: Small-Body Database Lookup URL Source: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: Enter the **IAU number**, **designation**, **name** or **SPK-ID** for the object of interest in the search form above. For example, to display information about asteroid 433 Eros, enter either `433` or `eros`, not both (names are not case-sensitive). This tool provides access to data related to the user-specified asteroid or comet. Specifically, Entries above marked with ***** are only provided when available for the specified object. ### Instructions The search form recognizes IAU numbers, designations, names, and JPL SPK-ID numbers. When searching for a particular asteroid or comet, it is best to use either the **IAU number**, as in `433` for asteroid “433 Eros”, or the **primary designation** as in `1998 SF36` for asteroid “25143",
+      "keywords": [
+        "search",
+        "asteroid",
+        "number",
+        "iau",
+        "name",
+        "433",
+        "designation",
+        "eros",
+        "2000",
+        "both",
+        "object",
+        "remember",
+        "use",
+        "xf11"
+      ],
+      "hash": "093100ee9c7ef58e984a95f0cf76dda8d1799150ac3ef1202e24e62fb53d5cd8",
+      "learned_at": "2026-10-08T20:11:09+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/planetfact.html",
+      "title": "Planetary Fact Sheets",
+      "summary": "Title: Planetary Fact Sheets URL Source: https://nssdc.gsfc.nasa.gov/planetary/planetfact.html Markdown Content: * * * * * * [**Sun** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html) [**Mercury** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html) [**Venus** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html) [**Earth** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html) [**Moon** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html) [**Mars** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html) [**Asteroid** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html) [**Jupiter** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html) [**- Jovian Satellite** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary",
+      "keywords": [
+        "planetary",
+        "gov",
+        "gsfc",
+        "html",
+        "https",
+        "nasa",
+        "nssdc",
+        "fact",
+        "factsheet",
+        "sheet",
+        "satellite",
+        "rings",
+        "table",
+        "galileanfact_table"
+      ],
+      "hash": "fd3aba680ae3f040f77597db373d0ff8016f71e15525825631daf5055095552e",
+      "learned_at": "2026-10-08T20:11:11+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/topics/robotics/",
+      "title": "Robotics Technology at JPL",
+      "summary": "Title: Robotics Technology at JPL URL Source: https://www.jpl.nasa.gov/topics/robotics/ Markdown Content: JPL is the lead NASA center for robotic exploration, which means we send robots, not humans, into space. NASA has plans in the works to overcome huge challenges and send humans to Mars. In the meantime, we've been sending rovers, landers, and orbiters to the surface of the Red Planet, and developing technologies to dispatch more advanced robots to other solar system destinations, such as the Moon, asteroids, and Jupiter's icy moon Europa. Many locales include such obstacles as craggy cliffs, steep canyons, and slick ice covering a subsurface ocean. We need to design and build robots that can safely navigate and survive those challenging features and serve as our agile stand-in explorers. JPL has developed sophisticated software for all the Mars rovers we've sent that lets us maintain",
+      "keywords": [
+        "jpl",
+        "moon",
+        "robots",
+        "rovers",
+        "exploration",
+        "mars",
+        "nasa",
+        "other",
+        "rover",
+        "solar",
+        "surface",
+        "system",
+        "two",
+        "axel"
+      ],
+      "hash": "0c44c9b7247f5e5135075d1dc452a28f32a0b37e841d3814223c5f6563321601",
+      "learned_at": "2026-10-08T20:11:14+00:00"
     }
   ],
   "failures": [
@@ -9792,6 +10020,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-08T20:11:15+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-08T20:11:15+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 24,
+      "frontier": 391
+    },
     {
       "at": "2026-10-08T14:40:41+00:00",
       "kind": "core_unchanged",
@@ -10625,29 +10868,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 195
-    },
-    {
-      "at": "2026-09-28T05:12:27+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-28T05:12:27+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 193
     }
   ],
   "metrics": {
-    "successful_fetches": 333,
+    "successful_fetches": 341,
     "failed_fetches": 1,
     "duplicate_pages": 0,
     "candidate_promotions": 12,
-    "candidate_rejections": 55
+    "candidate_rejections": 56
   },
   "core_genome": {
     "query_weight": 3.0,
