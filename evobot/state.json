@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generation": 71,
+  "generation": 72,
   "core_version": 13,
-  "runs": 70,
-  "pages_learned": 347,
-  "last_run": "2026-10-09T00:24:32+00:00",
+  "runs": 71,
+  "pages_learned": 349,
+  "last_run": "2026-10-09T06:30:36+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
     "https://www.jpl.nasa.gov/topics/mars/",
@@ -13,7 +13,6 @@
     "https://www.jpl.nasa.gov/edu/",
     "https://science.nasa.gov/mars/",
     "https://science.nasa.gov/mission/roman-space-telescope/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
     "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=150&h=150&crop=1",
     "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg",
@@ -47,6 +46,7 @@
     "https://www.nasa.gov/?search=Quesst",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
@@ -127,12 +127,12 @@
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
     "https://www.nature.com/gp/open-science",
     "https://www.springernature.com/gp/open-science/oa-agreements",
-    "https://www.nature.com/npg_/press_room/press_releases.html",
-    "https://press.nature.com/",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
     "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
     "http://svs.gsfc.nasa.gov/goto",
+    "https://www.nature.com/npg_/press_room/press_releases.html",
+    "https://press.nature.com/",
     "https://www.rbi.org.in/images/dark-theme.gif",
     "https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318",
     "https://www.nature.com/static/images/product-logos/naturecom-secondary-aba9cc0a61.svg",
@@ -199,18 +199,10 @@
     "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "http://www.imf.org/en/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/InSight_high_five_tighter.2e16d0ba.fill-1024x512-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P9007A-640.width-1024.jpg",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/",
-    "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
@@ -223,6 +215,16 @@
     "https://www.stunnel.org/",
     "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
+    "http://www.facebook.com/NASAJPL",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/InSight_high_five_tighter.2e16d0ba.fill-1024x512-c10.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P9007A-640.width-1024.jpg",
+    "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Psyche_DSOC_adj1.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_PIA26145.dsoc-screen.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Ingenuity_adj_2.2e16d0ba.fill-480x480-c70.jpg",
@@ -234,8 +236,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA17794.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA11066.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA21607.2e16d0ba.fill-122x122-c70.jpg",
-    "http://www.facebook.com/NASAJPL",
-    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
@@ -283,30 +283,6 @@
     "https://cdn.parsely.com/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://ssd.jpl.nasa.gov/tools/gravity.html",
-    "https://ssd.jpl.nasa.gov/contact/",
-    "https://ssd.jpl.nasa.gov/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
-    "https://ssd.jpl.nasa.gov/ephem.html",
-    "https://ssd.jpl.nasa.gov/planets/",
-    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
-    "https://ssd.jpl.nasa.gov/email_list.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/",
-    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-    "https://ssd.jpl.nasa.gov/sb/great_comets.html",
-    "https://ssd.jpl.nasa.gov/sb/neos.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf`",
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
-    "https://ssd.jpl.nasa.gov/orbits_doc.html",
-    "https://science.nasa.gov/mission/webb/launch/",
     "https://science.nasa.gov/mission/webb/science-overview/",
     "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
     "https://science.nasa.gov/blogs/webb/2025/07/15/nasas-webb-finds-possible-direct-collapse-black-hole/",
@@ -415,7 +391,28 @@
     "https://ssd.jpl.nasa.gov/sb/sats.html",
     "https://ssd.jpl.nasa.gov/sb/radar.html",
     "https://ssd.jpl.nasa.gov/diagrams/",
-    "https://ssd.jpl.nasa.gov/sb/orbits.html"
+    "https://ssd.jpl.nasa.gov/sb/orbits.html",
+    "https://ssd.jpl.nasa.gov/doc/",
+    "https://ssd.jpl.nasa.gov/discovery.html",
+    "https://ssd.jpl.nasa.gov/announcements/",
+    "https://ssd.jpl.nasa.gov/glossary/",
+    "https://ssd.jpl.nasa.gov/links.html",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
+    "https://ssd.jpl.nasa.gov/tools/gravity.html",
+    "https://ssd.jpl.nasa.gov/contact/",
+    "https://ssd.jpl.nasa.gov/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
+    "https://ssd.jpl.nasa.gov/ephem.html",
+    "https://ssd.jpl.nasa.gov/planets/",
+    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "https://ssd.jpl.nasa.gov/email_list.html",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/",
+    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+    "https://ssd.jpl.nasa.gov/sb/great_comets.html",
+    "https://ssd.jpl.nasa.gov/sb/neos.html",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
+    "https://ssd.jpl.nasa.gov/orbits_doc.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2213,6 +2210,21 @@
       "at": "2026-10-09T00:24:52+00:00",
       "status": "ok",
       "hash": "235eb11d53eba11c7303b039c882cc151ceee990a3b790561c673ee183f0b604"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf": {
+      "at": "2026-10-09T06:30:40+00:00",
+      "status": "ok",
+      "hash": "5777519c1a6b446c8d425b2f0b7af10248c97267e185a1061025a8ad70194b22"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf`": {
+      "at": "2026-10-09T06:30:40+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://science.nasa.gov/mission/webb/launch/": {
+      "at": "2026-10-09T06:30:42+00:00",
+      "status": "ok",
+      "hash": "0e3f6218efda72c1bcc7a7ced4eed1b4d3b2d3a04a6a4dec47e8b44af804628b"
     }
   },
   "memory": [
@@ -10196,6 +10208,52 @@
       ],
       "hash": "235eb11d53eba11c7303b039c882cc151ceee990a3b790561c673ee183f0b604",
       "learned_at": "2026-10-09T00:24:52+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
+      "title": "Sorry: Page not Found",
+      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.na",
+      "keywords": [
+        "ssd",
+        "https",
+        "nasa",
+        "jpl",
+        "gov",
+        "html",
+        "conf",
+        "ftp",
+        "horizons_stunnel_client",
+        "planets",
+        "orbits",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "5777519c1a6b446c8d425b2f0b7af10248c97267e185a1061025a8ad70194b22",
+      "learned_at": "2026-10-09T06:30:40+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/webb/launch/",
+      "title": "Launch - NASA Science",
+      "summary": "Title: Launch - NASA Science URL Source: https://science.nasa.gov/mission/webb/launch/ Published Time: 2023-06-19T00:18:54-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Mu",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "webb"
+      ],
+      "hash": "0e3f6218efda72c1bcc7a7ced4eed1b4d3b2d3a04a6a4dec47e8b44af804628b",
+      "learned_at": "2026-10-09T06:30:42+00:00"
     }
   ],
   "failures": [
@@ -10203,9 +10261,29 @@
       "at": "2026-10-08T00:59:51+00:00",
       "url": "https://ssd.jpl.nasa.gov/api/horizons_file.api`",
       "error": "HTTPError: HTTP Error 400: Bad Request"
+    },
+    {
+      "at": "2026-10-09T06:30:40+00:00",
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf`",
+      "error": "HTTPError: HTTP Error 404: Not Found"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-09T06:30:42+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-09T06:30:42+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 406
+    },
     {
       "at": "2026-10-09T00:24:52+00:00",
       "kind": "core_unchanged",
@@ -11028,40 +11106,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 210
-    },
-    {
-      "at": "2026-09-28T18:45:50+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v5",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-09-28T18:45:50+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 189
     }
   ],
   "metrics": {
-    "successful_fetches": 347,
-    "failed_fetches": 1,
+    "successful_fetches": 349,
+    "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 12,
-    "candidate_rejections": 57
+    "candidate_rejections": 58
   },
   "core_genome": {
     "query_weight": 3.0,
