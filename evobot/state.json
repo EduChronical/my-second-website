@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generation": 73,
+  "generation": 74,
   "core_version": 13,
-  "runs": 72,
-  "pages_learned": 353,
-  "last_run": "2026-10-09T13:41:07+00:00",
+  "runs": 73,
+  "pages_learned": 359,
+  "last_run": "2026-10-09T19:01:28+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
     "https://www.jpl.nasa.gov/topics/mars/",
@@ -23,7 +23,6 @@
     "https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/",
     "https://www.jpl.nasa.gov/events/tours/",
     "https://cneos.jpl.nasa.gov/",
-    "https://www.nasa.gov/multimedia/",
     "https://naif.jpl.nasa.gov/naif/data_generic.html",
     "https://naif.jpl.nasa.gov/naif/index.html",
     "https://naif.jpl.nasa.gov/naif/toolkit.html",
@@ -46,6 +45,7 @@
     "https://www.nasa.gov/?search=Quesst",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
+    "https://www.nasa.gov/multimedia/",
     "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://www.pib.gov.in/images/high-contrast.png",
@@ -283,30 +283,6 @@
     "https://cdn.parsely.com/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://ssd.jpl.nasa.gov/tools/",
-    "https://ssd.jpl.nasa.gov/tools/jdc/",
-    "https://ssd.jpl.nasa.gov/api.html",
-    "https://ssd.jpl.nasa.gov/extras.html",
-    "https://ssd.jpl.nasa.gov/astro_par.html",
-    "https://ssd.jpl.nasa.gov/obs_data.html",
-    "https://ssd.jpl.nasa.gov/tools/periodic_orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/orbit_diagram.html",
-    "https://ssd.jpl.nasa.gov/sats/phys_par/",
-    "https://ssd.jpl.nasa.gov/sats/obs_data.html",
-    "https://ssd.jpl.nasa.gov/sats/discovery.html",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAKR83MS8GD7SCTVSQYRXG.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://science.nasa.gov/solar-system/meteors-meteorites/",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://ssd.jpl.nasa.gov/images/vesta.png",
-    "https://ssd.jpl.nasa.gov/sb/why_asteroids.html",
-    "https://ssd.jpl.nasa.gov/sb/why_comets.html",
     "https://www.iau.org/",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://ssd.jpl.nasa.gov/tools/sbdb_query.html",
@@ -408,7 +384,31 @@
     "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
     "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/"
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://ssd-api.jpl.nasa.gov/doc/jd_cal.html",
+    "https://ssd-api.jpl.nasa.gov/doc/periodic_orbits.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sb_ident.html",
+    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sbwobs.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sb_radar.html",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAKR83MS8GD7SCTVSQYRXG.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://ssd.jpl.nasa.gov/sb/why_asteroids.html",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+    "https://ssd.jpl.nasa.gov/tools/",
+    "https://ssd.jpl.nasa.gov/tools/jdc/",
+    "https://ssd.jpl.nasa.gov/extras.html",
+    "https://ssd.jpl.nasa.gov/astro_par.html",
+    "https://ssd.jpl.nasa.gov/obs_data.html",
+    "https://ssd.jpl.nasa.gov/tools/periodic_orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_diagram.html",
+    "https://ssd.jpl.nasa.gov/sats/phys_par/",
+    "https://ssd.jpl.nasa.gov/sats/obs_data.html",
+    "https://ssd.jpl.nasa.gov/sats/discovery.html",
+    "https://ssd.jpl.nasa.gov/sb/why_comets.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2241,6 +2241,36 @@
       "at": "2026-10-09T13:41:18+00:00",
       "status": "ok",
       "hash": "13d9bb70d6bf54c2d9da875f3a032857ef26e024074988a30519eda88cfb7f59"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-10-09T19:01:30+00:00",
+      "status": "ok",
+      "hash": "0ad8e4b35954e6329ba10f7035d0a387499dcb2296468dc3dc9a6bb4dfcf1771"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces%2Cfocalpoint&w=300": {
+      "at": "2026-10-09T19:01:32+00:00",
+      "status": "ok",
+      "hash": "d8ca3b4c3273d48956296326bc67a7ff8373196afcb40649d187300e8af79192"
+    },
+    "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/": {
+      "at": "2026-10-09T19:01:37+00:00",
+      "status": "ok",
+      "hash": "5da3a7a45589f8f45fa81ecd56381d6bcd7e4cd5e417e966da8212203eec361b"
+    },
+    "https://ssd.jpl.nasa.gov/api.html": {
+      "at": "2026-10-09T19:01:39+00:00",
+      "status": "ok",
+      "hash": "4299fbeef8cd55ad617a0a20815bb96bd293ffd1461da6553a7d7751371942e8"
+    },
+    "https://science.nasa.gov/solar-system/meteors-meteorites/": {
+      "at": "2026-10-09T19:01:42+00:00",
+      "status": "ok",
+      "hash": "a4970c672b6a8d490e0c5a935a19bd18887d45af60aa5d8f082972fa99fc2ace"
+    },
+    "https://ssd.jpl.nasa.gov/images/vesta.png": {
+      "at": "2026-10-09T19:01:45+00:00",
+      "status": "ok",
+      "hash": "a29b0a691cedcde50ca362148991ddf13e29dbc566f71635fe9a9e8d5cc077cc"
     }
   },
   "memory": [
@@ -10362,6 +10392,144 @@
       ],
       "hash": "13d9bb70d6bf54c2d9da875f3a032857ef26e024074988a30519eda88cfb7f59",
       "learned_at": "2026-10-09T13:41:18+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
+      "summary": "Title: STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: The Central Astronomy Research Institute publishes images of the cosmos, often featuring high-resolution telescopic captures",
+      "keywords": [
+        "science",
+        "assets",
+        "png",
+        "stsci-01kx6d0xbhsyp7q1em5qtc43rp",
+        "2026",
+        "300",
+        "astronomy",
+        "captures",
+        "central",
+        "clip",
+        "content",
+        "cosmos",
+        "crop",
+        "dynamicimage"
+      ],
+      "hash": "0ad8e4b35954e6329ba10f7035d0a387499dcb2296468dc3dc9a6bb4dfcf1771",
+      "learned_at": "2026-10-09T19:01:30+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
+      "title": "STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png",
+      "summary": "Title: STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: This is a high-resolution photo captured by the James Webb Space Telescope",
+      "keywords": [
+        "science",
+        "assets",
+        "png",
+        "stsci-01kx6e623z5hqfwjkz5c10n6x2",
+        "webb",
+        "2026",
+        "300",
+        "captured",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage",
+        "faces",
+        "fit"
+      ],
+      "hash": "d8ca3b4c3273d48956296326bc67a7ff8373196afcb40649d187300e8af79192",
+      "learned_at": "2026-10-09T19:01:32+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/",
+      "title": "Wide Field Planetary Cameras 1 and 2 - NASA Science",
+      "summary": "Title: Wide Field Planetary Cameras 1 and 2 - NASA Science URL Source: https://science.nasa.gov/mission/hubble/observatory/design/instruments/wide-field-planetary-cameras-1-and-2/ Published Time: 2008-07-27T23:00:00-04:00 Markdown Content: [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 6: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.na",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "5da3a7a45589f8f45fa81ecd56381d6bcd7e4cd5e417e966da8212203eec361b",
+      "learned_at": "2026-10-09T19:01:37+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/api.html",
+      "title": "APIs",
+      "summary": "Title: APIs URL Source: https://ssd.jpl.nasa.gov/api.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: Several APIs are available for programmatic access to various tools and data sets used in this website. The following list provides for each API the name (linked to full documentation), a brief description, and the related page on this website. APIs are listed in alphabetical order. **API** (documentation)**Description****Related Page** [Horizons](https://ssd-api.jpl.nasa.gov/doc/horizons.html)Provides programmatic (batch) access to the [Horizons system](https://ssd.jpl.nasa.gov/horizons/)[Horizons system](https://ssd.jpl.nasa.gov/horizons/) [JD Date/Time Converter](https://ssd-api.jpl.nasa.gov/doc/jd_cal.html)Julian Day number to/from calendar date/time converter[JD Date/Time Converter](https://ssd.jpl.nasa.gov/tools/jdc/) [Periodic Orbits](https://ssd-api.jpl.nasa.g",
+      "keywords": [
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "html",
+        "ssd",
+        "small-body",
+        "doc",
+        "ssd-api",
+        "tools",
+        "horizons",
+        "provides",
+        "access",
+        "data"
+      ],
+      "hash": "4299fbeef8cd55ad617a0a20815bb96bd293ffd1461da6553a7d7751371942e8",
+      "learned_at": "2026-10-09T19:01:39+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+      "title": "Meteors and Meteorites - NASA Science",
+      "summary": "Title: Meteors and Meteorites - NASA Science URL Source: https://science.nasa.gov/solar-system/meteors-meteorites/ Published Time: 2017-10-26T04:34:57-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/new",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "a4970c672b6a8d490e0c5a935a19bd18887d45af60aa5d8f082972fa99fc2ace",
+      "learned_at": "2026-10-09T19:01:42+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/images/vesta.png",
+      "title": "vesta.png",
+      "summary": "Title: vesta.png URL Source: https://ssd.jpl.nasa.gov/images/vesta.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: A grayscale image features a spherical object on a dark background, which could be a close-up of the moon",
+      "keywords": [
+        "png",
+        "vesta",
+        "2023",
+        "background",
+        "close-up",
+        "content",
+        "could",
+        "dark",
+        "features",
+        "gmt",
+        "gov",
+        "grayscale",
+        "https",
+        "image"
+      ],
+      "hash": "a29b0a691cedcde50ca362148991ddf13e29dbc566f71635fe9a9e8d5cc077cc",
+      "learned_at": "2026-10-09T19:01:45+00:00"
     }
   ],
   "failures": [
@@ -10377,6 +10545,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-09T19:01:45+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-09T19:01:45+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 402
+    },
     {
       "at": "2026-10-09T13:41:19+00:00",
       "kind": "core_unchanged",
@@ -11199,29 +11382,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 13,
       "frontier": 192
-    },
-    {
-      "at": "2026-09-29T02:43:50+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-29T02:43:50+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 200
     }
   ],
   "metrics": {
-    "successful_fetches": 353,
+    "successful_fetches": 359,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 12,
-    "candidate_rejections": 59
+    "candidate_rejections": 60
   },
   "core_genome": {
     "query_weight": 3.0,
