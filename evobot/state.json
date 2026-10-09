@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 74,
+  "generation": 75,
   "core_version": 13,
-  "runs": 73,
-  "pages_learned": 359,
-  "last_run": "2026-10-09T19:01:28+00:00",
+  "runs": 74,
+  "pages_learned": 367,
+  "last_run": "2026-10-09T23:11:03+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.jpl.nasa.gov/topics/mars/",
-    "https://www.jpl.nasa.gov/topics/technology/",
     "https://www.jpl.nasa.gov/topics/robotics/",
     "https://www.jpl.nasa.gov/edu/",
     "https://science.nasa.gov/mars/",
@@ -43,6 +41,9 @@
     "https://www.nasa.gov/?search=ISS",
     "https://www.nasa.gov/?search=Roman",
     "https://www.nasa.gov/?search=Quesst",
+    "https://science.nasa.gov/missions/hubble/hubble-captures-a-shadow-play-caused-by-possible-planet/",
+    "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
+    "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "https://www.nasa.gov/multimedia/",
@@ -196,9 +197,9 @@
     "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
     "https://info.arxiv.org/about/donate.html",
     "https://x.com/NASAJPL",
-    "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "http://www.imf.org/en/",
+    "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://www.jpl.jobs/",
@@ -207,16 +208,16 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
-    "https://esahubble.org/images/heic1215a/",
     "https://jpl.jobs/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
+    "http://www.facebook.com/NASAJPL",
+    "https://esahubble.org/images/heic1215a/",
     "https://www.stunnel.org/platforms.html",
     "https://www.stunnel.org/downloads.html",
     "https://www.stunnel.org/downloads.html",
     "https://www.stunnel.org/",
     "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
-    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
-    "http://www.facebook.com/NASAJPL",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -281,32 +282,10 @@
     "https://www.youtube.com/watch?v=5_z7k4DjClk",
     "https://gmpg.org/xfn/11",
     "https://cdn.parsely.com/",
-    "http://sat.gov.in/scripts/showdailyboard.asp",
-    "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "https://www.iau.org/",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
-    "https://ssd.jpl.nasa.gov/tools/sbdb_query.html",
-    "https://science.nasa.gov/missions/hubble/hubble-captures-a-shadow-play-caused-by-possible-planet/",
-    "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
-    "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
-    "https://ssd.jpl.nasa.gov/planets/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/ephem/",
-    "https://science.nasa.gov/mission/webb/for-fun/",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
-    "https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/",
-    "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/",
-    "https://ssd.jpl.nasa.gov/api/horizons.api?format=text",
-    "https://ssd.jpl.nasa.gov/horizons/news.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt",
-    "https://science.nasa.gov/?search=Roman",
+    "http://sat.gov.in/scripts/showdailyboard.asp",
+    "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "https://science.nasa.gov/?search=Quesst",
     "https://www.jpl.nasa.gov/edu/intern/",
     "https://www.jpl.nasa.gov/missions?mission_status=current",
@@ -408,7 +387,37 @@
     "https://ssd.jpl.nasa.gov/sats/phys_par/",
     "https://ssd.jpl.nasa.gov/sats/obs_data.html",
     "https://ssd.jpl.nasa.gov/sats/discovery.html",
-    "https://ssd.jpl.nasa.gov/sb/why_comets.html"
+    "https://ssd.jpl.nasa.gov/sb/why_comets.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/image/moon.jpg",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/ceres.gif",
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-043A",
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-043A",
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2004-006A",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/eugenia_pr_19991006.html",
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2004-006A",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/kleopatra_pr_20000504.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/galileo.html",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt",
+    "https://ssd.jpl.nasa.gov/tools/sbdb_query.html",
+    "https://ssd.jpl.nasa.gov/planets/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/ephem/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/e1-pia23684.jpg?w=150&h=150&crop=1",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
+    "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/",
+    "https://science.nasa.gov/?search=Roman"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2271,6 +2280,46 @@
       "at": "2026-10-09T19:01:45+00:00",
       "status": "ok",
       "hash": "a29b0a691cedcde50ca362148991ddf13e29dbc566f71635fe9a9e8d5cc077cc"
+    },
+    "https://ssd.jpl.nasa.gov/api/horizons.api?format=text": {
+      "at": "2026-10-09T23:11:05+00:00",
+      "status": "ok",
+      "hash": "3f5019908252d3f89109e9f25d589e1cec3f2ae57f756f7ee47d17d321107ce5"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html": {
+      "at": "2026-10-09T23:11:30+00:00",
+      "status": "ok",
+      "hash": "737696310d6f3d2b1364ef7c3f4ba90d6de0c935ee9e871000b35cbba2a19460"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html": {
+      "at": "2026-10-09T23:11:45+00:00",
+      "status": "ok",
+      "hash": "4f3c4f5d6dd9bfd9182f8286057f4bbef79505d6473a1ae3410b199ba9f0ff03"
+    },
+    "https://ssd.jpl.nasa.gov/horizons/news.html": {
+      "at": "2026-10-09T23:11:47+00:00",
+      "status": "ok",
+      "hash": "29a080afe34a6f08f6cfafd8af9412d1ec5ffb32846495b27775da1b6558520d"
+    },
+    "https://science.nasa.gov/mission/webb/for-fun/": {
+      "at": "2026-10-09T23:11:53+00:00",
+      "status": "ok",
+      "hash": "ad0cca318373bf1981708e2fa8f756d6a2659e4f8acd89fe2c215f8cea5a013a"
+    },
+    "https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/": {
+      "at": "2026-10-09T23:11:58+00:00",
+      "status": "ok",
+      "hash": "d9dfef12599159d64170cf9d6a1ec2e422e9a32bfa2ca52ae020038fddc6807c"
+    },
+    "https://www.jpl.nasa.gov/topics/mars/": {
+      "at": "2026-10-09T23:12:03+00:00",
+      "status": "ok",
+      "hash": "01d4cbf8e7e5bb8e75563c8c45157897fc467f123dc05e0d80fb994dce17b03e"
+    },
+    "https://www.jpl.nasa.gov/topics/technology/": {
+      "at": "2026-10-09T23:12:06+00:00",
+      "status": "ok",
+      "hash": "3d199797fc73c1a119cb635cff5835df0745491b613ba06b0ef26057a0953be4"
     }
   },
   "memory": [
@@ -10530,6 +10579,190 @@
       ],
       "hash": "a29b0a691cedcde50ca362148991ddf13e29dbc566f71635fe9a9e8d5cc077cc",
       "learned_at": "2026-10-09T19:01:45+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/api/horizons.api?format=text",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/api/horizons.api?format=text",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/api/horizons.api?format=text Markdown Content: API VERSION: 1.2 API SOURCE: NASA/JPL Horizons API Missing COMMAND specification ... cannot proceed wldini(): error loading execution-control file.",
+      "keywords": [
+        "api",
+        "horizons",
+        "jpl",
+        "nasa",
+        "source",
+        "cannot",
+        "command",
+        "content",
+        "error",
+        "execution-control",
+        "file",
+        "format",
+        "gov",
+        "https"
+      ],
+      "hash": "3f5019908252d3f89109e9f25d589e1cec3f2ae57f756f7ee47d17d321107ce5",
+      "learned_at": "2026-10-09T23:11:05+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+      "title": "nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+      "summary": "Moon Fact Sheet Moon Fact Sheet Moon/Earth Comparison Bulk parameters Moon Earth Ratio (Moon/Earth) Mass (10 24 kg) 0.07346 5.9724 0.0123 Volume (10 10 km 3 ) 2.1968 108.321 0.0203 Equatorial radius (km) 1738.1 6378.1 0.2725 Polar radius (km) 1736.0 6356.8 0.2731 Volumetric mean radius (km) 1737.4 6371.0 0.2727 Ellipticity (Flattening) 0.0012 0.00335 0.36 Mean density (kg/m 3 ) 3344 5514 0.606 Surface gravity (m/s 2 ) 1.62 9.80 0.165 Surface acceleration (m/s 2 ) 1.62 9.78 0.166 Escape velocity (km/s) 2.38 11.2 0.213 GM (x 10 6 km 3 /s 2 ) 0.00490 0.39860 0.0123 Bond albedo 0.11 0.294 0.37 Geometric albedo 0.12 0.434 0.28 V-band magnitude V(1,0) -0.08 -3.99 - Solar irradiance (W/m 2 ) 1361.0 1361.0 1.000 Black-body temperature (K) 270.4 254.0 1.065 Topographic range (km) 13 20 0.650 Moment of inertia (I/MR 2 ) 0.394 0.3308 1.191 J 2 (x 10 -6 ) 202.7 1082.63 0.187 Orbital parameters (for ",
+      "keywords": [
+        "000",
+        "earth",
+        "moon",
+        "mean",
+        "orbit",
+        "orbital",
+        "surface",
+        "velocity",
+        "1000",
+        "atmosphere",
+        "deg",
+        "equator",
+        "lunar",
+        "period"
+      ],
+      "hash": "737696310d6f3d2b1364ef7c3f4ba90d6de0c935ee9e871000b35cbba2a19460",
+      "learned_at": "2026-10-09T23:11:30+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html",
+      "title": "Asteroid Fact Sheet",
+      "summary": "Title: Asteroid Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html Markdown Content: * * * * * * [![Image 1: Ceres](https://nssdc.gsfc.nasa.gov/planetary/banner/ceres.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/ceres.jpg) * * * ## Information on Selected Asteroids * * * The image above is Ceres taken from the Dawn spacecraft. Below is a table of information on selected asteroids, and at the bottom of the page are comments on the asteroids. Orbit values for epoch JD 2457400.5 (2016-01-13). Most of the values for mass and many of the diameter values are only rough estimates. | Asteroid | Diameter | ~Mass | Rotation | Orbital | Spectral | Semi-major | Orbital | Orbital | Asteroid | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Number and Name | (km) | (10 15 kg) | Period | Period | Class | Axis | Eccentricity | Inclination | Numb",
+      "keywords": [
+        "deg",
+        "hrs",
+        "yrs",
+        "---",
+        "ceres",
+        "000",
+        "asteroid",
+        "asteroids",
+        "gov",
+        "gsfc",
+        "https",
+        "image",
+        "nasa",
+        "nssdc"
+      ],
+      "hash": "4f3c4f5d6dd9bfd9182f8286057f4bbef79505d6473a1ae3410b199ba9f0ff03",
+      "learned_at": "2026-10-09T23:11:45+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/horizons/news.html",
+      "title": "Horizons System",
+      "summary": "Title: Horizons System URL Source: https://ssd.jpl.nasa.gov/horizons/news.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/horizons/news.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/horizons/news.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/ab",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "horizons",
+        "planets",
+        "news",
+        "sats",
+        "ephemerides",
+        "image",
+        "images"
+      ],
+      "hash": "29a080afe34a6f08f6cfafd8af9412d1ec5ffb32846495b27775da1b6558520d",
+      "learned_at": "2026-10-09T23:11:47+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/webb/for-fun/",
+      "title": "For Fun & Learning - NASA Science",
+      "summary": "Title: For Fun & Learning - NASA Science URL Source: https://science.nasa.gov/mission/webb/for-fun/ Published Time: 2024-08-12T08:31:46-04:00 Markdown Content: [![Image 13: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 14: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "webb"
+      ],
+      "hash": "ad0cca318373bf1981708e2fa8f756d6a2659e4f8acd89fe2c215f8cea5a013a",
+      "learned_at": "2026-10-09T23:11:53+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/",
+      "title": "NGC 7129 (NIRCam Image) - NASA Science",
+      "summary": "Title: NGC 7129 (NIRCam Image) - NASA Science URL Source: https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/ Published Time: 2026-10-06T08:58:00-04:00 Markdown Content: [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/n",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "image",
+        "images",
+        "multimedia",
+        "plus",
+        "podcasts",
+        "resources",
+        "webb"
+      ],
+      "hash": "d9dfef12599159d64170cf9d6a1ec2e422e9a32bfa2ca52ae020038fddc6807c",
+      "learned_at": "2026-10-09T23:11:58+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/topics/mars/",
+      "title": "At Work on Mars",
+      "summary": "Title: At Work on Mars URL Source: https://www.jpl.nasa.gov/topics/mars/ Markdown Content: For more than half a century, NASA's fleet of increasingly sophisticated orbiters, landers, and rovers has helped us transform science fiction into reality, enabling us to piece together detailed information about Mars, our nearest planetary neighbor. These robotic explorers have revealed details of the Red Planet’s diverse surface, atmosphere, and weather, the presence of water in its past, and its potential for life through the ages and for astronauts in the future. JPL has played a pivotal role in this exploration, starting when the first successful spacecraft, Mariner 4, completed the first Mars flyby in 1965, and in 1976, when two Viking landers successfully touched down on the Martian surface. The era of Mars rovers opened when Mars Pathfinder and its Sojourner rover successfully landed in 19",
+      "keywords": [
+        "mars",
+        "jpl",
+        "life",
+        "planet",
+        "future",
+        "learn",
+        "own",
+        "rovers",
+        "science",
+        "surface",
+        "1997",
+        "climate",
+        "explorers",
+        "exploring"
+      ],
+      "hash": "01d4cbf8e7e5bb8e75563c8c45157897fc467f123dc05e0d80fb994dce17b03e",
+      "learned_at": "2026-10-09T23:12:03+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/topics/technology/",
+      "title": "Technology at JPL",
+      "summary": "Title: Technology at JPL URL Source: https://www.jpl.nasa.gov/topics/technology/ Markdown Content: JPL's technology development program produces dramatic space and Earth exploration breakthroughs. New technology makes spacecraft more capable, independent, and able to maneuver, solve problems, and decide which intriguing targets to explore, without having to phone home and wait for a reply. Advanced space imaging techniques continue to evolve and reap benefits for those of us on Earth, while we search for life in the universe and on nearby planets, and even on icy Moons of our outer solar system. Our robotics teams fast-forward humanity's quest to study distant locales that may be icy, rocky, steep, and challenging. Caves on the moon and Mars are waiting to be explored. While we dare mighty things, we often have to think small to produce miniaturized spacecraft. Swarms of them may someday",
+      "keywords": [
+        "technology",
+        "jpl",
+        "space",
+        "spacecraft",
+        "earth",
+        "mars",
+        "breakthroughs",
+        "developed",
+        "during",
+        "exploration",
+        "explore",
+        "home",
+        "icy",
+        "imaging"
+      ],
+      "hash": "3d199797fc73c1a119cb635cff5835df0745491b613ba06b0ef26057a0953be4",
+      "learned_at": "2026-10-09T23:12:06+00:00"
     }
   ],
   "failures": [
@@ -10545,6 +10778,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-09T23:12:07+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-09T23:12:07+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 21,
+      "frontier": 411
+    },
     {
       "at": "2026-10-09T19:01:45+00:00",
       "kind": "core_unchanged",
@@ -11356,40 +11604,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 12,
       "frontier": 185
-    },
-    {
-      "at": "2026-09-29T09:06:15+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v6",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-09-29T09:06:15+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 13,
-      "frontier": 192
     }
   ],
   "metrics": {
-    "successful_fetches": 359,
+    "successful_fetches": 367,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 12,
-    "candidate_rejections": 60
+    "candidate_rejections": 61
   },
   "core_genome": {
     "query_weight": 3.0,
