@@ -1,16 +1,24 @@
 {
   "schema": 2,
-  "generation": 76,
+  "generation": 77,
   "core_version": 14,
-  "runs": 75,
-  "pages_learned": 375,
-  "last_run": "2026-10-10T02:22:19+00:00",
+  "runs": 76,
+  "pages_learned": 383,
+  "last_run": "2026-10-10T08:45:51+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://naif.jpl.nasa.gov/naif/index.html",
-    "https://naif.jpl.nasa.gov/naif/toolkit.html",
-    "https://naif.jpl.nasa.gov/naif/tutorials.html",
-    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
+    "https://ssd.jpl.nasa.gov/tools/mdesign.html",
+    "https://ssd.jpl.nasa.gov/tools/sb_ident.html",
+    "https://ssd.jpl.nasa.gov/tools/sbwobs.html",
+    "https://ssd.jpl.nasa.gov/sb/meteor_streams.html",
+    "https://ssd.jpl.nasa.gov/sb/targets.html",
+    "https://ssd.jpl.nasa.gov/sb/sats.html",
+    "https://ssd.jpl.nasa.gov/sb/radar.html",
+    "https://ssd.jpl.nasa.gov/diagrams/",
+    "https://ssd.jpl.nasa.gov/sb/orbits.html",
+    "https://ssd.jpl.nasa.gov/doc/",
+    "https://ssd.jpl.nasa.gov/discovery.html",
+    "https://ssd.jpl.nasa.gov/announcements/",
     "https://science.nasa.gov/feed/",
     "https://jpl.nasa.gov/",
     "https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
@@ -30,7 +38,6 @@
     "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
     "https://www.nasa.gov/technology/",
     "https://www.jpl.nasa.gov/edu/intern/",
-    "https://www.jpl.nasa.gov/missions?mission_status=current",
     "https://www.jpl.nasa.gov/missions?mission_status=past",
     "https://www.jpl.nasa.gov/missions?mission_status=future",
     "https://www.jpl.nasa.gov/missions?mission_target=Jupiter",
@@ -40,14 +47,13 @@
     "https://jpl.nasa.gov/who-we-are",
     "https://jpl.nasa.gov/who-we-are/executive-council",
     "https://jpl.nasa.gov/who-we-are/jpl-annual-reports",
-    "https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg?w=800",
     "https://www.nasa.gov/wp-content/uploads/2024/01/samplecollection-2crew-xeva.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2026/05/south-pole-lights-comp-v5-1.png?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/03/gateway-set-1-iac7-4k-bg-9.png?w=1024",
+    "https://images-assets.nasa.gov/image/PIA00405/PIA00405~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
+    "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
     "https://www.nasa.gov/multimedia/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
@@ -111,6 +117,8 @@
     "https://ammos.nasa.gov/",
     "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/xemu-eva-hls.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020-sq.jpg?w=1024",
     "http://www.jpl.nasa.gov/copyrights.cfm",
     "https://pib.gov.in/organisationalsetuph.aspx",
     "https://www.sebi.gov.in/qr-verification.html",
@@ -131,12 +139,12 @@
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
     "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
+    "https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318",
     "http://www.webb.nasa.gov/",
     "http://svs.gsfc.nasa.gov/goto",
     "https://www.nature.com/npg_/press_room/press_releases.html",
     "https://press.nature.com/",
     "https://www.rbi.org.in/images/dark-theme.gif",
-    "https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318",
     "https://www.nature.com/static/images/product-logos/naturecom-secondary-aba9cc0a61.svg",
     "https://www.springernature.com/app-sn/public/images/logo-springernature.svg",
     "https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg",
@@ -288,25 +296,6 @@
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/xemu-eva-hls.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020-sq.jpg?w=1024",
-    "https://images-assets.nasa.gov/image/PIA00405/PIA00405~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-    "https://images-assets.nasa.gov/image/MAF_20260420_CS3_Rollout_UAS15/MAF_20260420_CS3_Rollout_UAS15~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&h=3712&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia12/pia12925/PIA12925.jpg?w=1400&h=1400&fit=clip&crop=faces%2Cfocalpoint",
-    "https://science.nasa.gov/moon",
-    "https://ssd.jpl.nasa.gov/tools/mdesign.html",
-    "https://ssd.jpl.nasa.gov/tools/sb_ident.html",
-    "https://ssd.jpl.nasa.gov/tools/sbwobs.html",
-    "https://ssd.jpl.nasa.gov/sb/meteor_streams.html",
-    "https://ssd.jpl.nasa.gov/sb/targets.html",
-    "https://ssd.jpl.nasa.gov/sb/sats.html",
-    "https://ssd.jpl.nasa.gov/sb/radar.html",
-    "https://ssd.jpl.nasa.gov/diagrams/",
-    "https://ssd.jpl.nasa.gov/sb/orbits.html",
-    "https://ssd.jpl.nasa.gov/doc/",
-    "https://ssd.jpl.nasa.gov/discovery.html",
-    "https://ssd.jpl.nasa.gov/announcements/",
     "https://ssd.jpl.nasa.gov/glossary/",
     "https://ssd.jpl.nasa.gov/links.html",
     "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
@@ -470,7 +459,31 @@
     "https://pds-atmospheres.nmsu.edu/",
     "https://pds-imaging.jpl.nasa.gov/",
     "https://pds-geosciences.wustl.edu/",
-    "https://pds-ppi.igpp.ucla.edu/"
+    "https://pds-ppi.igpp.ucla.edu/",
+    "https://naif.jpl.nasa.gov/naif/announcements.html",
+    "https://naif.jpl.nasa.gov/naif/support.html",
+    "https://naif.jpl.nasa.gov/naif/rules.html",
+    "https://naif.jpl.nasa.gov/naif/public.html",
+    "https://naif.jpl.nasa.gov/naif/ancillary_data.pdf",
+    "https://naif.jpl.nasa.gov/naif/observation_geometry.pdf",
+    "https://naif.jpl.nasa.gov/naif/solar_system_events.pdf",
+    "https://naif.jpl.nasa.gov/naif/links.html",
+    "http://pds.jpl.nasa.gov/",
+    "https://naif.jpl.nasa.gov/naif/utilities.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_C.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_IDL.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_MATLAB.html",
+    "https://naif.jpl.nasa.gov/pub/naif/misc/JNISpice/",
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/07_installing_toolkit.pdf",
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/11_preparing_for_programming.pdf",
+    "https://naif.jpl.nasa.gov/naif/tutorials.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/EuropaClipper_Poster_08_2020_0.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA21499-20170523-1.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiri_kmfqnjB.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2413,6 +2426,50 @@
       "at": "2026-10-10T02:22:49+00:00",
       "status": "ok",
       "hash": "e17e6198cdc29aceba0a6d0cd333829c80847d9b872b9d738206d12c9d0c4767"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&h=3712&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-10T08:45:59+00:00",
+      "status": "ok",
+      "hash": "e624542fef092bd841ee0c2415ed2b304d0f07a721b2ee7e12f336af4513597d"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia12/pia12925/PIA12925.jpg?w=1400&h=1400&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-10T08:46:05+00:00",
+      "status": "ok",
+      "hash": "5f597bd200ca22b0a465e7b03adc970009ac278ea4fb274a2802677cbdbc7272"
+    },
+    "https://naif.jpl.nasa.gov/naif/index.html": {
+      "at": "2026-10-10T08:46:08+00:00",
+      "status": "ok",
+      "hash": "653678397e31f198794de686c20856bb8c6c499c733a979e201978978d489210"
+    },
+    "https://naif.jpl.nasa.gov/naif/toolkit.html": {
+      "at": "2026-10-10T08:46:11+00:00",
+      "status": "ok",
+      "hash": "7e9e967619bc582f430b9851a22a6bb395937870a29dc372cd87cd82f3c61b1b"
+    },
+    "https://www.jpl.nasa.gov/missions?mission_status=current": {
+      "at": "2026-10-10T08:46:15+00:00",
+      "status": "ok",
+      "hash": "d7d7604db0a4a6f0d4f2f52aca44c398707a002795fbfc708b0a78539331306d"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg?w=800": {
+      "at": "2026-10-10T08:46:18+00:00",
+      "status": "ok",
+      "hash": "6d3d3bdfe285ceb6c9be5d58fb98671a1a40f4bba4c780e71f86797117308cb0"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/05/south-pole-lights-comp-v5-1.png?w=1024": {
+      "at": "2026-10-10T08:46:23+00:00",
+      "status": "ok",
+      "hash": "9268021fe93a38ab4519ed08bfbd1c1ad4462dce2efb27e97d2f582e992190d6"
+    },
+    "https://images-assets.nasa.gov/image/MAF_20260420_CS3_Rollout_UAS15/MAF_20260420_CS3_Rollout_UAS15~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-10T08:46:23+00:00",
+      "status": "robots_disallow"
+    },
+    "https://science.nasa.gov/moon": {
+      "at": "2026-10-10T08:46:27+00:00",
+      "status": "ok",
+      "hash": "3cdd52a3456806f891f5b0242feceef3ad1f67fc88f5d5f1850208555c6c4413"
     }
   },
   "memory": [
@@ -11040,6 +11097,190 @@
       ],
       "hash": "e17e6198cdc29aceba0a6d0cd333829c80847d9b872b9d738206d12c9d0c4767",
       "learned_at": "2026-10-10T02:22:49+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&h=3712&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "earthset_55192132107_00dc598014_o.jpg",
+      "summary": "Title: earthset_55192132107_00dc598014_o.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&h=3712&fit=clip&crop=faces,focalpoint Markdown Content: The surface of a moon formed by Tidal locking with the Earth",
+      "keywords": [
+        "assets",
+        "earthset_55192132107_00dc598014_o",
+        "jpg",
+        "science",
+        "2026",
+        "3712",
+        "5568",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage",
+        "earth",
+        "earthset-from-the-lunar-far-side",
+        "esd"
+      ],
+      "hash": "e624542fef092bd841ee0c2415ed2b304d0f07a721b2ee7e12f336af4513597d",
+      "learned_at": "2026-10-10T08:45:59+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia12/pia12925/PIA12925.jpg?w=1400&h=1400&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "PIA12925.jpg",
+      "summary": "Title: PIA12925.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia12/pia12925/PIA12925.jpg?w=1400&h=1400&fit=clip&crop=faces,focalpoint Markdown Content: Grayscale photo of the moon with a label on the left side of the Moon's surface that has an Apollo 11 site, another label annotated near the center of the moon which says West Crater and in the lower left corner of the image, a label below the frame labeled 200 meters gives a spatial dimension measurement",
+      "keywords": [
+        "label",
+        "moon",
+        "pia12925",
+        "1400",
+        "assets",
+        "jpg",
+        "left",
+        "science",
+        "200",
+        "annotated",
+        "another",
+        "apollo",
+        "below",
+        "center"
+      ],
+      "hash": "5f597bd200ca22b0a465e7b03adc970009ac278ea4fb274a2802677cbdbc7272",
+      "learned_at": "2026-10-10T08:46:05+00:00"
+    },
+    {
+      "url": "https://naif.jpl.nasa.gov/naif/index.html",
+      "title": "An Observation",
+      "summary": "Title: An Observation Geometry System for Space Science Missions URL Source: https://naif.jpl.nasa.gov/naif/index.html Markdown Content: SPICE Click here for [announcements](https://naif.jpl.nasa.gov/naif/announcements.html) regarding SPICE data, software, tutorials and training; last updated July 18, 2026. ### If you are unfamiliar with SPICE, click here after reading the text below. NASA's Navigation and Ancillary Information Facility (NAIF) offers NASA flight projects and NASA funded researchers the \"SPICE\" (Spacecraft, Planet, Instrument, C-matrix, Events) observation geometry information system to assist scientists in planning and interpreting scientific observations from space-based instruments aboard robotic planetary spacecraft. SPICE is also used in support of engineering tasks associated with these missions. While planetary missions were the original focus, today SPICE is also ",
+      "keywords": [
+        "naif",
+        "spice",
+        "nasa",
+        "gov",
+        "jpl",
+        "https",
+        "data",
+        "system",
+        "html",
+        "missions",
+        "planetary",
+        "software",
+        "support",
+        "ancillary"
+      ],
+      "hash": "653678397e31f198794de686c20856bb8c6c499c733a979e201978978d489210",
+      "learned_at": "2026-10-10T08:46:08+00:00"
+    },
+    {
+      "url": "https://naif.jpl.nasa.gov/naif/toolkit.html",
+      "title": "SPICE Toolkit",
+      "summary": "Title: SPICE Toolkit URL Source: https://naif.jpl.nasa.gov/naif/toolkit.html Markdown Content: The current SPICE Toolkit version is **N0067**, released January 3, 2022. The Toolkit license and other important considerations are contained within [these rules](https://naif.jpl.nasa.gov/naif/rules.html). The SPICE Toolkit is comprised of several items. 1. A large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation (code headers). 2. A ready-to-use library made from the APIs, subroutines and functions described in 1. 3. A small set of ready-built utility (application) programs, along with their associated User Guides. These are programs thought to be of use to many SPICE users. (Additional utility programs are available from the [Utilities link](https://naif.jpl.nasa.gov/nai",
+      "keywords": [
+        "naif",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "toolkit",
+        "html",
+        "spice",
+        "toolkits",
+        "programs",
+        "pdf",
+        "utility",
+        "apis",
+        "application"
+      ],
+      "hash": "7e9e967619bc582f430b9851a22a6bb395937870a29dc372cd87cd82f3c61b1b",
+      "learned_at": "2026-10-10T08:46:11+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions?mission_status=current",
+      "title": "NASA JPL Missions – Current, Past & Future",
+      "summary": "Title: NASA JPL Missions – Current, Past & Future URL Source: https://www.jpl.nasa.gov/missions?mission_status=current Markdown Content: ## Search Missions Sort by Showing 1–12 of 40 results Target Earth (58) Earth's Moon (25) Mars (25) Stars and Galaxies (16) Asteroids and Comets (12) Exoplanets (9) Venus (6) Jupiter (4) Europa (3) Interstellar Space (2) Solar System (2) Sun (2) Deep Space (1) Mercury (1) Saturn (1) Status past (109) current (40) future (10) proposed (5) Topic Earth (46) Solar System (42) Mars (25) Technology (24) Stars and Galaxies (21) Climate Change (19) Weather (15) Asteroids and Comets (12) Exoplanets (4) Robotics (1) Type Orbiter (63) Instrument (34) Flyby Spacecraft (19) Lander/Rover (17) Technology Demonstration (17) CubeSat/SmallSat (14) Ground-based (8) Lander (6) Rover (5) Airborne (3) Drone (1) Infrastructure (1) Date 2028 (1) 2027 (1) 2026 (1) 2025 (4) 1. [",
+      "keywords": [
+        "category",
+        "current",
+        "mission",
+        "https",
+        "2025",
+        "missions",
+        "nasa",
+        "date",
+        "earth",
+        "jpl",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "galaxies",
+        "gov"
+      ],
+      "hash": "d7d7604db0a4a6f0d4f2f52aca44c398707a002795fbfc708b0a78539331306d",
+      "learned_at": "2026-10-10T08:46:15+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg?w=800",
+      "title": "moon-base1.jpg",
+      "summary": "Title: moon-base1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg?w=800 Published Time: Sat, 10 Oct 2026 08:46:16 GMT Markdown Content: A computer generated image of the moon with the earth reflecting off of it",
+      "keywords": [
+        "2026",
+        "jpg",
+        "moon-base1",
+        "800",
+        "computer",
+        "content",
+        "earth",
+        "generated",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "markdown",
+        "moon"
+      ],
+      "hash": "6d3d3bdfe285ceb6c9be5d58fb98671a1a40f4bba4c780e71f86797117308cb0",
+      "learned_at": "2026-10-10T08:46:18+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/05/south-pole-lights-comp-v5-1.png?w=1024",
+      "title": "south-pole-lights-comp-v5-1.png",
+      "summary": "Title: south-pole-lights-comp-v5-1.png URL Source: https://www.nasa.gov/wp-content/uploads/2026/05/south-pole-lights-comp-v5-1.png?w=1024 Published Time: Sat, 10 Oct 2026 08:46:20 GMT Markdown Content: A picture of a surface shows light shining on where the moon is and a starpol crus in the middle of the image",
+      "keywords": [
+        "2026",
+        "png",
+        "south-pole-lights-comp-v5-1",
+        "1024",
+        "content",
+        "crus",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "light",
+        "markdown",
+        "middle",
+        "moon"
+      ],
+      "hash": "9268021fe93a38ab4519ed08bfbd1c1ad4462dce2efb27e97d2f582e992190d6",
+      "learned_at": "2026-10-10T08:46:23+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/moon",
+      "title": "Earth's Moon",
+      "summary": "Title: Earth's Moon URL Source: https://science.nasa.gov/moon Published Time: 2023-03-27T00:49:48-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimedia]",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "moon",
+        "multimedia",
+        "earth",
+        "events",
+        "image",
+        "plus"
+      ],
+      "hash": "3cdd52a3456806f891f5b0242feceef3ad1f67fc88f5d5f1850208555c6c4413",
+      "learned_at": "2026-10-10T08:46:27+00:00"
     }
   ],
   "failures": [
@@ -11055,6 +11296,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-10T08:46:27+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-10T08:46:27+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 11,
+      "frontier": 477
+    },
     {
       "at": "2026-10-10T02:22:49+00:00",
       "kind": "core_promoted",
@@ -11877,29 +12133,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 181
-    },
-    {
-      "at": "2026-09-29T20:16:07+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-09-29T20:16:07+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 187
     }
   ],
   "metrics": {
-    "successful_fetches": 375,
+    "successful_fetches": 383,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 13,
-    "candidate_rejections": 61
+    "candidate_rejections": 62
   },
   "core_genome": {
     "query_weight": 3.0,
