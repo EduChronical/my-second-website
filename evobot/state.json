@@ -1,24 +1,12 @@
 {
   "schema": 2,
-  "generation": 82,
+  "generation": 83,
   "core_version": 16,
-  "runs": 81,
-  "pages_learned": 414,
-  "last_run": "2026-10-11T07:12:26+00:00",
+  "runs": 82,
+  "pages_learned": 422,
+  "last_run": "2026-10-11T14:06:22+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gamma-ray-bursts/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
-    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://www.nasa.gov/multimedia/",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html",
     "https://www.pib.gov.in/images/high-contrast.png",
     "https://www.pib.gov.in/images/theme.png?v=1",
@@ -37,6 +25,18 @@
     "https://nssdc.gsfc.nasa.gov/planetary/galileo.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
+    "https://science.nasa.gov/?search=Roman",
+    "https://www.jpl.nasa.gov/missions/?mission_target=Mars",
+    "https://www.jpl.nasa.gov/who-we-are/annual-reports/",
+    "https://www.jpl.nasa.gov/missions/?mission_status=future",
+    "https://www.jpl.nasa.gov/missions/",
+    "https://www.jpl.nasa.gov/news/",
+    "https://photojournal.jpl.nasa.gov/tiff/PIA24431.tif",
+    "https://www.nasa.gov/wp-content/uploads/2025/09/pia26368orig.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2021/09/c1-explorewithperseverance-16.jpg?w=1024",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
@@ -107,6 +107,7 @@
     "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
+    "https://mars.nasa.gov/mars2020",
     "http://www.jpl.nasa.gov/copyrights.cfm",
     "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-043A",
     "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-043A",
@@ -139,7 +140,6 @@
     "https://arxiv.org/static/browse/0.3.4/images/icons/safari-pinned-tab.svg",
     "http://www.webb.nasa.gov/",
     "http://svs.gsfc.nasa.gov/goto",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Mars_Cube_One.2e16d0ba.fill-480x480-c70.jpg",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
     "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
@@ -193,6 +193,7 @@
     "https://cos.rbi.org.in/",
     "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
     "https://info.arxiv.org/about/donate.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Mars_Cube_One.2e16d0ba.fill-480x480-c70.jpg",
     "https://x.com/NASAJPL",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
@@ -214,6 +215,10 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA17794.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA11066.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA21607.2e16d0ba.fill-122x122-c70.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24431.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26236.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26202.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26074.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "http://www.imf.org/en/",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
@@ -283,30 +288,6 @@
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
-    "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/",
-    "https://science.nasa.gov/?search=Roman",
-    "https://www.jpl.nasa.gov/images/",
-    "https://www.jpl.nasa.gov/missions/?mission_target=Mars",
-    "https://www.jpl.nasa.gov/who-we-are/annual-reports/",
-    "https://www.jpl.nasa.gov/missions/?mission_status=current",
-    "https://www.jpl.nasa.gov/missions/?mission_status=past",
-    "https://www.jpl.nasa.gov/missions/?mission_status=future",
-    "https://www.jpl.nasa.gov/missions/",
-    "https://www.jpl.nasa.gov/news/",
-    "https://mars.nasa.gov/mars2020",
-    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24431.jpg",
-    "https://photojournal.jpl.nasa.gov/tiff/PIA24431.tif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26236.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26202.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26074.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/09/pia26368orig.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2021/09/c1-explorewithperseverance-16.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2026/04/e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-sajama.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26694-perseverance-looks-out-toward-lac-de-charmes.png?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/03/1-pia25688-1041.jpg?w=985",
     "https://www.nasa.gov/wp-content/uploads/2021/08/1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png?w=1024",
@@ -567,7 +548,40 @@
     "https://www.nasa.gov/wp-content/uploads/2023/06/xemu-eva-hls.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020-sq.jpg?w=1024",
     "https://www.nasa.gov/interactives/",
-    "https://www.nasa.gov/nasa-interactive-features/"
+    "https://www.nasa.gov/nasa-interactive-features/",
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif",
+    "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
+    "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
+    "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
+    "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
+    "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
+    "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
+    "https://nssdc.gsfc.nasa.gov/logo/nasa_logo.gif",
+    "https://www.jpl.nasa.gov/apps/",
+    "https://www.jpl.nasa.gov/galleries/visions-of-the-future/",
+    "https://www.jpl.nasa.gov/who-we-are/slice-of-history/",
+    "https://www.jpl.nasa.gov/robotics-at-jpl/",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/",
+    "https://www.jpl.nasa.gov/events/",
+    "https://www.jpl.nasa.gov/explore-jpl/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26781.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26355.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26815.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26700.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26778.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.jpl.nasa.gov/missions/?mission_status=past",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/",
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
+    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+    "https://www.nasa.gov/multimedia/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2749,6 +2763,46 @@
     "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-exoplanets/": {
       "at": "2026-10-11T07:12:41+00:00",
       "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html": {
+      "at": "2026-10-11T14:06:40+00:00",
+      "status": "ok",
+      "hash": "906f10839c9730c1789c00f10eadedd0bbc9be4dba03aff4e534d4f0190794f4"
+    },
+    "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/": {
+      "at": "2026-10-11T14:06:44+00:00",
+      "status": "ok",
+      "hash": "70cf7d06419bbdb89d9eb308fb6ff79a3cf3ca0c078aa5270d99cef4a2b2c7e1"
+    },
+    "https://www.jpl.nasa.gov/images/": {
+      "at": "2026-10-11T14:06:47+00:00",
+      "status": "ok",
+      "hash": "9575cee3e3b71afe65a6815e8e575d06f1ce2a9761d32cb3beb45cbd9464b0d8"
+    },
+    "https://www.jpl.nasa.gov/missions/?mission_status=current": {
+      "at": "2026-10-11T14:06:51+00:00",
+      "status": "ok",
+      "hash": "43f87e3a51e8945fddea4fc0a18c18ccc62731d931d1ce889145da778cbce661"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg?w=1024": {
+      "at": "2026-10-11T14:06:56+00:00",
+      "status": "ok",
+      "hash": "d7855ac81f12e2e5bf238d6f168c72a0c0d729e9daa729285557c5c357c3e66a"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/04/e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-sajama.jpg?w=1024": {
+      "at": "2026-10-11T14:07:00+00:00",
+      "status": "ok",
+      "hash": "db9a03521c040e6be9c65beb9460cc48ef679ee38c1400e333aa77cbc5e5fbd3"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gamma-ray-bursts/": {
+      "at": "2026-10-11T14:07:03+00:00",
+      "status": "ok",
+      "hash": "1858ab10929beffc6fdb6653bad07b815022975076aa1716ed433fe6498d8c4c"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html": {
+      "at": "2026-10-11T14:07:21+00:00",
+      "status": "ok",
+      "hash": "38452598b5af80a5dc61dc1f463c6c4bc752ba43bee189bcbb637a6aacd87d31"
     }
   },
   "memory": [
@@ -12273,6 +12327,190 @@
       ],
       "hash": "159bb4f3a39b8f1e021338b5c94b70713abf486537cf941631d4ecbf6fd13420",
       "learned_at": "2026-10-11T07:12:41+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
+      "title": "Earth Fact Sheet",
+      "summary": "Title: Earth Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html Markdown Content: * * * * * * [![Image 1: Earth](https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/earth.jpg) * * * ### Bulk parameters Mass (1024 kg) 5.9722 Volume (1010 km3) 108.321 Equatorial radius (km) 6378.137 Polar radius (km) 6356.752 Volumetric mean radius (km) 6371.000 Core radius (km) 3485 Ellipticity (Flattening) 0.003353 Mean density (kg/m3) 5513 Surface gravity (mean) (m/s2) 9.820 Surface acceleration (eq) (m/s2) 9.780 Surface acceleration (pole) (m/s2) 9.832 Escape velocity (km/s) 11.186 GM (x 106 km3/s2) 0.39860 Bond albedo 0.294 Geometric albedo 0.434 V-band magnitude V(1,0) -3.99 Solar irradiance (W/m2) 1361.0 Black-body temperature (K) 254.0 Topographic range (km) 20.4 Moment of inertia (I/MR2) 0.3308 J2 (x 10-6) 1082.63 ",
+      "keywords": [
+        "deg",
+        "mean",
+        "orbital",
+        "earth",
+        "surface",
+        "orbit",
+        "radius",
+        "106",
+        "planetary",
+        "velocity",
+        "100",
+        "dipole",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "906f10839c9730c1789c00f10eadedd0bbc9be4dba03aff4e534d4f0190794f4",
+      "learned_at": "2026-10-11T14:06:40+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/",
+      "title": "NGC 7129 Side-by-Side (Spitzer and Webb Image) - NASA Science",
+      "summary": "Title: NGC 7129 Side-by-Side (Spitzer and Webb Image) - NASA Science URL Source: https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/ Published Time: 2026-10-06T08:58:00-04:00 Markdown Content: [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedi",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "image",
+        "images",
+        "multimedia",
+        "webb",
+        "plus",
+        "podcasts",
+        "resources"
+      ],
+      "hash": "70cf7d06419bbdb89d9eb308fb6ff79a3cf3ca0c078aa5270d99cef4a2b2c7e1",
+      "learned_at": "2026-10-11T14:06:44+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/images/",
+      "title": "NASA JPL Image Gallery – Space Photos & Science",
+      "summary": "Title: NASA JPL Image Gallery – Space Photos & Science URL Source: https://www.jpl.nasa.gov/images/ Markdown Content: [](https://www.jpl.nasa.gov/images/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Image Gallery ## Search Image Gallery Skip to search results Show Filters Sort by Showing 1–12 of 10,000 results Topic - [x] Solar System (17,239) - [x] Mars (11,450)",
+      "keywords": [
+        "https",
+        "jpl",
+        "nasa",
+        "www",
+        "gov",
+        "images",
+        "image",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "net",
+        "2e16d0ba",
+        "fill-400x400-c50",
+        "curiosity",
+        "filters"
+      ],
+      "hash": "9575cee3e3b71afe65a6815e8e575d06f1ce2a9761d32cb3beb45cbd9464b0d8",
+      "learned_at": "2026-10-11T14:06:47+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions/?mission_status=current",
+      "title": "NASA JPL Missions – Current, Past & Future",
+      "summary": "Title: NASA JPL Missions – Current, Past & Future URL Source: https://www.jpl.nasa.gov/missions/?mission_status=current Markdown Content: ## Search Missions Sort by Showing 1–12 of 40 results Target Earth (58) Earth's Moon (25) Mars (25) Stars and Galaxies (16) Asteroids and Comets (12) Exoplanets (9) Venus (6) Jupiter (4) Europa (3) Interstellar Space (2) Solar System (2) Sun (2) Deep Space (1) Mercury (1) Saturn (1) Status past (109) current (40) future (10) proposed (5) Topic Earth (46) Solar System (42) Mars (25) Technology (24) Stars and Galaxies (21) Climate Change (19) Weather (15) Asteroids and Comets (12) Exoplanets (4) Robotics (1) Type Orbiter (63) Instrument (34) Flyby Spacecraft (19) Lander/Rover (17) Technology Demonstration (17) CubeSat/SmallSat (14) Ground-based (8) Lander (6) Rover (5) Airborne (3) Drone (1) Infrastructure (1) Date 2028 (1) 2027 (1) 2026 (1) 2025 (4) 1. ",
+      "keywords": [
+        "category",
+        "current",
+        "mission",
+        "https",
+        "2025",
+        "missions",
+        "nasa",
+        "date",
+        "earth",
+        "jpl",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "galaxies",
+        "gov"
+      ],
+      "hash": "43f87e3a51e8945fddea4fc0a18c18ccc62731d931d1ce889145da778cbce661",
+      "learned_at": "2026-10-11T14:06:51+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg?w=1024",
+      "title": "thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg",
+      "summary": "Title: thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg?w=1024 Published Time: Sun, 11 Oct 2026 14:06:54 GMT Markdown Content: A Mars Rover on the surface of Mars",
+      "keywords": [
+        "2026",
+        "jpg",
+        "mars",
+        "thumb-for-web-pia26752a-western-selfie-watson-take-6-up",
+        "1024",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "oct",
+        "published",
+        "rover"
+      ],
+      "hash": "d7855ac81f12e2e5bf238d6f168c72a0c0d729e9daa729285557c5c357c3e66a",
+      "learned_at": "2026-10-11T14:06:56+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/04/e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-sajama.jpg?w=1024",
+      "title": "e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-sajama.jpg",
+      "summary": "Title: e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-sajama.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/04/e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-sajama.jpg?w=1024 Published Time: Sun, 11 Oct 2026 14:06:59 GMT Markdown Content: A panorama of desert",
+      "keywords": [
+        "2026",
+        "e1-pia26696-curiosity-captures-a-360-degree-view-at-nevado-s",
+        "jpg",
+        "1024",
+        "content",
+        "desert",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "oct",
+        "panorama",
+        "published"
+      ],
+      "hash": "db9a03521c040e6be9c65beb9460cc48ef679ee38c1400e333aa77cbc5e5fbd3",
+      "learned_at": "2026-10-11T14:07:00+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gamma-ray-bursts/",
+      "title": "Hubble Gamma-Ray Bursts - NASA Science",
+      "summary": "Title: Hubble Gamma-Ray Bursts - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gamma-ray-bursts/ Published Time: 2024-09-05T09:17:07-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "1858ab10929beffc6fdb6653bad07b815022975076aa1716ed433fe6498d8c4c",
+      "learned_at": "2026-10-11T14:07:03+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html",
+      "title": "Notes on the Fact Sheets",
+      "summary": "Title: Notes on the Fact Sheets URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html Markdown Content: * * * * * * Most values listed in the factsheets are from the following sources: IAU/IAG Working Group Report, 2006, 2015 Astronomical Almanac, 2000, 2001, 2020 Global Earth Physics, American Geophysical Union, 1995 Astrophysical Quantities, C.W. Allen, 1981, 2000 JPL Ephemeris DE430/DE431 IAU bulletins/announcements Recent journal articles and personal communications Note that the values listed on the factsheets are not \"official\" values, there is no single set of agreed upon values. They are based on ongoing research and as such are under study and subject to change at any time. Every effort has been made to present the most up-to-date information, but care should be exercised when using these values. ### Bulk Parameters Mass (1024 kg) Mass of the body in 10^24 ",
+      "keywords": [
+        "body",
+        "radius",
+        "surface",
+        "acceleration",
+        "gravitational",
+        "kilometers",
+        "mean",
+        "values",
+        "equatorial",
+        "mass",
+        "second",
+        "volume",
+        "bar",
+        "dimensionless"
+      ],
+      "hash": "38452598b5af80a5dc61dc1f463c6c4bc752ba43bee189bcbb637a6aacd87d31",
+      "learned_at": "2026-10-11T14:07:21+00:00"
     }
   ],
   "failures": [
@@ -12288,6 +12526,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-11T14:07:21+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-11T14:07:21+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 19,
+      "frontier": 575
+    },
     {
       "at": "2026-10-11T07:12:41+00:00",
       "kind": "core_promoted",
@@ -13121,29 +13374,14 @@
       "message": "Crawl cycle learned 5 new pages",
       "attempted": 24,
       "frontier": 212
-    },
-    {
-      "at": "2026-10-01T00:01:17+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-01T00:01:16+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 211
     }
   ],
   "metrics": {
-    "successful_fetches": 414,
+    "successful_fetches": 422,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 15,
-    "candidate_rejections": 65
+    "candidate_rejections": 66
   },
   "core_genome": {
     "query_weight": 3.0,
