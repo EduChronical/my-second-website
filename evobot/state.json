@@ -1,15 +1,12 @@
 {
   "schema": 2,
-  "generation": 83,
+  "generation": 84,
   "core_version": 16,
-  "runs": 82,
-  "pages_learned": 422,
-  "last_run": "2026-10-11T14:06:22+00:00",
+  "runs": 83,
+  "pages_learned": 430,
+  "last_run": "2026-10-11T18:51:42+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/fact_notes.html",
-    "https://www.pib.gov.in/images/high-contrast.png",
-    "https://www.pib.gov.in/images/theme.png?v=1",
     "https://www.pib.gov.in/images/green.png",
     "https://spaceplace.nasa.gov/leap-year/en/",
     "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
@@ -37,6 +34,12 @@
     "https://photojournal.jpl.nasa.gov/tiff/PIA24431.tif",
     "https://www.nasa.gov/wp-content/uploads/2025/09/pia26368orig.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2021/09/c1-explorewithperseverance-16.jpg?w=1024",
+    "https://climatekids.nasa.gov/climate-change-meaning/",
+    "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26694-perseverance-looks-out-toward-lac-de-charmes.png?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/1-pia25688-1041.jpg?w=985",
+    "https://www.nasa.gov/wp-content/uploads/2023/01/pia25681-figure-a-selfie-1-1041.jpg?w=1024",
+    "https://www.jpl.nasa.gov/edu/",
+    "https://science.nasa.gov/mission/roman-space-telescope/",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=870",
@@ -53,7 +56,6 @@
     "https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-a-train-satellites",
     "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
     "https://spaceplace.nasa.gov/days/en/",
-    "https://climatekids.nasa.gov/climate-change-meaning/",
     "https://nasaeclips.arc.nasa.gov/video/realworld/real-world-a-train",
     "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
     "https://www.nasa.gov/mcmc-reduced-greenhouse-gases",
@@ -219,6 +221,12 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26236.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26202.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26074.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebsentinel6-16_2AiVaM.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebNISAR_pgkG4TL.9690ea6d.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26185_PREFIRE_satellite.13add3fe.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebswot_FZBtTh2.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/269.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23214.2e16d0ba.fill-400x400-c50.jpg",
     "http://www.imf.org/en/",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
@@ -288,25 +296,6 @@
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26694-perseverance-looks-out-toward-lac-de-charmes.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/1-pia25688-1041.jpg?w=985",
-    "https://www.nasa.gov/wp-content/uploads/2021/08/1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/01/pia25681-figure-a-selfie-1-1041.jpg?w=1024",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/07/pia26344-figa-2500x.jpg?w=2500&h=1775&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg?w=10000&h=2278&fit=clip&crop=faces%2Cfocalpoint",
-    "https://science.nasa.gov/wp-content/uploads/2024/03/1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-n0070000fhaz02008-0a00llj01-stretched.png?w=1024",
-    "https://science.nasa.gov/wp-content/uploads/2008/02/365-mer-1280-spirit.jpg?w=1024",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26643/PIA26643.tif?w=12650&h=4200&fit=clip&crop=faces%2Cfocalpoint",
-    "https://science.nasa.gov/wp-content/uploads/2024/03/mars2020-callouts-body.png?w=1024",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebsentinel6-16_2AiVaM.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebNISAR_pgkG4TL.9690ea6d.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26185_PREFIRE_satellite.13add3fe.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebswot_FZBtTh2.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/269.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23214.2e16d0ba.fill-400x400-c50.jpg",
-    "https://www.jpl.nasa.gov/news?topics=Earth",
-    "https://www.jpl.nasa.gov/edu/",
-    "https://science.nasa.gov/mission/roman-space-telescope/",
     "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
     "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg",
     "https://www.jpl.nasa.gov/who-we-are/executive-council/",
@@ -581,7 +570,15 @@
     "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
     "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
     "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://www.nasa.gov/multimedia/"
+    "https://www.nasa.gov/multimedia/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26643/PIA26643.tif?w=12650&h=4200&fit=clip&crop=faces%2Cfocalpoint",
+    "https://science.nasa.gov/wp-content/uploads/2008/02/365-mer-1280-spirit.jpg?w=1024",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-Kamchatka-still-volcano.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Earth_illustration_cropped.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PREVIOUSLY_PUBLISHED-iss073e.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Addis_Ababa_City_View.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -2803,6 +2800,46 @@
       "at": "2026-10-11T14:07:21+00:00",
       "status": "ok",
       "hash": "38452598b5af80a5dc61dc1f463c6c4bc752ba43bee189bcbb637a6aacd87d31"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/07/pia26344-figa-2500x.jpg?w=2500&h=1775&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-11T18:51:47+00:00",
+      "status": "ok",
+      "hash": "64ac876ccdfb2640fd0983ea69db78804805366585a2b172c73787e3cefbb57d"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg?w=10000&h=2278&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-11T18:51:50+00:00",
+      "status": "ok",
+      "hash": "def13fbaefda373d30718c2208e90d3f874b472bf5d5e2a03bbc18242710a5b8"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2024/03/mars2020-callouts-body.png?w=1024": {
+      "at": "2026-10-11T18:51:54+00:00",
+      "status": "ok",
+      "hash": "cf2779651279877daf55446922e374656a8d68a4e2ca8926ee41f2dfb5a1878b"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2021/08/1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png?w=1024": {
+      "at": "2026-10-11T18:52:00+00:00",
+      "status": "ok",
+      "hash": "133e46268e161dc0e7a4a54330d4dd2c1b036c9556249b42310f21f5eed4c422"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2024/03/1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-n0070000fhaz02008-0a00llj01-stretched.png?w=1024": {
+      "at": "2026-10-11T18:52:06+00:00",
+      "status": "ok",
+      "hash": "52786b0e7fabf98919da4be13a3506e59ddee6a8a583d1609d12e9e43f9848a1"
+    },
+    "https://www.jpl.nasa.gov/news?topics=Earth": {
+      "at": "2026-10-11T18:52:09+00:00",
+      "status": "ok",
+      "hash": "16d5911ebd5d35d36acd49927967f2a26677b21c452501f8a577793b1464f100"
+    },
+    "https://www.pib.gov.in/images/high-contrast.png": {
+      "at": "2026-10-11T18:52:12+00:00",
+      "status": "ok",
+      "hash": "1c49f7a66504a6927510e947ed50780243ed2fee8da322fac24d50fb9640f17c"
+    },
+    "https://www.pib.gov.in/images/theme.png?v=1": {
+      "at": "2026-10-11T18:52:13+00:00",
+      "status": "ok",
+      "hash": "2445dfa5d9df7d0634df076281c3272ea9b001774f8885931dab65008a357041"
     }
   },
   "memory": [
@@ -12511,6 +12548,190 @@
       ],
       "hash": "38452598b5af80a5dc61dc1f463c6c4bc752ba43bee189bcbb637a6aacd87d31",
       "learned_at": "2026-10-11T14:07:21+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/07/pia26344-figa-2500x.jpg?w=2500&h=1775&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "pia26344-figa-2500x.jpg",
+      "summary": "Title: pia26344-figa-2500x.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/07/pia26344-figa-2500x.jpg?w=2500&h=1775&fit=clip&crop=faces,focalpoint Markdown Content: An image taken from above of an alien robot on the moon in 2012",
+      "keywords": [
+        "assets",
+        "jpg",
+        "pia26344-figa-2500x",
+        "science",
+        "1775",
+        "2012",
+        "2024",
+        "2500",
+        "above",
+        "alien",
+        "cds",
+        "clip",
+        "content",
+        "crop"
+      ],
+      "hash": "64ac876ccdfb2640fd0983ea69db78804805366585a2b172c73787e3cefbb57d",
+      "learned_at": "2026-10-11T18:51:47+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg?w=10000&h=2278&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "PIA26699.jpg",
+      "summary": "Title: PIA26699.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg?w=10000&h=2278&fit=clip&crop=faces,focalpoint Markdown Content: A landscape view with mountains in the background",
+      "keywords": [
+        "pia26699",
+        "assets",
+        "jpg",
+        "science",
+        "10000",
+        "2278",
+        "background",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage",
+        "faces",
+        "fit",
+        "focalpoint"
+      ],
+      "hash": "def13fbaefda373d30718c2208e90d3f874b472bf5d5e2a03bbc18242710a5b8",
+      "learned_at": "2026-10-11T18:51:50+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2024/03/mars2020-callouts-body.png?w=1024",
+      "title": "mars2020-callouts-body.png",
+      "summary": "Title: mars2020-callouts-body.png URL Source: https://science.nasa.gov/wp-content/uploads/2024/03/mars2020-callouts-body.png?w=1024 Published Time: Sun, 11 Oct 2026 18:51:53 GMT Markdown Content: a robot with six wheels labelled body",
+      "keywords": [
+        "mars2020-callouts-body",
+        "png",
+        "1024",
+        "2024",
+        "2026",
+        "body",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "labelled",
+        "markdown",
+        "nasa",
+        "oct"
+      ],
+      "hash": "cf2779651279877daf55446922e374656a8d68a4e2ca8926ee41f2dfb5a1878b",
+      "learned_at": "2026-10-11T18:51:54+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2021/08/1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png?w=1024",
+      "title": "1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png",
+      "summary": "Title: 1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png URL Source: https://www.nasa.gov/wp-content/uploads/2021/08/1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_0164_0681506341_857cws_n0060000fhaz00209_0m00llj01-stretched.png?w=1024 Published Time: Sun, 11 Oct 2026 18:51:57 GMT Markdown Content: A single Martian hole looks prominently in this photo, which is from a bird's eye view",
+      "keywords": [
+        "1_-_pia24795a_-_front_left_hazcam_borehole_closeup_-_flf_016",
+        "png",
+        "1024",
+        "2021",
+        "2026",
+        "bird",
+        "content",
+        "eye",
+        "gmt",
+        "gov",
+        "hole",
+        "https",
+        "looks",
+        "markdown"
+      ],
+      "hash": "133e46268e161dc0e7a4a54330d4dd2c1b036c9556249b42310f21f5eed4c422",
+      "learned_at": "2026-10-11T18:52:00+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2024/03/1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-n0070000fhaz02008-0a00llj01-stretched.png?w=1024",
+      "title": "1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-n0070000fhaz02008-0a00llj01-stretched.png",
+      "summary": "Title: 1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-n0070000fhaz02008-0a00llj01-stretched.png URL Source: https://science.nasa.gov/wp-content/uploads/2024/03/1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-n0070000fhaz02008-0a00llj01-stretched.png?w=1024 Published Time: Sun, 11 Oct 2026 18:52:03 GMT Markdown Content: close up photo of a rover going around maroon planets dusty terrain with a set of wheels",
+      "keywords": [
+        "1-pia24840-main-samuels-5-hazcam-flf-0196-0684353735-668cws-",
+        "png",
+        "1024",
+        "2024",
+        "2026",
+        "around",
+        "close",
+        "content",
+        "dusty",
+        "gmt",
+        "going",
+        "gov",
+        "https",
+        "markdown"
+      ],
+      "hash": "52786b0e7fabf98919da4be13a3506e59ddee6a8a583d1609d12e9e43f9848a1",
+      "learned_at": "2026-10-11T18:52:06+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/news?topics=Earth",
+      "title": "NASA JPL News – Latest Space Science & Missions",
+      "summary": "Title: NASA JPL News – Latest Space Science & Missions URL Source: https://www.jpl.nasa.gov/news?topics=Earth Markdown Content: ## Search News Sort by Showing 1–12 of 1,727 results Topic Solar System (4,075) Mars (1,943) Earth (1,727) Stars and Galaxies (1,198) Technology (835) Asteroids and Comets (793) Climate Change (609) Weather (587) JPL Life (505) Exoplanets (231) Earthquakes (88) Robotics (85) CubeSats and SmallSats (41) Date 2026 (64) 2025 (142) 2024 (172) 2023 (183) 1. [Category: News.Category: Earth. Category: News.Category: Earth. ## US-India Satellite Captures Time-lapse Video of Volcanic Eruption Returning to the same spot in orbit numerous times over several months, NISAR documented the ongoing lava flow from a volcano on the Kamchatka Peninsula. . Sept. 24, 2026 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-Kamchatka-still-volcano.2e16d0ba.fill-400x400-c50.",
+      "keywords": [
+        "category",
+        "news",
+        "earth",
+        "https",
+        "nasa",
+        "jpl",
+        "2026",
+        "gov",
+        "www",
+        "2e16d0ba",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "fill-400x400-c50",
+        "image"
+      ],
+      "hash": "16d5911ebd5d35d36acd49927967f2a26677b21c452501f8a577793b1464f100",
+      "learned_at": "2026-10-11T18:52:09+00:00"
+    },
+    {
+      "url": "https://www.pib.gov.in/images/high-contrast.png",
+      "title": "high-contrast.png",
+      "summary": "Title: high-contrast.png URL Source: https://www.pib.gov.in/images/high-contrast.png Published Time: Mon, 04 Dec 2017 08:25:00 GMT Markdown Content: A 22x22 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "high-contrast",
+        "png",
+        "2017",
+        "22x22",
+        "avatar",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely"
+      ],
+      "hash": "1c49f7a66504a6927510e947ed50780243ed2fee8da322fac24d50fb9640f17c",
+      "learned_at": "2026-10-11T18:52:12+00:00"
+    },
+    {
+      "url": "https://www.pib.gov.in/images/theme.png?v=1",
+      "title": "theme.png",
+      "summary": "Title: theme.png URL Source: https://www.pib.gov.in/images/theme.png?v=1 Published Time: Wed, 11 Mar 2026 06:34:41 GMT Markdown Content: A 16x16 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "png",
+        "theme",
+        "16x16",
+        "2026",
+        "avatar",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo"
+      ],
+      "hash": "2445dfa5d9df7d0634df076281c3272ea9b001774f8885931dab65008a357041",
+      "learned_at": "2026-10-11T18:52:13+00:00"
     }
   ],
   "failures": [
@@ -12526,6 +12747,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-11T18:52:13+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-11T18:52:13+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 11,
+      "frontier": 572
+    },
     {
       "at": "2026-10-11T14:07:21+00:00",
       "kind": "core_unchanged",
@@ -13348,40 +13584,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 216
-    },
-    {
-      "at": "2026-10-01T05:42:20+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v8",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-01T05:42:20+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 212
     }
   ],
   "metrics": {
-    "successful_fetches": 422,
+    "successful_fetches": 430,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 15,
-    "candidate_rejections": 66
+    "candidate_rejections": 67
   },
   "core_genome": {
     "query_weight": 3.0,
