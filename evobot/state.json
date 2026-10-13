@@ -1,20 +1,34 @@
 {
   "schema": 2,
-  "generation": 89,
+  "generation": 90,
   "core_version": 18,
-  "runs": 88,
-  "pages_learned": 465,
-  "last_run": "2026-10-13T00:01:33+00:00",
+  "runs": 89,
+  "pages_learned": 473,
+  "last_run": "2026-10-13T06:41:36+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/mission/roman-space-telescope/",
-    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
-    "https://nssdc.gsfc.nasa.gov/planetary/banner/ceres.gif",
-    "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
-    "https://www.nasa.gov/missions/",
-    "https://www.nasa.gov/a-to-z-of-nasa-missions/",
-    "https://www.nasa.gov/nasa-missions/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
+    "https://ssd.jpl.nasa.gov/sb/targets.html",
+    "https://ssd.jpl.nasa.gov/sb/sats.html",
+    "https://ssd.jpl.nasa.gov/sb/radar.html",
+    "https://ssd.jpl.nasa.gov/diagrams/",
+    "https://ssd.jpl.nasa.gov/sb/orbits.html",
+    "https://ssd.jpl.nasa.gov/doc/",
+    "https://ssd.jpl.nasa.gov/discovery.html",
+    "https://ssd.jpl.nasa.gov/announcements/",
+    "https://ssd.jpl.nasa.gov/glossary/",
+    "https://ssd.jpl.nasa.gov/links.html",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
+    "https://ssd.jpl.nasa.gov/tools/gravity.html",
+    "https://ssd.jpl.nasa.gov/contact/",
+    "https://ssd.jpl.nasa.gov/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
+    "https://ssd.jpl.nasa.gov/ephem.html",
+    "https://ssd.jpl.nasa.gov/planets/",
+    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
+    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
     "https://science.nasa.gov/?search=Roman",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html",
@@ -283,30 +297,6 @@
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://ssd.jpl.nasa.gov/tools/sbwobs.html",
-    "https://ssd.jpl.nasa.gov/sb/meteor_streams.html",
-    "https://ssd.jpl.nasa.gov/sb/targets.html",
-    "https://ssd.jpl.nasa.gov/sb/sats.html",
-    "https://ssd.jpl.nasa.gov/sb/radar.html",
-    "https://ssd.jpl.nasa.gov/diagrams/",
-    "https://ssd.jpl.nasa.gov/sb/orbits.html",
-    "https://ssd.jpl.nasa.gov/doc/",
-    "https://ssd.jpl.nasa.gov/discovery.html",
-    "https://ssd.jpl.nasa.gov/announcements/",
-    "https://ssd.jpl.nasa.gov/glossary/",
-    "https://ssd.jpl.nasa.gov/links.html",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
-    "https://ssd.jpl.nasa.gov/tools/gravity.html",
-    "https://ssd.jpl.nasa.gov/contact/",
-    "https://ssd.jpl.nasa.gov/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
-    "https://ssd.jpl.nasa.gov/ephem.html",
-    "https://ssd.jpl.nasa.gov/planets/",
-    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
-    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
     "https://ssd.jpl.nasa.gov/sb/great_comets.html",
     "https://ssd.jpl.nasa.gov/sb/neos.html",
     "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
@@ -623,7 +613,23 @@
     "https://naif.jpl.nasa.gov/naif/toolkit_MATLAB.html",
     "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/07_installing_toolkit.pdf",
     "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/11_preparing_for_programming.pdf",
-    "https://naif.jpl.nasa.gov/naif/tutorials.html"
+    "https://naif.jpl.nasa.gov/naif/tutorials.html",
+    "https://www.nasa.gov/mission/acs3/",
+    "https://www.nasa.gov/mission/aam/",
+    "https://www.nasa.gov/extravehicular-activity-and-human-surface-mobility/spacesuits/",
+    "https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/",
+    "https://www.nasa.gov/analog-missions/",
+    "https://www.nasa.gov/the-apollo-program/",
+    "https://www.nasa.gov/mission/apollo-1/",
+    "https://www.nasa.gov/mission/apollo-7/",
+    "https://science.nasa.gov/mission/3d-tissue-chips/",
+    "https://science.nasa.gov/mission/pioneer-0-able1/",
+    "https://science.nasa.gov/mission/pioneer-1-able-2/",
+    "https://science.nasa.gov/mission/pioneer-p-3-able-4b/",
+    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
+    "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
+    "https://www.nasa.gov/nasa-missions/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -3068,6 +3074,46 @@
     "https://pds-imaging.jpl.nasa.gov/": {
       "at": "2026-10-13T00:01:40+00:00",
       "status": "robots_disallow"
+    },
+    "https://science.nasa.gov/mission/roman-space-telescope/": {
+      "at": "2026-10-13T06:41:38+00:00",
+      "status": "ok",
+      "hash": "a593ac96bc7be483dfdafb71a8640db036d7779ab9f270d17b343bf8737e3d00"
+    },
+    "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024": {
+      "at": "2026-10-13T06:41:49+00:00",
+      "status": "ok",
+      "hash": "b870bf7f7c1f807defe836005cb5e1042bc914de1588ed88c61def43e8746993"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/ceres.gif": {
+      "at": "2026-10-13T06:41:52+00:00",
+      "status": "ok",
+      "hash": "659e782cdc06488210178e5cec9e48216da134051703e4699f3f767446f6a9b3"
+    },
+    "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif": {
+      "at": "2026-10-13T06:41:54+00:00",
+      "status": "ok",
+      "hash": "5942b4baf26298a6028860192aa354a6b2d63423fabb06f1caa8bacdfe407a95"
+    },
+    "https://www.nasa.gov/missions/": {
+      "at": "2026-10-13T06:41:56+00:00",
+      "status": "ok",
+      "hash": "1060debac2a59481aeb0bcb8275c4539f63c518ddec09a6dbfbeef4166dd18dd"
+    },
+    "https://www.nasa.gov/a-to-z-of-nasa-missions/": {
+      "at": "2026-10-13T06:41:58+00:00",
+      "status": "ok",
+      "hash": "ef10ff28f2c09b36daf1868c29fb3cfa50994c47c5c6b47fcbe82534db5b825d"
+    },
+    "https://ssd.jpl.nasa.gov/tools/sbwobs.html": {
+      "at": "2026-10-13T06:42:03+00:00",
+      "status": "ok",
+      "hash": "79b502b081e7e225314d13a7340b58ab62955c7367f47d79f045c3f2835e011f"
+    },
+    "https://ssd.jpl.nasa.gov/sb/meteor_streams.html": {
+      "at": "2026-10-13T06:42:06+00:00",
+      "status": "ok",
+      "hash": "4027c5038a85e03d04d8e12a68b1d25a86dd6ec18f4f53733999829a0477d8cc"
     }
   },
   "memory": [
@@ -13765,6 +13811,190 @@
       ],
       "hash": "467a20af722d91798e19b31e6cb63ca3ed7c9653007ff025717bf786935c629f",
       "learned_at": "2026-10-13T00:01:40+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "title": "Nancy Grace Roman Space Telescope - NASA Science",
+      "summary": "Title: Nancy Grace Roman Space Telescope - NASA Science URL Source: https://science.nasa.gov/mission/roman-space-telescope/ Published Time: 2023-06-15T15:13:24-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nas",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "roman"
+      ],
+      "hash": "a593ac96bc7be483dfdafb71a8640db036d7779ab9f270d17b343bf8737e3d00",
+      "learned_at": "2026-10-13T06:41:38+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024",
+      "title": "comet3.gif",
+      "summary": "Title: comet3.gif URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/comet3.gif?w=1024 Published Time: Tue, 13 Oct 2026 06:41:46 GMT Markdown Content: A nova explosion emanates a blue colored light against a black sky",
+      "keywords": [
+        "comet3",
+        "gif",
+        "1024",
+        "2023",
+        "2026",
+        "against",
+        "black",
+        "blue",
+        "colored",
+        "content",
+        "emanates",
+        "explosion",
+        "gmt",
+        "gov"
+      ],
+      "hash": "b870bf7f7c1f807defe836005cb5e1042bc914de1588ed88c61def43e8746993",
+      "learned_at": "2026-10-13T06:41:49+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/banner/ceres.gif",
+      "title": "ceres.gif",
+      "summary": "Title: ceres.gif URL Source: https://nssdc.gsfc.nasa.gov/planetary/banner/ceres.gif Published Time: Tue, 22 Dec 2015 21:15:24 GMT Markdown Content: Part of a moon under a ground shadow",
+      "keywords": [
+        "ceres",
+        "gif",
+        "2015",
+        "banner",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "ground",
+        "gsfc",
+        "https",
+        "markdown",
+        "moon",
+        "nasa"
+      ],
+      "hash": "659e782cdc06488210178e5cec9e48216da134051703e4699f3f767446f6a9b3",
+      "learned_at": "2026-10-13T06:41:52+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif",
+      "title": "meteor-shower.en.gif",
+      "summary": "Title: meteor-shower.en.gif URL Source: https://spaceplace.nasa.gov/meteor-shower/en/meteor-shower.en.gif Markdown Content: photo of some stars along with the sky colors",
+      "keywords": [
+        "meteor-shower",
+        "gif",
+        "along",
+        "colors",
+        "content",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "photo",
+        "sky",
+        "some",
+        "source",
+        "spaceplace"
+      ],
+      "hash": "5942b4baf26298a6028860192aa354a6b2d63423fabb06f1caa8bacdfe407a95",
+      "learned_at": "2026-10-13T06:41:54+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/missions/",
+      "title": "Missions - NASA",
+      "summary": "Title: Missions - NASA URL Source: https://www.nasa.gov/missions/ Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov/news/media-contacts/) * [Events](https://www.nasa.",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "missions",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "1060debac2a59481aeb0bcb8275c4539f63c518ddec09a6dbfbeef4166dd18dd",
+      "learned_at": "2026-10-13T06:41:56+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/a-to-z-of-nasa-missions/",
+      "title": "A to Z of NASA Missions - NASA",
+      "summary": "Title: A to Z of NASA Missions - NASA URL Source: https://www.nasa.gov/a-to-z-of-nasa-missions/ Published Time: 2023-09-27T09:38:58-04:00 Markdown Content: [A](https://www.nasa.gov/a-to-z-of-nasa-missions/#A) [B](https://www.nasa.gov/a-to-z-of-nasa-missions/#B) [C](https://www.nasa.gov/a-to-z-of-nasa-missions/#C) [D](https://www.nasa.gov/a-to-z-of-nasa-missions/#D) [E](https://www.nasa.gov/a-to-z-of-nasa-missions/#E) [F](https://www.nasa.gov/a-to-z-of-nasa-missions/#F) [G](https://www.nasa.gov/a-to-z-of-nasa-missions/#G) [H](https://www.nasa.gov/a-to-z-of-nasa-missions/#H) [I](https://www.nasa.gov/a-to-z-of-nasa-missions/#I) [J](https://www.nasa.gov/a-to-z-of-nasa-missions/#J) [K](https://www.nasa.gov/a-to-z-of-nasa-missions/#K) [L](https://www.nasa.gov/a-to-z-of-nasa-missions/#L) [M](https://www.nasa.gov/a-to-z-of-nasa-missions/#M) [N](https://www.nasa.gov/a-to-z-of-nasa-missions/#N) [O",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "a-to-z-of-nasa-missions",
+        "mission",
+        "science",
+        "able",
+        "advanced",
+        "pioneer",
+        "ace",
+        "acme",
+        "acrimsat",
+        "acs3"
+      ],
+      "hash": "ef10ff28f2c09b36daf1868c29fb3cfa50994c47c5c6b47fcbe82534db5b825d",
+      "learned_at": "2026-10-13T06:41:58+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/tools/sbwobs.html",
+      "title": "What's Observable?",
+      "summary": "Title: What's Observable? URL Source: https://ssd.jpl.nasa.gov/tools/sbwobs.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/tools/sbwobs.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/tools/sbwobs.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about",
+      "keywords": [
+        "https",
+        "nasa",
+        "ssd",
+        "gov",
+        "jpl",
+        "html",
+        "orbits",
+        "tools",
+        "planets",
+        "sbwobs",
+        "sats",
+        "ephemerides",
+        "image",
+        "images"
+      ],
+      "hash": "79b502b081e7e225314d13a7340b58ab62955c7367f47d79f045c3f2835e011f",
+      "learned_at": "2026-10-13T06:42:03+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sb/meteor_streams.html",
+      "title": "Meteor Streams",
+      "summary": "Title: Meteor Streams URL Source: https://ssd.jpl.nasa.gov/sb/meteor_streams.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sb/meteor_streams.html#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sb/meteor_streams.html#) * [What does SSD do?](https://ssd.jpl.nas",
+      "keywords": [
+        "https",
+        "nasa",
+        "ssd",
+        "gov",
+        "jpl",
+        "html",
+        "orbits",
+        "planets",
+        "meteor_streams",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "4027c5038a85e03d04d8e12a68b1d25a86dd6ec18f4f53733999829a0477d8cc",
+      "learned_at": "2026-10-13T06:42:06+00:00"
     }
   ],
   "failures": [
@@ -13780,6 +14010,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-13T06:42:06+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-13T06:42:06+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 10,
+      "frontier": 623
+    },
     {
       "at": "2026-10-13T00:01:40+00:00",
       "kind": "core_unchanged",
@@ -14624,29 +14869,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 233
-    },
-    {
-      "at": "2026-10-02T14:05:46+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-02T14:05:46+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 3 new pages",
-      "attempted": 24,
-      "frontier": 219
     }
   ],
   "metrics": {
-    "successful_fetches": 465,
+    "successful_fetches": 473,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 17,
-    "candidate_rejections": 70
+    "candidate_rejections": 71
   },
   "core_genome": {
     "query_weight": 3.0,
