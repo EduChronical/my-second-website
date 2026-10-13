@@ -1,34 +1,17 @@
 {
   "schema": 2,
-  "generation": 90,
-  "core_version": 18,
-  "runs": 89,
-  "pages_learned": 473,
-  "last_run": "2026-10-13T06:41:36+00:00",
+  "generation": 91,
+  "core_version": 19,
+  "runs": 90,
+  "pages_learned": 475,
+  "last_run": "2026-10-13T14:36:36+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://ssd.jpl.nasa.gov/sb/targets.html",
-    "https://ssd.jpl.nasa.gov/sb/sats.html",
-    "https://ssd.jpl.nasa.gov/sb/radar.html",
-    "https://ssd.jpl.nasa.gov/diagrams/",
-    "https://ssd.jpl.nasa.gov/sb/orbits.html",
-    "https://ssd.jpl.nasa.gov/doc/",
-    "https://ssd.jpl.nasa.gov/discovery.html",
-    "https://ssd.jpl.nasa.gov/announcements/",
-    "https://ssd.jpl.nasa.gov/glossary/",
-    "https://ssd.jpl.nasa.gov/links.html",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
-    "https://ssd.jpl.nasa.gov/tools/gravity.html",
-    "https://ssd.jpl.nasa.gov/contact/",
-    "https://ssd.jpl.nasa.gov/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
-    "https://ssd.jpl.nasa.gov/ephem.html",
-    "https://ssd.jpl.nasa.gov/planets/",
-    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
-    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
+    "https://ssd.jpl.nasa.gov/orbits_doc.html",
+    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
+    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
+    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
     "https://science.nasa.gov/?search=Roman",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html",
@@ -91,14 +74,17 @@
     "https://ammos.nasa.gov/",
     "https://www.nasa.gov/planetarydefense/overview",
     "https://pds.nasa.gov/pds-app-bar/images/info.svg",
-    "https://www.rbi.org.in/images/dark-theme.gif",
-    "https://www.rbi.org.in/images/bright-theme.gif",
-    "https://www.rbi.org.in/images/graytheme.gif",
+    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+    "https://science.nasa.gov/exoplanets/star-catalog/toi-789/",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "http://www.jpl.nasa.gov/copyrights.cfm",
     "http://ssd.jpl.nasa.gov/horizons.cgi",
     "http://pds.jpl.nasa.gov/",
+    "https://www.rbi.org.in/images/dark-theme.gif",
+    "https://www.rbi.org.in/images/bright-theme.gif",
+    "https://www.rbi.org.in/images/graytheme.gif",
     "https://www.rbi.org.in/images/letspace.png",
     "https://www.rbi.org.in/images/print-icon.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
@@ -226,13 +212,13 @@
     "https://www.jpl.jobs/",
     "https://jpl.jobs/",
     "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
-    "https://news.ycombinator.com/",
-    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://x.com/NASASpaceAlerts",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EuropaClipper_Poster_08_2020_0.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.2e16d0ba.fill-400x400-c50.jpg",
     "http://www.facebook.com/NASAJPL",
+    "https://news.ycombinator.com/",
+    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://esahubble.org/images/heic1215a/",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
@@ -297,17 +283,6 @@
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://ssd.jpl.nasa.gov/sb/great_comets.html",
-    "https://ssd.jpl.nasa.gov/sb/neos.html",
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
-    "https://ssd.jpl.nasa.gov/orbits_doc.html",
-    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
-    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
-    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
-    "https://science.nasa.gov/exoplanets/star-catalog/toi-789/",
-    "https://science.nasa.gov/exoplanets/star-catalog/toi-789/",
     "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
     "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
     "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
@@ -629,7 +604,30 @@
     "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
     "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
     "https://www.nasa.gov/nasa-missions/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1"
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
+    "https://ssd.jpl.nasa.gov/images/comet_1577.gif",
+    "https://ssd.jpl.nasa.gov/sb/sats.html",
+    "https://ssd.jpl.nasa.gov/sb/radar.html",
+    "https://ssd.jpl.nasa.gov/diagrams/",
+    "https://ssd.jpl.nasa.gov/sb/orbits.html",
+    "https://ssd.jpl.nasa.gov/doc/",
+    "https://ssd.jpl.nasa.gov/discovery.html",
+    "https://ssd.jpl.nasa.gov/announcements/",
+    "https://ssd.jpl.nasa.gov/glossary/",
+    "https://ssd.jpl.nasa.gov/links.html",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
+    "https://ssd.jpl.nasa.gov/tools/gravity.html",
+    "https://ssd.jpl.nasa.gov/contact/",
+    "https://ssd.jpl.nasa.gov/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
+    "https://ssd.jpl.nasa.gov/ephem.html",
+    "https://ssd.jpl.nasa.gov/planets/",
+    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
+    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+    "https://ssd.jpl.nasa.gov/sb/neos.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -3114,6 +3112,16 @@
       "at": "2026-10-13T06:42:06+00:00",
       "status": "ok",
       "hash": "4027c5038a85e03d04d8e12a68b1d25a86dd6ec18f4f53733999829a0477d8cc"
+    },
+    "https://ssd.jpl.nasa.gov/sb/great_comets.html": {
+      "at": "2026-10-13T14:36:39+00:00",
+      "status": "ok",
+      "hash": "17ec8946320d3b450d3b53ff7fabbcafc0e5814972341624cd15d0cf28389f43"
+    },
+    "https://ssd.jpl.nasa.gov/sb/targets.html": {
+      "at": "2026-10-13T14:36:43+00:00",
+      "status": "ok",
+      "hash": "ca80c829a19e8d614d8166bab952709021a66d0b0a07f2ea99cd55f8d1eabf0c"
     }
   },
   "memory": [
@@ -13995,6 +14003,52 @@
       ],
       "hash": "4027c5038a85e03d04d8e12a68b1d25a86dd6ec18f4f53733999829a0477d8cc",
       "learned_at": "2026-10-13T06:42:06+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sb/great_comets.html",
+      "title": "Great Comets in History",
+      "summary": "Title: Great Comets in History URL Source: https://ssd.jpl.nasa.gov/sb/great_comets.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: ![Image 1: Great Comet of 1577](https://ssd.jpl.nasa.gov/images/comet_1577.gif) The great comet of 1577 seen over Prague on November 12 as depicted in this engraving by Jiri Daschitzky. (Photo from the collection of Don Yeomans.) A relative few comets are so visually impressive as to be termed \"great comets\". Just the right set of circumstances must occur. Far from the sun, the solid portions of comets, which consist mostly of water ice and embedded dust particles, are inactive. They are not large enough to be seen with the naked eye. However, when near the sun, the icy cometary surfaces vaporize and throw off large quantities of gas and dust thus forming the enormous atmosphere and tails that make comets so visually striking. It is the ",
+      "keywords": [
+        "comet",
+        "great",
+        "comets",
+        "sun",
+        "date",
+        "dust",
+        "cometary",
+        "distance",
+        "earth",
+        "first",
+        "following",
+        "reached",
+        "seen",
+        "visually"
+      ],
+      "hash": "17ec8946320d3b450d3b53ff7fabbcafc0e5814972341624cd15d0cf28389f43",
+      "learned_at": "2026-10-13T14:36:39+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sb/targets.html",
+      "title": "Small-Body Targets of Spacecraft Missions",
+      "summary": "Title: Small-Body Targets of Spacecraft Missions URL Source: https://ssd.jpl.nasa.gov/sb/targets.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sb/targets.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sb/targets.html#) * [What does SSD do?](https://ssd.j",
+      "keywords": [
+        "https",
+        "nasa",
+        "ssd",
+        "gov",
+        "jpl",
+        "html",
+        "orbits",
+        "planets",
+        "targets",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "ca80c829a19e8d614d8166bab952709021a66d0b0a07f2ea99cd55f8d1eabf0c",
+      "learned_at": "2026-10-13T14:36:43+00:00"
     }
   ],
   "failures": [
@@ -14010,6 +14064,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-13T14:36:43+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v19",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-13T14:36:43+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 621
+    },
     {
       "at": "2026-10-13T06:42:06+00:00",
       "kind": "core_unchanged",
@@ -14854,28 +14934,13 @@
       "message": "Crawl cycle learned 2 new pages",
       "attempted": 24,
       "frontier": 235
-    },
-    {
-      "at": "2026-10-02T19:15:43+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-02T19:15:43+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 233
     }
   ],
   "metrics": {
-    "successful_fetches": 473,
+    "successful_fetches": 475,
     "failed_fetches": 2,
     "duplicate_pages": 0,
-    "candidate_promotions": 17,
+    "candidate_promotions": 18,
     "candidate_rejections": 71
   },
   "core_genome": {
@@ -14907,12 +14972,12 @@
     "ssd.jpl.nasa.gov",
     "www.nasa.gov",
     "www.jpl.nasa.gov",
-    "spaceplace.nasa.gov",
     "assets.science.nasa.gov",
+    "spaceplace.nasa.gov",
     "nssdc.gsfc.nasa.gov",
+    "naif.jpl.nasa.gov",
     "www.pib.gov.in",
     "jpl.nasa.gov",
-    "cneos.jpl.nasa.gov",
-    "naif.jpl.nasa.gov"
+    "cneos.jpl.nasa.gov"
   ]
 }
