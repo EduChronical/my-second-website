@@ -1,17 +1,13 @@
 {
   "schema": 2,
-  "generation": 91,
+  "generation": 92,
   "core_version": 19,
-  "runs": 90,
-  "pages_learned": 475,
-  "last_run": "2026-10-13T14:36:36+00:00",
+  "runs": 91,
+  "pages_learned": 483,
+  "last_run": "2026-10-13T20:21:31+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
-    "https://ssd.jpl.nasa.gov/orbits_doc.html",
-    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
-    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
-    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
+    "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
     "https://science.nasa.gov/?search=Roman",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html",
@@ -77,6 +73,15 @@
     "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
     "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
     "https://science.nasa.gov/exoplanets/star-catalog/toi-789/",
+    "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
+    "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
+    "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+    "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+    "https://www.nasa.gov/blogs/quesst/2026/10/09/nasa-x-59-pilot-receives-top-test-pilot-award/",
+    "https://www.nasa.gov/blogs/quesst/2026/10/09/nasa-x-59-pilot-receives-top-test-pilot-award/",
+    "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+    "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+    "https://eyes.nasa.gov/dsn/dsn.html",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "http://www.jpl.nasa.gov/copyrights.cfm",
@@ -178,6 +183,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebswot_FZBtTh2.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA21499-20170523-1.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiri_kmfqnjB.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-sunrise-missi.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "http://www.imf.org/en/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
@@ -216,6 +222,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EuropaClipper_Poster_08_2020_0.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Brown_dwarf_grid.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Figure_A-PIA2672.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "http://www.facebook.com/NASAJPL",
     "https://news.ycombinator.com/",
     "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
@@ -283,30 +291,6 @@
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
-    "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
-    "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
-    "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
-    "https://www.nasa.gov/blogs/quesst/2026/10/09/nasa-x-59-pilot-receives-top-test-pilot-award/",
-    "https://www.nasa.gov/blogs/quesst/2026/10/09/nasa-x-59-pilot-receives-top-test-pilot-award/",
-    "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-    "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-    "https://jpl.nasa.gov/topics/robotics/",
-    "https://jpl.nasa.gov/topics/solar-system/",
-    "https://jpl.nasa.gov/topics/earth/",
-    "https://jpl.nasa.gov/topics/mars/",
-    "https://jpl.nasa.gov/topics/technology/",
-    "https://jpl.nasa.gov/topics/robotics/",
-    "https://jpl.nasa.gov/topics/solar-system/",
-    "https://jpl.nasa.gov/topics/earth/",
-    "https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/",
-    "https://eyes.nasa.gov/dsn/dsn.html",
-    "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Brown_dwarf_grid.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-sunrise-missi.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Figure_A-PIA2672.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
-    "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
     "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2026/10/e1-pia23684.jpg?w=1024",
     "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg",
@@ -627,7 +611,38 @@
     "https://ssd.jpl.nasa.gov/ftp/ssd/",
     "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
     "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
-    "https://ssd.jpl.nasa.gov/sb/neos.html"
+    "https://ssd.jpl.nasa.gov/sb/neos.html",
+    "https://mars.nasa.gov/m2020/",
+    "https://astrobiology.nasa.gov/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Recor.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26814.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26812.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/",
+    "https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/",
+    "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/",
+    "https://www.jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_o8KrBDH.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://www.facebook.com/dialog/feed?app_id=361412888534196&link=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Fnext-five-approaches",
+    "https://ssd.jpl.nasa.gov/ftp/eph/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/README.txt",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/TTmTDB.de430.19feb2015.bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/de202.bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/de403.bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/de405.bsp",
+    "https://ssd.jpl.nasa.gov/planets/obs_data.html",
+    "https://jpl.nasa.gov/topics/robotics/",
+    "https://jpl.nasa.gov/topics/solar-system/",
+    "https://jpl.nasa.gov/topics/technology/",
+    "https://jpl.nasa.gov/topics/robotics/",
+    "https://jpl.nasa.gov/topics/solar-system/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/e1%20-%20PIA26812%20-%20NAVCAM%20record.png?w=1024"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -3122,6 +3137,46 @@
       "at": "2026-10-13T14:36:43+00:00",
       "status": "ok",
       "hash": "ca80c829a19e8d614d8166bab952709021a66d0b0a07f2ea99cd55f8d1eabf0c"
+    },
+    "https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/": {
+      "at": "2026-10-13T20:21:35+00:00",
+      "status": "ok",
+      "hash": "97aeeff294824059aeaf0717d2abc4ef8a11867196461c9612dc1cb6e47f2af1"
+    },
+    "https://jpl.nasa.gov/topics/earth/": {
+      "at": "2026-10-13T20:21:40+00:00",
+      "status": "ok",
+      "hash": "f8e813b8c4eabf270d0a0bad71a4346ed5ef16da38bd698be606d4e289c4a0a0"
+    },
+    "https://jpl.nasa.gov/topics/mars/": {
+      "at": "2026-10-13T20:21:44+00:00",
+      "status": "ok",
+      "hash": "c3a1e861ef079f619f349609fb8149360b6760f2674f0bec3375c1e99847d467"
+    },
+    "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/": {
+      "at": "2026-10-13T20:21:47+00:00",
+      "status": "ok",
+      "hash": "f925032fa2e1feb763601efd23d66b979a361dafdb80ed6056a67ab1e7d26b6a"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp": {
+      "at": "2026-10-13T20:21:52+00:00",
+      "status": "ok",
+      "hash": "fd54abebe2392aee23e660f77e7baa74fdf34c2c54d20b2cbd0791d355260e51"
+    },
+    "https://ssd.jpl.nasa.gov/orbits_doc.html": {
+      "at": "2026-10-13T20:21:55+00:00",
+      "status": "ok",
+      "hash": "30d95348282d74f944ca3bfb26072ec08067443b307f2c4d05bfee19c3fe182a"
+    },
+    "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/": {
+      "at": "2026-10-13T20:21:57+00:00",
+      "status": "ok",
+      "hash": "e5c46ca43adbc197f9aaa83a1aef530e702352736d4f67f224df34d3bd0febc7"
+    },
+    "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/": {
+      "at": "2026-10-13T20:22:05+00:00",
+      "status": "ok",
+      "hash": "071398b47d6d69a19d2744910cc596be605fcdf5af781d85e85a368ca4c33060"
     }
   },
   "memory": [
@@ -14049,6 +14104,190 @@
       ],
       "hash": "ca80c829a19e8d614d8166bab952709021a66d0b0a07f2ea99cd55f8d1eabf0c",
       "learned_at": "2026-10-13T14:36:43+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/",
+      "title": "Mars 2020 - NASA Jet Propulsion Laboratory",
+      "summary": "Title: Mars 2020 - NASA Jet Propulsion Laboratory URL Source: https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/ Markdown Content: [](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3: NASA's Perseverance Mars rover took this selfie over a rock nicknamed Rochette, on September 10, 202",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "https",
+        "gov",
+        "mars",
+        "www",
+        "perseverance",
+        "rover",
+        "mission",
+        "samples",
+        "2020",
+        "missions",
+        "exploration",
+        "image"
+      ],
+      "hash": "97aeeff294824059aeaf0717d2abc4ef8a11867196461c9612dc1cb6e47f2af1",
+      "learned_at": "2026-10-13T20:21:35+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/topics/earth/",
+      "title": "Earth Science | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Earth Science | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/earth/ Markdown Content: As residents of planet Earth, every one of us benefits from NASA research that has expanded our collective knowledge dramatically. These studies help us learn how Earth's land, oceans, and atmosphere work separately and in concert, and how they directly affect our lives. Armed with sophisticated instruments on the ground, in the seas, in the air, and in space, NASA gathers images and data that help with real-world applications that include developing weather forecasts, climate trends, shipping routes, and disaster recovery plans. For example, because two-thirds of our planet is covered by water, tracking the movement of water is vital to monitoring the health of people and ecosystems. Too much water, or too little, can wreak havoc by leading to floods or droughts. ",
+      "keywords": [
+        "earth",
+        "nasa",
+        "water",
+        "instrument",
+        "data",
+        "during",
+        "help",
+        "jpl",
+        "space",
+        "affect",
+        "air",
+        "areas",
+        "california",
+        "disaster"
+      ],
+      "hash": "f8e813b8c4eabf270d0a0bad71a4346ed5ef16da38bd698be606d4e289c4a0a0",
+      "learned_at": "2026-10-13T20:21:40+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/topics/mars/",
+      "title": "At Work on Mars | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: At Work on Mars | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/mars/ Markdown Content: For more than half a century, NASA's fleet of increasingly sophisticated orbiters, landers, and rovers has helped us transform science fiction into reality, enabling us to piece together detailed information about Mars, our nearest planetary neighbor. These robotic explorers have revealed details of the Red Planet’s diverse surface, atmosphere, and weather, the presence of water in its past, and its potential for life through the ages and for astronauts in the future. JPL has played a pivotal role in this exploration, starting when the first successful spacecraft, Mariner 4, completed the first Mars flyby in 1965, and in 1976, when two Viking landers successfully touched down on the Martian surface. The era of Mars rovers opened when Mars Pathfinder and its Sojour",
+      "keywords": [
+        "mars",
+        "jpl",
+        "life",
+        "planet",
+        "future",
+        "learn",
+        "nasa",
+        "own",
+        "rovers",
+        "science",
+        "surface",
+        "1997",
+        "climate",
+        "explorers"
+      ],
+      "hash": "c3a1e861ef079f619f349609fb8149360b6760f2674f0bec3375c1e99847d467",
+      "learned_at": "2026-10-13T20:21:44+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/",
+      "title": "Next Five Asteroid Approaches",
+      "summary": "Title: Next Five Asteroid Approaches URL Source: https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/ Markdown Content: [](https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3: This view of asteroid Bennu ejecting particles from its surface on Jan. 6, 2019, was created by combining two images ",
+      "keywords": [
+        "https",
+        "jpl",
+        "nasa",
+        "gov",
+        "www",
+        "image",
+        "images",
+        "2026",
+        "asteroid",
+        "asteroid-watch",
+        "000",
+        "2e16d0ba",
+        "cloudfront",
+        "d2pn8kiwq2w21t"
+      ],
+      "hash": "f925032fa2e1feb763601efd23d66b979a361dafdb80ed6056a67ab1e7d26b6a",
+      "learned_at": "2026-10-13T20:21:47+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
+      "title": "Public FTP File Browser",
+      "summary": "Title: Public FTP File Browser URL Source: https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp#main_content) ## Public FTP File Browser ### Index of /ftp/eph/planets/bsp/ | Name | Last Modified | Size | Type | | --- | --- | --- | --- | | [Parent Directory](https://ssd.jpl.nasa.gov/ftp/eph/)/ | | - | Directory | | [README.txt](https://ssd.jpl.nasa.gov/ftp/eph/planets/README.txt) | 2021-01-20 18:38 | 3.8K | File | | [TTmTDB.de430.19feb2015.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/TTmTDB.de430.19feb2015.bsp) | 2015-09-10 17:22 | 31.4M | File | | [de102.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp) | 2011-03-24 01:30 | 228.1M | File | | [de200.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp) | 2011-03-18 01:03 | 54.2M | File | | [de202.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/de202.bsp) | 2",
+      "keywords": [
+        "bsp",
+        "ftp",
+        "eph",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "planets",
+        "ssd",
+        "file",
+        "2011-03-18",
+        "---",
+        "2000-10-10",
+        "19feb2015"
+      ],
+      "hash": "fd54abebe2392aee23e660f77e7baa74fdf34c2c54d20b2cbd0791d355260e51",
+      "learned_at": "2026-10-13T20:21:52+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/orbits_doc.html",
+      "title": "Description of Orbits and Ephemerides",
+      "summary": "Title: Description of Orbits and Ephemerides URL Source: https://ssd.jpl.nasa.gov/orbits_doc.html Markdown Content: ## Background Since objects in the solar system are constantly moving with respect to (and gravitationally pulling on) one another, a reference frame and system of time-keeping must first be adopted to describe and organize all this motion. We adopt the International Celestial Reference Frame (ICRF), a three-dimensional cartesian (x,y,z) system whose three basis axes are defined relative to over 4500+ remote radio sources, mostly quasars. These objects are so far across the universe from Earth, they have no apparent angular motion themselves, so serve as fixed beacons in the sky. For time-keeping, we adopt the Barycentric Dynamical timescale (TDB), a uniform free-flowing coordinate timescale in the solar system barycentric frame consistent with General Relativity (GR). This",
+      "keywords": [
+        "other",
+        "each",
+        "system",
+        "objects",
+        "motion",
+        "moving",
+        "object",
+        "dimensions",
+        "does",
+        "frame",
+        "mass",
+        "sheet",
+        "solar",
+        "spacetime"
+      ],
+      "hash": "30d95348282d74f944ca3bfb26072ec08067443b307f2c4d05bfee19c3fe182a",
+      "learned_at": "2026-10-13T20:21:55+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
+      "title": "Mars Science Objectives",
+      "summary": "Title: Mars Science Objectives URL Source: https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/ Published Time: 2026-10-09T14:04:25-04:00 Markdown Content: ## Mars Exploration Science As we develop a more robust understanding of the Martian environment, the science activities of NASA's Mars Exploration Program (MEP) are adapting to meet the challenges and ambitions of exploring a demonstrably habitable planet. While the core science themes of the MEP remain unchanged, agency planning for future human exploration of Mars puts increased focus on issues of planetary protection and preparation for human arrival. These issues are cross-cutting across many of the science objectives derived from the following science themes: * Life and Habitability * Ice, Weather, and Climate * Geology The MEP has synthesized and reframed a wide range of Mars science inp",
+      "keywords": [
+        "science",
+        "mars",
+        "exploration",
+        "objectives",
+        "each",
+        "habitability",
+        "https",
+        "human",
+        "life",
+        "mep",
+        "nasa",
+        "objective",
+        "planetary",
+        "future"
+      ],
+      "hash": "e5c46ca43adbc197f9aaa83a1aef530e702352736d4f67f224df34d3bd0febc7",
+      "learned_at": "2026-10-13T20:21:57+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
+      "title": "Hubble Watches How a Giant Planet Grows - NASA Science",
+      "summary": "Title: Hubble Watches How a Giant Planet Grows - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/ Published Time: 2021-04-29T11:00:00-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "071398b47d6d69a19d2744910cc596be605fcdf5af781d85e85a368ca4c33060",
+      "learned_at": "2026-10-13T20:22:05+00:00"
     }
   ],
   "failures": [
@@ -14064,6 +14303,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-13T20:22:06+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-13T20:22:06+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 16,
+      "frontier": 636
+    },
     {
       "at": "2026-10-13T14:36:43+00:00",
       "kind": "core_promoted",
@@ -14919,29 +15173,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 231
-    },
-    {
-      "at": "2026-10-02T23:03:39+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-02T23:03:39+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 2 new pages",
-      "attempted": 24,
-      "frontier": 235
     }
   ],
   "metrics": {
-    "successful_fetches": 475,
+    "successful_fetches": 483,
     "failed_fetches": 2,
     "duplicate_pages": 0,
     "candidate_promotions": 18,
-    "candidate_rejections": 71
+    "candidate_rejections": 72
   },
   "core_genome": {
     "query_weight": 3.0,
