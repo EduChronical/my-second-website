@@ -1,24 +1,12 @@
 {
   "schema": 2,
-  "generation": 97,
+  "generation": 98,
   "core_version": 21,
-  "runs": 96,
-  "pages_learned": 519,
-  "last_run": "2026-10-14T17:59:45+00:00",
+  "runs": 97,
+  "pages_learned": 525,
+  "last_run": "2026-10-14T21:34:55+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/events",
-    "https://www.nasa.gov/event-type/launch-schedule/",
-    "https://www.nasa.gov/nasa-virtual-guest-program/",
-    "https://www.nasa.gov/live",
-    "https://www.nasa.gov/podcasts-and-audio/",
-    "https://www.nasa.gov/nasa-blogs/",
-    "https://www.nasa.gov/apps/",
-    "https://www.nasa.gov/podcasts/",
-    "https://www.nasa.gov/ebooks/",
-    "https://www.nasa.gov/nasa-brand-center/",
-    "https://www.nasa.gov/plus/",
-    "https://www.nasa.gov/socialmedia/",
     "https://www.nasa.gov/events/",
     "https://www.nasa.gov/humans-in-space/spaceships-and-rockets/",
     "https://www.nasa.gov/humans-in-space/artemis/",
@@ -45,6 +33,13 @@
     "https://pds.nasa.gov/pds-app-bar/images/info.svg",
     "https://eyes.nasa.gov/dsn/dsn.html",
     "https://www.nasa.gov/learning-resources/internship-programs/",
+    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-098A",
+    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-137D",
+    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-118A",
+    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2022-094A",
+    "https://svs.gsfc.nasa.gov/4604",
+    "https://www.nasa.gov/interactives/",
+    "https://www.nasa.gov/nasa-interactive-features/",
     "http://ssd.jpl.nasa.gov/",
     "http://ssd.jpl.nasa.gov/\\n",
     "http://www.jpl.nasa.gov/copyrights.cfm",
@@ -219,6 +214,7 @@
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://esahubble.org/images/heic1215a/",
@@ -283,30 +279,10 @@
     "https://caltech.edu/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/",
-    "https://nssdc.gsfc.nasa.gov/planetary/references.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/online_books.html",
-    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-098A",
-    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-137D",
-    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-118A",
-    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2022-094A",
     "http://www.mapaplanet.org/explorer/moon.html",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "https://svs.gsfc.nasa.gov/4604",
     "http://aa.usno.navy.mil/data/index.php",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://www.nineplanets.org/luna.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_short.txt",
-    "https://ssd.jpl.nasa.gov/planets/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/ephem/",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/xemu-eva-hls.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020-sq.jpg?w=1024",
-    "https://www.nasa.gov/interactives/",
-    "https://www.nasa.gov/nasa-interactive-features/",
-    "https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif",
     "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
     "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
     "https://nssdc.gsfc.nasa.gov/bullet/red_bullet_half.gif",
@@ -733,7 +709,45 @@
     "https://images-assets.nasa.gov/image/AFRC2018-0287-209/AFRC2018-0287-209~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint",
     "https://images-assets.nasa.gov/image/AFRC2025-0112-06/AFRC2025-0112-06~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
     "https://www.nasa.gov/careers/pathways",
-    "https://www.nasa.gov/social-media/"
+    "https://www.nasa.gov/social-media/",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://www.expita.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "https://nssdc.gsfc.nasa.gov/logo/nasa_bigheader_logo.gif",
+    "https://nssdc.gsfc.nasa.gov/search.html",
+    "http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif",
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00417",
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00418",
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00419",
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00420",
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00415",
+    "https://www.nasa.gov/goddard/",
+    "http://cdaweb.gsfc.nasa.gov/lunar/",
+    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
+    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
+    "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/apollo/apollo15_alsep/",
+    "http://nssdcftp.gsfc.nasa.gov/spacecraft_data/apollo/apollo17_alsep/",
+    "https://nssdc.gsfc.nasa.gov/planetary/references.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/online_books.html",
+    "https://ssd.jpl.nasa.gov/planets/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/ephem/",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/xemu-eva-hls.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020-sq.jpg?w=1024",
+    "https://www.nasa.gov/events",
+    "https://www.nasa.gov/event-type/launch-schedule/",
+    "https://www.nasa.gov/nasa-virtual-guest-program/",
+    "https://www.nasa.gov/live",
+    "https://www.nasa.gov/podcasts-and-audio/",
+    "https://www.nasa.gov/nasa-blogs/",
+    "https://www.nasa.gov/apps/",
+    "https://www.nasa.gov/podcasts/",
+    "https://www.nasa.gov/ebooks/",
+    "https://www.nasa.gov/nasa-brand-center/",
+    "https://www.nasa.gov/plus/",
+    "https://www.nasa.gov/socialmedia/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -3461,6 +3475,36 @@
       "at": "2026-10-14T18:00:40+00:00",
       "status": "ok",
       "hash": "097dca0d657f79d4816cb8dfd8370c68965e46c6c9a2fb34d5e37aba3601d61f"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf": {
+      "at": "2026-10-14T21:34:57+00:00",
+      "status": "ok",
+      "hash": "3817f8d4934f1973d442713650e7996ec2a959fbe7ee98f8ebfc80f7090060ef"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_short.txt": {
+      "at": "2026-10-14T21:34:59+00:00",
+      "status": "ok",
+      "hash": "1e1b1d04f02859118ce8419359466efc2a43d4576be2074a56305e32465f6858"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif": {
+      "at": "2026-10-14T21:35:02+00:00",
+      "status": "ok",
+      "hash": "22bcb32c6f0970600f64d5c8c288ef1de35b88aed796a9beaca252fae2734121"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/": {
+      "at": "2026-10-14T21:35:05+00:00",
+      "status": "ok",
+      "hash": "81312b60d31c791b42bfe08854d6f21de3d579224ae64b6dba2c128de34aa938"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024": {
+      "at": "2026-10-14T21:35:10+00:00",
+      "status": "ok",
+      "hash": "fc44765609ea23e7fef4857162de12d8e974f68661b08bcbd912a3a3003dc0af"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024": {
+      "at": "2026-10-14T21:35:14+00:00",
+      "status": "ok",
+      "hash": "6d4328d5cc9d1347eb0ca363019309aca37f55c39c716cefe8ba10bc753b0606"
     }
   },
   "memory": [
@@ -15400,6 +15444,144 @@
       ],
       "hash": "097dca0d657f79d4816cb8dfd8370c68965e46c6c9a2fb34d5e37aba3601d61f",
       "learned_at": "2026-10-14T18:00:40+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+      "title": "Configuring Mail Clients to Send Plain ASCII Text",
+      "summary": "Title: Configuring Mail Clients to Send Plain ASCII Text URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf Published Time: Mon, 13 Mar 2017 21:21:51 GMT Number of Pages: 41 Markdown Content: > 3/13/17 2:19 PM Configuring Mail Clients to Send Plain ASCII Text Page 1 of 41 http://cypherpunks.faithweb.com/nomime.html Sign In Sign-Up We have copied this page for reference in case it disappears from the web. The copyright notice appears at the end. If you want the latest version go to the original page: http://www.expita.com/nomime.html Turning Off HTML or MIME to use a Remailer System. Index (5 topics) Introduction E-mail client programs (Turning Off HTML or MIME to use a Remailer System) Suggestions for HTML users Examples of HTML/MIME messages References # What is wrong with sending HTML or MIME messages? There are now six main reasons for N",
+      "keywords": [
+        "html",
+        "e-mail",
+        "message",
+        "mime",
+        "programs",
+        "text",
+        "file",
+        "mail",
+        "messages",
+        "other",
+        "page",
+        "send",
+        "use",
+        "word"
+      ],
+      "hash": "3817f8d4934f1973d442713650e7996ec2a959fbe7ee98f8ebfc80f7090060ef",
+      "learned_at": "2026-10-14T21:34:57+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_short.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_short.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_short.txt Published Time: Wed, 22 Feb 2023 21:51:44 GMT Markdown Content: !$$SOF (ssd) JPL/Horizons Execution Control VARLIST ! February 22, 2023 ! https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_short.txt ! !-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* ! NOTE: First line in this file must start !$$SOF ! Last line in this file must start !$$EOF ! Assigned values should be in quotes !-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* EMAIL_ADDR = ' ' COMMAND = '301' OBJ_DATA = 'YES' MAKE_EPHEM = 'YES' EPHEM_TYPE = 'OBS' CENTER = 'Geocentric' REF_PLANE = 'ECLIPTIC' COORD_TYPE = 'GEODETIC' SITE_COORD = '0,0,0' START_TIME = '2022-JAN-1 10:00' STOP_TIME = '2022-JAN-2' TIME_TYPE = ' ' STEP_SIZE = '60 min' TLIST = ' ' TLIST_TYPE = ' ' QUANTITIES = 'A' REF_SYSTEM = 'ICRF' OUT_UNITS = 'KM-S' VEC_TABLE = '3' V",
+      "keywords": [
+        "ssd",
+        "next",
+        "only",
+        "yes",
+        "jpl",
+        "line",
+        "2023",
+        "asteroids",
+        "comets",
+        "command",
+        "defining",
+        "ecliptic",
+        "eof",
+        "file"
+      ],
+      "hash": "1e1b1d04f02859118ce8419359466efc2a43d4576be2074a56305e32465f6858",
+      "learned_at": "2026-10-14T21:34:59+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif",
+      "title": "earth.gif",
+      "summary": "Title: earth.gif URL Source: https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif Published Time: Tue, 22 Dec 2015 16:10:39 GMT Markdown Content: The image captures a high-resolution photograph of our planet Earth as viewed from space",
+      "keywords": [
+        "earth",
+        "gif",
+        "2015",
+        "banner",
+        "captures",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "gsfc",
+        "high-resolution",
+        "https",
+        "image",
+        "markdown"
+      ],
+      "hash": "22bcb32c6f0970600f64d5c8c288ef1de35b88aed796a9beaca252fae2734121",
+      "learned_at": "2026-10-14T21:35:02+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/",
+      "title": "Lunar Data Project",
+      "summary": "Title: Lunar Data Project URL Source: https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/ Markdown Content: [Skip to Main Content](https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/#maincontent) [![Image 2: National Aeronautics and Space Administration](https://nssdc.gsfc.nasa.gov/logo/nasa_bigheader_logo.gif)](http://www.nasa.gov/) * + [Visit the NASA Portal](https://www.nasa.gov/) * + [Goddard Home](https://www.nasa.gov/goddard/) ### Search: * [NSSDCA Mission](https://nssdc.gsfc.nasa.gov/about/charter.html \"NSSDCA Mission\") * [About NSSDCA](https://nssdc.gsfc.nasa.gov/about/about_nssdc.html \"About the NSSDCA\") * [Frequently Asked Questions](https://nssdc.gsfc.nasa.gov/nssdc/nssdc_faq.html \"Frequently Asked Questions\") * [Search](https://nssdc.gsfc.nasa.gov/search.html) * [Contact Us](mailto:gsfc-dl-nssdca-request@mail.nasa.gov?Subject=Feedback%20from%20NSSDCA%20Main%20Page \"Co",
+      "keywords": [
+        "nasa",
+        "data",
+        "gov",
+        "https",
+        "nssdc",
+        "gsfc",
+        "lunar",
+        "nssdca",
+        "planetary",
+        "apollo",
+        "lunar_data",
+        "solar",
+        "spectrometer",
+        "wind"
+      ],
+      "hash": "81312b60d31c791b42bfe08854d6f21de3d579224ae64b6dba2c128de34aa938",
+      "learned_at": "2026-10-14T21:35:05+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024",
+      "title": "hls-eva-apr2020.jpg",
+      "summary": "Title: hls-eva-apr2020.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024 Published Time: Wed, 14 Oct 2026 21:35:08 GMT Markdown Content: Astronauts kneeling on an alien surface below a yellow piece of equipment",
+      "keywords": [
+        "hls-eva-apr2020",
+        "jpg",
+        "1024",
+        "2023",
+        "2026",
+        "alien",
+        "astronauts",
+        "below",
+        "content",
+        "equipment",
+        "gmt",
+        "gov",
+        "https",
+        "kneeling"
+      ],
+      "hash": "fc44765609ea23e7fef4857162de12d8e974f68661b08bcbd912a3a3003dc0af",
+      "learned_at": "2026-10-14T21:35:10+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024",
+      "title": "surface-1024x576-1.jpg",
+      "summary": "Title: surface-1024x576-1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024 Published Time: Wed, 14 Oct 2026 21:35:12 GMT Markdown Content: A lunar base set on the black expanse of the moon with personnel and vehicles in white spacuits",
+      "keywords": [
+        "jpg",
+        "surface-1024x576-1",
+        "1024",
+        "2020",
+        "2026",
+        "base",
+        "black",
+        "content",
+        "expanse",
+        "gmt",
+        "gov",
+        "https",
+        "lunar",
+        "markdown"
+      ],
+      "hash": "6d4328d5cc9d1347eb0ca363019309aca37f55c39c716cefe8ba10bc753b0606",
+      "learned_at": "2026-10-14T21:35:14+00:00"
     }
   ],
   "failures": [
@@ -15420,6 +15602,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-14T21:35:14+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-14T21:35:14+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 741
+    },
     {
       "at": "2026-10-14T18:00:40+00:00",
       "kind": "core_promoted",
@@ -16297,29 +16494,14 @@
       "message": "Crawl cycle learned 2 new pages",
       "attempted": 24,
       "frontier": 234
-    },
-    {
-      "at": "2026-10-03T22:24:07+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-03T22:24:07+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 2 new pages",
-      "attempted": 24,
-      "frontier": 236
     }
   ],
   "metrics": {
-    "successful_fetches": 519,
+    "successful_fetches": 525,
     "failed_fetches": 3,
     "duplicate_pages": 0,
     "candidate_promotions": 20,
-    "candidate_rejections": 75
+    "candidate_rejections": 76
   },
   "core_genome": {
     "query_weight": 3.0,
