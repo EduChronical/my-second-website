@@ -1,13 +1,12 @@
 {
   "schema": 2,
-  "generation": 100,
+  "generation": 101,
   "core_version": 22,
-  "runs": 99,
-  "pages_learned": 536,
-  "last_run": "2026-10-15T04:30:39+00:00",
+  "runs": 100,
+  "pages_learned": 544,
+  "last_run": "2026-10-15T09:22:19+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/humans-in-space/artemis/",
     "https://www.nasa.gov/a-to-z-topics-listing/",
     "https://www.nasa.gov/humans-in-space/",
     "https://www.nasa.gov/aeronautics/",
@@ -37,14 +36,15 @@
     "https://www.sebi.gov.in/about-sebi.html",
     "https://www.nasa.gov/multimedia/",
     "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
+    "https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/calendar_calculations.htm",
+    "https://www.nasa.gov/image-of-the-day/",
     "http://www.jpl.nasa.gov/copyrights.cfm",
     "http://pds.jpl.nasa.gov/",
     "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-043A",
     "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-043A",
     "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2004-006A",
     "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2004-006A",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-sunrise-missi.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/SunRISE-UST.2e16d0ba.fill-400x400-c50.jpg",
+    "http://www.jpl.nasa.gov/pictures/kleopatra",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Earth_illustration_cropped.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-meatball-1.2e16d0ba.fill-400x400-c50.jpg",
     "https://pib.gov.in/organisationalsetuph.aspx",
@@ -66,6 +66,8 @@
     "https://info.arxiv.org/about/donate.html",
     "http://www.webb.nasa.gov/",
     "http://svs.gsfc.nasa.gov/goto",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-sunrise-missi.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/SunRISE-UST.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesmars202020200714PIA23720.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebsentinel6-16_2AiVaM.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebNISAR_pgkG4TL.9690ea6d.fill-400x400-c50.jpg",
@@ -100,6 +102,9 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Figure_A-PIA26728-Curiosity_.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25439.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26815_-_Mastcam-Z_360_T.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24836-226.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmars_sample_return_.2e16d0ba.fill-400x400-c50_7MfRxvQ.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA22743-16_vD6Nx99.2e16d0ba.fill-400x400-c50.jpg",
     "https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318",
     "https://www.rbi.org.in/images/letspace.png",
     "https://www.rbi.org.in/images/print-icon.png",
@@ -237,7 +242,6 @@
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "https://esahubble.org/images/heic1215a/",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
@@ -283,30 +287,14 @@
     "https://en.wikipedia.org/wiki/Gregorian_calendar",
     "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
     "https://caltech.edu/",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/data/index.php",
     "http://www.nineplanets.org/luna.html",
+    "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif",
-    "https://spaceplace.nasa.gov/review/leap-year/snowmen-in-summer.en.jpg",
-    "https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/calendar_calculations.htm",
-    "https://www.jpl.nasa.gov/edu/news/2020/2/21/doing-the-math-on-why-we-have-leap-day/",
-    "https://www.jpl.nasa.gov/edu/teach/activity/leap-day-math/",
-    "https://www.nasa.gov/image-of-the-day/",
-    "https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif",
-    "https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif",
-    "http://cfa-www.harvard.edu/iauc/07100/07129.html",
-    "https://cneos.jpl.nasa.gov/images/icon_nda.png",
-    "https://nssdc.gsfc.nasa.gov/planetary/image/kleopatra.gif",
-    "https://nssdc.gsfc.nasa.gov/planetary/planets/asteroidpage.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/news/index.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/planetary_home.html",
-    "http://www.jpl.nasa.gov/pictures/kleopatra",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24836-226.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmars_sample_return_.2e16d0ba.fill-400x400-c50_7MfRxvQ.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA22743-16_vD6Nx99.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-400x400-c50_J0FluKn.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_YNyz215.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebphoenix_bmAo4Ws.2e16d0ba.fill-400x400-c50.jpg",
@@ -758,7 +746,23 @@
     "http://ssd.jpl.nasa.gov/horizons/",
     "http://ssd.jpl.nasa.gov/planets/orbits.html",
     "http://ssd.jpl.nasa.gov/sats/orbits.html",
-    "http://ssd.jpl.nasa.gov/horizons.cgi"
+    "http://ssd.jpl.nasa.gov/horizons.cgi",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/mars_lake_pr_20001204.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/mars_water_pr_20000622.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/mco_19990923.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/conrad_pr_19990709.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/discovery_pr_19990707.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/hst_pr_19990630.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/news/lp_pr_19990602.html",
+    "https://www.jpl.nasa.gov/edu/teach/activity/planetary-poetry/",
+    "https://www.jpl.nasa.gov/edu/teach/tag/search/solar+system+scale+model",
+    "https://nssdc.gsfc.nasa.gov/planetary/image/kleopatra.gif",
+    "https://nssdc.gsfc.nasa.gov/planetary/planets/asteroidpage.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/planetary_home.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -3611,6 +3615,46 @@
       "at": "2026-10-15T04:33:28+00:00",
       "status": "ok",
       "hash": "a9fcf0037a89ecc1e002608899fb4ac78d84e541e870686044d4f027cdf8e934"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/news/index.html": {
+      "at": "2026-10-15T09:22:31+00:00",
+      "status": "ok",
+      "hash": "ad5156a6a83aa2e32d21143bd4a9d2159b05890ccbec790d63e7f7956c068688"
+    },
+    "https://www.jpl.nasa.gov/edu/news/2020/2/21/doing-the-math-on-why-we-have-leap-day/": {
+      "at": "2026-10-15T09:22:39+00:00",
+      "status": "ok",
+      "hash": "818fea154f70caeded617df456456ebe5aafcb6f191dfe4ebc3c60b1f2969875"
+    },
+    "https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif": {
+      "at": "2026-10-15T09:22:40+00:00",
+      "status": "ok",
+      "hash": "ebde253daeac7ad7b6dcf8e4615c41822fd73ccac26aa950a238d60e7a82e2e8"
+    },
+    "https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif": {
+      "at": "2026-10-15T09:22:44+00:00",
+      "status": "ok",
+      "hash": "8888223ec542912f8ebeebf7a3111f1c32288b367a91162aeff8fa806aa0ab69"
+    },
+    "https://spaceplace.nasa.gov/review/leap-year/snowmen-in-summer.en.jpg": {
+      "at": "2026-10-15T09:22:46+00:00",
+      "status": "ok",
+      "hash": "a6782b05f859283daa15925846eedc3a4420879162374c24af7be622fba4f11d"
+    },
+    "https://www.jpl.nasa.gov/edu/teach/activity/leap-day-math/": {
+      "at": "2026-10-15T09:22:51+00:00",
+      "status": "ok",
+      "hash": "4bacbe61df46808bc0d0edf537fe3055732f19697d0d50dc5e2a4954040f19b7"
+    },
+    "https://cneos.jpl.nasa.gov/images/icon_nda.png": {
+      "at": "2026-10-15T09:22:53+00:00",
+      "status": "ok",
+      "hash": "3cb6feef86e68ec2fbea52d73668cfb909b2768ba60d9ebf69d3db30a3e6dfc1"
+    },
+    "https://www.nasa.gov/humans-in-space/artemis/": {
+      "at": "2026-10-15T09:22:54+00:00",
+      "status": "ok",
+      "hash": "7bcec0bf1d329f42fbfa7ba1accc46af43205235859e86cccb23757b3c15704b"
     }
   },
   "memory": [
@@ -15941,6 +15985,190 @@
       ],
       "hash": "a9fcf0037a89ecc1e002608899fb4ac78d84e541e870686044d4f027cdf8e934",
       "learned_at": "2026-10-15T04:33:28+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/news/index.html",
+      "title": "Index of News Pages",
+      "summary": "Title: Index of News Pages URL Source: https://nssdc.gsfc.nasa.gov/planetary/news/index.html Markdown Content: * * * --------------- Planetary News --------------- * * * * * * ### [Evidence of Martian Land of Lakes Discovered - 4 December 2000](https://nssdc.gsfc.nasa.gov/planetary/news/mars_lake_pr_20001204.html) ### [New Images Suggest Present-Day Sources of Liquid Water on Mars - 22 June 2000](https://nssdc.gsfc.nasa.gov/planetary/news/mars_water_pr_20000622.html) ### [Astronomers Catch Images of Giant Metal Dog Bone Asteroid - 4 May 2000](https://nssdc.gsfc.nasa.gov/planetary/news/kleopatra_pr_20000504.html) ### [Astronomers Discover a Moon Orbiting an Asteroid - 6 October 1999](https://nssdc.gsfc.nasa.gov/planetary/news/eugenia_pr_19991006.html) ### [Mars Climate Orbiter May Have Been Destroyed - 23 September 1999](https://nssdc.gsfc.nasa.gov/planetary/news/mco_19990923.html) ### [T",
+      "keywords": [
+        "nasa",
+        "gov",
+        "news",
+        "planetary",
+        "gsfc",
+        "html",
+        "https",
+        "nssdc",
+        "1999",
+        "2000",
+        "david",
+        "june",
+        "mars",
+        "williams"
+      ],
+      "hash": "ad5156a6a83aa2e32d21143bd4a9d2159b05890ccbec790d63e7f7956c068688",
+      "learned_at": "2026-10-15T09:22:31+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/news/2020/2/21/doing-the-math-on-why-we-have-leap-day/",
+      "title": "Doing the Math on Why We Have Leap Day – News | NASA JPL Education",
+      "summary": "Title: Doing the Math on Why We Have Leap Day – News | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/news/2020/2/21/doing-the-math-on-why-we-have-leap-day/ Markdown Content: You may have noticed that there's an extra day on your calendar this year. That's not a typo – it's leap day! Leap day is another name for Feb. 29, a date that typically comes around every four years, during a leap year. Why doesn't Feb. 29 appear on the calendar every year? The length of a year is based on how long it takes a planet to revolve around the Sun. Earth takes about 365.2422 days to make one revolution around the Sun. That's about six hours longer than the 365 days that we typically include in a calendar year. As a result, every four years, we have about 24 extra hours that we add to the calendar at the end of February in the form of leap day. Without leap day, the dates of annual events, su",
+      "keywords": [
+        "leap",
+        "day",
+        "year",
+        "every",
+        "nasa",
+        "years",
+        "days",
+        "gov",
+        "https",
+        "jpl",
+        "around",
+        "calendar",
+        "edu",
+        "extra"
+      ],
+      "hash": "818fea154f70caeded617df456456ebe5aafcb6f191dfe4ebc3c60b1f2969875",
+      "learned_at": "2026-10-15T09:22:39+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif",
+      "title": "blu_bullet_half.gif",
+      "summary": "Title: blu_bullet_half.gif URL Source: https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif Published Time: Wed, 15 Jul 1998 17:38:31 GMT Markdown Content: A 12x12 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "blu_bullet_half",
+        "gif",
+        "12x12",
+        "1998",
+        "avatar",
+        "bullet",
+        "content",
+        "gmt",
+        "gov",
+        "gsfc",
+        "https",
+        "icon",
+        "image",
+        "jul"
+      ],
+      "hash": "ebde253daeac7ad7b6dcf8e4615c41822fd73ccac26aa950a238d60e7a82e2e8",
+      "learned_at": "2026-10-15T09:22:40+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif",
+      "title": "1day-1year.en.gif",
+      "summary": "Title: 1day-1year.en.gif URL Source: https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif Markdown Content: til dispandeloppdeling er den felle formen",
+      "keywords": [
+        "1day-1year",
+        "gif",
+        "content",
+        "den",
+        "dispandeloppdeling",
+        "felle",
+        "formen",
+        "gov",
+        "https",
+        "leap-year",
+        "markdown",
+        "nasa",
+        "review",
+        "source"
+      ],
+      "hash": "8888223ec542912f8ebeebf7a3111f1c32288b367a91162aeff8fa806aa0ab69",
+      "learned_at": "2026-10-15T09:22:44+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/review/leap-year/snowmen-in-summer.en.jpg",
+      "title": "snowmen-in-summer.en.jpg",
+      "summary": "Title: snowmen-in-summer.en.jpg URL Source: https://spaceplace.nasa.gov/review/leap-year/snowmen-in-summer.en.jpg Markdown Content: Happy Fourth of July's snowman",
+      "keywords": [
+        "jpg",
+        "snowmen-in-summer",
+        "content",
+        "fourth",
+        "gov",
+        "happy",
+        "https",
+        "july",
+        "leap-year",
+        "markdown",
+        "nasa",
+        "review",
+        "snowman",
+        "source"
+      ],
+      "hash": "a6782b05f859283daa15925846eedc3a4420879162374c24af7be622fba4f11d",
+      "learned_at": "2026-10-15T09:22:46+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/teach/activity/leap-day-math/",
+      "title": "Leap Day Math – Math Lesson | NASA JPL Education",
+      "summary": "Title: Leap Day Math – Math Lesson | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/teach/activity/leap-day-math/ Markdown Content: Lesson . . Jet Propulsion Laboratory https://www.jpl.nasa.gov/ Last Updated: Sept. 26, 2025 [Video 3](https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4) ## Overview Every four years, during a leap year, the imperfect match between the length of a calendar year and Earth's orbit result in an interesting calendar adjustment known as a leap day. In this problem set, students calculate the difference between the calendar year and Earth's orbital period, determine how much extra time gets added to our calendar and identify which years omit leap years. ## Materials * Student Worksheet | [Download PDF](https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf) * Teacher Answer Key | [Dow",
+      "keywords": [
+        "leap",
+        "https",
+        "year",
+        "years",
+        "day",
+        "nasa",
+        "calendar",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "net",
+        "students",
+        "days",
+        "earth",
+        "gov"
+      ],
+      "hash": "4bacbe61df46808bc0d0edf537fe3055732f19697d0d50dc5e2a4954040f19b7",
+      "learned_at": "2026-10-15T09:22:51+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/images/icon_nda.png",
+      "title": "icon_nda.png",
+      "summary": "Title: icon_nda.png URL Source: https://cneos.jpl.nasa.gov/images/icon_nda.png Published Time: Thu, 08 Jan 2026 22:17:46 GMT Markdown Content: The sign shows a small hand sending a round object flying or dropping it",
+      "keywords": [
+        "icon_nda",
+        "png",
+        "2026",
+        "cneos",
+        "content",
+        "dropping",
+        "flying",
+        "gmt",
+        "gov",
+        "hand",
+        "https",
+        "images",
+        "jan",
+        "jpl"
+      ],
+      "hash": "3cb6feef86e68ec2fbea52d73668cfb909b2768ba60d9ebf69d3db30a3e6dfc1",
+      "learned_at": "2026-10-15T09:22:53+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/humans-in-space/artemis/",
+      "title": "Moon to Mars | NASA's Artemis Program - NASA",
+      "summary": "Title: Moon to Mars | NASA's Artemis Program - NASA URL Source: https://www.nasa.gov/humans-in-space/artemis/ Published Time: 2022-12-05T17:03:34Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media R",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "science",
+        "artemis",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "moon",
+        "plus"
+      ],
+      "hash": "7bcec0bf1d329f42fbfa7ba1accc46af43205235859e86cccb23757b3c15704b",
+      "learned_at": "2026-10-15T09:22:54+00:00"
     }
   ],
   "failures": [
@@ -15961,6 +16189,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-15T09:22:54+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-15T09:22:54+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 12,
+      "frontier": 756
+    },
     {
       "at": "2026-10-15T04:33:28+00:00",
       "kind": "core_promoted",
@@ -16849,29 +17092,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 266
-    },
-    {
-      "at": "2026-10-04T13:25:18+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-04T13:25:18+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 247
     }
   ],
   "metrics": {
-    "successful_fetches": 536,
+    "successful_fetches": 544,
     "failed_fetches": 3,
     "duplicate_pages": 0,
     "candidate_promotions": 21,
-    "candidate_rejections": 77
+    "candidate_rejections": 78
   },
   "core_genome": {
     "query_weight": 3.0,
