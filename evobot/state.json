@@ -1,13 +1,12 @@
 {
   "schema": 2,
-  "generation": 110,
+  "generation": 111,
   "core_version": 25,
-  "runs": 109,
-  "pages_learned": 612,
-  "last_run": "2026-10-16T20:01:35+00:00",
+  "runs": 110,
+  "pages_learned": 617,
+  "last_run": "2026-10-16T22:46:22+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
     "https://www.nature.com/static/images/product-logos/naturecom-secondary-aba9cc0a61.svg",
     "https://www.springernature.com/app-sn/public/images/logo-springernature.svg",
     "https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg",
@@ -284,30 +283,6 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program",
-    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/galileo.html",
-    "https://ssd-api.jpl.nasa.gov/doc/jd\\_cal.html",
-    "https://ssd-api.jpl.nasa.gov/doc/jd\\_cal.html",
     "https://ssd-api.jpl.nasa.gov/jd_cal.api`",
     "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544%60",
     "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=d.5%60",
@@ -959,7 +934,41 @@
     "https://www.rbi.org.in/images/print-icon.png",
     "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=1024"
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=1024",
+    "https://www.nasa.gov/sites/default/files/atoms/files/designated_country_list_8-16-2019_tagged_0.pdf",
+    "http://x.com/nasajpl_edu",
+    "http://instagram.com/nasajpl_edu",
+    "https://www.youtube.com/@nasajpledu3401",
+    "https://climatekids.nasa.gov/",
+    "https://www.nasa.gov/learning-resources/nasa-kids-club/",
+    "https://ssd-api.jpl.nasa.gov/doc/jd/_cal.html",
+    "https://www.jpl.nasa.gov/edu/pdfs/msp_resume_template_nov18.pdf",
+    "https://www.jpl.nasa.gov/edu/news/2021/7/29/how-to-get-an-internship-at-jpl/",
+    "https://jpleducation-external.jpl.nasa.gov/student_application/?program=JPLSIP",
+    "https://spacemath.gsfc.nasa.gov/",
+    "https://universe-of-learning.org/home",
+    "https://plus.nasa.gov/series/stemonstrations/",
+    "http://www.nasa.gov/",
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif",
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/galileo.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -4215,124 +4224,34 @@
       "at": "2026-10-16T20:01:57+00:00",
       "status": "ok",
       "hash": "9a6de2f7f4ecaedbce965836d71b4a67138b2106afd9110792e381fac78684e7"
+    },
+    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program": {
+      "at": "2026-10-16T22:46:25+00:00",
+      "status": "ok",
+      "hash": "f5ec95f1f15946732f9d012d036370ab1c278246480d18623290bf41748088f3"
+    },
+    "https://ssd-api.jpl.nasa.gov/doc/jd\\_cal.html": {
+      "at": "2026-10-16T22:46:27+00:00",
+      "status": "ok",
+      "hash": "aac5e190e20a14e38c5c8340e77bd759798abb77e306a6ed8209aefad73e6694"
+    },
+    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program": {
+      "at": "2026-10-16T22:46:32+00:00",
+      "status": "ok",
+      "hash": "6ac35501809a09927305575cd26895603c7c7276cea9ab90590ee6adf8b2edb3"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html": {
+      "at": "2026-10-16T22:46:34+00:00",
+      "status": "ok",
+      "hash": "2078c58c0f70ccc23650eeed659f3237d6e836f183d64bee8d7a6c97e671c686"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html": {
+      "at": "2026-10-16T22:46:36+00:00",
+      "status": "ok",
+      "hash": "b9c2832dccf71ccb44dbee0ae22bad9adb23f641892a4f26db2589e215fc143f"
     }
   },
   "memory": [
-    {
-      "url": "https://plus.nasa.gov/series/",
-      "title": "Explore Series",
-      "summary": "Title: Explore Series URL Source: https://plus.nasa.gov/series/ Published Time: 2023-03-16T18:59:06Z Markdown Content: [Skip to content](https://plus.nasa.gov/series/#content) [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/)",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "plus",
-        "series",
-        "events",
-        "images",
-        "multimedia",
-        "content",
-        "image",
-        "podcasts"
-      ],
-      "hash": "942973ddad81a9973744d408f8fba4be810989f2dc4cbd1639a903909408feb5",
-      "learned_at": "2026-09-26T11:48:20+00:00"
-    },
-    {
-      "url": "https://plus.nasa.gov/",
-      "title": "Home - NASA+",
-      "summary": "Title: Home - NASA+ URL Source: https://plus.nasa.gov/ Markdown Content: [Skip to content](https://plus.nasa.gov/#content) [![Image 22: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 23: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov/news/medi",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "plus",
-        "events",
-        "images",
-        "multimedia",
-        "science",
-        "content",
-        "image",
-        "podcasts"
-      ],
-      "hash": "1072f7da53653da4a4a7b992d996dfed8ea3e0d9e2872b27bee28ea465a2a8f4",
-      "learned_at": "2026-09-26T11:48:23+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/3d-resources/",
-      "title": "3D Resources - NASA Science",
-      "summary": "Title: 3D Resources - NASA Science URL Source: https://science.nasa.gov/3d-resources/ Published Time: 2025-02-21T16:47:54-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Mul",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "3d-resources"
-      ],
-      "hash": "0c12dcef389187e7ba19768af126c8feb4cffe66ba9bb8520818dae73a724681",
-      "learned_at": "2026-09-26T11:48:28+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/earth/",
-      "title": "Earth - NASA Science",
-      "summary": "Title: Earth - NASA Science URL Source: https://science.nasa.gov/earth/ Published Time: 2023-06-27T19:12:20-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [M",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "earth",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics"
-      ],
-      "hash": "82ae5586fefd8532a83fcb8d0ee41e6e80558967ca56388aba7e4a9ef4e862a5",
-      "learned_at": "2026-09-26T11:48:30+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/gp/authors/research-data",
-      "title": "Research data | Publish your research",
-      "summary": "Title: Research data | Publish your research URL Source: https://www.springernature.com/gp/authors/research-data Markdown Content: [![Image 1: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 2: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Authors](https://www.springernature.com/gp/authors/research-data#/gp/authors) * * [Home](https://www.springernature.com/gp) * [Products](https://www.springerna",
-      "keywords": [
-        "https",
-        "com",
-        "springernature",
-        "www",
-        "authors",
-        "springer",
-        "nature",
-        "group",
-        "publish",
-        "publish-a-book",
-        "research",
-        "research-data",
-        "reviewers",
-        "support"
-      ],
-      "hash": "55507923cdbe3e6fa87c736a507ca92b3279f31fe5a8b0718993649ec04c2546",
-      "learned_at": "2026-09-26T11:49:53+00:00"
-    },
     {
       "url": "https://www.nasa.gov/learning-resources/search/?terms=8058%2C8059%2C8061%2C8062%2C8068",
       "title": "STEM Content - NASA",
@@ -18017,6 +17936,121 @@
       ],
       "hash": "9a6de2f7f4ecaedbce965836d71b4a67138b2106afd9110792e381fac78684e7",
       "learned_at": "2026-10-16T20:01:57+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program",
+      "title": "JPL Visiting Student Research Program – Explore Programs & Apply | NASA JPL Education",
+      "summary": "Title: JPL Visiting Student Research Program – Explore Programs & Apply | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "edu",
+        "internships",
+        "apply",
+        "research",
+        "students",
+        "_nuxt",
+        "education",
+        "image",
+        "logo"
+      ],
+      "hash": "f5ec95f1f15946732f9d012d036370ab1c278246480d18623290bf41748088f3",
+      "learned_at": "2026-10-16T22:46:25+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/doc/jd\\_cal.html",
+      "title": "404 Not Found",
+      "summary": "Title: 404 Not Found URL Source: https://ssd-api.jpl.nasa.gov/doc/jd/_cal.html Warning: Target URL returned error 404: Not Found Markdown Content: * * * nginx",
+      "keywords": [
+        "404",
+        "found",
+        "url",
+        "_cal",
+        "content",
+        "doc",
+        "error",
+        "gov",
+        "html",
+        "https",
+        "jpl",
+        "markdown",
+        "nasa",
+        "nginx"
+      ],
+      "hash": "aac5e190e20a14e38c5c8340e77bd759798abb77e306a6ed8209aefad73e6694",
+      "learned_at": "2026-10-16T22:46:27+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program",
+      "title": "JPL Summer Internship Program – Explore Programs & Apply | NASA JPL Education",
+      "summary": "Title: JPL Summer Internship Program – Explore Programs & Apply | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\")",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "edu",
+        "internships",
+        "students",
+        "apply",
+        "_nuxt",
+        "education",
+        "image",
+        "internship",
+        "logo"
+      ],
+      "hash": "6ac35501809a09927305575cd26895603c7c7276cea9ab90590ee6adf8b2edb3",
+      "learned_at": "2026-10-16T22:46:32+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html",
+      "title": "Saturn Fact Sheet",
+      "summary": "Title: Saturn Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html Markdown Content: * * * * * * [![Image 1: Saturn](https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/saturn.jpg) * * * ## Saturn/Earth Comparison * * * ### Bulk parameters | | Saturn | Earth | Ratio (Saturn/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 568.32 | 5.9722 | 95.16 | | Volume (10 10 km 3) | 82,713 | 108.321 | 763.59 | | Equatorial radius (1 bar level) (km) | 60,268 | 6,378.1 | 9.449 | | Polar radius (1 bar level) (km) | 54,364 | 6,356.8 | 8.552 | | Volumetric mean radius (km) | 58,232 | 6,371.0 | 9.140 | | Ellipticity (Flattening) | 0.09796 | 0.00335 | 29.24 | | Mean density (kg/m 3) | 687 | 5,513 | 0.125 | | Gravity (mean, 1 bar) (m/s 2) | 11.19 | 9.82 | 1.140 | | Acceleration (eq., 1 bar) (m/s 2) | 8.96 | 9.78 | 0.916 | | ",
+      "keywords": [
+        "saturn",
+        "earth",
+        "---",
+        "bar",
+        "orbit",
+        "mean",
+        "orbital",
+        "period",
+        "planetary",
+        "velocity",
+        "140",
+        "days",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "2078c58c0f70ccc23650eeed659f3237d6e836f183d64bee8d7a6c97e671c686",
+      "learned_at": "2026-10-16T22:46:34+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html",
+      "title": "Uranus Fact Sheet",
+      "summary": "Title: Uranus Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html Markdown Content: * * * * * * [![Image 1: Voyager 2 - Uranus](https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/uranus.jpg) * * * ## Uranus/Earth Comparison * * * ### Bulk parameters | | Uranus | Earth | Ratio (Uranus/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 86.811 | 5.9722 | 14.54 | | Volume (10 10 km 3) | 6,833 | 108.321 | 63.08 | | Equatorial radius (1 bar level) (km) | 25,559 | 6,378.1 | 4.007 | | Polar radius (1 bar level) (km) | 24,973 | 6,356.8 | 3.929 | | Volumetric mean radius (km) | 25,362 | 6,371.0 | 3.981 | | Ellipticity (Flattening) | 0.02293 | 0.00335 | 6.84 | | Mean density (kg/m 3) | 1,270 | 5,513 | 0.230 | | Gravity (mean, 1 bar) (m/s 2) | 9.01 | 9.82 | 0.918 | | Acceleration (eq., 1 bar) (m/s 2) | 8.69 | 9.78 | ",
+      "keywords": [
+        "uranus",
+        "---",
+        "bar",
+        "earth",
+        "orbit",
+        "mean",
+        "orbital",
+        "period",
+        "planetary",
+        "velocity",
+        "days",
+        "deg",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "b9c2832dccf71ccb44dbee0ae22bad9adb23f641892a4f26db2589e215fc143f",
+      "learned_at": "2026-10-16T22:46:36+00:00"
     }
   ],
   "failures": [
@@ -18052,6 +18086,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-16T22:46:36+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-16T22:46:36+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 962
+    },
     {
       "at": "2026-10-16T20:01:58+00:00",
       "kind": "core_unchanged",
@@ -18940,40 +18989,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 296
-    },
-    {
-      "at": "2026-10-06T19:04:59+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v11",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-06T19:04:59+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 292
     }
   ],
   "metrics": {
-    "successful_fetches": 612,
+    "successful_fetches": 617,
     "failed_fetches": 6,
     "duplicate_pages": 0,
     "candidate_promotions": 24,
-    "candidate_rejections": 84
+    "candidate_rejections": 85
   },
   "core_genome": {
     "query_weight": 3.0,
