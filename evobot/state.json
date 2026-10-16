@@ -1,16 +1,12 @@
 {
   "schema": 2,
-  "generation": 107,
+  "generation": 108,
   "core_version": 24,
-  "runs": 106,
-  "pages_learned": 591,
-  "last_run": "2026-10-16T07:58:16+00:00",
+  "runs": 107,
+  "pages_learned": 596,
+  "last_run": "2026-10-16T13:10:55+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://pib.gov.in/organisationalsetuph.aspx",
-    "https://pib.gov.in/aboutpibh.aspx",
-    "https://pib.gov.in/mainfunctionsh.aspx",
-    "https://pib.gov.in/headsofpibh.aspx",
     "https://www.nature.com/gp/open-science",
     "https://www.springernature.com/gp/open-science/oa-agreements",
     "https://www.rbi.org.in/images/dark-theme.gif",
@@ -275,6 +271,10 @@
     "https://en.wikipedia.org/wiki/Gregorian_calendar",
     "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
     "https://caltech.edu/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Recor.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26814.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26812.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://aa.usno.navy.mil/data/index.php",
@@ -283,30 +283,6 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://ssd.jpl.nasa.gov/glossary/",
-    "https://ssd.jpl.nasa.gov/links.html",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
-    "https://ssd.jpl.nasa.gov/tools/gravity.html",
-    "https://ssd.jpl.nasa.gov/contact/",
-    "https://ssd.jpl.nasa.gov/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
-    "https://ssd.jpl.nasa.gov/ephem.html",
-    "https://ssd.jpl.nasa.gov/planets/",
-    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
-    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
-    "https://ssd.jpl.nasa.gov/sb/neos.html",
-    "https://mars.nasa.gov/m2020/",
-    "https://astrobiology.nasa.gov/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Recor.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26814.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26812.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/",
-    "https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/",
-    "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/",
     "https://www.jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_o8KrBDH.png",
@@ -936,7 +912,45 @@
     "http://www.jpl.nasa.gov/who-we-are/history/",
     "https://solarsystem.nasa.gov/",
     "https://spaceplace.nasa.gov/",
-    "https://voyager.jpl.nasa.gov/"
+    "https://voyager.jpl.nasa.gov/",
+    "https://ssd.jpl.nasa.gov/glossary/albedo.html",
+    "https://pds.jpl.nasa.gov/",
+    "https://photojournal.jpl.nasa.gov/",
+    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
+    "https://www.iaucom4.org/",
+    "https://www.iers.org/",
+    "https://naif.jpl.nasa.gov/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/bsp",
+    "https://ssd.jpl.nasa.gov/tools/gravity.html",
+    "https://ssd.jpl.nasa.gov/contact/",
+    "https://ssd.jpl.nasa.gov/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
+    "https://ssd.jpl.nasa.gov/ephem.html",
+    "https://ssd.jpl.nasa.gov/planets/",
+    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
+    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+    "https://ssd.jpl.nasa.gov/sb/neos.html",
+    "https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg",
+    "https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://www.facebook.com/dialog/feed?app_id=361412888534196&link=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids",
+    "https://twitter.com/share?url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids&text=Eyes+on+Asteroids&via=NASAJPL",
+    "https://reddit.com/submit?url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids&title=Eyes+on+Asteroids",
+    "https://eyes.nasa.gov/apps/asteroids/",
+    "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/",
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620%2C254_subsampling-2.jpg",
+    "https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/",
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/48/6e/486efad5-ae26-4244-b351-1dfd3b36aabc/perseverancelanding.jpg__930x580_q85_crop_subject_location-465%2C290_subsampling-2.jpg",
+    "https://astrobiology.nasa.gov/missions/2020-mars-rover/",
+    "https://pib.gov.in/mainfunctionsh.aspx",
+    "https://pib.gov.in/headsofpibh.aspx"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -4069,6 +4083,45 @@
       "at": "2026-10-16T07:58:38+00:00",
       "status": "ok",
       "hash": "c9404daa5d6fafa431b6f6fdd4f15b8aeb55d5d6861ca7932159721879a83898"
+    },
+    "https://ssd.jpl.nasa.gov/glossary/": {
+      "at": "2026-10-16T13:10:57+00:00",
+      "status": "ok",
+      "hash": "4d71a7b0f93b2f3de5b8854acb61127db3610e3295329db5cc03183c5d770388"
+    },
+    "https://ssd.jpl.nasa.gov/links.html": {
+      "at": "2026-10-16T13:10:59+00:00",
+      "status": "ok",
+      "hash": "5be746ec899e755b3bea3b05c646ee5a5e5dc609623460c519a61e9d40f30a53"
+    },
+    "https://mars.nasa.gov/m2020/": {
+      "at": "2026-10-16T13:11:00+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/": {
+      "at": "2026-10-16T13:11:03+00:00",
+      "status": "ok",
+      "hash": "429dbde7f11d827f64b8090c5caae561d852821a5cf5e6e5db58539de7da1d28"
+    },
+    "https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/": {
+      "at": "2026-10-16T13:11:08+00:00",
+      "status": "ok",
+      "hash": "37bf7006e0fc8a47d33ccd8dcf9189e325ccfcd7284ba88c079184a3f6e57fbd"
+    },
+    "https://astrobiology.nasa.gov/": {
+      "at": "2026-10-16T13:11:12+00:00",
+      "status": "ok",
+      "hash": "1ecf535dfe7602999588b072e1ea627933adadee23eb79aa24474f11165f57f1"
+    },
+    "https://pib.gov.in/organisationalsetuph.aspx": {
+      "at": "2026-10-16T13:11:17+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://pib.gov.in/aboutpibh.aspx": {
+      "at": "2026-10-16T13:11:18+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
     }
   },
   "memory": [
@@ -17664,6 +17717,121 @@
       ],
       "hash": "c9404daa5d6fafa431b6f6fdd4f15b8aeb55d5d6861ca7932159721879a83898",
       "learned_at": "2026-10-16T07:58:38+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/glossary/",
+      "title": "Index",
+      "summary": "Title: Index URL Source: https://ssd.jpl.nasa.gov/glossary/ Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/glossary/#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/glossary/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.go",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "planets",
+        "glossary",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "4d71a7b0f93b2f3de5b8854acb61127db3610e3295329db5cc03183c5d770388",
+      "learned_at": "2026-10-16T13:10:57+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/links.html",
+      "title": "Related Sites",
+      "summary": "Title: Related Sites URL Source: https://ssd.jpl.nasa.gov/links.html Markdown Content: The following resources related to solar system dynamics are provided _without_ endorsement by JPL. This list is not exhaustive and is provided only for your convenience. ### General * [Planetary Data System](https://pds.jpl.nasa.gov/) — NASA * [Planetary Photojournal](https://photojournal.jpl.nasa.gov/) — NASA * [U.S. Naval Observatory](https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services) — Data Services * [IAU Commission 4](https://www.iaucom4.org/) — Ephemerides * [International Earth Rotation and Reference System](https://www.iers.org/) — (IERS) * [Navigation and Ancillary Information Facility](https://naif.jpl.nasa.gov/) — (NAIF/JPL) SPICE Toolkit, etc. * [The Nine Planets](https://nineplanets.org/) — Bill Arnett * [Eclipse Home Page](https://eclipse.gsfc.nasa.gov/",
+      "keywords": [
+        "https",
+        "nasa",
+        "jpl",
+        "gov",
+        "www",
+        "asteroid",
+        "org",
+        "system",
+        "data",
+        "edu",
+        "iau",
+        "international",
+        "net",
+        "observatory"
+      ],
+      "hash": "5be746ec899e755b3bea3b05c646ee5a5e5dc609623460c519a61e9d40f30a53",
+      "learned_at": "2026-10-16T13:10:59+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/",
+      "title": "Asteroid Bennu Particles",
+      "summary": "Title: Asteroid Bennu Particles URL Source: https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/ Markdown Content: [](https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # Asteroid Bennu Particles Jet Propulsion Laboratory https://www.jpl.nasa.gov/ De",
+      "keywords": [
+        "https",
+        "jpl",
+        "nasa",
+        "gov",
+        "www",
+        "images",
+        "image",
+        "asteroid",
+        "jpg",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "net",
+        "particles",
+        "bennu"
+      ],
+      "hash": "429dbde7f11d827f64b8090c5caae561d852821a5cf5e6e5db58539de7da1d28",
+      "learned_at": "2026-10-16T13:11:03+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/",
+      "title": "Eyes on Asteroids",
+      "summary": "Title: Eyes on Asteroids URL Source: https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/ Markdown Content: [](https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Asteroid Watch](https://www.jpl.nasa.gov/asteroid-watch/) [Next Five Asteroid Approaches](https://www.jpl.nasa.gov/asteroid-watch/next-five-appro",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "gov",
+        "www",
+        "eyes",
+        "asteroids",
+        "asteroid-watch",
+        "20asteroids",
+        "20on",
+        "2fasteroid-watch",
+        "2feyes-on-asteroids",
+        "2fwww",
+        "who-we-are"
+      ],
+      "hash": "37bf7006e0fc8a47d33ccd8dcf9189e325ccfcd7284ba88c079184a3f6e57fbd",
+      "learned_at": "2026-10-16T13:11:08+00:00"
+    },
+    {
+      "url": "https://astrobiology.nasa.gov/",
+      "title": "NASA Astrobiology",
+      "summary": "Title: NASA Astrobiology URL Source: https://astrobiology.nasa.gov/ Markdown Content: ![Image 1: The image shows the AbSciCon 2026 logo on a light purple background. The logo shows a dairy cow with a space helmet on floating over a moon made of cheese. An Earth-like planet is to the left, a Mars-like planet bottom left, and a purple gas giant right.](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3a/1b/3a1b7ecd-ad2c-444f-b388-d69dab7f2e75/untitled-1.jpg__1240x510_q85_crop_subject_location-620%2C289_subsampling-2.jpg)![Image 2: Against a black background, ELI5 is printed in large blue outline text to the top right. Below is Osiris REx mission in purple to left of the mission badge. Hannah Kaplan stands to the left with the NASA meatball logo.](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/15/77/1577aa11-3e19-40f9-83bd-e3eaf7b95a60/e",
+      "keywords": [
+        "nasa",
+        "image",
+        "astrobiology",
+        "gov",
+        "https",
+        "left",
+        "filer_public",
+        "filer_public_thumbnails",
+        "jpg",
+        "uploads",
+        "2026",
+        "abscicon",
+        "background",
+        "bottom"
+      ],
+      "hash": "1ecf535dfe7602999588b072e1ea627933adadee23eb79aa24474f11165f57f1",
+      "learned_at": "2026-10-16T13:11:12+00:00"
     }
   ],
   "failures": [
@@ -17686,9 +17854,34 @@
       "at": "2026-10-16T02:55:46+00:00",
       "url": "http://www.jpl.nasa.gov/copyrights.cfm",
       "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-16T13:11:17+00:00",
+      "url": "https://pib.gov.in/organisationalsetuph.aspx",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-16T13:11:18+00:00",
+      "url": "https://pib.gov.in/aboutpibh.aspx",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-16T13:11:19+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-16T13:11:19+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 944
+    },
     {
       "at": "2026-10-16T07:58:38+00:00",
       "kind": "core_unchanged",
@@ -18577,29 +18770,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 273
-    },
-    {
-      "at": "2026-10-06T00:20:41+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-06T00:20:41+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 272
     }
   ],
   "metrics": {
-    "successful_fetches": 591,
-    "failed_fetches": 4,
+    "successful_fetches": 596,
+    "failed_fetches": 6,
     "duplicate_pages": 0,
     "candidate_promotions": 23,
-    "candidate_rejections": 82
+    "candidate_rejections": 83
   },
   "core_genome": {
     "query_weight": 3.0,
