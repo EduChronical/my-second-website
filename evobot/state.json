@@ -1,17 +1,12 @@
 {
   "schema": 2,
-  "generation": 118,
+  "generation": 119,
   "core_version": 27,
-  "runs": 117,
-  "pages_learned": 668,
-  "last_run": "2026-10-17T20:58:59+00:00",
+  "runs": 118,
+  "pages_learned": 676,
+  "last_run": "2026-10-17T23:01:20+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nature.com/info/cookies",
-    "https://www.nature.com/info/privacy",
-    "https://www.nature.com/info/legal-notice",
-    "https://www.nature.com/gp/open-science",
-    "https://www.springernature.com/gp/open-science/oa-agreements",
     "https://www.nature.com/npg_/press_room/press_releases.html",
     "https://www.nature.com/authors/index.html",
     "https://www.nature.com/immersive/natureawards/index.html",
@@ -187,12 +182,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Caltech_SFP.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://datatracker.ietf.org/doc/html/rfc3875",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
-    "https://news.ycombinator.com/",
-    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26071.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26072.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -209,7 +198,12 @@
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "https://datatracker.ietf.org/doc/html/rfc3875",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
+    "https://news.ycombinator.com/",
+    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://esahubble.org/images/heic1215a/",
     "https://pds-geosciences.wustl.edu/",
     "https://pds-atmospheres.nmsu.edu/",
@@ -275,6 +269,7 @@
     "https://en.wikipedia.org/wiki/Gregorian_calendar",
     "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
     "https://caltech.edu/",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://aa.usno.navy.mil/data/index.php",
@@ -283,30 +278,12 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/44477663304_a673c66226_o.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/quesst-topic-card.jpg?w=379",
-    "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/02/schlieren_knife_edge_thumbnail.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2026/04/x-59-flight-9-screen-grab.webp?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2026/08/afrc2026-0131-33orig.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2026/05/afrc2026-0106-13.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045orig.jpg?w=1024",
-    "https://images-assets.nasa.gov/image/AFRC2018-0287-209/AFRC2018-0287-209~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint",
-    "https://images-assets.nasa.gov/image/AFRC2025-0112-06/AFRC2025-0112-06~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-    "https://www.nasa.gov/careers/pathways",
-    "https://www.nasa.gov/social-media/",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://www.expita.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
-    "https://nssdc.gsfc.nasa.gov/logo/nasa_bigheader_logo.gif",
-    "https://nssdc.gsfc.nasa.gov/search.html",
-    "http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif",
-    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00417",
     "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00418",
     "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00419",
     "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00420",
@@ -993,7 +970,35 @@
     "https://www.nasa.gov/wp-content/uploads/2025/09/screenshot-2025-09-15-at-3-52-54%E2%80%AFpm.png?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2025/12/featured-image.png?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819",
-    "https://www.nasa.gov/wp-content/uploads/2025/08/k-bisci-portraits-0002.jpg?w=1024"
+    "https://www.nasa.gov/wp-content/uploads/2025/08/k-bisci-portraits-0002.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2026/05/afrc2026-0106-13.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/quesst-topic-card.jpg?w=379",
+    "https://www.nasa.gov/wp-content/uploads/2023/02/schlieren_knife_edge_thumbnail.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2026/04/x-59-flight-9-screen-grab.webp?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045orig.jpg?w=1024",
+    "https://www.nasa.gov/careers/pathways",
+    "https://www.nasa.gov/social-media/",
+    "https://support.google.com/ads/answer/2662922?hl=en-GB",
+    "http://www.youronlinechoices.com/uk/opt-out-help",
+    "https://support.nature.com/en/support/home",
+    "http://www.youronlinechoices.com/uk/opt-out-help](http://www.youronlinechoices.com/uk/opt-out-help)",
+    "https://www.facebook.com/business/ads/lead-ads",
+    "https://navigator.nature.com/info/dataProcessing",
+    "https://orcid.org/",
+    "https://info.orcid.org/privacy-policy/",
+    "https://my-profile.springernature.com/linked-accounts",
+    "https://retool.com/",
+    "https://www.nature.com/info/legal-notice",
+    "https://www.nature.com/gp/open-science",
+    "https://www.springernature.com/gp/products",
+    "https://www.springernature.com/gp/open-science",
+    "https://www.springernature.com/gp/advancing-discovery",
+    "https://www.springernature.com/gp/policies",
+    "https://www.springernature.com/gp/librarians",
+    "https://www.springernature.com/gp/rd",
+    "https://www.springernature.com/gp/authors",
+    "https://www.springernature.com/gp/editors"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -4601,193 +4606,69 @@
       "at": "2026-10-17T20:59:30+00:00",
       "status": "ok",
       "hash": "5378a51cec6ccc67d92a60440b71c9246a7d557bccc29cf17f6156376af56269"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-17T23:01:23+00:00",
+      "status": "ok",
+      "hash": "a71e35080bd076d00b862e9e243c091eaee67cca32300df00018e0a1ce54e6ea"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/44477663304_a673c66226_o.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-17T23:01:27+00:00",
+      "status": "ok",
+      "hash": "64a9efcf4f973ddec1c417bbbda0daa2bf3f34420eeea7a2bfa658a3038c1924"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg?w=1024": {
+      "at": "2026-10-17T23:01:32+00:00",
+      "status": "ok",
+      "hash": "e376e76555ee5a1dbd4ca746d25030db6b933a5ff0cda5e18fee24552b52d2bf"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/08/afrc2026-0131-33orig.jpg?w=1024": {
+      "at": "2026-10-17T23:01:37+00:00",
+      "status": "ok",
+      "hash": "6e48830d14820baf39da17fceedb7679e3d15827aa99a55b124a4849cd0916ac"
+    },
+    "https://images-assets.nasa.gov/image/AFRC2018-0287-209/AFRC2018-0287-209~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-17T23:01:37+00:00",
+      "status": "robots_disallow"
+    },
+    "https://images-assets.nasa.gov/image/AFRC2025-0112-06/AFRC2025-0112-06~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint": {
+      "at": "2026-10-17T23:01:37+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/logo/nasa_bigheader_logo.gif": {
+      "at": "2026-10-17T23:01:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/search.html": {
+      "at": "2026-10-17T23:01:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00417": {
+      "at": "2026-10-17T23:01:38+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif": {
+      "at": "2026-10-17T23:01:42+00:00",
+      "status": "ok",
+      "hash": "751bf07b32eaef4e8b9c7ba065982acdcd34dcdfa051c0204013e79190da1b4a"
+    },
+    "https://www.nature.com/info/cookies": {
+      "at": "2026-10-17T23:01:46+00:00",
+      "status": "ok",
+      "hash": "2eab581739a32de21b8d6427415ceb0603642d0ae43388e25efe69e9b2ac3c28"
+    },
+    "https://www.nature.com/info/privacy": {
+      "at": "2026-10-17T23:01:48+00:00",
+      "status": "ok",
+      "hash": "140e1b5986fa45391bab9242e79f30baa08d44fe560660b25420f1d32f87d802"
+    },
+    "https://www.springernature.com/gp/open-science/oa-agreements": {
+      "at": "2026-10-17T23:01:49+00:00",
+      "status": "ok",
+      "hash": "3947256d905ae2d7a03642a8b07fe83a4e5aa0b03f8228a017a6b0c221307ea7"
     }
   },
   "memory": [
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/climateprojection_768_80.jpg?w=768&h=359&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "climateprojection_768_80.jpg",
-      "summary": "Title: climateprojection_768_80.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/climateprojection_768_80.jpg?w=768&h=359&fit=clip&crop=faces,focalpoint Markdown Content: showing a world map with different colors corresponding to lines of latitude",
-      "keywords": [
-        "assets",
-        "climateprojection_768_80",
-        "jpg",
-        "science",
-        "2023",
-        "359",
-        "768",
-        "climate",
-        "clip",
-        "colors",
-        "content",
-        "corresponding",
-        "crop",
-        "different"
-      ],
-      "hash": "9a0e4747185dda4e40055d698a59aeb0f81c90afde8102a82f8daf8d22a0305e",
-      "learned_at": "2026-09-27T03:00:55+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/366/giss_temperature_tn.jpg?w=324&h=216&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "giss_temperature_tn.jpg",
-      "summary": "Title: giss_temperature_tn.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/366/giss_temperature_tn.jpg?w=324&h=216&fit=clip&crop=faces,focalpoint Markdown Content: Black cloud billowing form industrial emissions falling over nature",
-      "keywords": [
-        "assets",
-        "giss_temperature_tn",
-        "jpg",
-        "science",
-        "216",
-        "324",
-        "366",
-        "billowing",
-        "black",
-        "clip",
-        "cloud",
-        "content",
-        "crop",
-        "dynamicimage"
-      ],
-      "hash": "9f007af1a256c4339354f8ccb81817ebd37a7c3769e715cd664d6bac566c55eb",
-      "learned_at": "2026-09-27T03:00:56+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2021/11/GISS_20211117_air_pollution_in_the_united_states.jpg?w=1024",
-      "title": "GISS_20211117_air_pollution_in_the_united_states.jpg",
-      "summary": "Title: GISS_20211117_air_pollution_in_the_united_states.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2021/11/GISS_20211117_air_pollution_in_the_united_states.jpg?w=1024 Published Time: Sun, 27 Sep 2026 03:00:58 GMT Markdown Content: A large factory with power lines and tall towers",
-      "keywords": [
-        "giss_20211117_air_pollution_in_the_united_states",
-        "jpg",
-        "1024",
-        "2021",
-        "2026",
-        "content",
-        "factory",
-        "gmt",
-        "gov",
-        "https",
-        "large",
-        "lines",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "0daf0e6e32f7f786c21426fea58711bcdb84762258c1759dc176c23eb1fb10ae",
-      "learned_at": "2026-09-27T03:01:00+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2020/11/1-arctic-fox-dominique-berteaux-bylot-2.jpg?w=1024",
-      "title": "1-arctic-fox-dominique-berteaux-bylot-2.jpg",
-      "summary": "Title: 1-arctic-fox-dominique-berteaux-bylot-2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2020/11/1-arctic-fox-dominique-berteaux-bylot-2.jpg?w=1024 Published Time: Sun, 27 Sep 2026 03:01:02 GMT Markdown Content: a fox walking with a ball in its mouth",
-      "keywords": [
-        "1-arctic-fox-dominique-berteaux-bylot-2",
-        "jpg",
-        "1024",
-        "2020",
-        "2026",
-        "ball",
-        "content",
-        "fox",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "mouth",
-        "nasa"
-      ],
-      "hash": "192754a124a1ef560f2714f8747a2cfbf5dca012f69a509f63e5732961f92797",
-      "learned_at": "2026-09-27T03:01:04+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2014/09/screenshot-2024-01-18-at-11.26.50-am.png?w=1024",
-      "title": "screenshot-2024-01-18-at-11.26.50-am.png",
-      "summary": "Title: screenshot-2024-01-18-at-11.26.50-am.png URL Source: https://science.nasa.gov/wp-content/uploads/2014/09/screenshot-2024-01-18-at-11.26.50-am.png?w=1024 Published Time: Sun, 27 Sep 2026 03:01:07 GMT Markdown Content: The image represents turbulent ocean waves with a stark caption contrasting urgent environmental issues through the title",
-      "keywords": [
-        "50-am",
-        "png",
-        "screenshot-2024-01-18-at-11",
-        "title",
-        "1024",
-        "2014",
-        "2026",
-        "caption",
-        "content",
-        "contrasting",
-        "environmental",
-        "gmt",
-        "gov",
-        "https"
-      ],
-      "hash": "38684bf9ff6c108698ce96b28802801b003ce9bdf484a16033ab335f41a91f89",
-      "learned_at": "2026-09-27T03:01:10+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/climate-change/causes",
-      "title": "Causes - NASA Science",
-      "summary": "Title: Causes - NASA Science URL Source: https://science.nasa.gov/climate-change/causes Published Time: 2022-06-15T17:50:43-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * M",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics",
-        "apps"
-      ],
-      "hash": "cf615439de0b55e2c7cef6910e5bc0d836c01da3085421145bd6165da7734d78",
-      "learned_at": "2026-09-27T03:01:15+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/1857/atmospheric_co2_at_mauna_loa.png?w=694&h=543&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "atmospheric_co2_at_mauna_loa.png",
-      "summary": "Title: atmospheric_co2_at_mauna_loa.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/1857/atmospheric_co2_at_mauna_loa.png?w=694&h=543&fit=clip&crop=faces,focalpoint Markdown Content: Atmospheric CO 2 at MaunaLoa Observatory, an analysis of data analyzing the emission possibilities for CO 2",
-      "keywords": [
-        "assets",
-        "atmospheric_co2_at_mauna_loa",
-        "png",
-        "science",
-        "1857",
-        "543",
-        "694",
-        "analysis",
-        "analyzing",
-        "atmospheric",
-        "climate",
-        "clip",
-        "content",
-        "crop"
-      ],
-      "hash": "cd340ddfc2d179310060ed63bbe6f33a89798971d64bcab7689ec054c1ef8b8c",
-      "learned_at": "2026-09-27T09:09:54+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg?w=720&h=947&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg",
-      "summary": "Title: D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/D7AB988D-A9E7-4850-A421-17AB25E47555.jpeg?w=720&h=947&fit=clip&crop=faces,focalpoint Markdown Content: A Geologic map used in the Climate Science Special Report",
-      "keywords": [
-        "science",
-        "assets",
-        "climate",
-        "d7ab988d-a9e7-4850-a421-17ab25e47555",
-        "jpeg",
-        "2023",
-        "720",
-        "947",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "esd",
-        "faces"
-      ],
-      "hash": "3f5a5ddb0d8406fe6a2a39f9a45db07b8a45008ba3b340b97e3ffbb16a0a82ef",
-      "learned_at": "2026-09-27T09:09:57+00:00"
-    },
     {
       "url": "https://www.nasa.gov/wp-content/uploads/2024/10/54099828916-45c9bee307-o.jpg?w=1024",
       "title": "54099828916-45c9bee307-o.jpg",
@@ -18403,6 +18284,190 @@
       ],
       "hash": "5378a51cec6ccc67d92a60440b71c9246a7d557bccc29cf17f6156376af56269",
       "learned_at": "2026-10-17T20:59:30+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "NASARoman.jpg",
+      "summary": "Title: NASARoman.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg?w=1280&h=720&fit=clip&crop=faces,focalpoint Markdown Content: telescope on a space walk",
+      "keywords": [
+        "assets",
+        "jpg",
+        "nasaroman",
+        "science",
+        "1280",
+        "2023",
+        "720",
+        "astro",
+        "clip",
+        "content",
+        "crop",
+        "dynamicimage",
+        "exo-explore",
+        "faces"
+      ],
+      "hash": "a71e35080bd076d00b862e9e243c091eaee67cca32300df00018e0a1ce54e6ea",
+      "learned_at": "2026-10-17T23:01:23+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/44477663304_a673c66226_o.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "44477663304_a673c66226_o.jpg",
+      "summary": "Title: 44477663304_a673c66226_o.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/44477663304_a673c66226_o.jpg?w=1280&h=720&fit=clip&crop=faces,focalpoint Markdown Content: Trockene afsked på skjuler merket som APPA på et gammelt computersykkel",
+      "keywords": [
+        "44477663304_a673c66226_o",
+        "assets",
+        "jpg",
+        "science",
+        "1280",
+        "2023",
+        "720",
+        "afsked",
+        "appa",
+        "clip",
+        "computersykkel",
+        "content",
+        "crop",
+        "dynamicimage"
+      ],
+      "hash": "64a9efcf4f973ddec1c417bbbda0daa2bf3f34420eeea7a2bfa658a3038c1924",
+      "learned_at": "2026-10-17T23:01:27+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg?w=1024",
+      "title": "x59-first-supersonic-flight-m-1-077-clean-high.jpg",
+      "summary": "Title: x59-first-supersonic-flight-m-1-077-clean-high.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg?w=1024 Published Time: Sat, 17 Oct 2026 23:01:30 GMT Markdown Content: Graphical representation of a typical airplane course with event",
+      "keywords": [
+        "2026",
+        "jpg",
+        "x59-first-supersonic-flight-m-1-077-clean-high",
+        "1024",
+        "airplane",
+        "content",
+        "course",
+        "event",
+        "gmt",
+        "gov",
+        "graphical",
+        "https",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "e376e76555ee5a1dbd4ca746d25030db6b933a5ff0cda5e18fee24552b52d2bf",
+      "learned_at": "2026-10-17T23:01:32+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/08/afrc2026-0131-33orig.jpg?w=1024",
+      "title": "afrc2026-0131-33orig.jpg",
+      "summary": "Title: afrc2026-0131-33orig.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/08/afrc2026-0131-33orig.jpg?w=1024 Published Time: Sat, 17 Oct 2026 23:01:35 GMT Markdown Content: NASA X-59 airplane flying above orange land",
+      "keywords": [
+        "2026",
+        "afrc2026-0131-33orig",
+        "jpg",
+        "nasa",
+        "1024",
+        "above",
+        "airplane",
+        "content",
+        "flying",
+        "gmt",
+        "gov",
+        "https",
+        "land",
+        "markdown"
+      ],
+      "hash": "6e48830d14820baf39da17fceedb7679e3d15827aa99a55b124a4849cd0916ac",
+      "learned_at": "2026-10-17T23:01:37+00:00"
+    },
+    {
+      "url": "http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif",
+      "title": "as16-114-18388_young_alsep.gif",
+      "summary": "Title: as16-114-18388_young_alsep.gif URL Source: http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif Published Time: Thu, 11 May 2006 19:55:42 GMT Markdown Content: This is a picture of a man who is outside the earth and he is wearing a coat, helmet and Gloves and here are his feet",
+      "keywords": [
+        "as16-114-18388_young_alsep",
+        "gif",
+        "2006",
+        "coat",
+        "content",
+        "earth",
+        "feet",
+        "gloves",
+        "gmt",
+        "gov",
+        "gsfc",
+        "helmet",
+        "here",
+        "his"
+      ],
+      "hash": "751bf07b32eaef4e8b9c7ba065982acdcd34dcdfa051c0204013e79190da1b4a",
+      "learned_at": "2026-10-17T23:01:42+00:00"
+    },
+    {
+      "url": "https://www.nature.com/info/cookies",
+      "title": "Cookie Policy | Nature Info",
+      "summary": "Title: Cookie Policy | Nature Info URL Source: https://www.nature.com/info/cookies Markdown Content: The website uses cookies. You can deactivate or block cookies either by changing the settings within our Privacy Preference Centre or within your Browser. Please note that if you deactivate cookie groups from the Privacy Preference Centre and save your changes, then those groups will only be deactivated the next time you visit the site, or by refreshing the page. Additionally you can then remove the cookies from your machine using the methods described below. ## About cookies Cookies are files, often including unique identifiers, that are sent by web servers to web browsers, and which may then be sent back to the server each time the browser requests a page from the server. Cookies can be used by web servers to identity and track users as they navigate different pages on a website, and to",
+      "keywords": [
+        "cookies",
+        "website",
+        "use",
+        "web",
+        "browser",
+        "information",
+        "may",
+        "cookie",
+        "session",
+        "page",
+        "persistent",
+        "sent",
+        "server",
+        "track"
+      ],
+      "hash": "2eab581739a32de21b8d6427415ceb0603642d0ae43388e25efe69e9b2ac3c28",
+      "learned_at": "2026-10-17T23:01:46+00:00"
+    },
+    {
+      "url": "https://www.nature.com/info/privacy",
+      "title": "Privacy Policy | Nature Info",
+      "summary": "Title: Privacy Policy | Nature Info URL Source: https://www.nature.com/info/privacy Markdown Content: This policy was last updated on 30 July 2026. This is the privacy policy (“policy”) for nature.com which is run and provided by Springer Nature Limited (**we, us**and**our**). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW. We can also be contacted at[feedback@nature.com](mailto:feedback@nature.com). We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have. ## I. Summary of our processing activities We publish scholarly journals, books, news and data. Some of this material is freely available; some of it is only available to subscribers.",
+      "keywords": [
+        "data",
+        "personal",
+        "see",
+        "nature",
+        "information",
+        "website",
+        "may",
+        "policy",
+        "com",
+        "only",
+        "content",
+        "limited",
+        "privacy",
+        "provide"
+      ],
+      "hash": "140e1b5986fa45391bab9242e79f30baa08d44fe560660b25420f1d32f87d802",
+      "learned_at": "2026-10-17T23:01:48+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/open-science/oa-agreements",
+      "title": "Open access agreements | Open science | Springer Nature",
+      "summary": "Title: Open access agreements | Open science | Springer Nature URL Source: https://www.springernature.com/gp/open-science/oa-agreements Markdown Content: [![Image 1: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 2: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Open science](https://www.springernature.com/gp/open-science/oa-agreements#/gp/open-science) * * [Home](https://www.springernature.com/g",
+      "keywords": [
+        "com",
+        "https",
+        "springernature",
+        "www",
+        "open-science",
+        "open",
+        "springer",
+        "nature",
+        "science",
+        "group",
+        "oa-agreements",
+        "reviewers",
+        "support",
+        "app-sn"
+      ],
+      "hash": "3947256d905ae2d7a03642a8b07fe83a4e5aa0b03f8228a017a6b0c221307ea7",
+      "learned_at": "2026-10-17T23:01:49+00:00"
     }
   ],
   "failures": [
@@ -18453,6 +18518,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-17T23:01:50+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-17T23:01:50+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 23,
+      "frontier": 992
+    },
     {
       "at": "2026-10-17T20:59:30+00:00",
       "kind": "core_unchanged",
@@ -19341,29 +19421,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 24,
       "frontier": 391
-    },
-    {
-      "at": "2026-10-08T14:40:41+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-08T14:40:41+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 387
     }
   ],
   "metrics": {
-    "successful_fetches": 668,
+    "successful_fetches": 676,
     "failed_fetches": 9,
     "duplicate_pages": 1,
     "candidate_promotions": 26,
-    "candidate_rejections": 90
+    "candidate_rejections": 91
   },
   "core_genome": {
     "query_weight": 3.0,
