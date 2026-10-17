@@ -1,31 +1,19 @@
 {
   "schema": 2,
-  "generation": 116,
+  "generation": 117,
   "core_version": 27,
-  "runs": 115,
-  "pages_learned": 656,
-  "last_run": "2026-10-17T16:20:24+00:00",
+  "runs": 116,
+  "pages_learned": 661,
+  "last_run": "2026-10-17T18:38:19+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-meatball-1.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Earth_illustration_cropped.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26709-Mexico-City-jpl.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26710_EL_NINO_ENSO_202603.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmars_sample_return_.2e16d0ba.fill-400x400-c50_7MfRxvQ.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebsentinel6-16_2AiVaM.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebNISAR_pgkG4TL.9690ea6d.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebswot_FZBtTh2.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA21499-20170523-1.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiri_kmfqnjB.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft3.07bf496e.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebneascout_C5MTf5V.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebdsac_lJckXo1.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA22743-16_vD6Nx99.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebphoenix_bmAo4Ws.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebEuropa_Lander_Conce.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebgalileo_Rj2N4i4.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebcassini_shJEz9d.2e16d0ba.fill-400x400-c50.jpg",
-    "https://info.arxiv.org/about/donate.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/NHQ20260830_admin_0002orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://www.nature.com/info/cookies",
     "https://www.nature.com/info/privacy",
     "https://www.nature.com/info/legal-notice",
@@ -36,7 +24,6 @@
     "https://www.nature.com/immersive/natureawards/index.html",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsearch",
-    "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
     "https://press.nature.com/",
     "https://therbimuseum.rbi.org.in/",
     "https://www.nature.com/siteindex",
@@ -77,9 +64,8 @@
     "https://rbi.org.in/home.aspx",
     "https://cab.rbi.org.in/",
     "https://cos.rbi.org.in/",
-    "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
     "https://www.nature.com/articles/d41586-023-03271-4",
-    "http://www.imf.org/en/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Earth_illustration_cropped.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/269.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26781.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
@@ -131,10 +117,9 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26701_ERNEST_twilight_16x9_.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26771_Mars-crescent-pYden.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_kSlf0I3.jpg",
-    "http://www.facebook.com/NASAJPL",
-    "http://instagram.com/nasajpl",
-    "http://facebook.com/nasajpledu",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Record-Setting_Ro.2e16d0ba.fill-400x400-c50.jpg",
+    "http://www.imf.org/en/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
@@ -216,9 +201,14 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25965.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25970.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://thejplstore.com/",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://sat.gov.in/scripts/showdailyboard.asp",
-    "http://aa.usno.navy.mil/data/index.php",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Rocketeer_p.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Explorer_one_p_R9JD6Eu.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Changing_Face.width-1024.jpg",
+    "http://www.facebook.com/NASAJPL",
+    "http://instagram.com/nasajpl",
+    "http://facebook.com/nasajpledu",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://esahubble.org/images/heic1215a/",
     "https://pds-geosciences.wustl.edu/",
     "https://pds-atmospheres.nmsu.edu/",
@@ -285,28 +275,14 @@
     "https://en.wikipedia.org/wiki/Gregorian_calendar",
     "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
     "https://caltech.edu/",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "http://sat.gov.in/scripts/showdailyboard.asp",
+    "http://aa.usno.navy.mil/data/index.php",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://www.nineplanets.org/luna.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Rocketeer_p.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Explorer_one_p_R9JD6Eu.width-1024.jpg",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-2-explorer-one",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-3-destination-moon",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Changing_Face.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Record-Setting_Ro.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/NHQ20260830_admin_0002orig.2e16d0ba.fill-400x400-c50.jpg",
-    "https://jpl.nasa.gov/topics/jpl-life/",
-    "https://jpl.nasa.gov/topics/climate-change/",
-    "https://jpl.nasa.gov/topics/exoplanets/",
-    "https://jpl.nasa.gov/topics/stars-and-galaxies/",
-    "https://jpl.nasa.gov/asteroid-watch/",
-    "https://jpl.nasa.gov/who-we-are/universe/",
-    "https://jpl.nasa.gov/social/",
-    "https://jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/",
     "https://jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
     "https://jpl.nasa.gov/who-we-are/history/",
     "https://jpl.nasa.gov/who-we-are/annual-reports/",
@@ -1001,7 +977,24 @@
     "https://ssd.jpl.nasa.gov/tools/periodic_orbits.html",
     "https://ssd.jpl.nasa.gov/tools/orbit_diagram.html",
     "https://ssd.jpl.nasa.gov/sats/phys_par/",
-    "https://ssd.jpl.nasa.gov/sats/discovery.html"
+    "https://ssd.jpl.nasa.gov/sats/discovery.html",
+    "https://jpl.nasa.gov/topics/exoplanets/",
+    "https://jpl.nasa.gov/topics/stars-and-galaxies/",
+    "https://jpl.nasa.gov/asteroid-watch/",
+    "https://jpl.nasa.gov/who-we-are/universe/",
+    "https://jpl.nasa.gov/social/",
+    "https://jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/",
+    "https://info.arxiv.org/about",
+    "https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg",
+    "https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg",
+    "https://info.arxiv.org/index.html",
+    "https://info.arxiv.org/about/index.html",
+    "https://info.arxiv.org/about/people/index.html",
+    "https://info.arxiv.org/about/governance/index.html",
+    "https://info.arxiv.org/about/governance/board_of_directors.html",
+    "https://static.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg",
+    "https://static.arxiv.org/static/base/1.0.1/images/arxiv-logo-primary-light.svg",
+    "https://blog.arxiv.org/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -4495,124 +4488,88 @@
       "at": "2026-10-17T16:20:55+00:00",
       "status": "ok",
       "hash": "25fd97069d0cf4741d1f659c6454972bc6a260a30d018e153981a54292a2601f"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-2-explorer-one": {
+      "at": "2026-10-17T18:38:20+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-3-destination-moon": {
+      "at": "2026-10-17T18:38:20+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://jpl.nasa.gov/topics/jpl-life/": {
+      "at": "2026-10-17T18:38:23+00:00",
+      "status": "ok",
+      "hash": "b9a0824b50d592e1c47b07743a988eae211f6fb64d88c4d52391658e5ce75810"
+    },
+    "https://jpl.nasa.gov/topics/climate-change/": {
+      "at": "2026-10-17T18:38:26+00:00",
+      "status": "ok",
+      "hash": "74dd98663b7e1c0645faf7aacf3e64d5e7157f4f3b2eba48d153f959583710ea"
+    },
+    "https://arxiv.org/static/browse/0.3.4/css/browse_search.css": {
+      "at": "2026-10-17T18:38:26+00:00",
+      "status": "ok",
+      "hash": "276e27606d21b63f5cfd8b2fddde0f6898e83062c38784ddfe0622a20e8a504c"
+    },
+    "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611": {
+      "at": "2026-10-17T18:38:27+00:00",
+      "status": "ok",
+      "hash": "0e472eb9fdf6c4869ab875ac5a67358c6aa58890cdddfe37ff6c45c7312c4f31"
+    },
+    "https://info.arxiv.org/about/donate.html": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "ok",
+      "hash": "c6b7645bfc1f6abfbc2fa4f8c62315c673e5108ceb927fe77e536d4e51e8e355"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-meatball-1.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26709-Mexico-City-jpl.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26710_EL_NINO_ENSO_202603.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmars_sample_return_.2e16d0ba.fill-400x400-c50_7MfRxvQ.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebsentinel6-16_2AiVaM.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebNISAR_pgkG4TL.9690ea6d.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebswot_FZBtTh2.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA21499-20170523-1.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiri_kmfqnjB.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft3.07bf496e.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebneascout_C5MTf5V.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-17T18:38:28+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/205/carbon_cycle_tn.jpg?w=324&h=216&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "carbon_cycle_tn.jpg",
-      "summary": "Title: carbon_cycle_tn.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/205/carbon_cycle_tn.jpg?w=324&h=216&fit=clip&crop=faces,focalpoint Markdown Content: Sunbeams breaking through the trees in the middle of nowhere",
-      "keywords": [
-        "assets",
-        "carbon_cycle_tn",
-        "jpg",
-        "science",
-        "205",
-        "216",
-        "324",
-        "breaking",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "esd",
-        "faces"
-      ],
-      "hash": "2bf57909882023903a60ab9dccc16961d67b2eccea2886509baf4ab3f0d6b75a",
-      "learned_at": "2026-09-26T18:36:41+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=1024",
-      "title": "iss074e0458251.jpg",
-      "summary": "Title: iss074e0458251.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=1024 Published Time: Sat, 26 Sep 2026 18:36:44 GMT Markdown Content: a selfie photo with NASA officials taken from inside a ISS space capsule",
-      "keywords": [
-        "2026",
-        "iss074e0458251",
-        "jpg",
-        "nasa",
-        "1024",
-        "capsule",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "inside",
-        "iss",
-        "markdown",
-        "officials"
-      ],
-      "hash": "3ec4286940673d8fe0458d4d2c2837a09b3717117321f77ab5cc303937cbab27",
-      "learned_at": "2026-09-26T18:36:46+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg?w=1024",
-      "title": "crew14.jpg",
-      "summary": "Title: crew14.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg?w=1024 Published Time: Fri, 25 Sep 2026 22:53:31 GMT Markdown Content: Four astronauts all in suits are looking at the camera, one is smiling",
-      "keywords": [
-        "2026",
-        "crew14",
-        "jpg",
-        "1024",
-        "astronauts",
-        "camera",
-        "content",
-        "four",
-        "fri",
-        "gmt",
-        "gov",
-        "https",
-        "looking",
-        "markdown"
-      ],
-      "hash": "c49db4a9f3ad8263ee7b1a188fde6010a9eed3f45b47dde72d8b7cb4ed19dad8",
-      "learned_at": "2026-09-26T18:36:50+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/79/ocean_climate_tn.jpg?w=216&h=144&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "ocean_climate_tn.jpg",
-      "summary": "Title: ocean_climate_tn.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/featureteasers/0/79/ocean_climate_tn.jpg?w=216&h=144&fit=clip&crop=faces,focalpoint Markdown Content: The image depicts a dramatic shoreline scene",
-      "keywords": [
-        "assets",
-        "jpg",
-        "ocean_climate_tn",
-        "science",
-        "144",
-        "216",
-        "clip",
-        "content",
-        "crop",
-        "depicts",
-        "dramatic",
-        "dynamicimage",
-        "esd",
-        "faces"
-      ],
-      "hash": "831edc5649d2849acb8fe4f084841dde19a232f05b9eed81e4827787ddd05dc5",
-      "learned_at": "2026-09-26T21:34:02+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/forest-505860_1280.jpg?w=1280&h=759&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "forest-505860_1280.jpg",
-      "summary": "Title: forest-505860_1280.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/forest-505860_1280.jpg?w=1280&h=759&fit=clip&crop=faces,focalpoint Markdown Content: Trees seen from below with sun through lower leaves",
-      "keywords": [
-        "assets",
-        "forest-505860_1280",
-        "jpg",
-        "science",
-        "1280",
-        "2023",
-        "759",
-        "below",
-        "climate",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "esd"
-      ],
-      "hash": "c558e56251c2b6a4596e2da406b47da2844b399540e487ad45dbc1e33cab9c76",
-      "learned_at": "2026-09-26T21:34:04+00:00"
-    },
     {
       "url": "https://www.nasa.gov/wp-content/uploads/2014/03/ipcc_2099.jpg?w=1024",
       "title": "ipcc_2099.jpg",
@@ -18297,6 +18254,121 @@
       ],
       "hash": "25fd97069d0cf4741d1f659c6454972bc6a260a30d018e153981a54292a2601f",
       "learned_at": "2026-10-17T16:20:55+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/topics/jpl-life/",
+      "title": "JPL Life | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: JPL Life | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/jpl-life/ Markdown Content: Nestled at the base of the San Gabriel Mountains in Southern California, NASA's Jet Propulsion Laboratory – JPL for short –is a federally funded research and development center managed by Caltech. Amid a sprawling and picturesque campus-like setting, where deer and other critters are a common sight, there are limitless possibilities for high-tech innovation. JPL's main activities involve robotic space and Earth science missions – for example, we've visited every planet in our solar system and landed five rovers on Mars. Life at JPL includes a dedicated and diverse population of scientists, engineers, technologists, developers, communicators, designers, safety experts, business administrators, and more. They think big and dream big. Our robust [internship program](htt",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "employee",
+        "ideas",
+        "space",
+        "big",
+        "california",
+        "caltech",
+        "development",
+        "enjoy",
+        "every",
+        "experience",
+        "high-tech",
+        "https"
+      ],
+      "hash": "b9a0824b50d592e1c47b07743a988eae211f6fb64d88c4d52391658e5ce75810",
+      "learned_at": "2026-10-17T18:38:23+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/topics/climate-change/",
+      "title": "Understanding Climate Change | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Understanding Climate Change | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/climate-change/ Markdown Content: JPL scientists study Earth’s changing climate, focusing on four broad themes: icy regions; the movement of water between sea, air, and land; greenhouse gas emissions and absorption; and our world’s ecosystems. **Exploring the World’s Ice** Earth’s ice lies in the most remote parts of the globe. Using technologies that also help us explore other planets, JPL studies Earth’s land ice. If all the land ice on Earth melted, it would raise sea level around 260 feet (80 meters), so understanding how the Greenland and Antarctic ice sheets are changing is important to predicting future sea level. Changing sea level affects our port cities and coastlines, and the quality of groundwater near the coasts, where most of the world’s human population lives.",
+      "keywords": [
+        "water",
+        "jpl",
+        "earth",
+        "ice",
+        "land",
+        "sea",
+        "carbon",
+        "greenhouse",
+        "change",
+        "changing",
+        "cycle",
+        "human",
+        "level",
+        "nasa"
+      ],
+      "hash": "74dd98663b7e1c0645faf7aacf3e64d5e7157f4f3b2eba48d153f959583710ea",
+      "learned_at": "2026-10-17T18:38:26+00:00"
+    },
+    {
+      "url": "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
+      "title": "URL Source: https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
+      "summary": "Title: URL Source: https://arxiv.org/static/browse/0.3.4/css/browse_search.css Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: .search-block.level-right { display: flex; justify-content: flex-end; clear: right; } @media screen and (max-width: 768px) { .search-block.level-right { justify-content: center; clear: left; } .search-block form.level-item { margin-left:12px !important; } } .search-block form.level-item, .field.has-addons { display: flex; } .search-block p.help { margin-bottom: 0; } .search-block .input, .search-block select, .search-block .button { font-size: 0.75rem; line-height: 1.5; height: 2.25em; border-radius: 2px; border: 1px solid transparent; } .search-block .button { margin-left:0; } .search-block .input { border-color: transparent; box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1); border-bottom-right-radius: 0; border-top-right-radius: 0; border: 0; w",
+      "keywords": [
+        "search-block",
+        "select",
+        "none",
+        "button",
+        "display",
+        "2px",
+        "5em",
+        "form",
+        "100",
+        "1px",
+        "background-color",
+        "border",
+        "border-color",
+        "border-radius"
+      ],
+      "hash": "276e27606d21b63f5cfd8b2fddde0f6898e83062c38784ddfe0622a20e8a504c",
+      "learned_at": "2026-10-17T18:38:26+00:00"
+    },
+    {
+      "url": "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
+      "title": "URL Source: https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
+      "summary": "Title: URL Source: https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611 Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: /**************************************** * arXiv.org Cascading Style Sheet:: Print * $Date: 2019/11/20 $ *****************************************/ /**************************************** * Print rules *****************************************/ #cu-identity, .extra-services, .search-block, footer .columns { display:none; } .header-breadcrumbs { font-size:18px; } .subheader h1 { font-size:14px; font-weight: bold; } /* arXivLabs: interactive tools, nothing for paper (and its logo has no size here) */ #labstabs { display: none; } /* abs.css (every medium) indents the abstract block to the screen's left column; on paper it starts at the margin like the rest, the abstract inset as on screen. The ancestor outranks abs.css, which loads later.",
+      "keywords": [
+        "abs",
+        "content-inner",
+        "css",
+        "abstract",
+        "div",
+        "arxiv",
+        "display",
+        "font-size",
+        "none",
+        "org",
+        "paper",
+        "print",
+        "screen",
+        "title"
+      ],
+      "hash": "0e472eb9fdf6c4869ab875ac5a67358c6aa58890cdddfe37ff6c45c7312c4f31",
+      "learned_at": "2026-10-17T18:38:27+00:00"
+    },
+    {
+      "url": "https://info.arxiv.org/about/donate.html",
+      "title": "Give to arXiv - arXiv info",
+      "summary": "Title: Give to arXiv - arXiv info URL Source: https://info.arxiv.org/about/donate.html Published Time: Fri, 16 Oct 2026 14:58:02 GMT Markdown Content: - [x] - [x] [Skip to content](https://info.arxiv.org/about/donate.html#give-to-arxiv) ![Image 1](https://static.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg)arXiv is now an independent nonprofit![Learn more](https://info.arxiv.org/about)× [![Image 2: archive](https://static.arxiv.org/static/base/1.0.1/images/arxiv-logo-primary-light.svg)](https://arxiv.org/)arXiv info[![Image 3: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info Give to arXiv Initializing search [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") [![Image 4: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info [GitHub](htt",
+      "keywords": [
+        "arxiv",
+        "https",
+        "info",
+        "org",
+        "html",
+        "help",
+        "index",
+        "governance",
+        "people",
+        "submit",
+        "advisory",
+        "github",
+        "image",
+        "static"
+      ],
+      "hash": "c6b7645bfc1f6abfbc2fa4f8c62315c673e5108ceb927fe77e536d4e51e8e355",
+      "learned_at": "2026-10-17T18:38:28+00:00"
     }
   ],
   "failures": [
@@ -18334,9 +18406,34 @@
       "at": "2026-10-17T13:03:42+00:00",
       "url": "http://www.webb.nasa.gov/",
       "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.webb.nasa.gov'. (_ssl.c:1010)>"
+    },
+    {
+      "at": "2026-10-17T18:38:20+00:00",
+      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-2-explorer-one",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-17T18:38:20+00:00",
+      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-3-destination-moon",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-17T18:38:28+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-17T18:38:28+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 988
+    },
     {
       "at": "2026-10-17T16:20:55+00:00",
       "kind": "core_unchanged",
@@ -19225,40 +19322,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 383
-    },
-    {
-      "at": "2026-10-08T00:59:56+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v13",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-08T00:59:56+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 2 new pages",
-      "attempted": 24,
-      "frontier": 384
     }
   ],
   "metrics": {
-    "successful_fetches": 656,
-    "failed_fetches": 7,
+    "successful_fetches": 661,
+    "failed_fetches": 9,
     "duplicate_pages": 1,
     "candidate_promotions": 26,
-    "candidate_rejections": 88
+    "candidate_rejections": 89
   },
   "core_genome": {
     "query_weight": 3.0,
