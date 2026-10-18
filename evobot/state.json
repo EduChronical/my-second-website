@@ -1,16 +1,12 @@
 {
   "schema": 2,
-  "generation": 122,
+  "generation": 123,
   "core_version": 28,
-  "runs": 121,
-  "pages_learned": 697,
-  "last_run": "2026-10-18T09:51:52+00:00",
+  "runs": 122,
+  "pages_learned": 705,
+  "last_run": "2026-10-18T13:42:53+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nature.com/authors/editorial_policies/",
-    "https://bsky.app/profile/nature.com",
-    "https://journal-alerts.springernature.com/subscribe?journal_id=41586",
-    "https://my-profile.springernature.com/privacy-policy",
     "https://www.nature.com/authors/editorial_policies",
     "https://www.nature.com/nature-portfolio/for-authors/openaccess",
     "https://www.nature.com/reprints",
@@ -39,6 +35,13 @@
     "https://www.nature.com/gp/librarians",
     "https://www.springernature.com/investors-live-global",
     "https://www.nature.com/articles/d41586-023-03271-4",
+    "http://ssd.jpl.nasa.gov/about/",
+    "http://ssd.jpl.nasa.gov/faq.html",
+    "http://ssd.jpl.nasa.gov/sitemap.html",
+    "http://ssd.jpl.nasa.gov/n",
+    "http://ssd.jpl.nasa.gov/n",
+    "http://ssd.jpl.nasa.gov/contact/",
+    "http://ssd.jpl.nasa.gov/n",
     "https://play.google.com/store/apps/details?id=gov.nasa.jpl.satelliteinsight&hl=en",
     "http://cdaweb.gsfc.nasa.gov/lunar/",
     "https://x.com/NASAJPL",
@@ -283,30 +286,6 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/",
-    "https://www.jpl.nasa.gov/events/",
-    "https://www.jpl.nasa.gov/explore-jpl/",
-    "https://www.jpl.nasa.gov/missions/?mission_status=past",
-    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
-    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "http://ssd.jpl.nasa.gov/images/ssd_banner.png",
-    "http://ssd.jpl.nasa.gov/images/ssd_banner_small.png",
-    "http://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
-    "http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
-    "http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
-    "http://ssd.jpl.nasa.gov/about/",
-    "http://ssd.jpl.nasa.gov/faq.html",
-    "http://ssd.jpl.nasa.gov/sitemap.html",
-    "http://ssd.jpl.nasa.gov/n",
-    "http://ssd.jpl.nasa.gov/n",
-    "http://ssd.jpl.nasa.gov/contact/",
-    "http://ssd.jpl.nasa.gov/n",
     "http://ssd.jpl.nasa.gov/orbits.html",
     "http://ssd.jpl.nasa.gov/horizons/",
     "http://ssd.jpl.nasa.gov/planets/orbits.html",
@@ -1069,7 +1048,35 @@
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
     "https://www.nature.com/siteindex",
     "https://www.nature.com/subjects",
-    "https://www.nature.com/naturecareers"
+    "https://www.nature.com/naturecareers",
+    "https://www.jpl.nasa.gov/events/",
+    "https://www.jpl.nasa.gov/explore-jpl/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/seeing-light-echoes/",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+    "http://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
+    "http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
+    "http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
+    "https://www.nature.com/nature-research/for-authors/nature-research-journals",
+    "https://www.nature.com/nature-portfolio/editorial-policies/communicate-with-respect",
+    "https://www.nature.com/nature-research/editorial-policies/authorship",
+    "https://www.nature.com/nature-research/editorial-policies/competing-interests",
+    "http://www.nature.com/nature-research/editorial-policies/ethics-and-biosecurity",
+    "https://www.nature.com/nature-portfolio/editorial-policies/ai",
+    "https://www.nature.com/nature-research/editorial-policies/reporting-standards",
+    "https://www.nature.com/nature-research/editorial-policies/image-integrity",
+    "https://publicationethics.org/",
+    "https://go.nature.com/get-Nature-Briefing",
+    "https://my-profile.springernature.com/linked-accounts.](https://my-profile.springernature.com/linked-accounts)",
+    "https://bird.com/en-fr/legal/privacy",
+    "https://www.twilio.com/en-us/legal/privacy",
+    "https://permutive.com/privacy/",
+    "https://link.springer.com/",
+    "https://cloud.google.com/",
+    "https://www.braze.com/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -4854,193 +4861,59 @@
       "at": "2026-10-18T09:52:12+00:00",
       "status": "ok",
       "hash": "45dfa83d93229cef6a66c0c744d947058b3c48d33ae796abd4448b3e914004bd"
+    },
+    "https://www.jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/": {
+      "at": "2026-10-18T13:42:54+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://www.jpl.nasa.gov/missions/?mission_status=past": {
+      "at": "2026-10-18T13:42:54+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/": {
+      "at": "2026-10-18T13:42:57+00:00",
+      "status": "ok",
+      "hash": "ea5280d768b07a79d3f6489cc0118be9a0d1e04cd6b4dd4e70879f30608f6c03"
+    },
+    "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/": {
+      "at": "2026-10-18T13:43:02+00:00",
+      "status": "ok",
+      "hash": "6322bcf4166ce8fb2be16ce20fa44a0724781b0511be1c0d2188df80c2b763e5"
+    },
+    "http://ssd.jpl.nasa.gov/images/ssd_banner.png": {
+      "at": "2026-10-18T13:45:22+00:00",
+      "status": "ok",
+      "hash": "1c118e42a688f22dbe1085fde49cb83480e8560218949ccd3d88e00050828ec0"
+    },
+    "http://ssd.jpl.nasa.gov/images/ssd_banner_small.png": {
+      "at": "2026-10-18T13:45:40+00:00",
+      "status": "ok",
+      "hash": "e55088df169eaa2e8df932068a5ff71b56486938e97d168919d8da89471be14e"
+    },
+    "https://www.nature.com/authors/editorial_policies/": {
+      "at": "2026-10-18T13:45:45+00:00",
+      "status": "ok",
+      "hash": "a837b5a8ebacce54e58405ff5f34bda4a9af811eae74401cabd5030d6e042b1e"
+    },
+    "https://bsky.app/profile/nature.com": {
+      "at": "2026-10-18T13:46:01+00:00",
+      "status": "ok",
+      "hash": "a633d76c353bf5f12101119f248f859948ebaac9328bdc615ce126bc7d6e73bc"
+    },
+    "https://journal-alerts.springernature.com/subscribe?journal_id=41586": {
+      "at": "2026-10-18T13:46:04+00:00",
+      "status": "ok",
+      "hash": "c3da9c32c1164da91999de086d60b5b5f388c28e55ec3461035bd18def978b73"
+    },
+    "https://my-profile.springernature.com/privacy-policy": {
+      "at": "2026-10-18T13:46:07+00:00",
+      "status": "ok",
+      "hash": "3181c2ddb8ce66b3fb7925da8cb77930be32b16be20dc70cdd99ecd3a496e958"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/humans-in-space/",
-      "title": "Humans in Space Archives - NASA Science",
-      "summary": "Title: Humans in Space Archives - NASA Science URL Source: https://science.nasa.gov/humans-in-space/ Markdown Content: Advanced Air Mobility Pathfinders Aeronautics Air Traffic Solutions Drones & You Flight Innovation Green Aviation Tech NASA Aircraft Science in the Air Supersonic Flight AeroSpace Frontiers Air Mobility Pathfinders project Air Traffic Control Labs Astronomy Audio Podcasts Budget & Annual Reports Careers Life at NASA What We Do Doing Business with NASA E-Books Earth Climate Change Ozone Layer Earth Day Earth Observatory Earth's Atmosphere Earth's Magnetic Field Extreme Weather Events Natural Disasters Hurricanes & Typhoons Volcanoes Wildfires Oceans Remote Sensing Technology Water on Earth Earth and Climate (do not use) Eclipses Solar Eclipses 2023 Solar Eclipse Events General Get Involved Citizen Science NASA Art Program Opportunities For International Participants to Ge",
-      "keywords": [
-        "earth",
-        "nasa",
-        "get",
-        "involved",
-        "air",
-        "charles",
-        "opportunities",
-        "james",
-        "john",
-        "science",
-        "andrew",
-        "astronauts",
-        "donald",
-        "douglas"
-      ],
-      "hash": "a088640a791f39c19030de249818a042300ec60f51a9d41bfe24b978321e02d6",
-      "learned_at": "2026-09-27T21:38:51+00:00"
-    },
-    {
-      "url": "https://www.pib.gov.in/images/decrease-font-size.png",
-      "title": "decrease-font-size.png",
-      "summary": "Title: decrease-font-size.png URL Source: https://www.pib.gov.in/images/decrease-font-size.png Published Time: Mon, 04 Dec 2017 08:25:00 GMT Markdown Content: A 22x22 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "decrease-font-size",
-        "png",
-        "2017",
-        "22x22",
-        "avatar",
-        "content",
-        "dec",
-        "gmt",
-        "gov",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely"
-      ],
-      "hash": "97e10dd1f4c15eba1f0e1ea1e8f954897c801aa8118e16faa086e4d802319209",
-      "learned_at": "2026-09-27T21:38:52+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024",
-      "title": "1-arctic-ams-2010246-lrg.jpg",
-      "summary": "Title: 1-arctic-ams-2010246-lrg.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024 Published Time: Sun, 27 Sep 2026 23:59:07 GMT Markdown Content: View of the Earth with panacial land from space and polar north appearing much bigger",
-      "keywords": [
-        "1-arctic-ams-2010246-lrg",
-        "jpg",
-        "1024",
-        "2024",
-        "2026",
-        "appearing",
-        "bigger",
-        "content",
-        "earth",
-        "gmt",
-        "gov",
-        "https",
-        "land",
-        "markdown"
-      ],
-      "hash": "1812119d65177af871c0f5847f1882815c2cdc82a04515d77819a200e5847df7",
-      "learned_at": "2026-09-27T23:59:08+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024",
-      "title": "iss-virtual-tour-screenshot.jpg",
-      "summary": "Title: iss-virtual-tour-screenshot.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024 Published Time: Sun, 27 Sep 2026 23:59:10 GMT Markdown Content: framed overview of a space station with various departments visible",
-      "keywords": [
-        "iss-virtual-tour-screenshot",
-        "jpg",
-        "1024",
-        "2023",
-        "2026",
-        "content",
-        "departments",
-        "framed",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "overview"
-      ],
-      "hash": "d8f2a6b172f9033647ea9d2e66f412c36a0225ca6412f10771530844c5326354",
-      "learned_at": "2026-09-27T23:59:12+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/earth/facts",
-      "title": "Facts About Earth",
-      "summary": "Title: Facts About Earth URL Source: https://science.nasa.gov/earth/facts Published Time: 2023-05-30T18:58:22-04:00 Markdown Content: ## Quick Facts While Earth is only the fifth largest planet in the solar system, it is the only planet in our solar system with liquid water on the surface. Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal. Earth is the only planet in the solar system whose English name does not come from Greek or Roman mythology. The name was taken from Old English and Germanic. It simply means \"the ground.\" There are, of course, many names for our planet in the thousands of languages spoken by the people of the third planet from the Sun. ## Namesake The name Earth is about 1,000 years old. All of the planets, except for Earth, were named after Greek and Roman gods and goddesses. H",
-      "keywords": [
-        "earth",
-        "planet",
-        "sun",
-        "one",
-        "system",
-        "day",
-        "life",
-        "name",
-        "planets",
-        "solar",
-        "distance",
-        "facts",
-        "liquid",
-        "only"
-      ],
-      "hash": "b05b210278193f5b4796ac7e3047a5fef041cee26b8d89bb000361eafc8ab3e0",
-      "learned_at": "2026-09-27T23:59:20+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/earth/in-action",
-      "title": "Earth Science at Work - NASA Science",
-      "summary": "Title: Earth Science at Work - NASA Science URL Source: https://science.nasa.gov/earth/in-action Published Time: 2025-01-13T16:09:04-05:00 Markdown Content: [![Image 9: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 10: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-cont",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "earth",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics"
-      ],
-      "hash": "1694600498a8ee40b50e8cf48be4f65467e672a9b64436cdc631f4d12a48188c",
-      "learned_at": "2026-09-27T23:59:24+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-      "title": "hurricanepolo_amo_20260923_th.jpg",
-      "summary": "Title: hurricanepolo_amo_20260923_th.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: Satellittekuva voimakkassa ulkomassasta arviolta intensiivisen sään aikana, jossa ei ole tekstiä ja taustalla on sinistä ja valkoista",
-      "keywords": [
-        "assets",
-        "hurricanepolo_amo_20260923_th",
-        "jpg",
-        "science",
-        "2026",
-        "300",
-        "aikana",
-        "arviolta",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "esd",
-        "explosive-intensification-for-hurricane-polo"
-      ],
-      "hash": "0aa9a721a83ef2fe249996136f5071acd8c0251c0277e9c99f8e8b0ff7fa5c83",
-      "learned_at": "2026-09-28T05:12:10+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-      "title": "westcoastfog_tmo_20260919_th.jpg",
-      "summary": "Title: westcoastfog_tmo_20260919_th.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: A satellite image that shows the snow on top of a mountain and other discoveries of locales and features in nature",
-      "keywords": [
-        "assets",
-        "jpg",
-        "science",
-        "westcoastfog_tmo_20260919_th",
-        "2026",
-        "300",
-        "clip",
-        "cloudy-cloak-over-the-northwest",
-        "content",
-        "crop",
-        "discoveries",
-        "dynamicimage",
-        "esd",
-        "faces"
-      ],
-      "hash": "823e3f4913cc9da142cd93e7dfed48e42e934cf176ac3d74bd4953375a59a4ec",
-      "learned_at": "2026-09-28T05:12:11+00:00"
-    },
     {
       "url": "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2021e064218_alt.jpg?w=1024",
       "title": "jsc2021e064218_alt.jpg",
@@ -18656,6 +18529,190 @@
       ],
       "hash": "45dfa83d93229cef6a66c0c744d947058b3c48d33ae796abd4448b3e914004bd",
       "learned_at": "2026-10-18T09:52:12+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
+      "title": "Hubble Gravity Waves - NASA Science",
+      "summary": "Title: Hubble Gravity Waves - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/ Published Time: 2024-09-05T13:04:05-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "ea5280d768b07a79d3f6489cc0118be9a0d1e04cd6b4dd4e70879f30608f6c03",
+      "learned_at": "2026-10-18T13:42:57+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
+      "title": "Hubble Uncovers ‘Heavy Metal’ Exoplanet Shaped Like Football - NASA Science",
+      "summary": "Title: Hubble Uncovers ‘Heavy Metal’ Exoplanet Shaped Like Football - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/ Published Time: 2019-08-01T10:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "6322bcf4166ce8fb2be16ce20fa44a0724781b0511be1c0d2188df80c2b763e5",
+      "learned_at": "2026-10-18T13:43:02+00:00"
+    },
+    {
+      "url": "http://ssd.jpl.nasa.gov/images/ssd_banner.png",
+      "title": "ssd_banner.png",
+      "summary": "Title: ssd_banner.png URL Source: http://ssd.jpl.nasa.gov/images/ssd_banner.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: Horizontally symmetrical nebula images in image morphology",
+      "keywords": [
+        "images",
+        "png",
+        "ssd_banner",
+        "2023",
+        "content",
+        "gmt",
+        "gov",
+        "horizontally",
+        "http",
+        "image",
+        "jpl",
+        "markdown",
+        "mon",
+        "morphology"
+      ],
+      "hash": "1c118e42a688f22dbe1085fde49cb83480e8560218949ccd3d88e00050828ec0",
+      "learned_at": "2026-10-18T13:45:22+00:00"
+    },
+    {
+      "url": "http://ssd.jpl.nasa.gov/images/ssd_banner_small.png",
+      "title": "ssd_banner_small.png",
+      "summary": "Title: ssd_banner_small.png URL Source: http://ssd.jpl.nasa.gov/images/ssd_banner_small.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: A VPN client with multiple simultaneously active user accounts",
+      "keywords": [
+        "png",
+        "ssd_banner_small",
+        "2023",
+        "accounts",
+        "active",
+        "client",
+        "content",
+        "gmt",
+        "gov",
+        "http",
+        "images",
+        "jpl",
+        "markdown",
+        "mon"
+      ],
+      "hash": "e55088df169eaa2e8df932068a5ff71b56486938e97d168919d8da89471be14e",
+      "learned_at": "2026-10-18T13:45:40+00:00"
+    },
+    {
+      "url": "https://www.nature.com/authors/editorial_policies/",
+      "title": "Editorial policies | Nature Portfolio",
+      "summary": "Title: Editorial policies | Nature Portfolio URL Source: https://www.nature.com/authors/editorial_policies/ Markdown Content: The Nature Portfolio journals' editorial policies for primary scientific research can be found on the pages listed below. The Nature Portfolio includes all journals with Nature in their name, the Communications journals, the npj series, Scientific Reports and Scientific Data. A list of these journals and a description of the relationship between them can be found [here](https://www.nature.com/nature-research/for-authors/nature-research-journals). In August 2015, the Nature Portfolio journals became members of the [Committee on Publication Ethics](https://publicationethics.org/)(COPE). We will be guided by COPE guidelines, however the Nature Portfolio journals will continue to make independent decisions based on our existing policies and principles. For details on ",
+      "keywords": [
+        "nature",
+        "journals",
+        "portfolio",
+        "com",
+        "https",
+        "www",
+        "policies",
+        "editorial-policies",
+        "nature-research",
+        "authorship",
+        "editorial",
+        "research",
+        "data",
+        "ethics"
+      ],
+      "hash": "a837b5a8ebacce54e58405ff5f34bda4a9af811eae74401cabd5030d6e042b1e",
+      "learned_at": "2026-10-18T13:45:45+00:00"
+    },
+    {
+      "url": "https://bsky.app/profile/nature.com",
+      "title": "@nature.com on Bluesky",
+      "summary": "Title: @nature.com on Bluesky URL Source: https://bsky.app/profile/nature.com Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout. Markdown Content: Profile Nature nature.com did:plc:vrsppvjc5fysqnm2zshiirey Research, news, and commentary from Nature, the international science journal. For daily science news, get Nature Briefing: https://go.nature.com/get-Nature-Briefing Enable JavaScript to use Bluesky. Learn more about Bluesky at bsky.social and atproto.com.",
+      "keywords": [
+        "nature",
+        "com",
+        "bluesky",
+        "bsky",
+        "https",
+        "news",
+        "profile",
+        "science",
+        "app",
+        "atproto",
+        "briefing",
+        "commentary",
+        "consider",
+        "content"
+      ],
+      "hash": "a633d76c353bf5f12101119f248f859948ebaac9328bdc615ce126bc7d6e73bc",
+      "learned_at": "2026-10-18T13:46:01+00:00"
+    },
+    {
+      "url": "https://journal-alerts.springernature.com/subscribe?journal_id=41586",
+      "title": "Springer Nature account - log in or register",
+      "summary": "Title: Springer Nature account - log in or register URL Source: https://journal-alerts.springernature.com/subscribe?journal_id=41586 Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://my-profile.springernature.com/privacy-policy) for more information on the use of your personal data. for further information and to change your choices.",
+      "keywords": [
+        "cookies",
+        "data",
+        "information",
+        "use",
+        "com",
+        "content",
+        "https",
+        "optional",
+        "parties",
+        "personal",
+        "privacy",
+        "springernature",
+        "third",
+        "41586"
+      ],
+      "hash": "c3da9c32c1164da91999de086d60b5b5f388c28e55ec3461035bd18def978b73",
+      "learned_at": "2026-10-18T13:46:04+00:00"
+    },
+    {
+      "url": "https://my-profile.springernature.com/privacy-policy",
+      "title": "Privacy Policy",
+      "summary": "Title: Privacy Policy URL Source: https://my-profile.springernature.com/privacy-policy Markdown Content: This policy was last updated on 13/08/2026. This is the privacy policy (\"policy\") for the Springer Nature Profile website that allows you to create an online account with Springer Nature with a credential tied to it (i.e. a username and password). That credential can be used to authenticate to Springer Nature platforms and websites to use online products and services of Springer Nature across different platforms and websites. A Springer Nature Profile will enable users, once authenticated, to take actions such as submitting a manuscript, purchasing a journal subscription or book, and signing up to email alerts. When you engage with and affiliated Springer Nature products or services on other platforms or websites, the terms of use and other legal terms applicable to those platforms an",
+      "keywords": [
+        "nature",
+        "springer",
+        "data",
+        "located",
+        "policy",
+        "support",
+        "personal",
+        "platforms",
+        "use",
+        "websites",
+        "com",
+        "https",
+        "limited",
+        "new"
+      ],
+      "hash": "3181c2ddb8ce66b3fb7925da8cb77930be32b16be20dc70cdd99ecd3a496e958",
+      "learned_at": "2026-10-18T13:46:07+00:00"
     }
   ],
   "failures": [
@@ -18703,9 +18760,34 @@
       "at": "2026-10-17T18:38:20+00:00",
       "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-3-destination-moon",
       "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-18T13:42:54+00:00",
+      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-18T13:42:54+00:00",
+      "url": "https://www.jpl.nasa.gov/missions/?mission_status=past",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-18T13:46:07+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-18T13:46:07+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 21,
+      "frontier": 1070
+    },
     {
       "at": "2026-10-18T09:52:12+00:00",
       "kind": "core_unchanged",
@@ -19605,29 +19687,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 402
-    },
-    {
-      "at": "2026-10-09T13:41:19+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-09T13:41:18+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 402
     }
   ],
   "metrics": {
-    "successful_fetches": 697,
-    "failed_fetches": 9,
+    "successful_fetches": 705,
+    "failed_fetches": 11,
     "duplicate_pages": 1,
     "candidate_promotions": 27,
-    "candidate_rejections": 93
+    "candidate_rejections": 94
   },
   "core_genome": {
     "query_weight": 3.0,
