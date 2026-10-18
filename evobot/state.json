@@ -1,22 +1,22 @@
 {
   "schema": 2,
-  "generation": 126,
-  "core_version": 29,
-  "runs": 125,
-  "pages_learned": 726,
-  "last_run": "2026-10-18T21:38:30+00:00",
+  "generation": 127,
+  "core_version": 30,
+  "runs": 126,
+  "pages_learned": 733,
+  "last_run": "2026-10-18T23:40:27+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/image-of-the-day/page/2/",
-    "https://www.nasa.gov/2017-solar-eclipse-news-and-articles/",
-    "https://www.nasa.gov/2023-annular-eclipse-news-and-articles/",
-    "https://www.nasa.gov/aeronautics/drones-and-you/",
-    "https://www.nasa.gov/nasa-systems-and-engineering-leadership-program-selp/",
-    "https://www.nasa.gov/stmd-flight-opportunities/access-flight-tests/",
-    "https://www.nasa.gov/reference/acte/",
-    "https://www.nasa.gov/directorates/armd/aavp/aatt-project/",
-    "https://www.nasa.gov/directorates/armd/aavp/",
-    "https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/",
+    "https://www.nasa.gov/humans-in-space/why-go-to-space/",
+    "https://www.nasa.gov/humans-in-space/astronauts/",
+    "https://www.nasa.gov/humans-in-space/destinations/",
+    "https://www.nasa.gov/humans-in-space/living-in-space/",
+    "https://www.nasa.gov/es/",
+    "https://www.nasa.gov/goddard",
+    "https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/antarctic-meteorite.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=GRO17099-0_sub",
+    "https://ares.jsc.nasa.gov/astromaterials3d/faqs.htm",
     "http://ssd.jpl.nasa.gov/about/",
     "http://ssd.jpl.nasa.gov/faq.html",
     "http://ssd.jpl.nasa.gov/sitemap.html",
@@ -216,7 +216,6 @@
     "https://www.youtube.com/watch?v=Rwhv38BVjUM",
     "https://www.youtube.com/watch?v=5_z7k4DjClk",
     "https://cdn.parsely.com/",
-    "https://www.innovation-sandbox.in/",
     "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4",
     "https://jpl.jobs/university-recruiting",
@@ -224,6 +223,7 @@
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "https://www.innovation-sandbox.in/",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://pds-geosciences.wustl.edu/",
@@ -283,30 +283,6 @@
     "http://www.nineplanets.org/luna.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/",
-    "https://science.nasa.gov/mission/ace",
-    "https://science.nasa.gov/mission/acme/",
-    "https://science.nasa.gov/mission/acrimsat/",
-    "https://science.nasa.gov/mission/act-america/",
-    "https://www.nasa.gov/humans-in-space/",
-    "https://www.nasa.gov/aeronautics/",
-    "https://www.nasa.gov/learning-resources/",
-    "https://www.nasa.gov/about/",
-    "https://www.nasa.gov/international-space-station/",
-    "https://www.nasa.gov/humans-in-space/why-go-to-space/",
-    "https://www.nasa.gov/humans-in-space/astronauts/",
-    "https://www.nasa.gov/humans-in-space/destinations/",
-    "https://www.nasa.gov/humans-in-space/living-in-space/",
-    "https://www.nasa.gov/es/",
-    "https://www.nasa.gov/goddard",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png",
-    "https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/antarctic-meteorite.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=GRO17099-0_sub",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/apollo-lander.png",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/meteorite-falling.png",
-    "https://ares.jsc.nasa.gov/astromaterials3d/faqs.htm",
     "https://www.nasa.gov/offices/odeo/no-fear-act",
     "https://www.nasa.gov/about/highlights/HP_Privacy.html",
     "https://www.nasa.gov/FOIA/",
@@ -1189,9 +1165,32 @@
     "https://www.nature.com/gp/policies",
     "https://www.nature.com/gp/librarians",
     "https://www.nature.com/articles/d41586-023-03271-4",
-    "https://www.nasa.gov/image-of-the-day/page/2/",
     "https://www.nasa.gov/image-of-the-day/page/3/",
-    "https://www.nasa.gov/image-of-the-day/page/138/"
+    "https://www.nasa.gov/image-of-the-day/page/138/",
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/meteorite-falling.png",
+    "https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0779393orig.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/06/euclid-s-view-of-our-galaxy-s-bulge.jpg",
+    "https://www.nasa.gov/2023-annular-eclipse-news-and-articles/",
+    "https://www.nasa.gov/aeronautics/drones-and-you/",
+    "https://www.nasa.gov/nasa-systems-and-engineering-leadership-program-selp/",
+    "https://www.nasa.gov/stmd-flight-opportunities/access-flight-tests/",
+    "https://www.nasa.gov/reference/acte/",
+    "https://www.nasa.gov/directorates/armd/aavp/aatt-project/",
+    "https://www.nasa.gov/directorates/armd/aavp/",
+    "https://science.nasa.gov/mission/acme/",
+    "https://science.nasa.gov/mission/acrimsat/",
+    "https://science.nasa.gov/mission/act-america/",
+    "https://www.nasa.gov/humans-in-space/",
+    "https://www.nasa.gov/aeronautics/",
+    "https://www.nasa.gov/learning-resources/",
+    "https://www.nasa.gov/about/",
+    "https://www.nasa.gov/international-space-station/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -5146,170 +5145,44 @@
       "at": "2026-10-18T21:39:00+00:00",
       "status": "ok",
       "hash": "d04d7272659835238f71688c171930395c5986caf344b5a90b27fd410b39753f"
+    },
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png": {
+      "at": "2026-10-18T23:40:34+00:00",
+      "status": "ok",
+      "hash": "7528e9dc9edd7ebc79f506e02e51b36f86f2b00a736329d64df12a3085d16ffd"
+    },
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/apollo-lander.png": {
+      "at": "2026-10-18T23:40:36+00:00",
+      "status": "ok",
+      "hash": "179ac9fbdc20980e69631f54de138977262b35c6f0a5028fb914d583b83a26c4"
+    },
+    "https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/": {
+      "at": "2026-10-18T23:40:40+00:00",
+      "status": "ok",
+      "hash": "e6e0ecf4c7ddd886d1278f936a9f918c65ad34eca3f5538f12b61088def97c8f"
+    },
+    "https://www.nasa.gov/image-of-the-day/page/2/": {
+      "at": "2026-10-18T23:40:49+00:00",
+      "status": "ok",
+      "hash": "5513ba1f91d4fc08cf9cbf4169b097788a10ebad2023fc1ff3f7c8b409a803a2"
+    },
+    "https://www.nasa.gov/2017-solar-eclipse-news-and-articles/": {
+      "at": "2026-10-18T23:40:52+00:00",
+      "status": "ok",
+      "hash": "2240f5034c275e372a2c17d7b46b054cf136f34240f390bc4423877cd9497311"
+    },
+    "https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/": {
+      "at": "2026-10-18T23:40:56+00:00",
+      "status": "ok",
+      "hash": "1dd76338eb58e16b314ba32801c3ac15afdb98b9e52bf04dd4fe665ee838b7cc"
+    },
+    "https://science.nasa.gov/mission/ace": {
+      "at": "2026-10-18T23:41:01+00:00",
+      "status": "ok",
+      "hash": "e5bfbe88426635869eb498a18392d204eed61167ccd0b7770cc7996706522308"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/earth/facts/",
-      "title": "Facts About Earth",
-      "summary": "Title: Facts About Earth URL Source: https://science.nasa.gov/earth/facts/ Published Time: 2023-05-30T18:58:22-04:00 Markdown Content: ## Quick Facts While Earth is only the fifth largest planet in the solar system, it is the only planet in our solar system with liquid water on the surface. Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal. Earth is the only planet in the solar system whose English name does not come from Greek or Roman mythology. The name was taken from Old English and Germanic. It simply means \"the ground.\" There are, of course, many names for our planet in the thousands of languages spoken by the people of the third planet from the Sun. ## Namesake The name Earth is about 1,000 years old. All of the planets, except for Earth, were named after Greek and Roman gods and goddesses. ",
-      "keywords": [
-        "earth",
-        "planet",
-        "sun",
-        "one",
-        "system",
-        "day",
-        "life",
-        "name",
-        "planets",
-        "solar",
-        "distance",
-        "facts",
-        "liquid",
-        "only"
-      ],
-      "hash": "075bd21a549bcf17163c7fb643050c036f1817de92e6d8ebc1f3c5d62e80fa6b",
-      "learned_at": "2026-09-28T23:34:16+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/earth-science",
-      "title": "Earth Science Researchers - NASA Science",
-      "summary": "Title: Earth Science Researchers - NASA Science URL Source: https://science.nasa.gov/earth-science Published Time: 2007-06-10T10:33:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-con",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "earth",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics"
-      ],
-      "hash": "16f3c5631999c5307b85afdb716b901f084a66824eb644057a5b542a491c0d28",
-      "learned_at": "2026-09-28T23:34:19+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "summary": "Title: 2026 News Releases - NASA URL Source: https://www.nasa.gov/2026-news-releases/ Published Time: 2026-01-02T16:37:23Z Markdown Content: [![Image 1](https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=300)](https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/) [NASA, Boeing Share Update on Commercial Starliner Development Plans](https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/) 4 min read On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space… News Release [![Image 2](https://www.nasa.gov/wp-content/uploads/2023/03/340558main_EC72-3431_full.jpg?w=300)](https://ww",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "news-release",
-        "2026",
-        "300",
-        "artemis",
-        "image",
-        "jpg",
-        "min",
-        "news",
-        "read",
-        "uploads"
-      ],
-      "hash": "5697b8b5145a1f90d68e4409eb05da86f7ee9837a1b41fb5bcc320dc0e8c1388",
-      "learned_at": "2026-09-28T23:34:21+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/search/?search=Climate+Change&search_page=873",
-      "title": "Page Not Found - NASA",
-      "summary": "Title: Page Not Found - NASA URL Source: https://www.nasa.gov/search/?search=Climate+Change&search_page=873 Warning: Target URL returned error 404: Not Found Markdown Content: Filter Results ### Content Type * Articles * Press Release * Gallery * Topic * People * Mission * Blog ### Categories * Earth Observatory (2895) * Apollo (2406) * Earth (1007) * Photojournal (698) * Climate Change (671) * Mars (604) * Earth Science (494) ### Changed * Last Year (8672) * Last Month (546) * Last Week (165) ### Language * English * Español * We're working continuously to improve our search results. If you aren't finding what you expect, please use our [feedback form](https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit) to share the search query and expected result with us so we can improve. * [![Image 1: Snowmelt Has Been Coming Earlier in Wyoming - NASA Science ](https://assets.science.nasa",
-      "keywords": [
-        "science",
-        "nasa",
-        "earth",
-        "gov",
-        "https",
-        "change",
-        "climate",
-        "assets",
-        "search",
-        "mars",
-        "mss",
-        "2cfocalpoint",
-        "_https",
-        "artemis"
-      ],
-      "hash": "46485d538e25215383c2569557199eb115efafd48bee2dc48a9031ba08c10b32",
-      "learned_at": "2026-09-28T23:34:29+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Jupiter_small.en.jpg",
-      "title": "Jupiter_small.en.jpg",
-      "summary": "Title: Jupiter_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Jupiter_small.en.jpg Markdown Content: The image depicts an orange planet with horizontal stripes",
-      "keywords": [
-        "jpg",
-        "jupiter_small",
-        "content",
-        "depicts",
-        "gov",
-        "horizontal",
-        "https",
-        "image",
-        "markdown",
-        "nasa",
-        "orange",
-        "planet",
-        "review",
-        "source"
-      ],
-      "hash": "d60097b650a282741df2a014c9aeddacbdcae02e4ba5e6947561b52cd0a28e13",
-      "learned_at": "2026-09-29T02:43:23+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/review/years-on-other-planets/Saturn_small.en.jpg",
-      "title": "Saturn_small.en.jpg",
-      "summary": "Title: Saturn_small.en.jpg URL Source: https://spaceplace.nasa.gov/review/years-on-other-planets/Saturn_small.en.jpg Markdown Content: A cartoonish illustration of Saturn with its rings is depicted",
-      "keywords": [
-        "jpg",
-        "saturn_small",
-        "cartoonish",
-        "content",
-        "depicted",
-        "gov",
-        "https",
-        "illustration",
-        "markdown",
-        "nasa",
-        "review",
-        "rings",
-        "saturn",
-        "source"
-      ],
-      "hash": "c52fc0d18e90d5b15b43374972665acb5f7434360407a1cdc5c7e89b0770c3eb",
-      "learned_at": "2026-09-29T02:43:26+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/85000/85591/wyoming_etm_2013145.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "wyoming_etm_2013145.jpg",
-      "summary": "Title: wyoming_etm_2013145.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/85000/85591/wyoming_etm_2013145.jpg?w=720&h=480&fit=clip&crop=faces,focalpoint Markdown Content: This is an air photo of the Fremont Lake Basin with snow and part of the surrounding land USA",
-      "keywords": [
-        "assets",
-        "jpg",
-        "science",
-        "wyoming_etm_2013145",
-        "480",
-        "720",
-        "85000",
-        "85591",
-        "air",
-        "basin",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage"
-      ],
-      "hash": "8e3de33e25395344bc7992c1b89f78ed89e0df42a77ac4b4b28994e0b6d92fc9",
-      "learned_at": "2026-09-29T02:43:30+00:00"
-    },
     {
       "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/landsat-1-3-mission-pages/mss.png?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
       "title": "mss.png",
@@ -18948,6 +18821,167 @@
       ],
       "hash": "d04d7272659835238f71688c171930395c5986caf344b5a90b27fd410b39753f",
       "learned_at": "2026-10-18T21:39:00+00:00"
+    },
+    {
+      "url": "https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png",
+      "title": "a3d-logo.png",
+      "summary": "Title: a3d-logo.png URL Source: https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png Published Time: Tue, 15 Dec 2020 15:08:46 GMT Markdown Content: The image depicts the well-known logo of the National Aeronautics and Space Administration (NASA)",
+      "keywords": [
+        "a3d-logo",
+        "nasa",
+        "png",
+        "2020",
+        "_images",
+        "_interface",
+        "administration",
+        "aeronautics",
+        "ares",
+        "astromaterials3d",
+        "content",
+        "dec",
+        "depicts",
+        "gmt"
+      ],
+      "hash": "7528e9dc9edd7ebc79f506e02e51b36f86f2b00a736329d64df12a3085d16ffd",
+      "learned_at": "2026-10-18T23:40:34+00:00"
+    },
+    {
+      "url": "https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/apollo-lander.png",
+      "title": "apollo-lander.png",
+      "summary": "Title: apollo-lander.png URL Source: https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/apollo-lander.png Published Time: Tue, 15 Dec 2020 15:01:00 GMT Markdown Content: A 70x63 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "apollo-lander",
+        "png",
+        "2020",
+        "70x63",
+        "_images",
+        "_navigation",
+        "ares",
+        "astromaterials3d",
+        "avatar",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "https"
+      ],
+      "hash": "179ac9fbdc20980e69631f54de138977262b35c6f0a5028fb914d583b83a26c4",
+      "learned_at": "2026-10-18T23:40:36+00:00"
+    },
+    {
+      "url": "https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/",
+      "title": "67P/Churyumov-Gerasimenko - NASA Science",
+      "summary": "Title: 67P/Churyumov-Gerasimenko - NASA Science URL Source: https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/ Published Time: 2017-12-09T17:46:46-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "e6e0ecf4c7ddd886d1278f936a9f918c65ad34eca3f5538f12b61088def97c8f",
+      "learned_at": "2026-10-18T23:40:40+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/image-of-the-day/page/2/",
+      "title": "Image of the Day - NASA",
+      "summary": "Title: Image of the Day - NASA URL Source: https://www.nasa.gov/image-of-the-day/page/2/ Published Time: 2023-09-07T13:29:24-04:00 Markdown Content: [About 12 billion years ago, a dwarf galaxy known as LKH collided with a young Milky Way and merged with... ![Image 1: An illustration of two galaxies in the midst of a collision against a dark, star-filled background. The collision takes up the middle third of the illustration. On the right, a larger galaxy is viewed at an angle from 11 o’clock to 4 o’clock, with a white-yellow core surrounded by mottled brown dust lanes and faint bluish spiral arms. To the left, a smaller, bright blue-white galaxy is stretched into a curved, hook-like shape as gravity distorts it. A broad, glowing bridge of pale blue gas and stars extends off the galaxy at the left, while wispy streams extend above and below the larger galaxy at the right. The words “Artis",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "image",
+        "www",
+        "galaxy",
+        "stars",
+        "2026",
+        "gas",
+        "image-article",
+        "left",
+        "new",
+        "shows",
+        "uploads"
+      ],
+      "hash": "5513ba1f91d4fc08cf9cbf4169b097788a10ebad2023fc1ff3f7c8b409a803a2",
+      "learned_at": "2026-10-18T23:40:49+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/2017-solar-eclipse-news-and-articles/",
+      "title": "2017 Solar Eclipse News and Articles - NASA",
+      "summary": "Title: 2017 Solar Eclipse News and Articles - NASA URL Source: https://www.nasa.gov/2017-solar-eclipse-news-and-articles/ Published Time: 2023-09-07T13:27:10Z Markdown Content: [![Image 19: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 20: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-medi",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "2240f5034c275e372a2c17d7b46b054cf136f34240f390bc4423877cd9497311",
+      "learned_at": "2026-10-18T23:40:52+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/",
+      "title": "2024 Total Eclipse - NASA Science",
+      "summary": "Title: 2024 Total Eclipse - NASA Science URL Source: https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ Published Time: 2022-10-17T19:07:29-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/n",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "1dd76338eb58e16b314ba32801c3ac15afdb98b9e52bf04dd4fe665ee838b7cc",
+      "learned_at": "2026-10-18T23:40:56+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/ace",
+      "title": "ACE - NASA Science",
+      "summary": "Title: ACE - NASA Science URL Source: https://science.nasa.gov/mission/ace Published Time: 2017-11-30T19:48:28-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ###",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "ace"
+      ],
+      "hash": "e5bfbe88426635869eb498a18392d204eed61167ccd0b7770cc7996706522308",
+      "learned_at": "2026-10-18T23:41:01+00:00"
     }
   ],
   "failures": [
@@ -19023,6 +19057,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-18T23:41:02+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v30",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-18T23:41:01+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 1184
+    },
     {
       "at": "2026-10-18T21:39:01+00:00",
       "kind": "core_unchanged",
@@ -19922,28 +19982,13 @@
       "message": "Crawl cycle learned 2 new pages",
       "attempted": 24,
       "frontier": 475
-    },
-    {
-      "at": "2026-10-10T08:46:27+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-10T08:46:27+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 11,
-      "frontier": 477
     }
   ],
   "metrics": {
-    "successful_fetches": 726,
+    "successful_fetches": 733,
     "failed_fetches": 14,
     "duplicate_pages": 1,
-    "candidate_promotions": 28,
+    "candidate_promotions": 29,
     "candidate_rejections": 96
   },
   "core_genome": {
@@ -19977,10 +20022,10 @@
     "nssdc.gsfc.nasa.gov",
     "science.nasa.gov",
     "jpl.nasa.gov",
-    "assets.science.nasa.gov",
     "cneos.jpl.nasa.gov",
     "ssd-api.jpl.nasa.gov",
-    "spaceplace.nasa.gov",
-    "naif.jpl.nasa.gov"
+    "assets.science.nasa.gov",
+    "www.nature.com",
+    "spaceplace.nasa.gov"
   ]
 }
