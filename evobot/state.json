@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generation": 136,
+  "generation": 137,
   "core_version": 33,
-  "runs": 135,
-  "pages_learned": 796,
-  "last_run": "2026-10-20T17:54:16+00:00",
+  "runs": 136,
+  "pages_learned": 800,
+  "last_run": "2026-10-20T21:19:13+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
@@ -283,30 +283,6 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://lroc.sese.asu.edu/",
     "http://www.caltech.edu/",
-    "https://naif.jpl.nasa.gov/naif/Ancillary_Data_Production_for_Cubesats_and_Lunar_Exploration_v2.pdf",
-    "https://naif.jpl.nasa.gov/naif/rules.html",
-    "https://naif.jpl.nasa.gov/naif/public.html",
-    "https://naif.jpl.nasa.gov/naif/ancillary_data.pdf",
-    "https://naif.jpl.nasa.gov/naif/observation_geometry.pdf",
-    "https://naif.jpl.nasa.gov/naif/solar_system_events.pdf",
-    "https://naif.jpl.nasa.gov/naif/links.html",
-    "https://naif.jpl.nasa.gov/naif/utilities.html",
-    "https://naif.jpl.nasa.gov/naif/toolkit_C.html",
-    "https://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html",
-    "https://naif.jpl.nasa.gov/naif/toolkit_IDL.html",
-    "https://naif.jpl.nasa.gov/naif/toolkit_MATLAB.html",
-    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/07_installing_toolkit.pdf",
-    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/11_preparing_for_programming.pdf",
-    "https://naif.jpl.nasa.gov/naif/tutorials.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=96&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=82&smid=0",
-    "https://www.sebi.gov.in/legal/online-portal-for-submission-of-application-for-internship-legal-.html",
-    "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doLegalIntership2022=yes",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=85&smid=0",
-    "https://www.sebi.gov.in/enforcement.html",
-    "https://www.sebi.gov.in/enforcement/orders.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1",
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2",
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3",
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4",
@@ -1289,7 +1265,38 @@
     "http://naif.jpl.nasa.gov/pub/naif/misc/toolkit_dev/N0067",
     "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011.tpc",
     "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011_n0066.tpc",
-    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00010.tpc"
+    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00010.tpc",
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/13_comments_in_kernels.pdf",
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/13_comments_in_kernels.pdf",
+    "https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html",
+    "https://naif.jpl.nasa.gov/naif/public.html",
+    "https://naif.jpl.nasa.gov/naif/ancillary_data.pdf",
+    "https://naif.jpl.nasa.gov/naif/observation_geometry.pdf",
+    "https://naif.jpl.nasa.gov/naif/solar_system_events.pdf",
+    "https://naif.jpl.nasa.gov/naif/links.html",
+    "https://naif.jpl.nasa.gov/naif/utilities.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_C.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_IDL.html",
+    "https://naif.jpl.nasa.gov/naif/toolkit_MATLAB.html",
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/07_installing_toolkit.pdf",
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/11_preparing_for_programming.pdf",
+    "https://naif.jpl.nasa.gov/naif/tutorials.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=13",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=14",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=79",
+    "https://www.sebi.gov.in/filings/debt-offer-document.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=17&smid=38",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=17&smid=39",
+    "https://www.sebi.gov.in/filings/takeovers.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=20&smid=15",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=82&smid=0",
+    "https://www.sebi.gov.in/legal/online-portal-for-submission-of-application-for-internship-legal-.html",
+    "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doLegalIntership2022=yes",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=85&smid=0",
+    "https://www.sebi.gov.in/enforcement.html",
+    "https://www.sebi.gov.in/enforcement/orders.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -5624,101 +5631,29 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_o8KrBDH.png": {
       "at": "2026-10-20T17:54:34+00:00",
       "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/Ancillary_Data_Production_for_Cubesats_and_Lunar_Exploration_v2.pdf": {
+      "at": "2026-10-20T21:19:16+00:00",
+      "status": "ok",
+      "hash": "59d0f2835deacba50f920291149f483fc19d2fb23fd90e357b825565b079a206"
+    },
+    "https://naif.jpl.nasa.gov/naif/rules.html": {
+      "at": "2026-10-20T21:19:19+00:00",
+      "status": "ok",
+      "hash": "ab2051ccc36b3e03809edd702aec24016d021f3ae557dfdca030a2ebda683fa2"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=96&smid=0": {
+      "at": "2026-10-20T21:19:31+00:00",
+      "status": "ok",
+      "hash": "dcac43677081c81701296bf04e6dc25fc7f44f94a5495f3e3ea5bc89cbd4daad"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0": {
+      "at": "2026-10-20T21:19:41+00:00",
+      "status": "ok",
+      "hash": "dcd21626db46f0e6192e4b9e247e90f696642c534c06d7cd2b181a1d929f2eb6"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/?search=Webb",
-      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-      "summary": "Title: NASA Opens 2027 Human Lander Challenge for Lunar Communications URL Source: https://www.nasa.gov/?search=Webb Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "webb"
-      ],
-      "hash": "685a0318c37434888d3e30bd025edc5a116deef1f1f00d6c8e3053cff0e9ef3d",
-      "learned_at": "2026-10-01T00:01:15+00:00"
-    },
-    {
-      "url": "https://www.pib.gov.in/images/increase-text-size.png",
-      "title": "increase-text-size.png",
-      "summary": "Title: increase-text-size.png URL Source: https://www.pib.gov.in/images/increase-text-size.png Published Time: Mon, 04 Dec 2017 08:25:00 GMT Markdown Content: A 22x22 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "increase-text-size",
-        "png",
-        "2017",
-        "22x22",
-        "avatar",
-        "content",
-        "dec",
-        "gmt",
-        "gov",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely"
-      ],
-      "hash": "e3740e54df9cb4cd45cd07ad93811d614f7470eff714420927b1e24da2c61a00",
-      "learned_at": "2026-10-01T00:01:16+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Hubble_Abell370_heic1711a.jpg",
-      "summary": "Title: Hubble_Abell370_heic1711a.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_Abell370_heic1711a.jpg?w=3594&h=4000&fit=clip&crop=faces,focalpoint Markdown Content: The Hubble image is one of the best of its series including eight panoramic field and composite images of the constellationuckหารלכתเอกฤกษ์ที่ซื่อตั้งอยู่ตัดกันที่จุดตึกรุนแรงที่ใกล้กับจุดตึกรุนแรง กัสรังจันทร์ ซึ่งตั้งอยู่ด้านบนของภาพ มัสตาร์ดใจสีขาวเหล่านี้มีขนาดต่างกัน และละลายเข้ากับกาแล็กซี המწאריที่ล้อมรอบ ส่วนใหญ่เป็นกาแล็กซีที่มีหอคอยวนพานลอนหอบที่ไม่มีบริเวณที่ตื้น พร้อมด้วยกาแล็กซีที่มีหูหิ้ว เดินหน้า หรือมีรูปทรงไขว่ห้างมากกว่า ภาพนี้ได้รวมถึงสองภาพกระจกขยายสัญญาณแบบแทรกซีสในการทำให้วัตถุจักรวาลต่างๆ ปรากฏชัดเจนและสว่างขึ้น",
-      "keywords": [
-        "assets",
-        "hubble",
-        "hubble_abell370_heic1711a",
-        "jpg",
-        "science",
-        "งอย",
-        "3594",
-        "4000",
-        "best",
-        "clip",
-        "clusters",
-        "composite",
-        "constellationuckหารלכתเอกฤกษ",
-        "content"
-      ],
-      "hash": "e25854909f4e1187debe9efa8cc6702ba4704ac018daeed0bc5ca4f84b04b0e0",
-      "learned_at": "2026-10-01T05:42:01+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/",
-      "title": "Page not found - NASA Science",
-      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasas-hubble-provides-first-census-of-galaxies-near-cosmic-dawn/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedi",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "c6393279e789b7d6bde7085332d5b2a655df5349715eb3c895b1c1a6e4c71db0",
-      "learned_at": "2026-10-01T05:42:05+00:00"
-    },
     {
       "url": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024",
       "title": "hubble_opal_composite.png",
@@ -19426,6 +19361,98 @@
       ],
       "hash": "a9b3eae48cef1e6e74e22ac0194d867bf1343ac3d6308b5a98727811db113d82",
       "learned_at": "2026-10-20T17:54:33+00:00"
+    },
+    {
+      "url": "https://naif.jpl.nasa.gov/naif/Ancillary_Data_Production_for_Cubesats_and_Lunar_Exploration_v2.pdf",
+      "title": "Ancillary_Data_Production_for_Cubesats_and_Lunar_Exploration",
+      "summary": "Title: Ancillary_Data_Production_for_Cubesats_and_Lunar_Exploration URL Source: https://naif.jpl.nasa.gov/naif/Ancillary_Data_Production_for_Cubesats_and_Lunar_Exploration_v2.pdf Published Time: Thu, 19 Aug 2021 18:43:33 GMT Number of Pages: 49 Markdown Content: # “SPICE” ## Might Help CubeSat, SmallSat and Human Lunar Exploration Missions Compute Observation Geometry from Ancillary Data 18 August 2021 Boris Semenov PDS NAIF Node Manager Jet Propulsion Laboratory, California Institute of Technology Boris.Semenov@jpl.nasa.gov https://naif.jpl.nasa.gov The research described in this publication was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration • What are “ancillary data?” • Why are these data needed? • Producing and using ancillary data using NASA’s “SPICE” system > 2 ## Topics A Pic",
+      "keywords": [
+        "data",
+        "ancillary",
+        "spacecraft",
+        "observation",
+        "geometry",
+        "reference",
+        "frame",
+        "mission",
+        "naif",
+        "nasa",
+        "orientation",
+        "phase",
+        "system",
+        "xxx"
+      ],
+      "hash": "59d0f2835deacba50f920291149f483fc19d2fb23fd90e357b825565b079a206",
+      "learned_at": "2026-10-20T21:19:16+00:00"
+    },
+    {
+      "url": "https://naif.jpl.nasa.gov/naif/rules.html",
+      "title": "Rules Regarding Use of SPICE",
+      "summary": "Title: Rules Regarding Use of SPICE URL Source: https://naif.jpl.nasa.gov/naif/rules.html Markdown Content: IMPORTANT ! Please read in its entirety this list of rules regarding use of SPICE components. Included in these rules, although not specifically called out as such, are provisions that collectively provide a \"SPICE Software License.\" If you have any questions about these rules please contact the [NAIF Manager](mailto:boris.semenov@jpl.nasa.gov) before embarking on use of SPICE. Only a Recommendation While SPICE is widely used, its use is not a requirement of NASA's Planetary Science Division, NASA's Planetary Data System, or the International Planetary Data Alliance. Acknowledgement Acknowledgement in your publications, tools and findings of use of SPICE or NAIF/PDS resources, and of the teams that provided the data used to make SPICE kernels, is encouraged; such community support ",
+      "keywords": [
+        "spice",
+        "naif",
+        "nasa",
+        "software",
+        "data",
+        "export",
+        "rules",
+        "use",
+        "gov",
+        "jpl",
+        "flight",
+        "help",
+        "html",
+        "https"
+      ],
+      "hash": "ab2051ccc36b3e03809edd702aec24016d021f3ae557dfdca030a2ebda683fa2",
+      "learned_at": "2026-10-20T21:19:19+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=96&smid=0",
+      "title": "SEBI | Advisory/Guidance",
+      "summary": "Title: SEBI | Advisory/Guidance URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=96&smid=0 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=96&smid=0 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/ho",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "dcac43677081c81701296bf04e6dc25fc7f44f94a5495f3e3ea5bc89cbd4daad",
+      "learned_at": "2026-10-20T21:19:31+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0",
+      "title": "SEBI | Circulars",
+      "summary": "Title: SEBI | Circulars URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=7&smid=0 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAct",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "dcd21626db46f0e6192e4b9e247e90f696642c534c06d7cd2b181a1d929f2eb6",
+      "learned_at": "2026-10-20T21:19:41+00:00"
     }
   ],
   "failures": [
@@ -19511,6 +19538,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-20T21:19:41+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-20T21:19:41+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 1290
+    },
     {
       "at": "2026-10-20T17:54:34+00:00",
       "kind": "core_promoted",
@@ -20421,29 +20463,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 11,
       "frontier": 624
-    },
-    {
-      "at": "2026-10-12T08:07:56+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-12T08:07:56+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 18,
-      "frontier": 608
     }
   ],
   "metrics": {
-    "successful_fetches": 796,
+    "successful_fetches": 800,
     "failed_fetches": 16,
     "duplicate_pages": 1,
     "candidate_promotions": 32,
-    "candidate_rejections": 102
+    "candidate_rejections": 103
   },
   "core_genome": {
     "query_weight": 3.0,
