@@ -1,12 +1,17 @@
 {
   "schema": 2,
-  "generation": 137,
+  "generation": 138,
   "core_version": 33,
-  "runs": 136,
-  "pages_learned": 800,
-  "last_run": "2026-10-20T21:19:13+00:00",
+  "runs": 137,
+  "pages_learned": 808,
+  "last_run": "2026-10-20T23:58:35+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/the-apollo-program/",
+    "http://pds.jpl.nasa.gov/home/about/",
+    "http://pds.jpl.nasa.gov/home/users/",
+    "http://pds.jpl.nasa.gov/home/proposers/",
+    "http://pds.jpl.nasa.gov/home/providers/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
@@ -210,12 +215,13 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/The-Pathfinders_show-1000x.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Breaking_Point_Show_Graphic_postcard_clean.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Saving_Galileo_Digital_postcard_1-2.width-1024.jpg",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
-    "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://datatracker.ietf.org/doc/html/rfc3875",
+    "https://datacenter.iers.org/data/16/bulletinc-072.txt",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://www.innovation-sandbox.in/",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
@@ -263,7 +269,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
     "https://pds-rings.seti.org/",
     "https://pds-smallbodies.astro.umd.edu/",
-    "https://datacenter.iers.org/data/16/bulletinc-072.txt",
     "https://doi.org/10.1007/s10569-017-9805-5",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -273,40 +278,16 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
+    "http://aa.usno.navy.mil/data/index.php",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "http://aa.usno.navy.mil/data/index.php",
     "http://www.nineplanets.org/luna.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://lroc.sese.asu.edu/",
     "http://www.caltech.edu/",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
-    "http://pds.jpl.nasa.gov/home/about/",
-    "http://pds.jpl.nasa.gov/home/users/",
-    "http://pds.jpl.nasa.gov/home/proposers/",
-    "http://pds.jpl.nasa.gov/home/providers/",
-    "https://science.nasa.gov/mission/pioneer-1-able-2/",
-    "https://science.nasa.gov/mission/pioneer-p-3-able-4b/",
-    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
-    "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
-    "https://ssd.jpl.nasa.gov/sb/radar.html",
-    "https://ssd.jpl.nasa.gov/diagrams/",
-    "https://ssd.jpl.nasa.gov/sb/orbits.html",
-    "https://ssd.jpl.nasa.gov/doc/",
-    "https://ssd.jpl.nasa.gov/discovery.html",
-    "https://ssd.jpl.nasa.gov/announcements/",
-    "https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/",
-    "https://www.nasa.gov/analog-missions/",
-    "https://www.nasa.gov/the-apollo-program/",
     "https://www.nasa.gov/mission/apollo-1/",
     "https://www.nasa.gov/mission/apollo-7/",
     "https://www.nasa.gov/nasa-missions/",
@@ -1296,7 +1277,22 @@
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=85&smid=0",
     "https://www.sebi.gov.in/enforcement.html",
     "https://www.sebi.gov.in/enforcement/orders.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1"
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1",
+    "https://ssd.jpl.nasa.gov/images/goldstone.jpg",
+    "https://ssd.jpl.nasa.gov/glossary/astrometry.html",
+    "https://ssd.jpl.nasa.gov/sb/orbits.html",
+    "https://ssd.jpl.nasa.gov/doc/",
+    "https://ssd.jpl.nasa.gov/discovery.html",
+    "https://ssd.jpl.nasa.gov/announcements/",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1",
+    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
+    "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -5651,193 +5647,49 @@
       "at": "2026-10-20T21:19:41+00:00",
       "status": "ok",
       "hash": "dcd21626db46f0e6192e4b9e247e90f696642c534c06d7cd2b181a1d929f2eb6"
+    },
+    "https://ssd.jpl.nasa.gov/sb/radar.html": {
+      "at": "2026-10-20T23:58:38+00:00",
+      "status": "ok",
+      "hash": "fcf8395e7a756a7d713eba876fe3f771263083e2b3e5d04f61064ff8fa8b5502"
+    },
+    "https://ssd.jpl.nasa.gov/diagrams/": {
+      "at": "2026-10-20T23:58:39+00:00",
+      "status": "ok",
+      "hash": "1d2b8b9e9df13faf6227eb0f3f5905410970a611d3dd3b9ea1a755b4f379ee94"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2": {
+      "at": "2026-10-20T23:58:48+00:00",
+      "status": "ok",
+      "hash": "0f1bbb8e46725f92fa01048e0851bb7adda01a4d8d06bfb89d4a5674461d1346"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3": {
+      "at": "2026-10-20T23:58:57+00:00",
+      "status": "ok",
+      "hash": "54b9a83931e16b238990ca3e5896e90965eb9be0ebe78607a802a0f578c28fa7"
+    },
+    "https://science.nasa.gov/mission/pioneer-1-able-2/": {
+      "at": "2026-10-20T23:58:59+00:00",
+      "status": "ok",
+      "hash": "27a1a0de92942894e62bca07a07835d24289598324ad61a19b251647b1022993"
+    },
+    "https://science.nasa.gov/mission/pioneer-p-3-able-4b/": {
+      "at": "2026-10-20T23:59:02+00:00",
+      "status": "ok",
+      "hash": "8dc24f53a536677b9a5e6b1486d3708873db338605f32638ee05c2073cbb5cc3"
+    },
+    "https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/": {
+      "at": "2026-10-20T23:59:07+00:00",
+      "status": "ok",
+      "hash": "fc3f937b8a21f1593acd2519859c81c2f243d4ce2c13d5994577a4522525f282"
+    },
+    "https://www.nasa.gov/analog-missions/": {
+      "at": "2026-10-20T23:59:13+00:00",
+      "status": "ok",
+      "hash": "8ec2284b445ad7cf1fd2cfed33bfa5f056733f30cac62f02bd705290467805ca"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024",
-      "title": "hubble_opal_composite.png",
-      "summary": "Title: hubble_opal_composite.png URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/hubble_opal_composite.png?w=1024 Published Time: Thu, 01 Oct 2026 05:42:07 GMT Markdown Content: Pictures of different planets in space, the image is divided into three parts",
-      "keywords": [
-        "hubble_opal_composite",
-        "png",
-        "1024",
-        "2023",
-        "2026",
-        "content",
-        "different",
-        "divided",
-        "gmt",
-        "gov",
-        "https",
-        "image",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "cc3302dc9b82ff1c55a5c38f67d82dc4129f64d6172969d9eec30fd6175bd6bf",
-      "learned_at": "2026-10-01T05:42:08+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light",
-      "title": "Aligning the Primary Mirror Segments of NASA’s James Webb Space Telescope with Light - NASA",
-      "summary": "Title: Aligning the Primary Mirror Segments of NASA’s James Webb Space Telescope with Light - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/aligning-the-primary-mirror-segments-of-nasa-s-james-webb-space-telescope-with-light Published Time: 2017-09-20T14:30:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nas",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "space",
-        "apps"
-      ],
-      "hash": "4780880dd3ce2de69fd2fbb961ae41b3bd5f5f5402c1cf3427e9692a5b69edf5",
-      "learned_at": "2026-10-01T05:42:13+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a",
-      "title": "How Does NASA’s Webb Telescope Stay Cool in Chamber A? - NASA",
-      "summary": "Title: How Does NASA’s Webb Telescope Stay Cool in Chamber A? - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/how-does-nasa-s-webb-telescope-stay-cool-in-chamber-a Published Time: 2017-08-09T14:20:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsl",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "events",
-        "images",
-        "multimedia",
-        "science",
-        "image",
-        "plus",
-        "podcasts",
-        "webb"
-      ],
-      "hash": "3191d3e2b7d8b06c7cfa87c520989942ebf916962f15eddef5429322124222fd",
-      "learned_at": "2026-10-01T05:42:20+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2023/01/hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png?w=1024",
-      "title": "hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png",
-      "summary": "Title: hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png URL Source: https://science.nasa.gov/wp-content/uploads/2023/01/hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd.png?w=1024 Published Time: Thu, 01 Oct 2026 11:49:56 GMT Markdown Content: Three blurry circles on a black background",
-      "keywords": [
-        "hubble-pluto-stsci-01evsrjcapn1afkxej1d7e1njd",
-        "png",
-        "1024",
-        "2023",
-        "2026",
-        "background",
-        "black",
-        "blurry",
-        "circles",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "markdown"
-      ],
-      "hash": "1fb2651b8ee9c1c6f87e75f2f4e4ee579a6696d3d1acbee759007cbc3e9d2009",
-      "learned_at": "2026-10-01T11:49:57+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/?search=Webb",
-      "title": "NASA Science Articles & Stories - NASA Science",
-      "summary": "Title: NASA Science Articles & Stories - NASA Science URL Source: https://science.nasa.gov/?search=Webb Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimedia]",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "events",
-        "image",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "02f69c2bc8703cb0934f786d4c3dd5c74e70b626f50c4f1c71dd5dc4e9606bec",
-      "learned_at": "2026-10-01T11:50:01+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/feature/goddard/2016/the-complex-material-engineering-of-nasas-webb-telescope-sunshield/",
-      "title": "The Complex Material Engineering of NASA's Webb Telescope Sunshield - NASA",
-      "summary": "Title: The Complex Material Engineering of NASA's Webb Telescope Sunshield - NASA URL Source: https://www.nasa.gov/feature/goddard/2016/the-complex-material-engineering-of-nasas-webb-telescope-sunshield/ Published Time: 2016-06-23T21:32:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters]",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "science",
-        "webb"
-      ],
-      "hash": "5fd2013f6041d0a30adbd1a01c3d0ed21ec2be7200ed69da51d67d314a8c47be",
-      "learned_at": "2026-10-01T11:50:06+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/webb",
-      "title": "James Webb Space Telescope - NASA Science",
-      "summary": "Title: James Webb Space Telescope - NASA Science URL Source: https://www.nasa.gov/webb Published Time: 2023-05-25T08:11:06-04:00 Markdown Content: [](https://science.nasa.gov/mission/webb/faqs-full/) ### [Folding Design](https://science.nasa.gov/mission/webb/faqs-full/) So big it has to fold origami-style to fit in the rocket and will unfold like a “Transformer” in space. [](https://science.nasa.gov/mission/webb/faqs-full/) ### [1.5 Million km](https://science.nasa.gov/mission/webb/faqs-full/) Webb orbits the Sun 1.5 million kilometers from the Earth. (Hubble orbits 560 kilometers above the Earth.) [](https://science.nasa.gov/mission/webb/faqs-full/) ### [SPF 1 Million](https://science.nasa.gov/mission/webb/faqs-full/) Webb has a 5-layer sunshield that protects the telescope from the infrared radiation of the Sun, Earth, and Moon; like having sun protection of SPF 1 million. ## Featured ",
-      "keywords": [
-        "science",
-        "webb",
-        "nasa",
-        "gov",
-        "https",
-        "mission",
-        "faqs-full",
-        "releases",
-        "articles",
-        "assets",
-        "blogs",
-        "filters",
-        "images",
-        "million"
-      ],
-      "hash": "f98e4983326c84589b96b03358d6c7d0ca2520552d1e53497c9146f21eb6b818",
-      "learned_at": "2026-10-01T11:50:11+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2026/STScI-01KZPFTAQZJ6A47E4M9K8SC03K.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-      "title": "STScI-01KZPFTAQZJ6A47E4M9K8SC03K.png",
-      "summary": "Title: STScI-01KZPFTAQZJ6A47E4M9K8SC03K.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2026/STScI-01KZPFTAQZJ6A47E4M9K8SC03K.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: An abstract art piece with a center that seems to be a mix of fire painted in reds and oranges",
-      "keywords": [
-        "assets",
-        "png",
-        "science",
-        "stsci-01kzpftaqzj6a47e4m9k8sc03k",
-        "2026",
-        "300",
-        "abstract",
-        "art",
-        "center",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "faces"
-      ],
-      "hash": "b08c3ea8ebe90a7d1b94334a46f5da2bf64c7a3cca7b7f99365394788d966619",
-      "learned_at": "2026-10-01T17:38:31+00:00"
-    },
     {
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
       "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past - NASA Science",
@@ -19453,6 +19305,190 @@
       ],
       "hash": "dcd21626db46f0e6192e4b9e247e90f696642c534c06d7cd2b181a1d929f2eb6",
       "learned_at": "2026-10-20T21:19:41+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sb/radar.html",
+      "title": "Small-Body Radar Astrometry",
+      "summary": "Title: Small-Body Radar Astrometry URL Source: https://ssd.jpl.nasa.gov/sb/radar.html Markdown Content: ![Image 1: DSS 14 at Goldstone](https://ssd.jpl.nasa.gov/images/goldstone.jpg) DSS-14 70-m radio telelscope at Goldstone Radar [astrometry](https://ssd.jpl.nasa.gov/glossary/astrometry.html) refers to measurements of an object’s position and and velocity normally made in a portion of the microwave frequency spectrum between 0.4 and 13.9 GHz. A radar “delay” measurement is the elapsed time for a signal to travel from transmitter to receiver after reflecting off the target. “Doppler” is the frequency-change measured between receiver and transmitter after reflecting off the object, and is related to the net up and down-leg relative velocity of the object. Inclusion of radar astrometry adds out-of-plane information orthogonal to optical RA/DEC plane-of-sky astrometry. It has high fractiona",
+      "keywords": [
+        "---",
+        "radar",
+        "jpl",
+        "gov",
+        "https",
+        "nasa",
+        "astrometry",
+        "measurement",
+        "units",
+        "html",
+        "ssd",
+        "data",
+        "object",
+        "column"
+      ],
+      "hash": "fcf8395e7a756a7d713eba876fe3f771263083e2b3e5d04f61064ff8fa8b5502",
+      "learned_at": "2026-10-20T23:58:38+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/diagrams/",
+      "title": "Diagrams and Charts",
+      "summary": "Title: Diagrams and Charts URL Source: https://ssd.jpl.nasa.gov/diagrams/ Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/diagrams/#main_content) ![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 4: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 5: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 7: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/diagrams/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://s",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "diagrams",
+        "planets",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "1d2b8b9e9df13faf6227eb0f3f5905410970a611d3dd3b9ea1a755b4f379ee94",
+      "learned_at": "2026-10-20T23:58:39+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "0f1bbb8e46725f92fa01048e0851bb7adda01a4d8d06bfb89d4a5674461d1346",
+      "learned_at": "2026-10-20T23:58:48+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "54b9a83931e16b238990ca3e5896e90965eb9be0ebe78607a802a0f578c28fa7",
+      "learned_at": "2026-10-20T23:58:57+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/pioneer-1-able-2/",
+      "title": "Able 2 (Pioneer 1) - NASA Science",
+      "summary": "Title: Able 2 (Pioneer 1) - NASA Science URL Source: https://science.nasa.gov/mission/pioneer-1-able-2/ Published Time: 2017-12-21T23:09:55-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-medi",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "27a1a0de92942894e62bca07a07835d24289598324ad61a19b251647b1022993",
+      "learned_at": "2026-10-20T23:58:59+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/pioneer-p-3-able-4b/",
+      "title": "Able 4B (Pioneer P-3) - NASA Science",
+      "summary": "Title: Able 4B (Pioneer P-3) - NASA Science URL Source: https://science.nasa.gov/mission/pioneer-p-3-able-4b/ Published Time: 2017-11-14T23:22:54-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nas",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "8dc24f53a536677b9a5e6b1486d3708873db338605f32638ee05c2073cbb5cc3",
+      "learned_at": "2026-10-20T23:59:02+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/",
+      "title": "AirSTAR: For the Sake of Pilots and Passengers - NASA",
+      "summary": "Title: AirSTAR: For the Sake of Pilots and Passengers - NASA URL Source: https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/ Published Time: 2013-07-23T16:17:00Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](htt",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "fc3f937b8a21f1593acd2519859c81c2f243d4ce2c13d5994577a4522525f282",
+      "learned_at": "2026-10-20T23:59:07+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/analog-missions/",
+      "title": "Analog Missions - NASA",
+      "summary": "Title: Analog Missions - NASA URL Source: https://www.nasa.gov/analog-missions/ Published Time: 2023-04-25T13:07:40Z Markdown Content: [![Image 14: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 15: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.g",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "8ec2284b445ad7cf1fd2cfed33bfa5f056733f30cac62f02bd705290467805ca",
+      "learned_at": "2026-10-20T23:59:13+00:00"
     }
   ],
   "failures": [
@@ -19538,6 +19574,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-20T23:59:14+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-20T23:59:14+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 19,
+      "frontier": 1286
+    },
     {
       "at": "2026-10-20T21:19:41+00:00",
       "kind": "core_unchanged",
@@ -20437,40 +20488,14 @@
       "message": "Crawl cycle learned 3 new pages",
       "attempted": 24,
       "frontier": 617
-    },
-    {
-      "at": "2026-10-12T17:52:11+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v18",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-12T17:52:10+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 11,
-      "frontier": 624
     }
   ],
   "metrics": {
-    "successful_fetches": 800,
+    "successful_fetches": 808,
     "failed_fetches": 16,
     "duplicate_pages": 1,
     "candidate_promotions": 32,
-    "candidate_rejections": 103
+    "candidate_rejections": 104
   },
   "core_genome": {
     "query_weight": 3.0,
