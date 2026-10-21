@@ -1,17 +1,23 @@
 {
   "schema": 2,
-  "generation": 138,
-  "core_version": 33,
-  "runs": 137,
-  "pages_learned": 808,
-  "last_run": "2026-10-20T23:58:35+00:00",
+  "generation": 139,
+  "core_version": 34,
+  "runs": 138,
+  "pages_learned": 816,
+  "last_run": "2026-10-21T04:29:52+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/the-apollo-program/",
-    "http://pds.jpl.nasa.gov/home/about/",
     "http://pds.jpl.nasa.gov/home/users/",
     "http://pds.jpl.nasa.gov/home/proposers/",
     "http://pds.jpl.nasa.gov/home/providers/",
+    "http://www.jpl.nasa.gov/",
+    "http://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
+    "http://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
+    "http://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg",
+    "http://www.jpl.nasa.gov/",
+    "http://www.jpl.nasa.gov/who-we-are/",
+    "http://www.jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
+    "http://www.jpl.nasa.gov/who-we-are/history/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
@@ -100,6 +106,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/tf_pomona_present1.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/neos-new_XqytGqd.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
@@ -202,7 +209,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/directions3.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/383_93-1-640.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/373-2323-640.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/293_2752b-copy-640.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SI-82-11962-copy-640.width-1024.jpg",
@@ -220,6 +226,7 @@
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
     "https://datatracker.ietf.org/doc/html/rfc3875",
     "https://datacenter.iers.org/data/16/bulletinc-072.txt",
+    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://www.innovation-sandbox.in/",
@@ -288,25 +295,6 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://lroc.sese.asu.edu/",
     "http://www.caltech.edu/",
-    "https://www.nasa.gov/mission/apollo-1/",
-    "https://www.nasa.gov/mission/apollo-7/",
-    "https://www.nasa.gov/nasa-missions/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
-    "http://www.jpl.nasa.gov/",
-    "http://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
-    "http://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
-    "http://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg",
-    "http://www.jpl.nasa.gov/",
-    "http://www.jpl.nasa.gov/who-we-are/",
-    "http://www.jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
-    "http://www.jpl.nasa.gov/who-we-are/history/",
-    "https://solarsystem.nasa.gov/",
-    "https://spaceplace.nasa.gov/",
-    "https://voyager.jpl.nasa.gov/",
-    "https://ssd.jpl.nasa.gov/glossary/albedo.html",
-    "https://pds.jpl.nasa.gov/",
-    "https://photojournal.jpl.nasa.gov/",
-    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
     "https://www.iaucom4.org/",
     "https://www.iers.org/",
     "https://naif.jpl.nasa.gov/",
@@ -1292,7 +1280,29 @@
     "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1",
     "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
     "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024"
+    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024",
+    "https://pds.jpl.nasa.gov/home/about/",
+    "https://pds.jpl.nasa.gov/home/users/",
+    "https://pds.jpl.nasa.gov/home/proposers/",
+    "https://pds.jpl.nasa.gov/home/providers/",
+    "https://www.nasa.gov/mission/apollo-7/",
+    "https://www.nasa.gov/nasa-missions/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
+    "https://spaceplace.nasa.gov/resources/homepage/nasa.png",
+    "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png",
+    "https://spaceplace.nasa.gov/resources/homepage/logo.png",
+    "https://spaceplace.nasa.gov/sp/",
+    "https://spaceplace.nasa.gov/resources/homepage/search-button.png",
+    "https://spaceplace.nasa.gov/resources/homepage/nav_earth.png",
+    "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png",
+    "https://spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png",
+    "https://science.nasa.gov/skywatching/whats-up/",
+    "http://pds.jpl.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf",
+    "http://pds.jpl.nasa.gov/home/about/PDS_Charter_2015.docx",
+    "http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
+    "http://pds.jpl.nasa.gov/home/about/node-descriptions.shtml",
+    "http://pds.jpl.nasa.gov/contact/contact.shtml",
+    "http://pds.jpl.nasa.gov/images/PDS_OrgChart.jpg"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -5687,193 +5697,53 @@
       "at": "2026-10-20T23:59:13+00:00",
       "status": "ok",
       "hash": "8ec2284b445ad7cf1fd2cfed33bfa5f056733f30cac62f02bd705290467805ca"
+    },
+    "https://voyager.jpl.nasa.gov/": {
+      "at": "2026-10-21T04:29:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://ssd.jpl.nasa.gov/glossary/albedo.html": {
+      "at": "2026-10-21T04:29:55+00:00",
+      "status": "ok",
+      "hash": "bf19b265953bc7393d61ccd168c286793636d645ee3b71fd71818157d6cff5f6"
+    },
+    "https://pds.jpl.nasa.gov/": {
+      "at": "2026-10-21T04:29:56+00:00",
+      "status": "ok",
+      "hash": "d423ce927c1569169b861147a7377485f6aeb766d60b2a1e9b9ee9106d8e04b2"
+    },
+    "https://photojournal.jpl.nasa.gov/": {
+      "at": "2026-10-21T04:30:02+00:00",
+      "status": "ok",
+      "hash": "7df12936308c47db16ec6c1151d4d4b91eae162c0b3b37c59c54d0e92bee6f18"
+    },
+    "https://www.nasa.gov/the-apollo-program/": {
+      "at": "2026-10-21T04:30:05+00:00",
+      "status": "ok",
+      "hash": "b699c0ec36ca39296b9096614d0443e438208d293be80d4a05eb9e30a4c566ee"
+    },
+    "https://www.nasa.gov/mission/apollo-1/": {
+      "at": "2026-10-21T04:30:13+00:00",
+      "status": "ok",
+      "hash": "edee174f8b92a2c26d3a5b00f38f71b834dbe6e509ce413b51e4fa16f5640259"
+    },
+    "https://solarsystem.nasa.gov/": {
+      "at": "2026-10-21T04:30:18+00:00",
+      "status": "ok",
+      "hash": "b00dc223e247596eb4d7dbf28cdc076bb25ce25045df83f2a7c04852083c1705"
+    },
+    "https://spaceplace.nasa.gov/": {
+      "at": "2026-10-21T04:30:23+00:00",
+      "status": "ok",
+      "hash": "dae64935fb3183b06f90221da4a7d0cb04ffccd74f3274929af641466277cb32"
+    },
+    "http://pds.jpl.nasa.gov/home/about/": {
+      "at": "2026-10-21T04:30:24+00:00",
+      "status": "ok",
+      "hash": "ef3b24383eaba6b3b373b43e588202f5ddb3247a2a8ef63728ee29371a393519"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past - NASA Science",
-      "summary": "Title: NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/ Published Time: 2026-09-08T10:00:28-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/)",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "webb"
-      ],
-      "hash": "5f5a9d1a3e143eed0e7a984a02c7d9467a57c1f669cbf1b4ee05d02f78c4db94",
-      "learned_at": "2026-10-01T17:38:35+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/",
-      "title": "NASA's Hubble Shows Milky Way is Destined for Head-On Collision - NASA Science",
-      "summary": "Title: NASA's Hubble Shows Milky Way is Destined for Head-On Collision - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/ Published Time: 2012-05-31T08:52:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Socia",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "8cc17e99cb54fbad45552d22a3f183186dd4726b39164dbd224560cf2f6f6957",
-      "learned_at": "2026-10-01T17:38:39+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg",
-      "title": "55457472091-12a8c7edb0-o.jpg (8200×11220)",
-      "summary": "Title: 55457472091-12a8c7edb0-o.jpg (8200×11220) URL Source: https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg Markdown Content:",
-      "keywords": [
-        "55457472091-12a8c7edb0-o",
-        "jpg",
-        "11220",
-        "2026",
-        "8200",
-        "content",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "source",
-        "title",
-        "uploads",
-        "url"
-      ],
-      "hash": "2b0e9b3f10a6aa585e3e5c205ab6345722489747cd7d847e3177cf908912bf95",
-      "learned_at": "2026-10-01T17:38:48+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/",
-      "title": "Studying the Planets and Moons - NASA Science",
-      "summary": "Title: Studying the Planets and Moons - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/studying-the-planets-and-moons/ Published Time: 2021-12-22T01:46:14-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialm",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "5a1286a265c9cfbeffea00d3239241ece4e1f748070a983caa26a6ce3b533273",
-      "learned_at": "2026-10-01T22:00:06+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/",
-      "title": "Tracking Evolution in the Asteroid Belt - NASA Science",
-      "summary": "Title: Tracking Evolution in the Asteroid Belt - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/tracking-evolution-in-the-asteroid-belt/ Published Time: 2021-12-22T02:07:40-05:00 Markdown Content: Between the orbits of Mars and Jupiter lies a large concentration of asteroids, which are conglomerates of rock and ice that hold clues to the formation of our solar system. This ‘Asteroid Belt’ is the rubble left over from the construction of our solar system, and Hubble’s observations have helped shape our understanding of their interactions and compositions. * ### **A Fragmented Asteroid** Hubble watched the slow disintegration of asteroid P/2013 R3 into 10 smaller pieces. The Hubble data revealed that the fragments are drifting away from each other at a leisurely one mile per hour — slower than the speed of a strolling human — which suggests the ",
-      "keywords": [
-        "asteroid",
-        "hubble",
-        "nasa",
-        "science",
-        "asteroids",
-        "belt",
-        "gov",
-        "https",
-        "collision",
-        "comet",
-        "dust",
-        "like",
-        "missions",
-        "other"
-      ],
-      "hash": "58df15633ca75dc8c2bbdc9641c88d7cec37c15c4b53138485db2bf1b66e9478",
-      "learned_at": "2026-10-01T22:00:10+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark",
-      "title": "Keeping NASA’s James Webb Space Telescope in the Dark - NASA",
-      "summary": "Title: Keeping NASA’s James Webb Space Telescope in the Dark - NASA URL Source: https://www.nasa.gov/feature/goddard/2017/keeping-nasa-s-james-webb-space-telescope-in-the-dark Published Time: 2017-09-12T13:39:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsle",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "events",
-        "images",
-        "multimedia",
-        "science",
-        "image",
-        "plus",
-        "podcasts",
-        "webb"
-      ],
-      "hash": "563642b30248e79719a26dee7e372a09a32900df39cbb2ffe99cb524c0d38aeb",
-      "learned_at": "2026-10-01T22:00:15+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-      "title": "Webb Opens Treasure Chest - NASA",
-      "summary": "Title: Webb Opens Treasure Chest - NASA URL Source: https://www.nasa.gov/image-article/webb-opens-treasure-chest/ Published Time: 2026-08-21T17:35:11Z Markdown Content: [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Med",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "webb"
-      ],
-      "hash": "6ed3b7e956c2bef6a8bc999a5b9c3f984e3c6998f7725ebb7e1c639c71caedf5",
-      "learned_at": "2026-10-01T22:00:19+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-witnesses-asteroids-mysterious-disintegration/",
-      "title": "NASA's Hubble Telescope Witnesses Asteroid's Mysterious Disintegration - NASA Science",
-      "summary": "Title: NASA's Hubble Telescope Witnesses Asteroid's Mysterious Disintegration - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasas-hubble-telescope-witnesses-asteroids-mysterious-disintegration/ Published Time: 2014-03-06T16:00:00-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newslette",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "815cbaacb4af93a9f087a77f3bc074acec05e0e868cd74d00a1eee9798ea1467",
-      "learned_at": "2026-10-02T01:35:51+00:00"
-    },
     {
       "url": "https://science.nasa.gov/missions/hubble/suspected-asteroid-collision-leaves-odd-x-pattern-of-trailing-debris/",
       "title": "Suspected Asteroid Collision Leaves Odd X-Pattern of Trailing Debris - NASA Science",
@@ -19489,6 +19359,190 @@
       ],
       "hash": "8ec2284b445ad7cf1fd2cfed33bfa5f056733f30cac62f02bd705290467805ca",
       "learned_at": "2026-10-20T23:59:13+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/glossary/albedo.html",
+      "title": "Albedo",
+      "summary": "Title: Albedo URL Source: https://ssd.jpl.nasa.gov/glossary/albedo.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/glossary/albedo.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/glossary/albedo.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov/faq.html) ",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "albedo",
+        "planets",
+        "glossary",
+        "sats",
+        "ephemerides",
+        "image",
+        "images"
+      ],
+      "hash": "bf19b265953bc7393d61ccd168c286793636d645ee3b71fd71818157d6cff5f6",
+      "learned_at": "2026-10-21T04:29:55+00:00"
+    },
+    {
+      "url": "https://pds.jpl.nasa.gov/",
+      "title": "Welcome to the Planetary Data System",
+      "summary": "Title: Welcome to the Planetary Data System URL Source: https://pds.jpl.nasa.gov/ Markdown Content: The Planetary Data System (PDS) is a long-term archive of digital data products returned from NASA's planetary missions, and from other kinds of flight and ground-based data acquisitions, including laboratory experiments. But it is more than just a facility - the archive is actively managed by planetary scientists to help ensure its usefulness and usability by the world wide planetary science community. Archive submissions are prepared by researchers under the guidance of PDS personnel. All products are peer-reviewed, well-documented, and easily accessible via a system of online catalogs that are organized by planetary disciplines. Archived products are available on-line. When needed, PDS provides users access to staff to help with data selection. PDS also provides a variety of tools usefu",
+      "keywords": [
+        "data",
+        "pds",
+        "products",
+        "nasa",
+        "planetary",
+        "archive",
+        "gov",
+        "https",
+        "jpl",
+        "proposal",
+        "users",
+        "archived",
+        "home",
+        "tools"
+      ],
+      "hash": "d423ce927c1569169b861147a7377485f6aeb766d60b2a1e9b9ee9106d8e04b2",
+      "learned_at": "2026-10-21T04:29:56+00:00"
+    },
+    {
+      "url": "https://photojournal.jpl.nasa.gov/",
+      "title": "Photojournal - NASA Science",
+      "summary": "Title: Photojournal - NASA Science URL Source: https://photojournal.jpl.nasa.gov/ Published Time: 2025-09-29T10:19:25-04:00 Markdown Content: [![Image 10: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 11: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multi",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "7df12936308c47db16ec6c1151d4d4b91eae162c0b3b37c59c54d0e92bee6f18",
+      "learned_at": "2026-10-21T04:30:02+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/the-apollo-program/",
+      "title": "The Apollo Program - NASA",
+      "summary": "Title: The Apollo Program - NASA URL Source: https://www.nasa.gov/the-apollo-program/ Published Time: 2023-03-23T19:50:28Z Markdown Content: [![Image 19: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 20: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "b699c0ec36ca39296b9096614d0443e438208d293be80d4a05eb9e30a4c566ee",
+      "learned_at": "2026-10-21T04:30:05+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/mission/apollo-1/",
+      "title": "Apollo 1 - NASA",
+      "summary": "Title: Apollo 1 - NASA URL Source: https://www.nasa.gov/mission/apollo-1/ Published Time: 2023-05-04T13:18:15Z Markdown Content: [![Image 7: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 8: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov/news/",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "edee174f8b92a2c26d3a5b00f38f71b834dbe6e509ce413b51e4fa16f5640259",
+      "learned_at": "2026-10-21T04:30:13+00:00"
+    },
+    {
+      "url": "https://solarsystem.nasa.gov/",
+      "title": "Solar System Exploration",
+      "summary": "Title: Solar System Exploration URL Source: https://solarsystem.nasa.gov/ Published Time: 2023-06-08T13:04:16-04:00 Markdown Content: [![Image 11: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 12: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ##",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "b00dc223e247596eb4d7dbf28cdc076bb25ce25045df83f2a7c04852083c1705",
+      "learned_at": "2026-10-21T04:30:18+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/",
+      "title": "NASA Space Place – NASA Science for Kids",
+      "summary": "Title: NASA Space Place – NASA Science for Kids URL Source: https://spaceplace.nasa.gov/ Markdown Content: 404 [![Image 6: Link to nasa.gov](https://spaceplace.nasa.gov/resources/homepage/nasa.png)](https://www.nasa.gov/) [![Image 7: Link to science.nasa.gov.](https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png)](https://science.nasa.gov/)[![Image 8: Image that reads Space Place and links to spaceplace.nasa.gov.](https://spaceplace.nasa.gov/resources/homepage/logo.png)](https://spaceplace.nasa.gov/) [Vea en Español](https://spaceplace.nasa.gov/sp/) ![Image 9: Search button.](https://spaceplace.nasa.gov/resources/homepage/search-button.png) Searching... Related Articles * [![Image 10: Icon for the relevant article.](https://spaceplace.nasa.gov/)](https://spaceplace.nasa.gov/) [See all...](https://spaceplace.nasa.gov/) [![Image 11: Illustration of Earth that lin",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "spaceplace",
+        "image",
+        "homepage",
+        "resources",
+        "menu",
+        "png",
+        "space",
+        "place",
+        "links",
+        "illustration",
+        "moon"
+      ],
+      "hash": "dae64935fb3183b06f90221da4a7d0cb04ffccd74f3274929af641466277cb32",
+      "learned_at": "2026-10-21T04:30:23+00:00"
+    },
+    {
+      "url": "http://pds.jpl.nasa.gov/home/about/",
+      "title": "PDS: About the PDS",
+      "summary": "Title: PDS: About the PDS URL Source: http://pds.jpl.nasa.gov/home/about/ Markdown Content: The PDS is a federation of nine teams geographically distributed around the U.S. Six are science discipline nodes, focusing on Atmospheres, Geosciences, Cartography and Imaging Sciences, Planetary Plasma Interactions, Ring-Moon Systems, and Small Bodies. There are two support nodes: the Engineering Node, and the Navigation and Ancillary Information Node. The ninth team is the project management group, which includes a project scientist function. Several of the nodes have \"sub-nodes\" to help with a specific aspect of the node's discipline. Several of the nodes oversee one or more data nodes, established for a short period of time to deliver a specific data collection to the PDS. Each node is led by an expert in the subject discipline, and each has an advisory group made up of other practitioners of",
+      "keywords": [
+        "pds",
+        "nasa",
+        "node",
+        "gov",
+        "http",
+        "jpl",
+        "nodes",
+        "home",
+        "contact",
+        "discipline",
+        "each",
+        "information",
+        "report",
+        "data"
+      ],
+      "hash": "ef3b24383eaba6b3b373b43e588202f5ddb3247a2a8ef63728ee29371a393519",
+      "learned_at": "2026-10-21T04:30:24+00:00"
     }
   ],
   "failures": [
@@ -19574,6 +19628,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-21T04:30:25+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v34",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-21T04:30:25+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 12,
+      "frontier": 1296
+    },
     {
       "at": "2026-10-20T23:59:14+00:00",
       "kind": "core_unchanged",
@@ -20473,28 +20553,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 10,
       "frontier": 623
-    },
-    {
-      "at": "2026-10-13T00:01:40+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-13T00:01:40+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 3 new pages",
-      "attempted": 24,
-      "frontier": 617
     }
   ],
   "metrics": {
-    "successful_fetches": 808,
+    "successful_fetches": 816,
     "failed_fetches": 16,
     "duplicate_pages": 1,
-    "candidate_promotions": 32,
+    "candidate_promotions": 33,
     "candidate_rejections": 104
   },
   "core_genome": {
@@ -20527,11 +20592,11 @@
     "ssd.jpl.nasa.gov",
     "science.nasa.gov",
     "nssdc.gsfc.nasa.gov",
-    "ssd-api.jpl.nasa.gov",
-    "jpl.nasa.gov",
+    "www.sebi.gov.in",
+    "naif.jpl.nasa.gov",
     "cneos.jpl.nasa.gov",
     "assets.science.nasa.gov",
-    "naif.jpl.nasa.gov",
+    "ssd-api.jpl.nasa.gov",
     "www.nature.com"
   ]
 }
