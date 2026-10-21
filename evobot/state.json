@@ -1,24 +1,26 @@
 {
   "schema": 2,
-  "generation": 140,
+  "generation": 141,
   "core_version": 34,
-  "runs": 139,
-  "pages_learned": 823,
-  "last_run": "2026-10-21T09:33:30+00:00",
+  "runs": 140,
+  "pages_learned": 831,
+  "last_run": "2026-10-21T14:38:33+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/48/6e/486efad5-ae26-4244-b351-1dfd3b36aabc/perseverancelanding.jpg__930x580_q85_crop_subject_location-465%2C290_subsampling-2.jpg",
+    "https://astrobiology.nasa.gov/missions/2020-mars-rover/",
+    "http://www.jpl.nasa.gov/events/tours/views/",
+    "https://pib.gov.in/mainfunctionsh.aspx",
+    "https://pib.gov.in/headsofpibh.aspx",
+    "https://therbimuseum.rbi.org.in/",
+    "https://rbi.org.in/home.aspx",
+    "https://cab.rbi.org.in/",
+    "https://cos.rbi.org.in/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
-    "https://therbimuseum.rbi.org.in/",
-    "https://rbi.org.in/home.aspx",
-    "https://cab.rbi.org.in/",
-    "https://cos.rbi.org.in/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/MoonFall-deployment-with-Elytr.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa-sunrise-missi.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpl_postdocs.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
@@ -32,10 +34,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebcassini_shJEz9d.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmaia1_59GALzi.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebinspire_xteHIU7.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NHQ20260830_admin_0002orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesmars202020200714PIA23720.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26771_Mars-crescent-pYden.2e16d0ba.fill-400x400-c50.jpg",
@@ -87,6 +85,13 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg",
     "http://www.imf.org/en/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://www.glassdoor.com/Jobs/NASA-Jet-Propulsion-Laboratory-Jobs-E116768.htm",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://x.com/NASASpaceAlerts",
@@ -190,6 +195,11 @@
     "https://pds-ppi.igpp.ucla.edu/",
     "https://pds-rings.seti.org/",
     "https://pds-smallbodies.astro.umd.edu/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
@@ -283,30 +293,6 @@
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://lroc.sese.asu.edu/",
     "http://www.caltech.edu/",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/",
-    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
-    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
-    "https://ssd.jpl.nasa.gov/sb/neos.html",
-    "https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets",
-    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg",
-    "https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://www.facebook.com/dialog/feed?app_id=361412888534196&link=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids",
-    "https://twitter.com/share?url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids&text=Eyes+on+Asteroids&via=NASAJPL",
-    "https://reddit.com/submit?url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids&title=Eyes+on+Asteroids",
-    "https://eyes.nasa.gov/apps/asteroids/",
-    "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/",
-    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620%2C254_subsampling-2.jpg",
-    "https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/",
-    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/48/6e/486efad5-ae26-4244-b351-1dfd3b36aabc/perseverancelanding.jpg__930x580_q85_crop_subject_location-465%2C290_subsampling-2.jpg",
-    "https://astrobiology.nasa.gov/missions/2020-mars-rover/",
-    "https://pib.gov.in/mainfunctionsh.aspx",
-    "https://pib.gov.in/headsofpibh.aspx",
-    "http://www.jpl.nasa.gov/events/tours/views/",
-    "https://www.jpl.nasa.gov/about_JPL/maps.php",
     "https://jplwater.nasa.gov/",
     "https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt",
     "https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt",
@@ -1328,7 +1314,38 @@
     "http://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg",
     "http://www.jpl.nasa.gov/who-we-are/",
     "http://www.jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
-    "http://www.jpl.nasa.gov/who-we-are/history/"
+    "http://www.jpl.nasa.gov/who-we-are/history/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/debias/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/obsolete/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/synth_imp/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/yarkovsky/",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/Horizons_TLS_access.txt",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/MI.DB",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/README.txt",
+    "https://ssd.jpl.nasa.gov/ftp/ssd/SPKID.DB",
+    "https://ssd.jpl.nasa.gov/dat/Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf",
+    "https://ssd.jpl.nasa.gov/sb/neos.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebarrm_61DYT4A.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebneowise_OvGk75p.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebdeep_impact_k3IVDXN.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_5AhIZGp.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiro_HHs24IW.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebhayabusa_W6NDE5n.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.jpl.nasa.gov/about_JPL/maps.php",
+    "https://eyes.nasa.gov/apps/asteroids/assets/default/svg/learn.svg",
+    "https://eyes.nasa.gov/apps/asteroids/assets/svg/asteroid.svg",
+    "https://eyes.nasa.gov/apps/asteroids/assets/svg/filter_inactive.svg",
+    "https://eyes.nasa.gov/apps/asteroids/assets/default/svg/learn.svg",
+    "https://eyes.nasa.gov/apps/asteroids/assets/svg/asteroid.svg",
+    "https://eyes.nasa.gov/apps/asteroids/assets/svg/filter_inactive.svg",
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg",
+    "https://astrobiology.nasa.gov/static/assets/images/global/nasa-astro-logo@2x.47739212d6ef.png",
+    "https://astrobiology.nasa.gov/static/assets/images/global/nasa-astro-logo-mobile@2x.c45d61a99d34.png",
+    "https://astrobiology.nasa.gov/research/",
+    "https://astrobiology.nasa.gov/news/",
+    "https://science.nasa.gov/astrobiology/",
+    "https://www.agu.org/abscicon",
+    "https://www.agu.org/abscicon"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -5814,193 +5831,61 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26781.2e16d0ba.fill-400x400-c50.png": {
       "at": "2026-10-21T09:33:52+00:00",
       "status": "robots_disallow"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/": {
+      "at": "2026-10-21T14:38:36+00:00",
+      "status": "ok",
+      "hash": "ebcf4f665f8098dd6fce8c5c0168de7cb7f375c02fc1df0ca3b9b5a2da7de541"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README": {
+      "at": "2026-10-21T14:38:38+00:00",
+      "status": "ok",
+      "hash": "d42f7788701b7042180bc0d6ec049a85d49282b4f277059ca93e6c5cb5861029"
+    },
+    "https://twitter.com/share?url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids&text=Eyes+on+Asteroids&via=NASAJPL": {
+      "at": "2026-10-21T14:38:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://reddit.com/submit?url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids&title=Eyes+on+Asteroids": {
+      "at": "2026-10-21T14:38:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets": {
+      "at": "2026-10-21T14:38:41+00:00",
+      "status": "ok",
+      "hash": "e700377aa7f53addea9c7ebec0637ef4aba6fa597b3c1d12f347a4665dcf2986"
+    },
+    "https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif": {
+      "at": "2026-10-21T14:38:45+00:00",
+      "status": "ok",
+      "hash": "69f5336239ddcb42ccfffecbfa84372797c498d3d536dac88417c2f96f7ecfe1"
+    },
+    "https://www.facebook.com/dialog/feed?app_id=361412888534196&link=https%3A%2F%2Fwww.jpl.nasa.gov%2Fasteroid-watch%2Feyes-on-asteroids": {
+      "at": "2026-10-21T14:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/": {
+      "at": "2026-10-21T14:38:48+00:00",
+      "status": "ok",
+      "hash": "faf197b43c344447688504b5ac5de48e93f09ebc007084b6ee7fc801b4a216ff"
+    },
+    "https://eyes.nasa.gov/apps/asteroids/": {
+      "at": "2026-10-21T14:38:54+00:00",
+      "status": "ok",
+      "hash": "be816f8424a0f1cdf6b9f4c4bbb5d3cb550a65889a7963e0f72ae7de0f661cba"
+    },
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620%2C254_subsampling-2.jpg": {
+      "at": "2026-10-21T14:38:59+00:00",
+      "status": "ok",
+      "hash": "97ac3d18550edc262616b3daf8b62ca465f290e790a34ac740087bdcb70e572e"
+    },
+    "https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/": {
+      "at": "2026-10-21T14:39:00+00:00",
+      "status": "ok",
+      "hash": "00edf8dc98dccd8e7c192cbbda67a487df0384341418c3f15020b7a7988892b3"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/recognizing-worlds-beyond-our-sun/",
-      "title": "Recognizing Worlds Beyond Our Sun - NASA Science",
-      "summary": "Title: Recognizing Worlds Beyond Our Sun - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/recognizing-worlds-beyond-our-sun/ Published Time: 2021-12-22T00:32:18-05:00 Markdown Content: When Hubble launched in 1990, there were no confirmed planets outside of our solar system. Hubble’s unique capabilities allow it to explore planetary systems around other stars. Scientists have since established the existence of more than 5,000 extrasolar planets. Hubble’s unique contributions to the planet hunt include taking the first measurements of the atmospheric composition of extrasolar planets. Its observations have identified atmospheres that contain sodium, oxygen, carbon, hydrogen, carbon dioxide, methane, helium, and water vapor. Hubble observations demonstrate that we can detect and measure the basic organic components for life on planets orbiting o",
-      "keywords": [
-        "hubble",
-        "planets",
-        "nasa",
-        "science",
-        "water",
-        "planet",
-        "around",
-        "extrasolar",
-        "first",
-        "gov",
-        "https",
-        "observations",
-        "other",
-        "star"
-      ],
-      "hash": "59cba936b142f421afc0a7573cdf9c4fc585c0efae3ba351e5005b6969877777",
-      "learned_at": "2026-10-02T19:15:35+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-eros.en.png",
-      "title": "asteroid-eros.en.png",
-      "summary": "Title: asteroid-eros.en.png URL Source: https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-eros.en.png Markdown Content: a white olid dunked in black",
-      "keywords": [
-        "asteroid-eros",
-        "png",
-        "asteroid-or-meteor",
-        "black",
-        "content",
-        "dunked",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "olid",
-        "source",
-        "spaceplace",
-        "title"
-      ],
-      "hash": "1368fa5934985eb5750cb17b0aacbb267ea78355745de248d258d37e70f2406d",
-      "learned_at": "2026-10-02T19:15:38+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-belt.en.jpg",
-      "title": "asteroid-belt.en.jpg",
-      "summary": "Title: asteroid-belt.en.jpg URL Source: https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-belt.en.jpg Markdown Content: A geocentric depiction of the solar system displaying the asteroid belt and planets closest to the sun",
-      "keywords": [
-        "asteroid-belt",
-        "jpg",
-        "asteroid",
-        "asteroid-or-meteor",
-        "belt",
-        "closest",
-        "content",
-        "depiction",
-        "displaying",
-        "geocentric",
-        "gov",
-        "https",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "1162ef6da8e04749ef73e291cdca9388bed5996ee5b85499104e6514e7e3c1b5",
-      "learned_at": "2026-10-02T19:15:43+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp?w=1024",
-      "title": "hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp",
-      "summary": "Title: hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ultra_deep_field_stsci-prc04-07a-jpg.webp?w=1024 Published Time: Fri, 02 Oct 2026 23:03:32 GMT Markdown Content: This is mapping out a galaxy cluster in a light mode that Hopkins Space Telescope Built",
-      "keywords": [
-        "hubble_ultra_deep_field_stsci-prc04-07a-jpg",
-        "webp",
-        "1024",
-        "2023",
-        "2026",
-        "built",
-        "cluster",
-        "content",
-        "fri",
-        "galaxy",
-        "gmt",
-        "gov",
-        "hopkins",
-        "https"
-      ],
-      "hash": "90c4588babe86f843fb1076ec3ee537404fc55e897a3415899a5f12e850eaa48",
-      "learned_at": "2026-10-02T23:03:35+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/nasa-observatories-take-an-unprecedented-look-into-superstar-eta-carinae/",
-      "title": "NASA Observatories Take an Unprecedented Look into Superstar Eta Carinae - NASA Science",
-      "summary": "Title: NASA Observatories Take an Unprecedented Look into Superstar Eta Carinae - NASA Science URL Source: https://science.nasa.gov/missions/hubble/nasa-observatories-take-an-unprecedented-look-into-superstar-eta-carinae/ Published Time: 2015-01-05T20:00:00-05:00 Markdown Content: Eta Carinae, the most luminous and massive stellar system within 10,000 light-years of Earth, is known for its surprising behavior, erupting twice in the 19th century for reasons scientists still don't understand. A long-term study led by astronomers at NASA's Goddard Space Flight Center in Greenbelt, Maryland, used NASA satellites, ground-based telescopes and theoretical modeling to produce the most comprehensive picture of Eta Carinae to date. New findings include Hubble Space Telescope images that show decade-old shells of ionized gas racing away from the largest star at a million miles an hour, and new 3-D ",
-      "keywords": [
-        "nasa",
-        "carinae",
-        "eta",
-        "goddard",
-        "star",
-        "million",
-        "space",
-        "stars",
-        "times",
-        "astronomers",
-        "away",
-        "behavior",
-        "center",
-        "flight"
-      ],
-      "hash": "044e66467c889b077fb4b71d72a0224e1668e2ead9813fc4dd2daa55f718aaf9",
-      "learned_at": "2026-10-02T23:03:39+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/stsci-prc11-15a-jpg.webp?w=1024",
-      "title": "stsci-prc11-15a-jpg.webp",
-      "summary": "Title: stsci-prc11-15a-jpg.webp URL Source: https://science.nasa.gov/wp-content/uploads/2023/04/stsci-prc11-15a-jpg.webp?w=1024 Published Time: Sat, 03 Oct 2026 01:53:28 GMT Markdown Content: Orion Nebula was observed studing different points in space in different dates",
-      "keywords": [
-        "different",
-        "stsci-prc11-15a-jpg",
-        "webp",
-        "1024",
-        "2023",
-        "2026",
-        "content",
-        "dates",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "nebula"
-      ],
-      "hash": "3ea928c2add93fdf860d99085aa662411d0af15b266d949f55da247551fb2107",
-      "learned_at": "2026-10-03T01:53:30+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/hubble-delivers-first-hints-of-possible-water-content-of-trappist-1-planets/",
-      "title": "Hubble delivers first hints of possible water content of TRAPPIST-1 planets - NASA Science",
-      "summary": "Title: Hubble delivers first hints of possible water content of TRAPPIST-1 planets - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-delivers-first-hints-of-possible-water-content-of-trappist-1-planets/ Published Time: 2017-08-31T06:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.g",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "76e054254287e2bfbfccb1f2e118404890307a08d6a61d7d2314b5dc8311f8ca",
-      "learned_at": "2026-10-03T01:53:34+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-meteoroid.en.png",
-      "title": "asteroid-meteoroid.en.png",
-      "summary": "Title: asteroid-meteoroid.en.png URL Source: https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-meteoroid.en.png Markdown Content: Theater diagram of meteoroids and asteroids",
-      "keywords": [
-        "asteroid-meteoroid",
-        "png",
-        "asteroid-or-meteor",
-        "asteroids",
-        "content",
-        "diagram",
-        "gov",
-        "https",
-        "markdown",
-        "meteoroids",
-        "nasa",
-        "source",
-        "spaceplace",
-        "theater"
-      ],
-      "hash": "36edf8c6419eceb22ceba19f1167df797f710f2a058d0f6d0507bc47e8ea9704",
-      "learned_at": "2026-10-03T01:53:36+00:00"
-    },
     {
       "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/meteor-shower.en.png",
       "title": "meteor-shower.en.png",
@@ -19616,6 +19501,190 @@
       ],
       "hash": "1a7c839355b30d888a381775a34ed6a63874bd9ca4bba6daa9eee4f73e44ece4",
       "learned_at": "2026-10-21T09:33:51+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/",
+      "title": "Public FTP File Browser",
+      "summary": "Title: Public FTP File Browser URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/ssd/#main_content) ## Public FTP File Browser ### Index of /ftp/ssd/ | Name | Last Modified | Size | Type | | --- | --- | --- | --- | | [Parent Directory](https://ssd.jpl.nasa.gov/ftp/)/ | | - | Directory | | [SCRIPTS](https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/)/ | 2025-11-12 21:46 | - | Directory | | [debias](https://ssd.jpl.nasa.gov/ftp/ssd/debias/)/ | 2019-09-12 22:06 | - | Directory | | [obsolete](https://ssd.jpl.nasa.gov/ftp/ssd/obsolete/)/ | 2021-12-02 08:53 | - | Directory | | [synth_imp](https://ssd.jpl.nasa.gov/ftp/ssd/synth_imp/)/ | 2026-09-28 19:09 | - | Directory | | [yarkovsky](https://ssd.jpl.nasa.gov/ftp/ssd/yarkovsky/)/ | 2023-06-05 21:02 | - | Directory | | [Configuring_Mail_Clients_to_Send_Plain_ASCII_Text.pdf](https://ssd.jpl.nasa",
+      "keywords": [
+        "ssd",
+        "ftp",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "file",
+        "txt",
+        "directory",
+        "2026-10-21",
+        "long",
+        "---",
+        "2023-02-22",
+        "dat"
+      ],
+      "hash": "ebcf4f665f8098dd6fce8c5c0168de7cb7f375c02fc1df0ca3b9b5a2da7de541",
+      "learned_at": "2026-10-21T14:38:36+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
+      "title": "ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
+      "summary": "NOTE: Scripting the terminal interface for automation is a deprecated approach. Instead, use the API documented here: https://ssd-api.jpl.nasa.gov/doc/horizons.html The terminal interfaces are primarily for NON-AUTOMATED interaction: those who prefer to type, do quick look-ups, or be actively prompted through request set-up. However, it does demand fewer resources from the server and client. The scripts here were demonstrations of one way to automate prior to the API, mostly a collection of informal responses to inquiries on how to automate one thing or another. They are now updated as transitional support for users who may have embedded prior versions in their automation and for whom immediate redevelopment to use the API isn't an option. Keyboard warriors may also use them as macros. Scripts for automating some of the Horizons terminal interface functions are listed below. They are ava",
+      "keywords": [
+        "jdg",
+        "expect",
+        "scripts",
+        "updated",
+        "https",
+        "support",
+        "tcl",
+        "terminal",
+        "use",
+        "api",
+        "automation",
+        "ftp",
+        "horizons",
+        "new"
+      ],
+      "hash": "d42f7788701b7042180bc0d6ec049a85d49282b4f277059ca93e6c5cb5861029",
+      "learned_at": "2026-10-21T14:38:38+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets",
+      "title": "NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets Markdown Content: ## Search Missions Sort by Showing 1–12 of 12 results 1. [Category: Mission.Category: current. Category: Mission.Category: current. ## Psyche The Psyche mission is a journey to a unique metal-rich asteroid orbiting the Sun between Mars and Jupiter. . Launch date: Oct. 13, 2023 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA21499-20170523-1.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/missions/psyche/) 2. [Category: Mission.Category: past. Category: Mission.Category: past. ## Near Earth Asteroid Scout The Near-Earth Asteroid Scout was a CubeSat that launched as a secondary payload on Artemis I. . Launch date: September 2022 ![Image 2](https://d2pn8kiwq2w21t.cloudfront",
+      "keywords": [
+        "category",
+        "mission",
+        "https",
+        "nasa",
+        "jpl",
+        "missions",
+        "asteroid",
+        "past",
+        "gov",
+        "www",
+        "2e16d0ba",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "fill-400x400-c50"
+      ],
+      "hash": "e700377aa7f53addea9c7ebec0637ef4aba6fa597b3c1d12f347a4665dcf2986",
+      "learned_at": "2026-10-21T14:38:41+00:00"
+    },
+    {
+      "url": "https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif",
+      "title": "Photojournal - NASA Science",
+      "summary": "Title: Photojournal - NASA Science URL Source: https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif Published Time: 2025-09-29T10:19:25-04:00 Markdown Content: [![Image 10: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 11: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-c",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "69f5336239ddcb42ccfffecbfa84372797c498d3d536dac88417c2f96f7ecfe1",
+      "learned_at": "2026-10-21T14:38:45+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/",
+      "title": "Fast Facts | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Fast Facts | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/asteroid-watch/fast-facts/ Markdown Content: What are the differences between an asteroid, comet, meteoroid, meteor, and meteorite? **Asteroid** A relatively small, inactive body orbiting the Sun. Asteroids are typically composed of rocky, dusty, and metallic materials. Most orbit within the main asteroid belt, between the orbits of Mars and Jupiter, but some follow paths that circulate into the inner solar system (including near-Earth asteroids), while others remain outside the orbit of Neptune. **Comet** A relatively small Sun-orbiting body that contains ices that vaporize when it gets close to the Sun and heats up, forming a large visible atmosphere (coma) around the object and, sometimes, a diffuse tail that can be millions of miles long. Comets typically follow long elliptical orbits in whi",
+      "keywords": [
+        "asteroid",
+        "atmosphere",
+        "meteoroid",
+        "small",
+        "earth",
+        "meteor",
+        "sun",
+        "asteroids",
+        "between",
+        "body",
+        "comet",
+        "follow",
+        "jpl",
+        "long"
+      ],
+      "hash": "faf197b43c344447688504b5ac5de48e93f09ebc007084b6ee7fc801b4a216ff",
+      "learned_at": "2026-10-21T14:38:48+00:00"
+    },
+    {
+      "url": "https://eyes.nasa.gov/apps/asteroids/",
+      "title": "Eyes on Asteroids - NASA/JPL",
+      "summary": "Title: Eyes on Asteroids - NASA/JPL URL Source: https://eyes.nasa.gov/apps/asteroids/ Markdown Content: Sun Earth Milky way Observable universe Bennu Apophis Donaldjohanson Eurybates Polymele Leucus Orus Patroclus barycenter Dinkinesh Mars 16 Psyche Tempel 1 Hartley 2 Braille Borrelly Mathilde Eros Patroclus OSIRIS-APEX Lucy Psyche Annefrank Wild 2 Jupiter Menoetius Vesta Ceres 67P/Churyumov-Gerasimenko Venus Mercury Didymos Saturn Uranus Neptune Dactyl Ida Dysnomia Eris Hi'iaka Haumea Namaka Gaspra Lutetia Itokawa Ryugu Moon Callisto Europa Ganymede Deimos Triton 73P/Schwassmann-Wachmann 3 Iapetus Rhea Tethys Titan Ariel Oberon Titania Umbriel Dimorphos Io Phobos Dione Enceladus Mimas Miranda ## Welcome to Eyes on Asteroids! You are looking at a real-time visualization of every known asteroid or comet that is classified as a Near-Earth Object (NEO). With asteroids represented as blue po",
+      "keywords": [
+        "asteroids",
+        "nasa",
+        "time",
+        "asteroid",
+        "select",
+        "comets",
+        "earth",
+        "eyes",
+        "just",
+        "see",
+        "always",
+        "button",
+        "comet",
+        "don"
+      ],
+      "hash": "be816f8424a0f1cdf6b9f4c4bbb5d3cb550a65889a7963e0f72ae7de0f661cba",
+      "learned_at": "2026-10-21T14:38:54+00:00"
+    },
+    {
+      "url": "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620%2C254_subsampling-2.jpg",
+      "title": "magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg",
+      "summary": "Title: magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg URL Source: https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg Published Time: Thu, 01 May 2025 18:09:37 GMT Markdown Content: A nucleus cluster contain highly textured and varied Cheng cell colonies stained by different fluorophores",
+      "keywords": [
+        "254_subsampling-2",
+        "jpg",
+        "magnetotactic",
+        "png__1240x510_q85_crop_subject_location-620",
+        "2025",
+        "3d10d4d3-3d3d-41db-83d0-da9252f04dbf",
+        "astrobiology",
+        "cell",
+        "cheng",
+        "cluster",
+        "colonies",
+        "contain",
+        "content",
+        "different"
+      ],
+      "hash": "97ac3d18550edc262616b3daf8b62ca465f290e790a34ac740087bdcb70e572e",
+      "learned_at": "2026-10-21T14:38:59+00:00"
+    },
+    {
+      "url": "https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/",
+      "title": "Astrobiology Science Conference 2026",
+      "summary": "Title: Astrobiology Science Conference 2026 URL Source: https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/ Markdown Content: This website is currently being migrated. For the most up-to-date astrobiology news, resources, and community announcements, please visit our new home at [science.nasa.gov/astrobiology](https://science.nasa.gov/astrobiology/) [![Image 1: NASA Astrobiology Logo](https://astrobiology.nasa.gov/static/assets/images/global/nasa-astro-logo@2x.47739212d6ef.png)![Image 2: NASA Astrobiology Mobile Logo](https://astrobiology.nasa.gov/static/assets/images/global/nasa-astro-logo-mobile@2x.c45d61a99d34.png)](https://astrobiology.nasa.gov/) * [About Astrobiology](https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/) * [Research](https://astrobiology.nasa.gov/research/) * [Missions](https://astrobiology.nasa.gov/news/astrobiology-science-",
+      "keywords": [
+        "astrobiology",
+        "nasa",
+        "gov",
+        "https",
+        "news",
+        "abscicon",
+        "2026",
+        "science",
+        "conference",
+        "image",
+        "astrobiology-science-conference-2026",
+        "logo",
+        "new",
+        "community"
+      ],
+      "hash": "00edf8dc98dccd8e7c192cbbda67a487df0384341418c3f15020b7a7988892b3",
+      "learned_at": "2026-10-21T14:39:00+00:00"
     }
   ],
   "failures": [
@@ -19701,6 +19770,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-21T14:39:00+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-21T14:39:00+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 14,
+      "frontier": 1339
+    },
     {
       "at": "2026-10-21T09:33:52+00:00",
       "kind": "core_unchanged",
@@ -20600,40 +20684,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 16,
       "frontier": 636
-    },
-    {
-      "at": "2026-10-13T14:36:43+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v19",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-13T14:36:43+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 2 new pages",
-      "attempted": 24,
-      "frontier": 621
     }
   ],
   "metrics": {
-    "successful_fetches": 823,
+    "successful_fetches": 831,
     "failed_fetches": 16,
     "duplicate_pages": 1,
     "candidate_promotions": 33,
-    "candidate_rejections": 105
+    "candidate_rejections": 106
   },
   "core_genome": {
     "query_weight": 3.0,
