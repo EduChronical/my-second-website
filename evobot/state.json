@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 147,
-  "core_version": 36,
-  "runs": 146,
-  "pages_learned": 871,
-  "last_run": "2026-10-22T19:28:42+00:00",
+  "generation": 148,
+  "core_version": 37,
+  "runs": 147,
+  "pages_learned": 879,
+  "last_run": "2026-10-22T22:40:51+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
-    "https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg",
     "http://www.nasa.gov/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/MoonFall-deployment-with-Elytr.2e16d0ba.fill-400x400-c50.jpg",
@@ -65,6 +63,12 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/KSC-20260821-PH-SER01_0003orig.bf5a83f9.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_SPHEREx_Cygnus_H2O_Ice_CROP.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide_MAIN.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26702.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/e1a-SPHEREx_all_sky_stars_and_.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/complete.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
@@ -283,30 +287,6 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api`",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03%60",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&glat-min=10%60",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag%60",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true%60",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=c%60",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api?des=433%60",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=an&coords=1%60",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/KSC-20260821-PH-SER01_0003orig.bf5a83f9.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_SPHEREx_Cygnus_H2O_Ice_CROP.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide_MAIN.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26702.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/e1a-SPHEREx_all_sky_stars_and_.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/complete.2e16d0ba.fill-400x400-c50.jpg",
-    "https://eyes.nasa.gov/apps/news/",
-    "https://www.jpl.nasa.gov/signup/",
-    "https://www.jpl.nasa.gov/videos/",
-    "https://www.jpl.nasa.gov/audio/",
-    "https://www.jpl.nasa.gov/podcasts/",
-    "https://www.nasa.gov/wp-content/uploads/2024/10/ntv-spacex-crs-31-falcon9-dragon-overview.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2015/12/19142591558_21b856821d_o.jpg?w=1024",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=758",
     "https://www.nasa.gov/ochmo/food-in-space",
     "https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25",
     "https://science.nasa.gov/dark-energy",
@@ -1438,7 +1418,37 @@
     "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
     "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
     "https://ssd-api.jpl.nasa.gov/sb_ident.api`",
-    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html"
+    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html",
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03%60",
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&glat-min=10%60",
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag%60",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=c%60",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api?des=433%60",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=an&coords=1%60",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
+    "https://app.icontact.com/icp/core/signup/tracking.gif?id=5&cid=1389932&lid=11365",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Orionid_Meteor_Shower_2017_Ben.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Harvest_Moon_212_Mike_Linnihan.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/20260717_Whats_Up_August_2026_.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Whats_Up_-_December_2023.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa_skywatching_square_nuiA1s.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/know_before_we_go_square.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.jpl.nasa.gov/audio/",
+    "https://www.jpl.nasa.gov/podcasts/",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=758",
+    "https://www.nature.com/static/images/logos/nature-logo.svg",
+    "https://www.nature.com/info/accessibility-statement",
+    "https://www.nature.com/info/terms-and-conditions",
+    "https://www.nature.com/static/images/logos/sn-logo-white.svg",
+    "https://www.nature.com/)",
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2F",
+    "https://partnerships.nature.com/",
+    "https://partnerships.nature.com/media-kits/",
+    "https://partnerships.nature.com/product/branded-content-native-advertising/",
+    "https://conferences.nature.com/",
+    "http://www.naturechina.com/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6255,193 +6265,54 @@
       "at": "2026-10-22T19:29:29+00:00",
       "status": "ok",
       "hash": "9e618e67f07d32064a887e47c2f47c9748ab87f9f1f7391f3131263cd20829c1"
+    },
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true%60": {
+      "at": "2026-10-22T22:40:53+00:00",
+      "status": "ok",
+      "hash": "5f80c9584b59759b45eeafb7e01247081361057fc3ed7d5a3558d4b4cb0674be"
+    },
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api`": {
+      "at": "2026-10-22T22:40:54+00:00",
+      "status": "error",
+      "error": "HTTP Error 400: Bad Request"
+    },
+    "https://www.jpl.nasa.gov/signup/": {
+      "at": "2026-10-22T22:40:59+00:00",
+      "status": "ok",
+      "hash": "8130885de674aaf07837169b900aab1b862c1b3071282def74a8344d7db2eea9"
+    },
+    "https://www.jpl.nasa.gov/videos/": {
+      "at": "2026-10-22T22:41:02+00:00",
+      "status": "ok",
+      "hash": "afbd160a32a43f8ffd877040b9eab84e0552d0c489c2489fb75dbc5e6f431625"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2024/10/ntv-spacex-crs-31-falcon9-dragon-overview.png?w=1024": {
+      "at": "2026-10-22T22:41:06+00:00",
+      "status": "ok",
+      "hash": "fdb59e008af17cd22ee9f1264137d4588efa7d30bce0f22db2229e3aeae3c8ee"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2015/12/19142591558_21b856821d_o.jpg?w=1024": {
+      "at": "2026-10-22T22:41:12+00:00",
+      "status": "ok",
+      "hash": "f6c78cea535ccfd60d16e61c68e2eed5afe84f3d0d4e4c6c80a2dd0c07a9119c"
+    },
+    "https://eyes.nasa.gov/apps/news/": {
+      "at": "2026-10-22T22:41:14+00:00",
+      "status": "ok",
+      "hash": "f0365a0c4650cbb3becc4c65fbed14ab1fa7b1e837a27684a8de22a29e6b731a"
+    },
+    "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css": {
+      "at": "2026-10-22T22:41:14+00:00",
+      "status": "ok",
+      "hash": "44fabbab4e6041cefef6ce99cb58ee9b5c11ded6d054dd776a7a8995d4e2f132"
+    },
+    "https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg": {
+      "at": "2026-10-22T22:41:17+00:00",
+      "status": "ok",
+      "hash": "4acfbe22927da7a9303f26369d16669cf7f71ab9b34917da4982d68ce99d2100"
     }
   },
   "memory": [
-    {
-      "url": "https://www.jpl.nasa.gov/science-and-technology/",
-      "title": "Science and Research at NASA JPL | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Science and Research at NASA JPL | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/science-and-technology/ Markdown Content: ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg) NASA's Jet Propulsion Laboratory is paving the way for innovative research and science, supporting the advancement of NASA science and groundbreaking spaceflight missions. ![Image 4](https://d2pn8kiwq2w21t.cloudfront.net/images/ord-swot-sample-02.2e16d0ba.fill-430x430-c70.format-jpeg.jpg) ## Pushing boundaries Challenges what is possible, pushing science and technology past the cutting edge. ![Image 5](https://d2pn8kiwq2w21t.cloudfront.net/images/m",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "image",
-        "research",
-        "science",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "gov",
-        "images",
-        "jpg",
-        "net",
-        "www"
-      ],
-      "hash": "0df7c624aa88266a2f03f99661dafe36305ff64604fa9c590f7fbc20592ae12b",
-      "learned_at": "2026-10-04T23:32:42+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/astronomers-find-ring-of-dark-matter-with-hubble-space-telescope/",
-      "title": "Astronomers Find Ring of Dark Matter With Hubble Space Telescope - NASA Science",
-      "summary": "Title: Astronomers Find Ring of Dark Matter With Hubble Space Telescope - NASA Science URL Source: https://science.nasa.gov/missions/hubble/astronomers-find-ring-of-dark-matter-with-hubble-space-telescope/ Published Time: 2007-05-14T23:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [So",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "cc88e4796d7094ca5c35c96178fc8baf36f43ffb6f56c4497148543ad07083bc",
-      "learned_at": "2026-10-05T02:21:12+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-dark-universe/",
-      "title": "Hubble Focus: Dark Universe - NASA Science",
-      "summary": "Title: Hubble Focus: Dark Universe - NASA Science URL Source: https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-focus-dark-universe/ Published Time: 2024-04-05T03:23:21-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media R",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "multimedia",
-        "news",
-        "images",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "universe"
-      ],
-      "hash": "9bc44f8f456f85933b1fd1e406596dc680e5e3e66c6bd1474a19d6c76fb24173",
-      "learned_at": "2026-10-05T02:21:16+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/asteroid/en/osiris-rex.en.png",
-      "title": "osiris-rex.en.png",
-      "summary": "Title: osiris-rex.en.png URL Source: https://spaceplace.nasa.gov/asteroid/en/osiris-rex.en.png Markdown Content: A satellite with solar panels is positioned near the lithospheric surface of a planet, presumably the moon",
-      "keywords": [
-        "osiris-rex",
-        "png",
-        "asteroid",
-        "content",
-        "gov",
-        "https",
-        "lithospheric",
-        "markdown",
-        "moon",
-        "nasa",
-        "near",
-        "panels",
-        "planet",
-        "positioned"
-      ],
-      "hash": "990544d8879d3b10a13e3d2cc68b21084af7fe190e6adb3acdba4b3787f6245c",
-      "learned_at": "2026-10-05T02:21:19+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/03/STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif?w=900",
-      "title": "STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif",
-      "summary": "Title: STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/03/STScI-01HR59V3805KKW7AKRNDP7K8FJ.tif?w=900 Markdown Content: Two separate images of nebula made by Webb and Hubble Telescope",
-      "keywords": [
-        "assets",
-        "hubble",
-        "science",
-        "stsci-01hr59v3805kkw7akrndp7k8fj",
-        "tif",
-        "2024",
-        "900",
-        "content",
-        "dynamicimage",
-        "gov",
-        "https",
-        "images",
-        "made",
-        "markdown"
-      ],
-      "hash": "f9fb5cfe8932e0e301983caf11cec6186fc2d8c9078cd366c87ddd0dd689775e",
-      "learned_at": "2026-10-05T02:21:21+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
-      "title": "logo_nasa_trio.png",
-      "summary": "Title: logo_nasa_trio.png URL Source: https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png Published Time: Wed, 25 Mar 2026 06:55:49 GMT Markdown Content: The image shows the NASA logo, which consists of a blue circle with the text NASA at the bottom and a red swirly line across it",
-      "keywords": [
-        "nasa",
-        "logo_nasa_trio",
-        "png",
-        "2026",
-        "across",
-        "blue",
-        "bottom",
-        "circle",
-        "consists",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "image"
-      ],
-      "hash": "df754e939c766047952456734502f7012b15c3e4cb7051ec046b8f562a3f3ba1",
-      "learned_at": "2026-10-05T02:21:25+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
-      "title": "ssd_title_overlay.png",
-      "summary": "Title: ssd_title_overlay.png URL Source: https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png Published Time: Wed, 25 Mar 2026 06:55:49 GMT Markdown Content: a white background with a big blue area",
-      "keywords": [
-        "png",
-        "ssd_title_overlay",
-        "2026",
-        "area",
-        "background",
-        "big",
-        "blue",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "images",
-        "jpl",
-        "mar"
-      ],
-      "hash": "12eae35cf38988c30b5ecf94f3418b9470a9ea64d39af74b8a5cf4c0fe4af72e",
-      "learned_at": "2026-10-05T02:21:28+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/cosmic-lens-used-to-probe-dark-energy-for-first-time/",
-      "title": "Cosmic Lens Used to Probe Dark Energy for First Time - NASA Science",
-      "summary": "Title: Cosmic Lens Used to Probe Dark Energy for First Time - NASA Science URL Source: https://science.nasa.gov/missions/hubble/cosmic-lens-used-to-probe-dark-energy-for-first-time/ Published Time: 2010-08-18T23:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "c121f1b6b4a2795f446467108fb887d50dac156a1d8229fe19a6a768d8dd715e",
-      "learned_at": "2026-10-05T09:20:29+00:00"
-    },
     {
       "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
       "title": "Uncovering Icy Objects in the Kuiper Belt - NASA Science",
@@ -20057,6 +19928,190 @@
       ],
       "hash": "9e618e67f07d32064a887e47c2f47c9748ab87f9f1f7391f3131263cd20829c1",
       "learned_at": "2026-10-22T19:29:29+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true%60",
+      "title": "URL Source: https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true`",
+      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"code\":\"400\",\"message\":\"boolean value must be 'true', 'false', 'Y', 'N', '1', or '0'\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/sbwobs.html\"}",
+      "keywords": [
+        "true",
+        "400",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "sbwobs",
+        "ssd-api",
+        "url",
+        "2020-06-24",
+        "api",
+        "bad",
+        "boolean",
+        "code"
+      ],
+      "hash": "5f80c9584b59759b45eeafb7e01247081361057fc3ed7d5a3558d4b4cb0674be",
+      "learned_at": "2026-10-22T22:40:53+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/signup/",
+      "title": "NASA JPL Newsletter – Get Space News by Email",
+      "summary": "Title: NASA JPL Newsletter – Get Space News by Email URL Source: https://www.jpl.nasa.gov/signup/ Markdown Content: [](https://www.jpl.nasa.gov/signup/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) JPL NEWS. # JPL Newsletter Sign Up [![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png)](https://d2pn8kiwq2w21t.cloudfron",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "news",
+        "email",
+        "missions",
+        "who-we-are",
+        "image",
+        "summary",
+        "mission_status",
+        "review",
+        "signup"
+      ],
+      "hash": "8130885de674aaf07837169b900aab1b862c1b3071282def74a8344d7db2eea9",
+      "learned_at": "2026-10-22T22:40:59+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/videos/",
+      "title": "Video Gallery",
+      "summary": "Title: Video Gallery URL Source: https://www.jpl.nasa.gov/videos/ Markdown Content: ## Search Video Gallery Sort by Showing 1–12 of 1,352 results Topic Solar System (882) Stars and Galaxies (148) Earth (141) Mars (65) Technology (57) JPL Life (45) Exoplanets (3) Asteroids and Comets (2) Robotics (2) Climate Change (1) Date 2026 (17) 2025 (18) 2024 (53) 2023 (61) 1. [Category: Video.Category: Solar System. Category: Video.Category: Solar System. ## What's Up: October 2026 Skywatching Tips from NASA See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. . Oct. 1, 2026 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/Orionid_Meteor_Shower_2017_Ben.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/videos/whats-up-october-2026-skywatching-tips-from-nasa/) 2. [Category: Video.Category: Solar Syste",
+      "keywords": [
+        "category",
+        "video",
+        "2026",
+        "https",
+        "nasa",
+        "solar",
+        "system",
+        "jpl",
+        "skywatching",
+        "2e16d0ba",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "fill-400x400-c50",
+        "gov"
+      ],
+      "hash": "afbd160a32a43f8ffd877040b9eab84e0552d0c489c2489fb75dbc5e6f431625",
+      "learned_at": "2026-10-22T22:41:02+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2024/10/ntv-spacex-crs-31-falcon9-dragon-overview.png?w=1024",
+      "title": "ntv-spacex-crs-31-falcon9-dragon-overview.png",
+      "summary": "Title: ntv-spacex-crs-31-falcon9-dragon-overview.png URL Source: https://www.nasa.gov/wp-content/uploads/2024/10/ntv-spacex-crs-31-falcon9-dragon-overview.png?w=1024 Published Time: Thu, 22 Oct 2026 22:41:04 GMT Markdown Content: An zoomed in picture about a Falcon 9 rocket and a dragon spacecraft",
+      "keywords": [
+        "ntv-spacex-crs-31-falcon9-dragon-overview",
+        "png",
+        "1024",
+        "2024",
+        "2026",
+        "content",
+        "dragon",
+        "falcon",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "oct"
+      ],
+      "hash": "fdb59e008af17cd22ee9f1264137d4588efa7d30bce0f22db2229e3aeae3c8ee",
+      "learned_at": "2026-10-22T22:41:06+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2015/12/19142591558_21b856821d_o.jpg?w=1024",
+      "title": "19142591558_21b856821d_o.jpg",
+      "summary": "Title: 19142591558_21b856821d_o.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2015/12/19142591558_21b856821d_o.jpg?w=1024 Published Time: Thu, 22 Oct 2026 22:41:09 GMT Markdown Content: People are seated around tents while in front of the White House",
+      "keywords": [
+        "19142591558_21b856821d_o",
+        "jpg",
+        "1024",
+        "2015",
+        "2026",
+        "around",
+        "content",
+        "front",
+        "gmt",
+        "gov",
+        "house",
+        "https",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "f6c78cea535ccfd60d16e61c68e2eed5afe84f3d0d4e4c6c80a2dd0c07a9119c",
+      "learned_at": "2026-10-22T22:41:12+00:00"
+    },
+    {
+      "url": "https://eyes.nasa.gov/apps/news/",
+      "title": "Eyes on the News - NASA/JPL",
+      "summary": "Title: Eyes on the News - NASA/JPL URL Source: https://eyes.nasa.gov/apps/news/ Published Time: Wed, 13 Aug 2025 00:56:23 GMT Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout. Markdown Content: LOADING",
+      "keywords": [
+        "eyes",
+        "nasa",
+        "news",
+        "2025",
+        "apps",
+        "aug",
+        "consider",
+        "content",
+        "explicitly",
+        "fully",
+        "gmt",
+        "gov",
+        "https",
+        "jpl"
+      ],
+      "hash": "f0365a0c4650cbb3becc4c65fbed14ab1fa7b1e837a27684a8de22a29e6b731a",
+      "learned_at": "2026-10-22T22:41:14+00:00"
+    },
+    {
+      "url": "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
+      "title": "URL Source: https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
+      "summary": "Title: URL Source: https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css Markdown Content: @font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; src: url('/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2') format('woff2'); font-display: swap; } :root { color-scheme: light dark; --color-text: #3a424a; --color-bg: #ffffff; --color-border: #dce0e4; --color-input-border: #677483; --color-input-bg: #ffffff; --color-btn-bg: #0069d6; --color-btn-text: #ffffff; --color-error-bg: #fef1f1; --color-modal-bg: #ffffff; --color-modal-border: #a9a9a9; } @media (prefers-color-scheme: dark) { :root:not([data-theme=\"light\"]) { --color-text: #d1d5db; --color-bg: #1b1b1f; --color-border: #33363b; --color-input-border: #52565e; --color-input-bg: #26272b; --color-btn-bg: #1a6fdb; --color-btn-text: #ffffff; --color-error-bg: #3b1a1a; --color-modal-bg: #26272b; --color-modal-border:",
+      "keywords": [
+        "display",
+        "root",
+        "dark",
+        "data-theme",
+        "ffffff",
+        "width",
+        "--color-bg",
+        "--color-border",
+        "--color-text",
+        "26272b",
+        "center",
+        "flex",
+        "light",
+        "--color-btn-bg"
+      ],
+      "hash": "44fabbab4e6041cefef6ce99cb58ee9b5c11ded6d054dd776a7a8995d4e2f132",
+      "learned_at": "2026-10-22T22:41:14+00:00"
+    },
+    {
+      "url": "https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg",
+      "title": "Not Found | nature.com",
+      "summary": "Title: Not Found | nature.com URL Source: https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg Warning: Target URL returned error 404: Not Found Markdown Content: [Skip to main content](https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg#content) Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. [![Image 1: Nature](https://www.nature.com/static/images/logos/nature-logo.svg)](https://www.nature.com/) * [View all journals](https://www.nature.com/siteindex) * [Search](https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg#search-menu) * [Log in](ht",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "search",
+        "authors",
+        "content",
+        "images",
+        "support",
+        "svg",
+        "app-sn",
+        "articles",
+        "found",
+        "html"
+      ],
+      "hash": "4acfbe22927da7a9303f26369d16669cf7f71ab9b34917da4982d68ce99d2100",
+      "learned_at": "2026-10-22T22:41:17+00:00"
     }
   ],
   "failures": [
@@ -20149,9 +20204,40 @@
       "at": "2026-10-22T19:29:28+00:00",
       "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api`",
       "error": "HTTPError: HTTP Error 400: Bad Request"
+    },
+    {
+      "at": "2026-10-22T22:40:54+00:00",
+      "url": "https://ssd-api.jpl.nasa.gov/sbwobs.api`",
+      "error": "HTTPError: HTTP Error 400: Bad Request"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-22T22:41:18+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v37",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-22T22:41:17+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 20,
+      "frontier": 1442
+    },
     {
       "at": "2026-10-22T19:29:29+00:00",
       "kind": "core_unchanged",
@@ -21051,28 +21137,13 @@
       "message": "Crawl cycle learned 3 new pages",
       "attempted": 24,
       "frontier": 745
-    },
-    {
-      "at": "2026-10-14T21:35:14+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-14T21:35:14+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 741
     }
   ],
   "metrics": {
-    "successful_fetches": 871,
-    "failed_fetches": 18,
+    "successful_fetches": 879,
+    "failed_fetches": 19,
     "duplicate_pages": 2,
-    "candidate_promotions": 35,
+    "candidate_promotions": 36,
     "candidate_rejections": 110
   },
   "core_genome": {
@@ -21105,11 +21176,11 @@
     "ssd.jpl.nasa.gov",
     "science.nasa.gov",
     "nssdc.gsfc.nasa.gov",
-    "naif.jpl.nasa.gov",
-    "www.sebi.gov.in",
+    "www.nature.com",
     "assets.science.nasa.gov",
     "ssd-api.jpl.nasa.gov",
-    "www.nature.com",
-    "jpl.nasa.gov"
+    "www.sebi.gov.in",
+    "jpl.nasa.gov",
+    "naif.jpl.nasa.gov"
   ]
 }
