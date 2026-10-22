@@ -1,27 +1,20 @@
 {
   "schema": 2,
-  "generation": 146,
+  "generation": 147,
   "core_version": 36,
-  "runs": 145,
-  "pages_learned": 870,
-  "last_run": "2026-10-22T15:35:04+00:00",
+  "runs": 146,
+  "pages_learned": 871,
+  "last_run": "2026-10-22T19:28:42+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
+    "https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg",
     "http://www.nasa.gov/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebgalileo_Rj2N4i4.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebcassini_shJEz9d.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmaia1_59GALzi.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebinspire_xteHIU7.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg",
-    "https://www.glassdoor.com/Jobs/NASA-Jet-Propulsion-Laboratory-Jobs-E116768.htm",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/MoonFall-deployment-with-Elytr.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NHQ20260830_admin_0002orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesmars202020200714PIA23720.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26771_Mars-crescent-pYden.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Earth_illustration_cropped.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SunRISE-UST.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-400x225-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26185_PREFIRE_satellite.13add3fe.fill-400x400-c50.jpg",
@@ -62,11 +55,19 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/summersteam.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/cadre_interns.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/iss_sunrise_EyEpv8m.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/educal_2023-web.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mirointerns-main.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/tf_pomona_present1.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/neos-new_XqytGqd.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Mars_Cube_One.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
@@ -117,7 +118,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26814.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26812.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Caltech_SFP.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26071.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26072.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -148,20 +148,15 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://www.youtube.com/@nasajpledu3401",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://www.imf.org/en/",
-    "https://pds-atmospheres.nmsu.edu/",
+    "https://www.glassdoor.com/Jobs/NASA-Jet-Propulsion-Laboratory-Jobs-E116768.htm",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://x.com/NASASpaceAlerts",
     "https://thejplstore.com/",
@@ -183,12 +178,13 @@
     "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
     "https://apps.apple.com/us/app/space-images/id347075764",
     "https://esahubble.org/images/heic1215a/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
     "http://x.com/nasajpl_edu",
     "http://instagram.com/nasajpl_edu",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "https://pds-atmospheres.nmsu.edu/",
     "https://pds-geosciences.wustl.edu/",
     "https://pds-ppi.igpp.ucla.edu/",
     "https://pds-rings.seti.org/",
@@ -232,7 +228,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
@@ -288,25 +283,6 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api?sb-kind=a&mpc-code=568&obs-time=2021-02-09_00%3A00%3A00&mag-required=true&two-pass=true&suppress-first-pass=true&req-elem=false&vmag-lim=20&fov-ra-lim=10-10-00%2C10-20-00&fov-dec-lim=10-00-00%2C10-30-00%60",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api?sb-kind=a&mpc-code=568&obs-time=2021-02-09_00%3A00%3A00&mag-required=true&two-pass=true&suppress-first-pass=true&req-elem=false&vmag-lim=20&fov-ra-lim=10-10-00%2C10-20-00&fov-dec-lim=10-00-00%2C10-30-00%60",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api`",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=d.5%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=s%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01_12%3A00%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01+12%3A00%60",
-    "https://ssd-api.jpl.nasa.gov/periodic_orbits.api`",
-    "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro%60",
-    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
-    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api`",
-    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html",
-    "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
-    "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css",
-    "https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg",
     "https://ssd-api.jpl.nasa.gov/sbwobs.api`",
     "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03%60",
     "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&glat-min=10%60",
@@ -1449,7 +1425,20 @@
     "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
     "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
     "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
-    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/"
+    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
+    "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro%60",
+    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
+    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api`",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=d.5%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=s%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01_12%3A00%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01+12%3A00%60",
+    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
+    "https://ssd-api.jpl.nasa.gov/sb_ident.api`",
+    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6223,32 +6212,52 @@
       "at": "2026-10-22T15:35:34+00:00",
       "status": "ok",
       "hash": "66205c45769813980e4d289f46f6b5886f2b27d9ec708a267b1b6c2adefc2056"
+    },
+    "https://ssd-api.jpl.nasa.gov/sb_ident.api?sb-kind=a&mpc-code=568&obs-time=2021-02-09_00%3A00%3A00&mag-required=true&two-pass=true&suppress-first-pass=true&req-elem=false&vmag-lim=20&fov-ra-lim=10-10-00%2C10-20-00&fov-dec-lim=10-00-00%2C10-30-00%60": {
+      "at": "2026-10-22T19:29:27+00:00",
+      "status": "error",
+      "error": "The read operation timed out"
+    },
+    "https://ssd-api.jpl.nasa.gov/periodic_orbits.api`": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "error",
+      "error": "HTTP Error 400: Bad Request"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebgalileo_Rj2N4i4.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebcassini_shJEz9d.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmaia1_59GALzi.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebinspire_xteHIU7.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Earth_illustration_cropped.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/educal_2023-web.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4": {
+      "at": "2026-10-22T19:29:28+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2": {
+      "at": "2026-10-22T19:29:29+00:00",
+      "status": "ok",
+      "hash": "9e618e67f07d32064a887e47c2f47c9748ab87f9f1f7391f3131263cd20829c1"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/",
-      "title": "NASA Hubble Maps the Temperature and Water Vapor on an Extreme Exoplanet - NASA Science",
-      "summary": "Title: NASA Hubble Maps the Temperature and Water Vapor on an Extreme Exoplanet - NASA Science URL Source: https://science.nasa.gov/resource/nasa-hubble-maps-the-temperature-and-water-vapor-on-an-extreme-exoplanet/ Published Time: 2014-10-08T23:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletter",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "c71362c757350072f4ca494d7dc0a0bb2b4bf7a51cc8269847c07664795ff582",
-      "learned_at": "2026-10-04T23:32:39+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/science-and-technology/",
       "title": "Science and Research at NASA JPL | NASA Jet Propulsion Laboratory (JPL)",
@@ -20025,6 +20034,29 @@
       ],
       "hash": "66205c45769813980e4d289f46f6b5886f2b27d9ec708a267b1b6c2adefc2056",
       "learned_at": "2026-10-22T15:35:34+00:00"
+    },
+    {
+      "url": "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
+      "title": "www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
+      "summary": "wOF2\u0000\u0001\u0000\u0000\u0000\u00012@\u0000\u0011\u0000\u0000\u0000\u0002��\u0000\u00011�\u0000\u0003\u0004�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001a�K\u001b��V �P?HVAR� \u0006`?STAT�F\u0000�|/�\u0010 ��P�� 0��\u0002\u00016\u0002$\u0003�L �(\u0000\u0004 \u0005�\u0004\u0007 [���D�\u0004�}�J�c\u001b��)R��;��J?ҍh��CN)�S�(��a�?S��iS�[ %h�/�����I�\u0018c��\u0000@�f�Y5�mN�Y�)��z U�S��N:Š��ψ\u0018Z]J\u0002���ʪ�7���\u001b�m�- [�\u0018\u0017\u0015�0b#�9��\\v\u001b�� 3B�\u0012�����C��d�w��\"��\u0015�]��c�a\\\u0002\u0002\u0016�RĄ�%G�kEq\u0018�A�\b\u000enos�G�_�=0\u0016 ��\u0011\u001ab �J#���&��]�\u0003\u001aE�h��\u0015\u0001C� (�TU\u0017�2UW�� �\u0004gM������y�Nzxv�cyn\"�w�\u0010\u0011�E\u0004ϚR-�����ҘD�Ϻ��/oZt��z{1w8?����2]�v\u001a�JJ~�}��'� ��f�F\\������\"\u0002e뛠8:Up`��7{�K��k�J�Eo0���\u0001+�\u0018�)(�{�.�v}\b���*\u0011-�:�z�����[����\"���� �YI�\u0018�\u0015E��Ǧ���h�a\u0006?���\u0018���982\u0005��ڬ�U]\b�� ��݃{�����9Lf3��׾��U��Ɣ��0ƞ��F�h��%�$]U�L�\u000f��P��D71��F�>t\u0019\"����<���ϝy�Bj�#��D� \u0001f��+�?�S�;��h$F�H����A\\�A b\u0010\u0003 0� #!���-cl�\u0018c�\u0010ۛة��=�ԉ\u0019F��.mݖ$���ǻ�����κ}nׯϯ���K�l�}�ې�\u000eq\u0014G&2 `\b�VcZ�ORaZ٦Y����� *)�? \" *(�(�\u000f>�ⓠ���憩%[n�eIeϖ]Vn�V��^O9���7:@\u0012��\u0018_\u001bv˛�����4\u0012�8��[� �� ����H 0HB ��\u0001\u0004\b\u0010X�\u0001\u0004V@6��8ؖ �(\u000eI��x����9��L���$��(F$\"�A%�T� � � .��\u00017�\u0016Ӧ��\u0006p� �`�I�Ԁ\u0001\u0003\u0006�%;�e���n��",
+      "keywords": [
+        "-cl",
+        "0hb",
+        "0is",
+        "0nqfi",
+        "1mxl",
+        "1w8",
+        "2uw",
+        "2ȶl",
+        "982",
+        "9lf3",
+        "9ȉ3",
+        "aeo",
+        "cyn",
+        "cա6"
+      ],
+      "hash": "9e618e67f07d32064a887e47c2f47c9748ab87f9f1f7391f3131263cd20829c1",
+      "learned_at": "2026-10-22T19:29:29+00:00"
     }
   ],
   "failures": [
@@ -20107,9 +20139,34 @@
       "at": "2026-10-20T17:54:21+00:00",
       "url": "https://www.jpl.nasa.gov/faq.php",
       "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-22T19:29:27+00:00",
+      "url": "https://ssd-api.jpl.nasa.gov/sb_ident.api?sb-kind=a&mpc-code=568&obs-time=2021-02-09_00%3A00%3A00&mag-required=true&two-pass=true&suppress-first-pass=true&req-elem=false&vmag-lim=20&fov-ra-lim=10-10-00%2C10-20-00&fov-dec-lim=10-00-00%2C10-30-00%60",
+      "error": "TimeoutError: The read operation timed out"
+    },
+    {
+      "at": "2026-10-22T19:29:28+00:00",
+      "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api`",
+      "error": "HTTPError: HTTP Error 400: Bad Request"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-22T19:29:29+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-22T19:29:29+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 1 new pages",
+      "attempted": 24,
+      "frontier": 1432
+    },
     {
       "at": "2026-10-22T15:35:34+00:00",
       "kind": "core_unchanged",
@@ -21009,40 +21066,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 741
-    },
-    {
-      "at": "2026-10-14T18:00:40+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v21",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-14T18:00:40+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 727
     }
   ],
   "metrics": {
-    "successful_fetches": 870,
-    "failed_fetches": 16,
+    "successful_fetches": 871,
+    "failed_fetches": 18,
     "duplicate_pages": 2,
     "candidate_promotions": 35,
-    "candidate_rejections": 109
+    "candidate_rejections": 110
   },
   "core_genome": {
     "query_weight": 3.0,
