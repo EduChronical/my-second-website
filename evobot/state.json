@@ -1,12 +1,19 @@
 {
   "schema": 2,
-  "generation": 144,
-  "core_version": 35,
-  "runs": 143,
-  "pages_learned": 854,
-  "last_run": "2026-10-22T05:26:11+00:00",
+  "generation": 145,
+  "core_version": 36,
+  "runs": 144,
+  "pages_learned": 862,
+  "last_run": "2026-10-22T10:30:20+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/sites/default/files/atoms/files/designated_country_list_8-16-2019_tagged_0.pdf",
+    "https://climatekids.nasa.gov/",
+    "https://www.nasa.gov/learning-resources/nasa-kids-club/",
+    "https://spacemath.gsfc.nasa.gov/",
+    "https://plus.nasa.gov/series/stemonstrations/",
+    "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
+    "http://www.nasa.gov/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebgalileo_Rj2N4i4.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebcassini_shJEz9d.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmaia1_59GALzi.2e16d0ba.fill-400x400-c50.jpg",
@@ -148,6 +155,9 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
+    "https://www.youtube.com/@nasajpledu3401",
     "http://www.imf.org/en/",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://x.com/NASASpaceAlerts",
@@ -182,14 +192,14 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
     "https://apps.apple.com/us/app/space-images/id347075764",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://esahubble.org/images/heic1215a/",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
+    "http://x.com/nasajpl_edu",
+    "http://instagram.com/nasajpl_edu",
     "https://www.facebook.com/Nature",
     "https://twitter.com/nature",
     "https://www.natureindex.com/",
@@ -263,6 +273,7 @@
     "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
     "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
+    "https://universe-of-learning.org/home",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -283,32 +294,6 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "https://www.rbi.org.in/images/print-icon.png",
-    "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=1024",
-    "https://www.nasa.gov/sites/default/files/atoms/files/designated_country_list_8-16-2019_tagged_0.pdf",
-    "http://x.com/nasajpl_edu",
-    "http://instagram.com/nasajpl_edu",
-    "https://www.youtube.com/@nasajpledu3401",
-    "https://climatekids.nasa.gov/",
-    "https://www.nasa.gov/learning-resources/nasa-kids-club/",
-    "https://ssd-api.jpl.nasa.gov/doc/jd/_cal.html",
-    "https://www.jpl.nasa.gov/edu/pdfs/msp_resume_template_nov18.pdf",
-    "https://www.jpl.nasa.gov/edu/news/2021/7/29/how-to-get-an-internship-at-jpl/",
-    "https://jpleducation-external.jpl.nasa.gov/student_application/?program=JPLSIP",
-    "https://spacemath.gsfc.nasa.gov/",
-    "https://universe-of-learning.org/home",
-    "https://plus.nasa.gov/series/stemonstrations/",
-    "http://www.nasa.gov/",
-    "https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif",
-    "https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
     "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_ratio_notes.html",
@@ -1438,7 +1423,39 @@
     "https://cos.rbi.org.in/programs.aspx",
     "https://cos.rbi.org.in/PhotoGallery.aspx",
     "https://cos.rbi.org.in/Insights.aspx",
-    "https://cos.rbi.org.in/GlobalConference.aspx"
+    "https://cos.rbi.org.in/GlobalConference.aspx",
+    "https://www.jpl.nasa.gov/news",
+    "https://www.jpl.nasa.gov/edu/events/?event_status=Upcoming%2COngoing&sortBy=eventStartDateSoonest&page=1",
+    "https://www.jpl.nasa.gov/edu/news/?page=1&topics=Internships",
+    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program/",
+    "https://www.jpl.nasa.gov/edu/resources/teachable-moment/then-there-were-two-voyager-2-reaches-interstellar-space/",
+    "https://www.jpl.nasa.gov/edu/resources/teachable-moment/nasas-perseverance-rover-lands-on-mars/",
+    "https://www.jpl.nasa.gov/edu/resources/teachable-moment/explorer-1-anniversary-marks-60-years-of-science-in-space/",
+    "https://www.jpl.nasa.gov/edu/news/2018/11/26/nasajpl-interns-join-mars-landing-site-dude-to-prepare-for-touchdown/",
+    "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
+    "https://solarsystem.nasa.gov/people/all/?page=0&per_page=40&order=last_name+asc&placeholder=Enter+name",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/shirin_nataneli-courtesy.width-640.jpg",
+    "https://origins-habitability.jpl.nasa.gov/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/laurie_barge-erika_flores.width-640.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/intern_murphy-b_JfRiROw.width-640.jpg",
+    "https://jpleducation-external.jpl.nasa.gov/static/images/loader.gif",
+    "https://jpleducation-external.jpl.nasa.gov/static/assets/images/logo_nasa_trio_black%402x.png",
+    "https://jpleducation-external.jpl.nasa.gov/static/assets/images/logo_nasa_trio_black%402x.png",
+    "https://jpleducation-external.jpl.nasa.gov/edu/",
+    "https://jpleducation-external.jpl.nasa.gov/register/?next_page=%2Fstudent_application%2F%3Fprogram%3DJPLSIP",
+    "https://jpleducation-external.jpl.nasa.gov/request_password_reset/",
+    "https://jpleducation-external.jpl.nasa.gov/static/assets/icons/facebook.png",
+    "https://jpleducation-external.jpl.nasa.gov/static/assets/icons/twitter.png",
+    "https://www.jpl.nasa.gov/edu/learn/",
+    "https://www.jpl.nasa.gov/edu/teach/",
+    "https://www.jpl.nasa.gov/edu/share/campaigns/",
+    "https://www.jpl.nasa.gov/edu/intern/apply/",
+    "https://www.jpl.nasa.gov/edu/learn/",
+    "https://www.jpl.nasa.gov/edu/learn/toolkit/",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html",
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planetfact_notes.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6123,193 +6140,54 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebEuropa_Lander_Conce.2e16d0ba.fill-400x400-c50.jpg": {
       "at": "2026-10-22T05:26:42+00:00",
       "status": "robots_disallow"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024": {
+      "at": "2026-10-22T10:30:23+00:00",
+      "status": "ok",
+      "hash": "ebbb6356599bc45aa5cf3b9c30ba35e6a3e0db9b5e3ad9a229852dfd418a69a6"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif": {
+      "at": "2026-10-22T10:30:26+00:00",
+      "status": "ok",
+      "hash": "773ef392ef3b514c453dca41117324a103500ed1e34eaf847a95076fd4b528ab"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif": {
+      "at": "2026-10-22T10:30:28+00:00",
+      "status": "ok",
+      "hash": "5d6dfa39abff3494a2627dccf38f52e07ed03acd450c2b9e93b7ed4e68401e3b"
+    },
+    "https://ssd-api.jpl.nasa.gov/doc/jd/_cal.html": {
+      "at": "2026-10-22T10:30:30+00:00",
+      "status": "ok",
+      "hash": "aac5e190e20a14e38c5c8340e77bd759798abb77e306a6ed8209aefad73e6694"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=1024": {
+      "at": "2026-10-22T10:30:34+00:00",
+      "status": "ok",
+      "hash": "2fc8da7219696fa6cadc21ee2870a4cef5a3c184ada40654d645ec10f7cdec97"
+    },
+    "https://www.jpl.nasa.gov/edu/pdfs/msp_resume_template_nov18.pdf": {
+      "at": "2026-10-22T10:30:36+00:00",
+      "status": "ok",
+      "hash": "428959621af3a6c95587a82cc3b986da246ab95e5a3a3633bd10027434c18880"
+    },
+    "https://www.jpl.nasa.gov/edu/news/2021/7/29/how-to-get-an-internship-at-jpl/": {
+      "at": "2026-10-22T10:30:41+00:00",
+      "status": "ok",
+      "hash": "555aecc809fad8885a76c7b3a89843322fab45bfaf696d8b8162da4fa5d41378"
+    },
+    "https://jpleducation-external.jpl.nasa.gov/student_application/?program=JPLSIP": {
+      "at": "2026-10-22T10:30:45+00:00",
+      "status": "ok",
+      "hash": "81e5594669aff45ddf4af1689695a2b2a335d9681fb8423698c505f3f6da0c79"
+    },
+    "https://www.rbi.org.in/images/print-icon.png": {
+      "at": "2026-10-22T10:30:48+00:00",
+      "status": "ok",
+      "hash": "39d87c7f39d571f218138e29c929448808499f576d8c9153a4b9ebef4270296c"
     }
   },
   "memory": [
-    {
-      "url": "https://spaceplace.nasa.gov/asteroid/en/planets.en.png",
-      "title": "planets.en.png",
-      "summary": "Title: planets.en.png URL Source: https://spaceplace.nasa.gov/asteroid/en/planets.en.png Markdown Content: This image is a humorous and illustrated scene featuring six different planets from the solar system, each with a face and a unique expression",
-      "keywords": [
-        "planets",
-        "png",
-        "asteroid",
-        "content",
-        "different",
-        "each",
-        "expression",
-        "face",
-        "featuring",
-        "gov",
-        "https",
-        "humorous",
-        "illustrated",
-        "image"
-      ],
-      "hash": "9821ba58ba12cff85c9b5978ac03c4f764b3377713f4655a53f123ef50dade5f",
-      "learned_at": "2026-10-04T17:45:46+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/meteor-shower/en/Comet_orbit.en.jpg",
-      "title": "Comet_orbit.en.jpg",
-      "summary": "Title: Comet_orbit.en.jpg URL Source: https://spaceplace.nasa.gov/meteor-shower/en/Comet_orbit.en.jpg Markdown Content: An ellipse describe Earth's orbit depicted in this image",
-      "keywords": [
-        "comet_orbit",
-        "jpg",
-        "content",
-        "depicted",
-        "describe",
-        "earth",
-        "ellipse",
-        "gov",
-        "https",
-        "image",
-        "markdown",
-        "meteor-shower",
-        "nasa",
-        "orbit"
-      ],
-      "hash": "0a23ad5d13de12b43fd5c550be922379175b62c756ac205165d3f55bb1953d86",
-      "learned_at": "2026-10-04T17:45:49+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/",
-      "title": "Page not found - NASA Science",
-      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/missions/hubble-space-telescope/hubble-observes-1st-confirmed-interstellar-comet/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmed",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "be82923244f35f8a110796a7295fda757c0179f3c7b367ce65f6e1eeb7d01d14",
-      "learned_at": "2026-10-04T17:45:54+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg",
-      "title": "The request could not be satisfied",
-      "summary": "Title: The request could not be satisfied URL Source: https://www.jpl.nasa.gov/_nuxt/Oops-galaxy.Dbo3FY1T.jpg Warning: Target URL returned error 403: Forbidden Markdown Content: ## 403 ERROR * * * Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation. * * * Generated by cloudfront (CloudFront) Request ID: 2wVbW_NhIRTdPMUZlOoluun1dL4u1_qm17atSEF3Pr50CyVIYDfo1Q==",
-      "keywords": [
-        "cloudfront",
-        "error",
-        "request",
-        "403",
-        "app",
-        "content",
-        "url",
-        "website",
-        "2wvbw_nhirtdpmuzlooluun1dl4u1_qm17atsef3pr50cyviydfo1q",
-        "_nuxt",
-        "again",
-        "blocked",
-        "configuration",
-        "connect"
-      ],
-      "hash": "8804894b4047ce52359c5c4d4a4baf8497846395de8a183e3f9a0fef29f4e0fc",
-      "learned_at": "2026-10-04T17:45:55+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/",
-      "title": "Discovering a Runaway Universe - NASA Science",
-      "summary": "Title: Discovering a Runaway Universe - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/discovering-a-runaway-universe/ Published Time: 2021-12-21T23:36:46-05:00 Markdown Content: Nearly a century after astronomer Edwin Hubble discovered that the universe is expanding, the telescope named in his honor refined his distance measurements. Astronomers use the Hubble telescope to measure distances by comparing the brightness of a known object in our galaxy (like a star or a supernova) to that of similar objects in a distant galaxy. They then couple those distances with the best galaxy-velocity measurements obtained from other telescopes. After more than three decades of observations, teams using Hubble’s extraordinary capabilities have measured the expansion rate to a precision of just over 1%, about eight times more precise than they originally ant",
-      "keywords": [
-        "hubble",
-        "universe",
-        "astronomers",
-        "brightness",
-        "distances",
-        "nasa",
-        "rate",
-        "science",
-        "because",
-        "constant",
-        "expanding",
-        "galaxy",
-        "https",
-        "stars"
-      ],
-      "hash": "e7cba2d2b1dcb76c3c04b381eee8cb6ae674523578714024a8cf6b3074477c73",
-      "learned_at": "2026-10-04T17:45:57+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/",
-      "title": "JPL Solar System Dynamics",
-      "summary": "Title: JPL Solar System Dynamics URL Source: https://ssd.jpl.nasa.gov/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov/faq.html",
-      "keywords": [
-        "https",
-        "jpl",
-        "nasa",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "planets",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png",
-        "discovery"
-      ],
-      "hash": "bea3b7f1aaeda91a85c8628fe6d7fc17fcd5c5f3a0bb60d8c173c2d8a22468f0",
-      "learned_at": "2026-10-04T17:46:00+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/",
-      "title": "NASA Jet Propulsion Laboratory (JPL) | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: NASA Jet Propulsion Laboratory (JPL) | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/ Published Time: Sun, 04 Oct 2026 17:44:20 GMT Markdown Content: [](https://www.jpl.nasa.gov/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 3: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Jet Propulsion Laboratory * [Exploring the universe and searching for new worlds](https://www.jpl.nasa.gov",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "topics",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "dares",
-        "earth",
-        "media",
-        "mighty",
-        "net",
-        "things"
-      ],
-      "hash": "484391d1c18a215363f687639adadc196a608df8f4d9797755f6e0c6783eda62",
-      "learned_at": "2026-10-04T17:46:01+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/topics/stars-and-galaxies/",
-      "title": "Stars and Galaxies",
-      "summary": "Title: Stars and Galaxies URL Source: https://www.jpl.nasa.gov/topics/stars-and-galaxies/ Markdown Content: The nighttime sky is magical. The dark curtain sprinkled with tiny dots of light has inspired songs, sparked romances, and prompted humans through the ages to gaze at the twinkling scene overhead and wonder what’s out there and what it all means. Some of those humans are scientists and engineers at JPL, who continue developing new tools and techniques to answer those primal questions. Powerful telescopes on Earth and observatories in space, including many developed and managed by JPL, have peered back in time across colossal distances. They have used multiple wavelengths of light to view stars, galaxies, and other cosmic objects, sometimes as they were billions of years ago. This power enables us to see many stars in their infancy or childhood, long before their glow traveled acros",
-      "keywords": [
-        "dark",
-        "objects",
-        "space",
-        "stars",
-        "jpl",
-        "many",
-        "earth",
-        "energy",
-        "galaxies",
-        "light",
-        "universe",
-        "across",
-        "after",
-        "dots"
-      ],
-      "hash": "c365a24dbed87c9461aa1ab0739768c00854837d942a5dec750a7e25fd89b893",
-      "learned_at": "2026-10-04T20:29:32+00:00"
-    },
     {
       "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/",
       "title": "Hubble's Deep Fields - NASA Science",
@@ -19925,6 +19803,190 @@
       ],
       "hash": "03f0a4555a5969248b21cfea8c16d46b2f95c8392c0583bdcfdceeaf3ae577f1",
       "learned_at": "2026-10-22T05:26:42+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024",
+      "title": "Roman_BeautyPass2026-large.jpg",
+      "summary": "Title: Roman_BeautyPass2026-large.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024 Markdown Content: A black telescope is in the center of a purplish space background",
+      "keywords": [
+        "assets",
+        "jpg",
+        "roman_beautypass2026-large",
+        "science",
+        "1024",
+        "background",
+        "black",
+        "center",
+        "content",
+        "dynamicimage",
+        "gov",
+        "https",
+        "markdown",
+        "missions"
+      ],
+      "hash": "ebbb6356599bc45aa5cf3b9c30ba35e6a3e0db9b5e3ad9a229852dfd418a69a6",
+      "learned_at": "2026-10-22T10:30:23+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif",
+      "title": "saturn.gif",
+      "summary": "Title: saturn.gif URL Source: https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif Published Time: Tue, 22 Dec 2015 17:15:41 GMT Markdown Content: An image of saturn and its rings",
+      "keywords": [
+        "saturn",
+        "gif",
+        "2015",
+        "banner",
+        "content",
+        "dec",
+        "gmt",
+        "gov",
+        "gsfc",
+        "https",
+        "image",
+        "markdown",
+        "nasa",
+        "nssdc"
+      ],
+      "hash": "773ef392ef3b514c453dca41117324a103500ed1e34eaf847a95076fd4b528ab",
+      "learned_at": "2026-10-22T10:30:26+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif",
+      "title": "uranus.gif",
+      "summary": "Title: uranus.gif URL Source: https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif Published Time: Tue, 22 Dec 2015 20:55:59 GMT Markdown Content: Blue Earth in a black background",
+      "keywords": [
+        "gif",
+        "uranus",
+        "2015",
+        "background",
+        "banner",
+        "black",
+        "blue",
+        "content",
+        "dec",
+        "earth",
+        "gmt",
+        "gov",
+        "gsfc",
+        "https"
+      ],
+      "hash": "5d6dfa39abff3494a2627dccf38f52e07ed03acd450c2b9e93b7ed4e68401e3b",
+      "learned_at": "2026-10-22T10:30:28+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=1024",
+      "title": "jaxa-mmx-spacecraft.png",
+      "summary": "Title: jaxa-mmx-spacecraft.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=1024 Markdown Content: A Mars would-be rover has ejected let's say helpful solar panels to the planet",
+      "keywords": [
+        "assets",
+        "jaxa-mmx-spacecraft",
+        "mars",
+        "png",
+        "science",
+        "1024",
+        "content",
+        "dynamicimage",
+        "ejected",
+        "gov",
+        "helpful",
+        "https",
+        "let",
+        "markdown"
+      ],
+      "hash": "2fc8da7219696fa6cadc21ee2870a4cef5a3c184ada40654d645ec10f7cdec97",
+      "learned_at": "2026-10-22T10:30:34+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/pdfs/msp_resume_template_nov18.pdf",
+      "title": "msp_resume_template_nov18.pdf",
+      "summary": "Title: msp_resume_template_nov18.pdf URL Source: https://www.jpl.nasa.gov/edu/pdfs/msp_resume_template_nov18.pdf Published Time: Mon, 20 Apr 2026 15:18:56 GMT Number of Pages: 1 Markdown Content: [Full Name] [Area Code & Phone Number]; [Email address] Objective Statement [Major] seeking an internship with NASA Jet Propulsion Laboratory working on (i.e. field, topic, etc.) This should NOT be a “summary of qualifications”] Education [College Name, Location] [Term/Year to Present] [Major(s); minor(s)] Expected Graduation Date – [Month/Year] [Cumulative GPA] (Note: repeat for all colleges attended, starting with current college first. Do not list high school.) Work Experience(s) (could also be “Volunteer Experience”) [List name of company/organization, location, dates, position/role, and several bullet points describing the experience.] (Note: Entries do not have to be STEM-related but shoul",
+      "keywords": [
+        "experience",
+        "name",
+        "examples",
+        "list",
+        "location",
+        "dates",
+        "nasa",
+        "academic",
+        "activities",
+        "bullet",
+        "college",
+        "describing",
+        "etc",
+        "java"
+      ],
+      "hash": "428959621af3a6c95587a82cc3b986da246ab95e5a3a3633bd10027434c18880",
+      "learned_at": "2026-10-22T10:30:36+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/news/2021/7/29/how-to-get-an-internship-at-jpl/",
+      "title": "How to Get an Internship at JPL – News | NASA JPL Education",
+      "summary": "Title: How to Get an Internship at JPL – News | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/news/2021/7/29/how-to-get-an-internship-at-jpl/ Markdown Content: In a typical year, NASA's Jet Propulsion Laboratory brings in about 1,000 interns from schools across the country to take part in projects that range from building spacecraft to studying climate change to developing software for space exploration. One of 10 NASA centers in the United States, the Southern California laboratory receives thousands of applications. So what can students do to stand out and set themselves on the right trajectory? We asked interns and the people who bring them to JPL about their tips for students and anyone interested in a STEM career or working at the Laboratory. First up: Learn about the kinds of opportunities available as well as where and how to apply. If you found this article, you're ",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "laboratory",
+        "news",
+        "edu",
+        "interns",
+        "internships",
+        "kinds",
+        "page",
+        "people",
+        "spacecraft"
+      ],
+      "hash": "555aecc809fad8885a76c7b3a89843322fab45bfaf696d8b8162da4fa5d41378",
+      "learned_at": "2026-10-22T10:30:41+00:00"
+    },
+    {
+      "url": "https://jpleducation-external.jpl.nasa.gov/student_application/?program=JPLSIP",
+      "title": "JPL Education",
+      "summary": "Title: JPL Education URL Source: https://jpleducation-external.jpl.nasa.gov/student_application/?program=JPLSIP Markdown Content: ![Image 1](https://jpleducation-external.jpl.nasa.gov/static/images/loader.gif) **Submitting** JPL Education ##### Please fix the following errors. × Close [![Image 2](https://jpleducation-external.jpl.nasa.gov/static/assets/images/logo_nasa_trio_black%402x.png)](https://www.jpl.nasa.gov/)[Skip Navigation](https://jpleducation-external.jpl.nasa.gov/student_application/?program=JPLSIP#main) [JPL Education](https://www.jpl.nasa.gov/edu/) [Intern](https://www.jpl.nasa.gov/edu/intern/) [Learn](https://www.jpl.nasa.gov/edu/learn/) [Teach](https://www.jpl.nasa.gov/edu/teach/) [News](https://www.jpl.nasa.gov/edu/news/) [Events](https://www.jpl.nasa.gov/edu/events/) [Share](https://www.jpl.nasa.gov/edu/share/campaigns/) [![Image 3](https://jpleducation-external.jpl.na",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "edu",
+        "jpleducation-external",
+        "intern",
+        "jplsip",
+        "learn",
+        "program",
+        "student_application",
+        "teach",
+        "apply"
+      ],
+      "hash": "81e5594669aff45ddf4af1689695a2b2a335d9681fb8423698c505f3f6da0c79",
+      "learned_at": "2026-10-22T10:30:45+00:00"
+    },
+    {
+      "url": "https://www.rbi.org.in/images/print-icon.png",
+      "title": "print-icon.png",
+      "summary": "Title: print-icon.png URL Source: https://www.rbi.org.in/images/print-icon.png Published Time: Sat, 09 May 2026 09:54:47 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "png",
+        "print-icon",
+        "2026",
+        "20x20",
+        "avatar",
+        "content",
+        "gmt",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo",
+        "markdown"
+      ],
+      "hash": "39d87c7f39d571f218138e29c929448808499f576d8c9153a4b9ebef4270296c",
+      "learned_at": "2026-10-22T10:30:48+00:00"
     }
   ],
   "failures": [
@@ -20010,6 +20072,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-22T10:30:48+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v36",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-22T10:30:48+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 13,
+      "frontier": 1449
+    },
     {
       "at": "2026-10-22T05:26:42+00:00",
       "kind": "core_unchanged",
@@ -20909,28 +20997,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 17,
       "frontier": 702
-    },
-    {
-      "at": "2026-10-14T07:44:41+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-14T07:44:41+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 679
     }
   ],
   "metrics": {
-    "successful_fetches": 854,
+    "successful_fetches": 862,
     "failed_fetches": 16,
-    "duplicate_pages": 1,
-    "candidate_promotions": 34,
+    "duplicate_pages": 2,
+    "candidate_promotions": 35,
     "candidate_rejections": 108
   },
   "core_genome": {
@@ -20962,12 +21035,12 @@
     "www.jpl.nasa.gov",
     "ssd.jpl.nasa.gov",
     "science.nasa.gov",
-    "www.sebi.gov.in",
-    "naif.jpl.nasa.gov",
     "nssdc.gsfc.nasa.gov",
-    "cneos.jpl.nasa.gov",
+    "naif.jpl.nasa.gov",
+    "www.sebi.gov.in",
+    "assets.science.nasa.gov",
     "ssd-api.jpl.nasa.gov",
     "www.nature.com",
-    "assets.science.nasa.gov"
+    "jpl.nasa.gov"
   ]
 }
