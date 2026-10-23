@@ -1,14 +1,15 @@
 {
   "schema": 2,
-  "generation": 150,
-  "core_version": 37,
-  "runs": 149,
-  "pages_learned": 890,
-  "last_run": "2026-10-23T05:55:52+00:00",
+  "generation": 151,
+  "core_version": 38,
+  "runs": 150,
+  "pages_learned": 896,
+  "last_run": "2026-10-23T11:18:07+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_OLD-lunar-flashlight_0_APYWR.701d99c8.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26701_ERNEST_twilight_16x9_.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.youtube.com/@nasajpledu3401",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EuropaClipper_Poster_08_2020_0.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.2e16d0ba.fill-400x400-c50.jpg",
@@ -61,8 +62,24 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
-    "https://www.youtube.com/@nasajpledu3401",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA0.2e16d0ba.fill-400x400-c50_wlFIXs6.jpg",
+    "https://www.glassdoor.com/Jobs/NASA-Jet-Propulsion-Laboratory-Jobs-E116768.htm",
+    "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
+    "https://x.com/NASASpaceAlerts",
+    "https://thejplstore.com/",
+    "https://www.facebook.com/nasaastromaterials",
+    "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
+    "https://www.facebook.com/Nature",
+    "https://twitter.com/nature",
+    "https://www.natureindex.com/",
+    "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "http://www.facebook.com/NASAJPL",
+    "http://instagram.com/nasajpl",
+    "http://facebook.com/nasajpledu",
+    "http://x.com/nasajpl_edu",
+    "http://instagram.com/nasajpl_edu",
+    "http://www.imf.org/en/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Mars_Cube_One.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
@@ -148,31 +165,14 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "https://www.glassdoor.com/Jobs/NASA-Jet-Propulsion-Laboratory-Jobs-E116768.htm",
-    "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
-    "https://x.com/NASASpaceAlerts",
-    "https://thejplstore.com/",
-    "https://www.facebook.com/nasaastromaterials",
-    "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
     "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
     "https://apps.apple.com/us/app/space-images/id347075764",
-    "https://www.facebook.com/Nature",
-    "https://twitter.com/nature",
-    "https://www.natureindex.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-3791.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/D2004_0124_Tb109.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-45829.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-17053.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/170-615Ac-5mb.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-25566Bc.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://www.facebook.com/NASAJPL",
-    "http://instagram.com/nasajpl",
-    "http://facebook.com/nasajpledu",
-    "http://x.com/nasajpl_edu",
-    "http://instagram.com/nasajpl_edu",
-    "http://www.imf.org/en/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://www.jpl.jobs/",
@@ -183,7 +183,6 @@
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
     "https://sfp.caltech.edu/undergraduate-research/programs/surfjpl",
-    "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://link.springer.com/shop/all-disciplines/en-eu/",
     "https://news.ycombinator.com/",
@@ -210,6 +209,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://universe-of-learning.org/home",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "https://esahubble.org/images/heic1215a/",
     "https://datatracker.ietf.org/doc/html/rfc3875",
     "https://datacenter.iers.org/data/16/bulletinc-072.txt",
     "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
@@ -263,8 +263,6 @@
     "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
     "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
-    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -273,6 +271,8 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
+    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
+    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://aa.usno.navy.mil/data/index.php",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
@@ -283,35 +283,10 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/gistemp_1979-2019_768px.jpg?w=768&h=516&fit=clip",
-    "https://www.nasa.gov/?search=ISS",
-    "http://nssdc.gsfc.nasa.gov/logo/nasa_bigheader_logo.gif",
-    "http://nssdc.gsfc.nasa.gov/logo/nssdca_header.jpg",
-    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=2007-043A",
-    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTelemetry.action?id=2007-043A",
-    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayExperiment.action?spacecraftId=2007-043A",
-    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayDataset.action?spacecraftId=2007-043A",
-    "http://nssdc.gsfc.nasa.gov/planetary/text/dawn_pr_20181101.txt",
-    "http://nssdc.gsfc.nasa.gov/planetary/text/dawn_pr_20160630.txt",
-    "http://dawn.jpl.nasa.gov/",
-    "http://www.nasa.gov/dawn",
-    "http://www.nasa.gov/about/highlights/HP_Privacy.html",
-    "http://nssdc.gsfc.nasa.gov/nmc/SpacecraftQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/ExperimentQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/DatasetQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/PersonQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/PublicationQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/MapQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/NewDataQuery.jsp",
-    "http://nssdc.gsfc.nasa.gov/nmc/EventQuery.jsp",
-    "http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg",
     "http://svs.gsfc.nasa.gov/",
     "http://svs.gsfc.nasa.gov/gallery/the-galleries/",
     "http://svs.gsfc.nasa.gov/help/",
     "http://svs.gsfc.nasa.gov/",
-    "http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg",
     "http://svs.gsfc.nasa.gov/static/svs/images/USAgov_logo.svg",
     "https://ssd.jpl.nasa.gov/images/dss-14.jpg",
     "https://ssd.jpl.nasa.gov/astro_par.html",
@@ -1464,7 +1439,32 @@
     "https://www.nasa.gov/wp-content/uploads/2015/12/15-239c.jpg?w=1024",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=7",
     "https://www.nasa.gov/search/?search=Climate+Change&search_page=8",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=756"
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=756",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/gistemp_1979-2019_768px.jpg?w=768&h=516&fit=clip",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/exp01-portrait.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/s119-e-008343.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/12/iss074-s-002b-mission-hero.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2025/10/iss067e149651.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2016/01/meatball_hires.jpg?w=946",
+    "https://www.nasa.gov/search/?search=ISS&search_page=2",
+    "https://www.nasa.gov/search/?search=ISS&search_page=3",
+    "https://www.nasa.gov/search/?search=ISS&search_page=1121",
+    "https://images-assets.nasa.gov/image/iss073e0028436/iss073e0028436~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+    "https://www.nasa.gov/nasa-privacy-act-system-of-records-notices-sorns/",
+    "https://www.nasa.gov/section-508-accessibility-at-nasa/",
+    "https://www.nasa.gov/privacy-impact-assessment-pia-summaries/",
+    "https://www.nasa.gov/nasa-privacy-act-system-of-records-notices-sorns/",
+    "https://www.nasa.gov/wp-content/uploads/2023/01/How-to-File-a-FOIA-Request-for-NASA-Agency-Records-December-2022.pdf?emrc=774ae3",
+    "https://www.nasa.gov/wp-content/uploads/2025/12/access-template-final.pdf?emrc=28c386",
+    "https://www.nasa.gov/wp-content/uploads/2025/12/consent-for-disclosure-template-final.pdf?emrc=d170b4",
+    "https://www.nasa.gov/controlled-unclassified-information-cui-and-why-it-matters/",
+    "http://www.google.com/intl/en/policies/privacy/",
+    "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
+    "https://tools.google.com/dlpage/gaoptout?hl=en",
+    "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ecfr.gov%2Fcurrent%2Ftitle-16%2Fchapter-I%2Fsubchapter-C%2Fpart-312&data=05%7C01%7Cmia.m.roundtree%40nasa.gov%7C2e899eb7904a4a1746d308dba96a4a0b%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638290046200451578%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Ahp7qpnjDAOnaO%2B1MOO252oOJS6MF7qG5brvqetyxFQ%3D&reserved=0",
+    "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ecfr.gov%2Fcurrent%2Ftitle-14%2Fchapter-V%2Fpart-1212&data=05%7C01%7Cmia.m.roundtree%40nasa.gov%7C2e899eb7904a4a1746d308dba96a4a0b%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638290046200451578%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=volzOeVhmQWQkd567DU79BmwciQZPDgV6r1A9Peha0I%3D&reserved=0",
+    "https://www.dhs.gov/topic/privacy",
+    "http://www.nasa.gov/dawn"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6433,147 +6433,103 @@
       "at": "2026-10-23T05:56:14+00:00",
       "status": "ok",
       "hash": "59f86bb288300e0c809d7963347c9d3d05e6b28345c71805502d92e799782338"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip": {
+      "at": "2026-10-23T11:18:10+00:00",
+      "status": "ok",
+      "hash": "f4b52d089245f80666611836064cd65d2f07950e9c653027019659bbdc64ef0e"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip": {
+      "at": "2026-10-23T11:18:12+00:00",
+      "status": "ok",
+      "hash": "822d86db792f3ceb1c8c4d11bebcd1100e0741c9b42f9cf90ccc549a8e6f1502"
+    },
+    "https://www.nasa.gov/?search=ISS": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "ok",
+      "hash": "ddfb9e95c6df307a48a4e1df1243576199e1251a22ed581616c649f529bcde14"
+    },
+    "http://nssdc.gsfc.nasa.gov/logo/nasa_bigheader_logo.gif": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/logo/nssdca_header.jpg": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=2007-043A": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTelemetry.action?id=2007-043A": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayExperiment.action?spacecraftId=2007-043A": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayDataset.action?spacecraftId=2007-043A": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/planetary/text/dawn_pr_20181101.txt": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/planetary/text/dawn_pr_20160630.txt": {
+      "at": "2026-10-23T11:18:16+00:00",
+      "status": "robots_disallow"
+    },
+    "http://dawn.jpl.nasa.gov/": {
+      "at": "2026-10-23T11:18:22+00:00",
+      "status": "ok",
+      "hash": "28942c0882992beded45325f9fc691149e33fca5d0662dadb30cb3a0314988e9"
+    },
+    "http://www.nasa.gov/about/highlights/HP_Privacy.html": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "ok",
+      "hash": "9cdbbb1a7cdcddf470425870d830ee728c845d47f074f0117ca48ba96a64e2b7"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/SpacecraftQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/ExperimentQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/DatasetQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/PersonQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/PublicationQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/MapQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/NewDataQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://nssdc.gsfc.nasa.gov/nmc/EventQuery.jsp": {
+      "at": "2026-10-23T11:18:27+00:00",
+      "status": "robots_disallow"
+    },
+    "http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg": {
+      "at": "2026-10-23T11:18:30+00:00",
+      "status": "ok",
+      "hash": "b9e0181942cfc705c8e20f73e0e6b49bdc572b203b4c7026972e1f9fb9aea4a5"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/",
-      "title": "Slime Mold Simulations Used to Map Dark Matter Holding Universe Together - NASA Science",
-      "summary": "Title: Slime Mold Simulations Used to Map Dark Matter Holding Universe Together - NASA Science URL Source: https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/ Published Time: 2020-03-10T13:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/new",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "universe"
-      ],
-      "hash": "c67b829f88c069a75f218ef765be2a60ed1af7364d56ccca51fce06b5420e566",
-      "learned_at": "2026-10-06T13:37:31+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/",
-      "title": "Hubble Maps the Cosmic Web of \"Clumpy\" Dark Matter in 3-D - NASA Science",
-      "summary": "Title: Hubble Maps the Cosmic Web of \"Clumpy\" Dark Matter in 3-D - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-maps-the-cosmic-web-of-clumpy-dark-matter-in-3-d/ Published Time: 2007-01-07T13:30:00-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](http",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "c3643e0341250004d769cf76abef33d0e099d67eb5c0fdda9983fde227696e66",
-      "learned_at": "2026-10-06T13:37:35+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900",
-      "title": "k218bstsci.jpg",
-      "summary": "Title: k218bstsci.jpg URL Source: https://science.nasa.gov/wp-content/uploads/2025/04/k218bstsci.jpg?w=900 Published Time: Tue, 06 Oct 2026 19:04:43 GMT Markdown Content: A closeup of a planet shows weather patterns",
-      "keywords": [
-        "jpg",
-        "k218bstsci",
-        "2025",
-        "2026",
-        "900",
-        "closeup",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "oct",
-        "patterns"
-      ],
-      "hash": "b786ee14c85a2d11b12267e042905c345531bfda5b9de2a15cfae1df72ff04a5",
-      "learned_at": "2026-10-06T19:04:44+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/",
-      "title": "Galaxy Cluster MACS J0717 - NASA Science",
-      "summary": "Title: Galaxy Cluster MACS J0717 - NASA Science URL Source: https://science.nasa.gov/asset/hubble/galaxy-cluster-macs-j0717/ Published Time: 2009-04-16T11:00:00-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.na",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "a1bf5118ac28a872e8b1c35dc69bcbd71958196ce315a8031f99d093dd074d7a",
-      "learned_at": "2026-10-06T19:04:48+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/who-we-are/",
-      "title": "Who We Are",
-      "summary": "Title: Who We Are URL Source: https://www.jpl.nasa.gov/who-we-are/ Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3: JPL campus 2020](https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-1024x441-c10.jpg) Credit: NASA/JPL-Caltech [Who We Are](https://www.jpl.nasa.gov/who-we-a",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "who-we-are",
-        "space",
-        "image",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "home",
-        "net",
-        "_nuxt",
-        "content"
-      ],
-      "hash": "6f09bb4b3943f71563c67e18987f730896189163cf19698342926e5767149c2e",
-      "learned_at": "2026-10-06T19:04:51+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/about/",
-      "title": "What does SSD do?",
-      "summary": "Title: What does SSD do? URL Source: https://ssd.jpl.nasa.gov/about/ Markdown Content: JPL’s Solar System Dynamics (SSD) group is part of Mission Design and Navigation section. The SSD group focuses on determining the motion and physical parameters of natural planetary objects and our primary products, services, and charter are described below. * [Solar System Dynamics Website](https://ssd.jpl.nasa.gov/) * [Planetary Ephemerides](https://ssd.jpl.nasa.gov/planets/orbits.html) * [Satellite Ephemerides](https://ssd.jpl.nasa.gov/sats/ephem/) * [Asteroid & Comet Ephemerides](https://ssd.jpl.nasa.gov/sb/orbits.html) * [Gravity/Radio Science](https://ssd.jpl.nasa.gov/tools/gravity.html) * [Center for Near Earth Object Studies (CNEOS)](https://cneos.jpl.nasa.gov/) ### Charter The SSD group generates accurate position and velocity histories (ephemerides), gravity fields, and rotational parameters",
-      "keywords": [
-        "ssd",
-        "jpl",
-        "nasa",
-        "system",
-        "gov",
-        "https",
-        "solar",
-        "ephemerides",
-        "group",
-        "gravity",
-        "bodies",
-        "data",
-        "dynamics",
-        "mission"
-      ],
-      "hash": "97a3f3ea6006446b8a60a1964136bfeae1e5767e086c7635a910db60b5ac28c8",
-      "learned_at": "2026-10-06T19:04:55+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/faq.html",
       "title": "Frequently Asked Questions (FAQs)",
@@ -20235,6 +20191,144 @@
       ],
       "hash": "59f86bb288300e0c809d7963347c9d3d05e6b28345c71805502d92e799782338",
       "learned_at": "2026-10-23T05:56:14+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip",
+      "title": "pliocene-co2-l.jpg",
+      "summary": "Title: pliocene-co2-l.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip Markdown Content: Graph that is showing carbon dioxide concentration soaring at a steep rate",
+      "keywords": [
+        "assets",
+        "jpg",
+        "pliocene-co2-l",
+        "science",
+        "2023",
+        "800",
+        "986",
+        "carbon",
+        "climate",
+        "clip",
+        "concentration",
+        "content",
+        "dioxide",
+        "dynamicimage"
+      ],
+      "hash": "f4b52d089245f80666611836064cd65d2f07950e9c653027019659bbdc64ef0e",
+      "learned_at": "2026-10-23T11:18:10+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip",
+      "title": "WildfireBurden4-768px.jpg",
+      "summary": "Title: WildfireBurden4-768px.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip Markdown Content: The scene shows a beautiful skyline with large trees and a bridge",
+      "keywords": [
+        "assets",
+        "jpg",
+        "science",
+        "wildfireburden4-768px",
+        "2023",
+        "512",
+        "768",
+        "beautiful",
+        "bridge",
+        "climate",
+        "clip",
+        "content",
+        "dynamicimage",
+        "esd"
+      ],
+      "hash": "822d86db792f3ceb1c8c4d11bebcd1100e0741c9b42f9cf90ccc549a8e6f1502",
+      "learned_at": "2026-10-23T11:18:12+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/?search=ISS",
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "summary": "Title: NASA JPL Looks to Next 90 Years of Innovation, Exploration URL Source: https://www.nasa.gov/?search=ISS Markdown Content: Filter Results ### Content Type * Articles * Press Release * Gallery * Topic * People * Mission * Blog ### Categories * Apollo (2444) * ISS Research (2390) * APOD (1733) * Earth Observatory (725) * Humans in Space (566) * Commercial Resupply (545) ### Changed * Last Year (8840) * Last Month (571) * Last Week (31) ### Language * English * Español * We're working continuously to improve our search results. If you aren't finding what you expect, please use our [feedback form](https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit) to share the search query and expected result with us so we can improve. * [![Image 1: ISS Virtual Tour - NASA ](https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024) 1 Min Read #### ISS Virtual T",
+      "keywords": [
+        "nasa",
+        "gov",
+        "www",
+        "https",
+        "space",
+        "station",
+        "international",
+        "2023",
+        "iss",
+        "1024",
+        "_https",
+        "image",
+        "jpg",
+        "uploads"
+      ],
+      "hash": "ddfb9e95c6df307a48a4e1df1243576199e1251a22ed581616c649f529bcde14",
+      "learned_at": "2026-10-23T11:18:16+00:00"
+    },
+    {
+      "url": "http://dawn.jpl.nasa.gov/",
+      "title": "Dawn - NASA Science",
+      "summary": "Title: Dawn - NASA Science URL Source: http://dawn.jpl.nasa.gov/ Published Time: 2023-06-16T08:43:19-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimed",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "28942c0882992beded45325f9fc691149e33fca5d0662dadb30cb3a0314988e9",
+      "learned_at": "2026-10-23T11:18:22+00:00"
+    },
+    {
+      "url": "http://www.nasa.gov/about/highlights/HP_Privacy.html",
+      "title": "NASA Web Privacy Policy and Important Notices - NASA",
+      "summary": "Title: NASA Web Privacy Policy and Important Notices - NASA URL Source: http://www.nasa.gov/about/highlights/HP_Privacy.html Published Time: 2023-05-03T17:13:40Z Markdown Content: Thank you for visiting NASA and reviewing our policy notices. ## Privacy Policy This notice provides NASA’s policy regarding the nature, purpose, use and sharing of any information collected via this Web site. The information you provide on a NASA Web site will be used only for its intended purpose. We will protect your information consistent with the principles of the Privacy Act, the e-Government act of 2002, the Federal Records Act, and as applicable, the Freedom of Information Act. Submitting information is strictly voluntary. By doing so, you are giving NASA your permission to use the information for the intended purpose. If you do not want to give NASA permission to use your information, simply do not pro",
+      "keywords": [
+        "information",
+        "nasa",
+        "google",
+        "gov",
+        "www",
+        "highlights",
+        "hp_privacy",
+        "html",
+        "https",
+        "privacy",
+        "act",
+        "policy",
+        "analytics",
+        "collected"
+      ],
+      "hash": "9cdbbb1a7cdcddf470425870d830ee728c845d47f074f0117ca48ba96a64e2b7",
+      "learned_at": "2026-10-23T11:18:27+00:00"
+    },
+    {
+      "url": "http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg",
+      "title": "nasa-meatball.svg",
+      "summary": "Title: nasa-meatball.svg URL Source: http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg Published Time: Fri, 09 Jun 2023 17:34:25 GMT Markdown Content: Lykke bubbels logo",
+      "keywords": [
+        "nasa-meatball",
+        "svg",
+        "svs",
+        "2023",
+        "bubbels",
+        "content",
+        "fri",
+        "gmt",
+        "gov",
+        "gsfc",
+        "http",
+        "images",
+        "jun",
+        "logo"
+      ],
+      "hash": "b9e0181942cfc705c8e20f73e0e6b49bdc572b203b4c7026972e1f9fb9aea4a5",
+      "learned_at": "2026-10-23T11:18:30+00:00"
     }
   ],
   "failures": [
@@ -20335,6 +20429,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-23T11:18:31+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v38",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-23T11:18:31+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 1458
+    },
     {
       "at": "2026-10-23T05:56:14+00:00",
       "kind": "core_unchanged",
@@ -21234,28 +21354,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 24,
       "frontier": 806
-    },
-    {
-      "at": "2026-10-15T09:22:54+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-15T09:22:54+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 12,
-      "frontier": 756
     }
   ],
   "metrics": {
-    "successful_fetches": 890,
+    "successful_fetches": 896,
     "failed_fetches": 19,
     "duplicate_pages": 2,
-    "candidate_promotions": 36,
+    "candidate_promotions": 37,
     "candidate_rejections": 112
   },
   "core_genome": {
@@ -21287,12 +21392,12 @@
     "www.jpl.nasa.gov",
     "ssd.jpl.nasa.gov",
     "science.nasa.gov",
+    "assets.science.nasa.gov",
     "nssdc.gsfc.nasa.gov",
     "www.nature.com",
-    "assets.science.nasa.gov",
-    "ssd-api.jpl.nasa.gov",
-    "www.sebi.gov.in",
     "jpl.nasa.gov",
-    "naif.jpl.nasa.gov"
+    "ssd-api.jpl.nasa.gov",
+    "naif.jpl.nasa.gov",
+    "www.sebi.gov.in"
   ]
 }
