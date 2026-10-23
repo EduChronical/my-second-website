@@ -1,17 +1,18 @@
 {
   "schema": 2,
-  "generation": 149,
+  "generation": 150,
   "core_version": 37,
-  "runs": 148,
-  "pages_learned": 884,
-  "last_run": "2026-10-23T00:58:49+00:00",
+  "runs": 149,
+  "pages_learned": 890,
+  "last_run": "2026-10-23T05:55:52+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_OLD-lunar-flashlight_0_APYWR.701d99c8.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26701_ERNEST_twilight_16x9_.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EuropaClipper_Poster_08_2020_0.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26662.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_OLD-lunar-flashlight_0_APYWR.701d99c8.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SkyFall_helicopter_trio_croppe.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26300_figB-gradient.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/D2022_0809_RL8161.2e16d0ba.fill-400x400-c50.jpg",
@@ -36,7 +37,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26670-NISAR_Views_Seattle.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA04495.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26484.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26701_ERNEST_twilight_16x9_.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_kSlf0I3.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Record-Setting_Ro.2e16d0ba.fill-400x400-c50.jpg",
@@ -165,6 +165,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-17053.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/170-615Ac-5mb.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-25566Bc.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
@@ -206,6 +207,8 @@
     "https://cdn.parsely.com/",
     "https://www.linkedin.com/company/jet-propulsion-laboratory/",
     "https://www.iaucom4.org/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
+    "https://universe-of-learning.org/home",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://datatracker.ietf.org/doc/html/rfc3875",
     "https://datacenter.iers.org/data/16/bulletinc-072.txt",
@@ -225,7 +228,6 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
@@ -239,7 +241,6 @@
     "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
     "https://www.rutschle.net/tech/sslh/README.html",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
-    "https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble",
     "https://www.stunnel.org/",
     "https://en.wikipedia.org/wiki/Main_Page",
     "https://www.iana.org/",
@@ -262,7 +263,6 @@
     "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
     "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
-    "https://universe-of-learning.org/home",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -283,30 +283,6 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/",
-    "https://jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/",
-    "https://jpl.nasa.gov/events/",
-    "https://jpl.nasa.gov/explore-jpl/",
-    "https://jpl.nasa.gov/jpl-and-the-community/directions-and-maps/",
-    "https://www.nasa.gov/wp-content/uploads/2024/01/2023averagetemp-4k-for-2024-release.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/01/giss-gistemp-anomaly-globe-2023.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2015/06/15-115.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/climatearticlecollage.png?w=985",
-    "https://www.nasa.gov/wp-content/uploads/2021/10/GISS_20211101_maize.jpg?w=1024",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=7",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=8",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=756",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/john-fowler-qQIb6343A8U-unsplash-scaled-1.jpeg?w=1024&h=662&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/5000/5668/glacier_4up.jpg?w=540&h=423&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/1_2-768px-90.jpg?w=768&h=507&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/keeling_image_a1.jpg?w=1024&h=640&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/80000/80825/CAPE_720.png?w=720&h=432&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/Alabama_Coast_Maury_Estes.jpeg?w=1024&h=703&fit=clip",
-    "https://www.nasa.gov/wp-content/uploads/2015/12/15-239c.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/gracedadm_clsm025_gl_7d_gws_20211227_030_print.jpg?w=985",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pexels-pixabay-104826_768px.jpg?w=768&h=576&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/mollweide_cycle.gif?w=720&h=360&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/details/original/459_12_aqua-lrg.en-60.jpg?w=800&h=494&fit=clip",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/gistemp_1979-2019_768px.jpg?w=768&h=516&fit=clip",
@@ -1455,7 +1431,40 @@
     "https://www.nasa.gov/?search=Artemis",
     "https://www.nasa.gov/?search=Expedition+64",
     "https://www.nasa.gov/?search=SpaceX+Crew-2",
-    "http://www.nasa.gov/"
+    "http://www.nasa.gov/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pexels-pixabay-104826_768px.jpg?w=768&h=576&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/mollweide_cycle.gif?w=720&h=360&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/john-fowler-qQIb6343A8U-unsplash-scaled-1.jpeg?w=1024&h=662&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/5000/5668/glacier_4up.jpg?w=540&h=423&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/80000/80825/CAPE_720.png?w=720&h=432&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/Alabama_Coast_Maury_Estes.jpeg?w=1024&h=703&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/details/original/459_12_aqua-lrg.en-60.jpg?w=800&h=494&fit=clip",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/may-2024-shake-bake-how-spacecraft-are-tested-to-handle-the-harsh-environment-of-space/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/june-2024-nasa-in-your-home-how-space-based-technology-improves-our-daily-lives/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/july-2024-how-nasas-team-of-autonomous-mini-rovers-will-explore-the-moon/",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/august-2024-sulfur-crystals-on-mars-curiositys-happy-accident/",
+    "https://www.jpl.nasa.gov/events/lectures_archive.php?year=2014",
+    "https://www.jpl.nasa.gov/events/lectures_archive.php?year=2013",
+    "https://www.jpl.nasa.gov/events/lectures_archive.php?year=2012",
+    "https://www.jpl.nasa.gov/events/lectures_archive.php?year=2011",
+    "https://www.jpl.nasa.gov/events/lectures_archive.php?year=2010",
+    "https://www.jpl.nasa.gov/events/lectures_archive.php?year=2009",
+    "https://www.nasa.gov/requests-for-exhibits-artifacts-or-speakers/",
+    "https://jpl.nasa.gov/jpl-and-the-community/directions-and-maps/",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/climatearticlecollage.png?w=985",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/gracedadm_clsm025_gl_7d_gws_20211227_030_print.jpg?w=985",
+    "https://jpl.nasa.gov/events/",
+    "https://jpl.nasa.gov/explore-jpl/",
+    "https://www.nasa.gov/wp-content/uploads/2015/06/15-115.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2021/10/GISS_20211101_maize.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2015/12/15-239c.jpg?w=1024",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=7",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=8",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=756"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6394,147 +6403,39 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23214.2e16d0ba.fill-400x400-c50.jpg": {
       "at": "2026-10-23T00:59:27+00:00",
       "status": "robots_disallow"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/1_2-768px-90.jpg?w=768&h=507&fit=clip": {
+      "at": "2026-10-23T05:55:54+00:00",
+      "status": "ok",
+      "hash": "19006818d94be589a956c028198a120493ba4de32a4d8eec4bfce46bcbb76a75"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/keeling_image_a1.jpg?w=1024&h=640&fit=clip": {
+      "at": "2026-10-23T05:55:57+00:00",
+      "status": "ok",
+      "hash": "4f47ef659f99718eee351e8aea5ed532961940f3ed28e1382c4eff885eb08fdf"
+    },
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/": {
+      "at": "2026-10-23T05:56:00+00:00",
+      "status": "ok",
+      "hash": "9d5e3fa82720ded5a1232856843017e6812b9618d29c911f34e44f48b9605ef3"
+    },
+    "https://jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/": {
+      "at": "2026-10-23T05:56:05+00:00",
+      "status": "ok",
+      "hash": "fc37066d92d67d7963aa6ea0aef52e01fc2aabf098f9adc92c4ba3f35c49f8d3"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2024/01/2023averagetemp-4k-for-2024-release.png?w=1024": {
+      "at": "2026-10-23T05:56:10+00:00",
+      "status": "ok",
+      "hash": "2f85d1b92d986b8cd67582ad31ca81ba0c8a3cb1b265646e0f9ea9f7ab2b2a50"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/01/giss-gistemp-anomaly-globe-2023.png?w=1024": {
+      "at": "2026-10-23T05:56:14+00:00",
+      "status": "ok",
+      "hash": "59f86bb288300e0c809d7963347c9d3d05e6b28345c71805502d92e799782338"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
-      "title": "Hubble’s Nebulae - NASA Science",
-      "summary": "Title: Hubble’s Nebulae - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/ Published Time: 2023-01-13T09:09:36-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "28fe90b64ff81086705303845f0798be94336837ee444231ed86b3969caf2899",
-      "learned_at": "2026-10-06T00:20:37+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/",
-      "title": "Focusing in on Gravitational Lenses - NASA Science",
-      "summary": "Title: Focusing in on Gravitational Lenses - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/focusing-in-on-gravitational-lenses/ Published Time: 2024-12-02T11:14:50-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.g",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "5c0c1e7b329c145584a0d490be37e1edc7a775b9248ad8955ac5952ce37648ac",
-      "learned_at": "2026-10-06T00:20:41+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/",
-      "title": "Galaxy Collision Creates 'Space Triangle' in New Hubble Image - NASA Science",
-      "summary": "Title: Galaxy Collision Creates 'Space Triangle' in New Hubble Image - NASA Science URL Source: https://science.nasa.gov/missions/hubble/galaxy-collision-creates-space-triangle-in-new-hubble-image/ Published Time: 2022-02-22T10:00:00-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Med",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "image",
-        "images",
-        "multimedia",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "9234962935e78654310b42b4de496424e05551fbb5fe59d72dba592c65e72609",
-      "learned_at": "2026-10-06T06:36:53+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/",
-      "title": "Mapping the Cosmic Web - NASA Science",
-      "summary": "Title: Mapping the Cosmic Web - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/ Published Time: 2024-12-02T11:54:04-05:00 Markdown Content: Astronomers theorize that the early universe was very smooth, and that the distribution of matter was uniform with tiny variations in density that grew into a web-like pattern. These areas of slightly higher density also had slightly more gravity to attract more matter. Over time, the universe evolved into a web of filaments and vast sheets, largely made of dark matter, which form the structure of the universe today. * This cosmic web forms the large-scale backbone of the universe. Hubble’s high resolution can make detailed observations that spot minute distortions in how light from distant objects bends around a foreground galaxy cluster. Such observations allowed astronomers to mak",
-      "keywords": [
-        "hubble",
-        "matter",
-        "gas",
-        "astronomers",
-        "cluster",
-        "filament",
-        "observations",
-        "galaxy",
-        "j0717",
-        "macs",
-        "nasa",
-        "science",
-        "universe",
-        "data"
-      ],
-      "hash": "5f13195d23950c1454e422d2e3592c8c1779a0d28a7e68ade0041eaf15b51883",
-      "learned_at": "2026-10-06T06:36:58+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/meteor-shower/en/Meteor_shower.en.jpg",
-      "title": "Meteor_shower.en.jpg",
-      "summary": "Title: Meteor_shower.en.jpg URL Source: https://spaceplace.nasa.gov/meteor-shower/en/Meteor_shower.en.jpg Markdown Content: A dark night sky with streaks and specks of light",
-      "keywords": [
-        "jpg",
-        "meteor_shower",
-        "content",
-        "dark",
-        "gov",
-        "https",
-        "light",
-        "markdown",
-        "meteor-shower",
-        "nasa",
-        "night",
-        "sky",
-        "source",
-        "spaceplace"
-      ],
-      "hash": "fd1a8792e83f9429ec7eb10e915f6ec1fbdd70a2ef5f105cad8670a4e313037f",
-      "learned_at": "2026-10-06T06:37:02+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg",
-      "title": "logo-tribrand-color.CrK_FdfP.svg",
-      "summary": "Title: logo-tribrand-color.CrK_FdfP.svg URL Source: https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg Published Time: Mon, 21 Sep 2026 23:36:13 GMT Markdown Content: Logo for theJet Propulsion Laboratory under the California Institute of Technology",
-      "keywords": [
-        "crk_fdfp",
-        "logo-tribrand-color",
-        "svg",
-        "2026",
-        "_nuxt",
-        "california",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "institute",
-        "jpl",
-        "laboratory",
-        "logo"
-      ],
-      "hash": "18bcb4cec3011196b0cc074853e1237e60eee30cd953e712e39f85c04fd6e583",
-      "learned_at": "2026-10-06T06:37:04+00:00"
-    },
     {
       "url": "https://science.nasa.gov/missions/hubble/slime-mold-simulations-used-to-map-dark-matter-holding-universe-together/",
       "title": "Slime Mold Simulations Used to Map Dark Matter Holding Universe Together - NASA Science",
@@ -20196,6 +20097,144 @@
       ],
       "hash": "db7a02838403da50c0aa30b16fce69faedc4cf0b44d7958b8dc38a1b15badcc9",
       "learned_at": "2026-10-23T00:59:26+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/1_2-768px-90.jpg?w=768&h=507&fit=clip",
+      "title": "1_2-768px-90.jpg",
+      "summary": "Title: 1_2-768px-90.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/1_2-768px-90.jpg?w=768&h=507&fit=clip Markdown Content: horses at a farm under a clear blue sky",
+      "keywords": [
+        "1_2-768px-90",
+        "assets",
+        "jpg",
+        "science",
+        "2023",
+        "507",
+        "768",
+        "blue",
+        "clear",
+        "climate",
+        "clip",
+        "content",
+        "dynamicimage",
+        "esd"
+      ],
+      "hash": "19006818d94be589a956c028198a120493ba4de32a4d8eec4bfce46bcbb76a75",
+      "learned_at": "2026-10-23T05:55:54+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/keeling_image_a1.jpg?w=1024&h=640&fit=clip",
+      "title": "keeling_image_a1.jpg",
+      "summary": "Title: keeling_image_a1.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/keeling_image_a1.jpg?w=1024&h=640&fit=clip Markdown Content: Carbon Dioxide Concentration at Mauna Loa Observatory in ppm",
+      "keywords": [
+        "assets",
+        "jpg",
+        "keeling_image_a1",
+        "science",
+        "1024",
+        "2023",
+        "640",
+        "carbon",
+        "climate",
+        "clip",
+        "concentration",
+        "content",
+        "dioxide",
+        "dynamicimage"
+      ],
+      "hash": "4f47ef659f99718eee351e8aea5ed532961940f3ed28e1382c4eff885eb08fdf",
+      "learned_at": "2026-10-23T05:55:57+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/",
+      "title": "Lecture Series | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Lecture Series | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/jpl-and-the-community/lecture-series/ Markdown Content: [](https://jpl.nasa.gov/jpl-and-the-community/lecture-series/) Skip to main content [JPL](https://jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Lecture Series [![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/vK_2.width-1024.jpg)](https://d2pn8kiwq2w21t.cloudfront.",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "gov",
+        "jpl-and-the-community",
+        "lecture-series",
+        "the-von-karman-lecture-series-2024",
+        "www",
+        "home",
+        "image",
+        "lecture",
+        "series",
+        "_nuxt",
+        "cloudfront"
+      ],
+      "hash": "9d5e3fa82720ded5a1232856843017e6812b9618d29c911f34e44f48b9605ef3",
+      "learned_at": "2026-10-23T05:56:00+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/",
+      "title": "JPL Speakers Bureau | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: JPL Speakers Bureau | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/ Markdown Content: JPL speaker requests are handled through NASA Engages, a NASA-wide program that connects communities with speakers from centers across the country. Requests are matched based on location, subject matter, and event type. Both in-person and virtual presentations are available. ## **How to Request a Speaker** 1. Create a free account at [NASA Engages](https://stemgateway.nasa.gov/nasaengages/s/). 2. Submit a speaker request through your account at least 7-8 weeks before your event. 3. Review the [NASA Speakers Terms and Conditions](https://www.nasa.gov/requests-for-exhibits-artifacts-or-speakers/#termsconditions) before submitting. Because the Speakers Bureau is a volunteer program, we cannot guarantee that all requests will be fille",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "speaker",
+        "speakers",
+        "gov",
+        "https",
+        "request",
+        "requests",
+        "account",
+        "available",
+        "before",
+        "bureau",
+        "engages",
+        "event"
+      ],
+      "hash": "fc37066d92d67d7963aa6ea0aef52e01fc2aabf098f9adc92c4ba3f35c49f8d3",
+      "learned_at": "2026-10-23T05:56:05+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2024/01/2023averagetemp-4k-for-2024-release.png?w=1024",
+      "title": "2023averagetemp-4k-for-2024-release.png",
+      "summary": "Title: 2023averagetemp-4k-for-2024-release.png URL Source: https://www.nasa.gov/wp-content/uploads/2024/01/2023averagetemp-4k-for-2024-release.png?w=1024 Published Time: Fri, 23 Oct 2026 05:56:08 GMT Markdown Content: Climate map by time, showing Earth's continent in 2023 (yellow, orange, yellow, red)",
+      "keywords": [
+        "2023averagetemp-4k-for-2024-release",
+        "png",
+        "time",
+        "yellow",
+        "1024",
+        "2023",
+        "2024",
+        "2026",
+        "climate",
+        "content",
+        "continent",
+        "earth",
+        "fri",
+        "gmt"
+      ],
+      "hash": "2f85d1b92d986b8cd67582ad31ca81ba0c8a3cb1b265646e0f9ea9f7ab2b2a50",
+      "learned_at": "2026-10-23T05:56:10+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/01/giss-gistemp-anomaly-globe-2023.png?w=1024",
+      "title": "giss-gistemp-anomaly-globe-2023.png",
+      "summary": "Title: giss-gistemp-anomaly-globe-2023.png URL Source: https://www.nasa.gov/wp-content/uploads/2023/01/giss-gistemp-anomaly-globe-2023.png?w=1024 Published Time: Fri, 23 Oct 2026 05:56:12 GMT Markdown Content: the title of this picture is an update to the global map",
+      "keywords": [
+        "giss-gistemp-anomaly-globe-2023",
+        "png",
+        "title",
+        "1024",
+        "2023",
+        "2026",
+        "content",
+        "fri",
+        "global",
+        "gmt",
+        "gov",
+        "https",
+        "map",
+        "markdown"
+      ],
+      "hash": "59f86bb288300e0c809d7963347c9d3d05e6b28345c71805502d92e799782338",
+      "learned_at": "2026-10-23T05:56:14+00:00"
     }
   ],
   "failures": [
@@ -20296,6 +20335,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-23T05:56:14+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-23T05:56:14+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 1458
+    },
     {
       "at": "2026-10-23T00:59:27+00:00",
       "kind": "core_unchanged",
@@ -21195,40 +21249,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 12,
       "frontier": 756
-    },
-    {
-      "at": "2026-10-15T04:33:28+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v22",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-15T04:33:28+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 18,
-      "frontier": 752
     }
   ],
   "metrics": {
-    "successful_fetches": 884,
+    "successful_fetches": 890,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 36,
-    "candidate_rejections": 111
+    "candidate_rejections": 112
   },
   "core_genome": {
     "query_weight": 3.0,
