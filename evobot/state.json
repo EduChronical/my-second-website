@@ -1,22 +1,12 @@
 {
   "schema": 2,
-  "generation": 148,
+  "generation": 149,
   "core_version": 37,
-  "runs": 147,
-  "pages_learned": 879,
-  "last_run": "2026-10-22T22:40:51+00:00",
+  "runs": 148,
+  "pages_learned": 884,
+  "last_run": "2026-10-23T00:58:49+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "http://www.nasa.gov/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/MoonFall-deployment-with-Elytr.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/NHQ20260830_admin_0002orig.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesmars202020200714PIA23720.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26771_Mars-crescent-pYden.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/SunRISE-UST.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-400x225-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26185_PREFIRE_satellite.13add3fe.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23214.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EuropaClipper_Poster_08_2020_0.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.2e16d0ba.fill-400x400-c50.jpg",
@@ -68,10 +58,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide_MAIN.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26702.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/e1a-SPHEREx_all_sky_stars_and_.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/complete.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/asteroid_watchmanagementcommandsda.2e16d0ba.fill-320x320_eBzidU1.png",
+    "https://www.youtube.com/@nasajpledu3401",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA0.2e16d0ba.fill-400x400-c50_wlFIXs6.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Mars_Cube_One.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
@@ -153,18 +144,34 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
-    "https://www.youtube.com/@nasajpledu3401",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://www.imf.org/en/",
     "https://www.glassdoor.com/Jobs/NASA-Jet-Propulsion-Laboratory-Jobs-E116768.htm",
     "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
     "https://x.com/NASASpaceAlerts",
     "https://thejplstore.com/",
     "https://www.facebook.com/nasaastromaterials",
+    "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
+    "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
+    "https://apps.apple.com/us/app/space-images/id347075764",
+    "https://www.facebook.com/Nature",
+    "https://twitter.com/nature",
+    "https://www.natureindex.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-3791.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2004_0124_Tb109.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-45829.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-17053.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/170-615Ac-5mb.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-25566Bc.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "http://www.facebook.com/NASAJPL",
+    "http://instagram.com/nasajpl",
+    "http://facebook.com/nasajpledu",
+    "http://x.com/nasajpl_edu",
+    "http://instagram.com/nasajpl_edu",
+    "http://www.imf.org/en/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://www.jpl.jobs/",
@@ -174,28 +181,9 @@
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
-    "https://datatracker.ietf.org/doc/html/rfc3875",
-    "https://datacenter.iers.org/data/16/bulletinc-072.txt",
-    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
-    "https://live.staticflickr.com/65535/51220197450_93aaafdd0e.jpg",
     "https://sfp.caltech.edu/undergraduate-research/programs/surfjpl",
-    "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
-    "https://apps.apple.com/us/app/space-images/id347075764",
     "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
-    "http://www.facebook.com/NASAJPL",
-    "http://instagram.com/nasajpl",
-    "http://facebook.com/nasajpledu",
-    "http://x.com/nasajpl_edu",
-    "http://instagram.com/nasajpl_edu",
-    "https://pds-atmospheres.nmsu.edu/",
-    "https://pds-geosciences.wustl.edu/",
-    "https://pds-ppi.igpp.ucla.edu/",
-    "https://pds-rings.seti.org/",
-    "https://pds-smallbodies.astro.umd.edu/",
-    "https://www.facebook.com/Nature",
-    "https://twitter.com/nature",
-    "https://www.natureindex.com/",
     "https://link.springer.com/shop/all-disciplines/en-eu/",
     "https://news.ycombinator.com/",
     "https://github.com/trending",
@@ -217,6 +205,16 @@
     "https://www.youtube.com/watch?v=5_z7k4DjClk",
     "https://cdn.parsely.com/",
     "https://www.linkedin.com/company/jet-propulsion-laboratory/",
+    "https://www.iaucom4.org/",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "https://datatracker.ietf.org/doc/html/rfc3875",
+    "https://datacenter.iers.org/data/16/bulletinc-072.txt",
+    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
+    "https://pds-atmospheres.nmsu.edu/",
+    "https://pds-geosciences.wustl.edu/",
+    "https://pds-ppi.igpp.ucla.edu/",
+    "https://pds-rings.seti.org/",
+    "https://pds-smallbodies.astro.umd.edu/",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://www.innovation-sandbox.in/",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
@@ -260,7 +258,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
     "https://doi.org/10.1007/s10569-017-9805-5",
-    "https://www.iaucom4.org/",
     "https://www.iers.org/",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
@@ -268,9 +265,7 @@
     "https://universe-of-learning.org/home",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "http://aa.usno.navy.mil/data/index.php",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://www.expita.com/nomime.html",
@@ -278,6 +273,7 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
+    "http://aa.usno.navy.mil/data/index.php",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
@@ -287,26 +283,6 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "https://www.nasa.gov/ochmo/food-in-space",
-    "https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25",
-    "https://science.nasa.gov/dark-energy",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=871",
-    "https://science.nasa.gov/blogs/notes-from-the-field/page/5",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=869",
-    "https://www.nasa.gov/?search=Artemis",
-    "https://www.nasa.gov/?search=Expedition+64",
-    "https://www.nasa.gov/?search=SpaceX+Crew-2",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA0.2e16d0ba.fill-400x400-c50_wlFIXs6.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmer_cMTGwaG.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmer.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmars_odyssey_OmKwHW.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-3791.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2004_0124_Tb109.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-45829.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-17053.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/170-615Ac-5mb.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-25566Bc.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://jpl.nasa.gov/robotics-at-jpl/",
     "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/",
     "https://jpl.nasa.gov/jpl-and-the-community/jpl-speakers-bureau/",
     "https://jpl.nasa.gov/events/",
@@ -1448,7 +1424,38 @@
     "https://partnerships.nature.com/media-kits/",
     "https://partnerships.nature.com/product/branded-content-native-advertising/",
     "https://conferences.nature.com/",
-    "http://www.naturechina.com/"
+    "http://www.naturechina.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/2-EELS_in_Mars_Yard_curled.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/BRUIE-new-thumb.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24108-16.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/fido-offset-websafe.0812e950.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/rollocopter-offset-websafe.22895f4b.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/puffer-offset-websafe.3880eed4.fill-400x400-c50.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2015/03/jsc2011e212182.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2015/02/hhp-nutritional-biochemistry-jsc2008e039116.jpg?w=1024",
+    "https://www.nasa.gov/directorates/esdmd/hhp/nutritional-biochemistry/",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/iss036e008131-orig.jpeg?w=1024",
+    "https://www.nasa.gov/directorates/esdmd/hhp/risk-of-performance-decrement-and-crew-illness-due-to-inadequate-food-and-nutrition/",
+    "https://www.nasa.gov/wp-content/uploads/2020/08/iss20_food_tereshkova_eating_in_space_vostok_6.jpg?w=590",
+    "https://www.nasa.gov/history/space-station-20th-food-on-iss/",
+    "https://www.nasa.gov/wp-content/uploads/2024/06/spaceflight-food-book-graphic-e1718645594410.jpg?w=609",
+    "https://www.youtube.com/watch?v=3Tkib8zc-Ws",
+    "https://www.youtube.com/watch?v=6vVle67Tfjc",
+    "https://doi.org/10.1016/j.jfp.2023.100185",
+    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
+    "https://doi.org/10.1016/j.actaastro.2016.04.026",
+    "https://doi.org/10.1093/jn/nxaa188",
+    "https://science.nasa.gov/universe/overview/building-blocks/",
+    "https://science.nasa.gov/science-news/citizenscience/become-a-dark-energy-explorer",
+    "https://roman.gsfc.nasa.gov/Type_Ia_Supernovae.html",
+    "https://www.jpl.nasa.gov/missions/euclid",
+    "https://www.jpl.nasa.gov/missions/spherex",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=871",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=869",
+    "https://www.nasa.gov/?search=Artemis",
+    "https://www.nasa.gov/?search=Expedition+64",
+    "https://www.nasa.gov/?search=SpaceX+Crew-2",
+    "http://www.nasa.gov/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6310,124 +6317,86 @@
       "at": "2026-10-22T22:41:17+00:00",
       "status": "ok",
       "hash": "4acfbe22927da7a9303f26369d16669cf7f71ab9b34917da4982d68ce99d2100"
+    },
+    "https://jpl.nasa.gov/robotics-at-jpl/": {
+      "at": "2026-10-23T00:58:53+00:00",
+      "status": "ok",
+      "hash": "5f00dc7a8f81edc1e20c42894720443c64c695cc821049e9fc568c00002ae2c1"
+    },
+    "https://www.nasa.gov/ochmo/food-in-space": {
+      "at": "2026-10-23T00:59:00+00:00",
+      "status": "ok",
+      "hash": "656285e8c7454e16667fb6825cfe62f12bb6628fc066751bc8882b7d292733ca"
+    },
+    "https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25": {
+      "at": "2026-10-23T00:59:06+00:00",
+      "status": "ok",
+      "hash": "320a8804e44e91d745a1c3b7f1194f5d20ba5fd4a099d401ffcdfc13294633dd"
+    },
+    "https://science.nasa.gov/dark-energy": {
+      "at": "2026-10-23T00:59:10+00:00",
+      "status": "ok",
+      "hash": "818a43d1520ede3034c225ca35ce7bff27463301e6d5bdd5a3d7ec832c67b7b0"
+    },
+    "https://science.nasa.gov/blogs/notes-from-the-field/page/5": {
+      "at": "2026-10-23T00:59:26+00:00",
+      "status": "ok",
+      "hash": "db7a02838403da50c0aa30b16fce69faedc4cf0b44d7958b8dc38a1b15badcc9"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/complete.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmer_cMTGwaG.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmer.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmars_odyssey_OmKwHW.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Photo-2015-04-30-174730---293-620-640.width-1024.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/MoonFall-deployment-with-Elytr.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/NHQ20260830_admin_0002orig.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesmars202020200714PIA23720.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26771_Mars-crescent-pYden.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/SunRISE-UST.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Campus_2020_meatball.2e16d0ba.fill-400x225-c70.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26185_PREFIRE_satellite.13add3fe.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23214.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-23T00:59:27+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/",
-      "title": "Uncovering Icy Objects in the Kuiper Belt - NASA Science",
-      "summary": "Title: Uncovering Icy Objects in the Kuiper Belt - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/uncovering-icy-objects-in-the-kuiper-belt/ Published Time: 2021-12-22T01:20:57-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https:",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "6ffa60afae5b3e7d085606b4fd65cf9f6512e7444785f657d167f9e3f0fa9cc0",
-      "learned_at": "2026-10-05T09:20:33+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/asset/hubble/view-of-distant-faint-galaxies-reveals-young-galaxy-building-blocks/",
-      "title": "View of Distant, Faint Galaxies Reveals Young Galaxy Building Blocks - NASA Science",
-      "summary": "Title: View of Distant, Faint Galaxies Reveals Young Galaxy Building Blocks - NASA Science URL Source: https://science.nasa.gov/asset/hubble/view-of-distant-faint-galaxies-reveals-young-galaxy-building-blocks/ Published Time: 1996-09-04T15:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) *",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "170257fe3061d387b98f0cbf22c13b9da98f89c9deb1429c007148d556d46d93",
-      "learned_at": "2026-10-05T18:37:58+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/the-universe-down-under-is-the-latest-target-for-hubbles-latest-deep-view/",
-      "title": "The Universe \"Down Under\" is the Latest Target for Hubble's Latest Deep-View - NASA Science",
-      "summary": "Title: The Universe \"Down Under\" is the Latest Target for Hubble's Latest Deep-View - NASA Science URL Source: https://science.nasa.gov/missions/hubble/the-universe-down-under-is-the-latest-target-for-hubbles-latest-deep-view/ Published Time: 1998-11-23T15:00:00-05:00 Markdown Content: ![Image 1: Hubble Deep Field South Unveils Myriad Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900) A NASA Hubble Space Telescope view down a 12 billion light-year long corridor of space loaded with a dazzling assortment of thousands of never-before seen galaxies. This picture is the culmination of a 10-day-long observation called the Hubble Deep Field South (HDF-S) which was... Turning its penetrating vision toward southern skies, NASA's Hubble Space Telescope has peered down a 12 billion light-year long corri",
-      "keywords": [
-        "hubble",
-        "deep",
-        "field",
-        "nasa",
-        "science",
-        "space",
-        "universe",
-        "astronomers",
-        "galaxies",
-        "latest",
-        "new",
-        "observation",
-        "south",
-        "down"
-      ],
-      "hash": "d777895abb70af6160f3e7de154e4977b3143bddac00005718bd7df7341f7a7e",
-      "learned_at": "2026-10-05T18:38:01+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=1024",
-      "title": "Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg",
-      "summary": "Title: Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=1024 Markdown Content: A starry night looks down at a astronomer",
-      "keywords": [
-        "202017_ben",
-        "20by-nc-sa",
-        "20flickr_cc",
-        "20goldstein",
-        "20meteor",
-        "20shower",
-        "20via",
-        "assets",
-        "jpg",
-        "orionid",
-        "science",
-        "1024",
-        "2026",
-        "astronomer"
-      ],
-      "hash": "bc8281e0fabe722e44715252753e5ecbfd0382083e9929be964b0d53aaf31308",
-      "learned_at": "2026-10-06T00:20:30+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900",
-      "title": "STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif",
-      "summary": "Title: STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/1998/11/STScI-01EVVFRF8NFAGRY57JVND6F8K7.tif?w=900 Markdown Content: The image is likely a digital overlay",
-      "keywords": [
-        "assets",
-        "science",
-        "stsci-01evvfrf8nfagry57jvnd6f8k7",
-        "tif",
-        "1998",
-        "900",
-        "content",
-        "digital",
-        "dynamicimage",
-        "gov",
-        "https",
-        "hubble",
-        "image",
-        "likely"
-      ],
-      "hash": "d6b8d806de86d3576530bbabfe5385e3fb057af077c53c215edae6893f5482d0",
-      "learned_at": "2026-10-06T00:20:33+00:00"
-    },
     {
       "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/",
       "title": "Hubble’s Nebulae - NASA Science",
@@ -20112,6 +20081,121 @@
       ],
       "hash": "4acfbe22927da7a9303f26369d16669cf7f71ab9b34917da4982d68ce99d2100",
       "learned_at": "2026-10-22T22:41:17+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/robotics-at-jpl/",
+      "title": "Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/robotics-at-jpl/ Markdown Content: ## Search Robotics at JPL Sort by Showing 1–11 of 11 results 1. [Category: Robot.Category: Robotics. Category: Robot.Category: Robotics. ## EELS (Exobiology Extant Life Surveyor) A versatile, snake-like robot designed for exploration of previously inaccessible terrain . July 24, 2023 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/2-EELS_in_Mars_Yard_curled.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/robotics-at-jpl/eels/) 2. [Category: Robot.Category: Robotics. Category: Robot.Category: Robotics. ## BRUIE An under-surface rover designed to explore alien oceans . Dec. 22, 2020 ![Image 2](https://d2pn8kiwq2w21t.cloudfront.net/images/BRUIE-new-thumb.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/robotics-at-jpl/bruie/) 3",
+      "keywords": [
+        "category",
+        "robot",
+        "robotics",
+        "https",
+        "jpl",
+        "nasa",
+        "gov",
+        "robotics-at-jpl",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "fill-400x400-c50",
+        "image",
+        "images",
+        "jpg"
+      ],
+      "hash": "5f00dc7a8f81edc1e20c42894720443c64c695cc821049e9fc568c00002ae2c1",
+      "learned_at": "2026-10-23T00:58:53+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/ochmo/food-in-space",
+      "title": "Food in Space - NASA",
+      "summary": "Title: Food in Space - NASA URL Source: https://www.nasa.gov/ochmo/food-in-space Published Time: 2024-07-30T14:51:19Z Markdown Content: ## Yummy Yummy! Food is an essential requirement to sustaining life on and off Earth. However the development and supply of food for spaceflight is necessary for NASA crew for low-earth orbit, but also for as we go beyond and onto Mars. It is necessary to consider all aspects of the food processing, development, packaging, distribution and consumption for provisions provided to crew in spaceflight. Below are some (but not all) helpful resources to consider for development of spaceflight food. ## PDF Downloads ## NASA Space Food Formulations: Rehydratable Foods ## NASA Space Food Formulations: Thermostabilized Foods ## International Space Station Food System (October 2000) ## Space Food Packaging Facts ## NASA, We Have a Challenge and It’s Food Packaging ",
+      "keywords": [
+        "food",
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "space",
+        "image",
+        "uploads",
+        "wp-content",
+        "2015",
+        "jpg",
+        "spaceflight",
+        "view",
+        "1024"
+      ],
+      "hash": "656285e8c7454e16667fb6825cfe62f12bb6628fc066751bc8882b7d292733ca",
+      "learned_at": "2026-10-23T00:59:00+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25",
+      "title": "Small Steps, Giant Leaps Archives - Page 25 of 46 - NASA",
+      "summary": "Title: Small Steps, Giant Leaps Archives - Page 25 of 46 - NASA URL Source: https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25 Markdown Content: [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources]",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "podcasts",
+        "image",
+        "plus",
+        "apps"
+      ],
+      "hash": "320a8804e44e91d745a1c3b7f1194f5d20ba5fd4a099d401ffcdfc13294633dd",
+      "learned_at": "2026-10-23T00:59:06+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/dark-energy",
+      "title": "What is Dark Energy? Inside Our Accelerating, Expanding Universe - NASA Science",
+      "summary": "Title: What is Dark Energy? Inside Our Accelerating, Expanding Universe - NASA Science URL Source: https://science.nasa.gov/dark-energy Published Time: 2025-03-07T09:37:35-05:00 Markdown Content: Some 13.8 billion years ago, the universe began with a rapid expansion we call the big bang. After this initial expansion, which lasted a fraction of a second, gravity started to slow the universe down. But the cosmos wouldn’t stay this way. Nine billion years after the universe began, its expansion started to speed up, driven by an unknown force that scientists have named [dark energy](https://science.nasa.gov/universe/overview/building-blocks/#dark-energy). But what exactly _is_ dark energy? The short answer is: We don't know. But we do know that it exists, it’s making the universe expand at an accelerating rate, and approximately 68.3 to 70% of the universe is dark energy. Dark energy wasn't ",
+      "keywords": [
+        "light",
+        "universe",
+        "dark",
+        "energy",
+        "cepheid",
+        "galaxies",
+        "period",
+        "stars",
+        "time",
+        "way",
+        "astronomer",
+        "brightness",
+        "expansion",
+        "leavitt"
+      ],
+      "hash": "818a43d1520ede3034c225ca35ce7bff27463301e6d5bdd5a3d7ec832c67b7b0",
+      "learned_at": "2026-10-23T00:59:10+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/notes-from-the-field/page/5",
+      "title": "Notes from the Field Archives - Page 5 of 89 - NASA Science",
+      "summary": "Title: Notes from the Field Archives - Page 5 of 89 - NASA Science URL Source: https://science.nasa.gov/blogs/notes-from-the-field/page/5 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contac",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "db7a02838403da50c0aa30b16fce69faedc4cf0b44d7958b8dc38a1b15badcc9",
+      "learned_at": "2026-10-23T00:59:26+00:00"
     }
   ],
   "failures": [
@@ -20212,6 +20296,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-23T00:59:27+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-23T00:59:27+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 1449
+    },
     {
       "at": "2026-10-22T22:41:18+00:00",
       "kind": "core_promoted",
@@ -21122,29 +21221,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 18,
       "frontier": 752
-    },
-    {
-      "at": "2026-10-15T00:05:11+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-15T00:05:10+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 3 new pages",
-      "attempted": 24,
-      "frontier": 745
     }
   ],
   "metrics": {
-    "successful_fetches": 879,
+    "successful_fetches": 884,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 36,
-    "candidate_rejections": 110
+    "candidate_rejections": 111
   },
   "core_genome": {
     "query_weight": 3.0,
