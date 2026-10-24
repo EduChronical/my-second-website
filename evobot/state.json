@@ -1,20 +1,20 @@
 {
   "schema": 2,
-  "generation": 156,
-  "core_version": 39,
-  "runs": 155,
-  "pages_learned": 932,
-  "last_run": "2026-10-24T05:46:41+00:00",
+  "generation": 157,
+  "core_version": 40,
+  "runs": 156,
+  "pages_learned": 940,
+  "last_run": "2026-10-24T09:51:31+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
     "https://thejplstore.com/",
     "https://www.facebook.com/nasaastromaterials",
     "https://www.facebook.com/Nature",
     "https://twitter.com/nature",
     "https://www.natureindex.com/",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024984/data/v3",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024988/data/v3",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/16024986/data/v3",
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "https://www.youtube.com/watch?v=NoOKQTb2h7A",
     "https://www.youtube.com/watch?v=j3mk6tUokm4",
@@ -79,11 +79,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/neos-new_XqytGqd.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_SPHEREx_Cygnus_H2O_Ice_CROP.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide_MAIN.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26702.2e16d0ba.fill-400x400-c50.jpg",
@@ -168,10 +163,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-3791.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/D2004_0124_Tb109.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-45829.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -206,6 +197,15 @@
     "https://www.facebook.com/business/ads/lead-ads",
     "https://retool.com/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://universe-of-learning.org/home",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
@@ -261,6 +261,7 @@
     "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
     "https://orcid.org/",
     "https://info.orcid.org/privacy-policy/",
+    "https://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
@@ -283,29 +284,8 @@
     "http://www.caltech.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.housing.caltech.edu/",
-    "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/",
-    "https://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-    "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/)",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
-    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C",
-    "https://nssdc.gsfc.nasa.gov/nmc/PersonQuery.jsp",
-    "https://nssdc.gsfc.nasa.gov/nmc/PublicationQuery.jsp",
-    "https://nssdc.gsfc.nasa.gov/nmc/MapQuery.jsp",
-    "https://nssdc.gsfc.nasa.gov/nmc/NewDataQuery.jsp",
-    "https://nssdc.gsfc.nasa.gov/nmc/EventQuery.jsp",
-    "https://nssdc.gsfc.nasa.gov/logo/nasa_logo_small.gif",
-    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00420",
-    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00415",
-    "https://ssd.jpl.nasa.gov/planets/approx_pos.html",
-    "https://ssd.jpl.nasa.gov/planets/approx_pos.html",
-    "https://ssd.jpl.nasa.gov/planets/eph_export.html",
-    "http://naif.jpl.nasa.gov/naif/toolkit.html",
-    "http://naif.jpl.nasa.gov/",
-    "https://ssd.jpl.nasa.gov/sats/ephem/sep.html",
-    "https://ssd.jpl.nasa.gov/sats/ephem/files.html",
-    "https://eyes.nasa.gov/dsn/images/intro/images/intro/deep-space-network-logo@2x.png",
     "http://www.agu.org/reference/gephys.html",
-    "http://history.nasa.gov/SP-467/sp467.htm",
     "http://www.nap.edu/books/0309060419/html/",
     "http://history.nasa.gov/JPL-93-24/jpl_93-24.htm",
     "http://www2.jpl.nasa.gov/magellan/guide.html",
@@ -1573,7 +1553,48 @@
     "https://www.springernature.com/gp/librarians",
     "https://www.springernature.com/gp/rd",
     "https://www.springernature.com/gp/authors",
-    "https://www.springernature.com/gp/editors"
+    "https://www.springernature.com/gp/editors",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/ascii_format.txt",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/fortran/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/fortran/userguide.txt",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/other_readers.txt",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp/](https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp/)",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/](https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/)",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/ascii_format.txt](https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/ascii_format.txt)",
+    "http://ipnpr.jpl.nasa.gov/progress_report/42-196/196C.pdf",
+    "https://doi.org/10.3847/1538-3881/abd414",
+    "https://doi.org/10.3847/1538-3881/abd414",
+    "http://ipnpr.jpl.nasa.gov/progress_report/42-196/196C.pdf",
+    "http://ipnpr.jpl.nasa.gov/progress_report/42-178/178C.pdf",
+    "http://naif.jpl.nasa.gov/](http://naif.jpl.nasa.gov/)",
+    "https://ssd.jpl.nasa.gov/sats/ephem/sep.html",
+    "https://ssd.jpl.nasa.gov/sats/ephem/files.html",
+    "https://eyes.nasa.gov/dsn/images/intro/images/intro/images/intro/deep-space-network-logo@2x.png",
+    "http://cdaweb.gsfc.nasa.gov/sp_phys/avail.shtml",
+    "http://cdaweb.gsfc.nasa.gov/WebServices/REST/CdasIdlLibrary.html",
+    "http://cdaweb.gsfc.nasa.gov/alternative_access_methods.html",
+    "http://cdaweb.gsfc.nasa.gov/images/search--white.svg",
+    "https://cdaweb.gsfc.nasa.gov/",
+    "http://cdaweb.gsfc.nasa.gov/cdaweb/More.html",
+    "https://spdf.gsfc.nasa.gov/plot_walk/",
+    "https://spdf.gsfc.nasa.gov/pub",
+    "https://heliophysicsdata.gsfc.nasa.gov/",
+    "https://spdf.gsfc.nasa.gov/pub/data/imap/",
+    "https://www.re3data.org/repository/r3d100010168",
+    "https://spdf.gsfc.nasa.gov/spdf-documents/Acronyms_Glossary.html",
+    "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http:/cdaweb.gsfc.nasa.gov/cdaweb/lunar/)",
+    "http://naif.jpl.nasa.gov/naif/toolkit_C.html",
+    "http://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html",
+    "http://naif.jpl.nasa.gov/naif/toolkit_IDL.html",
+    "http://naif.jpl.nasa.gov/naif/toolkit_MATLAB.html",
+    "http://naif.jpl.nasa.gov/naif/utilities.html",
+    "http://naif.jpl.nasa.gov/naif/toolkit_install_problems",
+    "http://naif.jpl.nasa.gov/naif/bugs.html",
+    "https://naif.jpl.nasa.gov/pub/naif/misc/tspice/",
+    "http://history.nasa.gov/assets/NASA_logo.svg",
+    "http://history.nasa.gov/",
+    "http://history.nasa.gov/api/citations/19850015146/downloads/19850015146.pdf"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -6880,193 +6901,85 @@
     "https://x.com/NASASpaceAlerts": {
       "at": "2026-10-24T05:46:52+00:00",
       "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/NewDataQuery.jsp": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00420": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/datasetDisplay.do?id=PSPA-00415": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/PersonQuery.jsp": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/PublicationQuery.jsp": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/MapQuery.jsp": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/nmc/EventQuery.jsp": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/logo/nasa_logo_small.gif": {
+      "at": "2026-10-24T09:51:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://ssd.jpl.nasa.gov/planets/approx_pos.html": {
+      "at": "2026-10-24T09:51:34+00:00",
+      "status": "ok",
+      "hash": "3ee3bccbd79ac8dfe15dbcaf8aa2ef78c78d7bc4038e8ef1df7685fe407880d3"
+    },
+    "https://ssd.jpl.nasa.gov/planets/eph_export.html": {
+      "at": "2026-10-24T09:51:36+00:00",
+      "status": "ok",
+      "hash": "5f6648790e23597e29847a3d558e49021f6d385cdfecb2150e409608db54a42a"
+    },
+    "https://eyes.nasa.gov/dsn/images/intro/images/intro/deep-space-network-logo@2x.png": {
+      "at": "2026-10-24T09:51:38+00:00",
+      "status": "ok",
+      "hash": "4c08a159356cd5b6f220953b6baf71c74ded51c13417cd309266346bf3784dac"
+    },
+    "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/": {
+      "at": "2026-10-24T09:51:54+00:00",
+      "status": "ok",
+      "hash": "352456adbad3eb2135165a815eeb7f5e5985d866091e3d4aa30b00ce3888f471"
+    },
+    "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/)": {
+      "at": "2026-10-24T09:51:55+00:00",
+      "status": "ok",
+      "hash": "a68faed8e32608a02e9271f5e2f7e461555ba33c925d174e240cd5688dc3574d"
+    },
+    "http://naif.jpl.nasa.gov/naif/toolkit.html": {
+      "at": "2026-10-24T09:51:58+00:00",
+      "status": "ok",
+      "hash": "0f6b646a1d7a0c898a1392fa327d11c48264fd108e1ea0ff485b5f88b9f538be"
+    },
+    "http://naif.jpl.nasa.gov/": {
+      "at": "2026-10-24T09:52:00+00:00",
+      "status": "ok",
+      "hash": "fed94187809c1c5d6d298d5c3891efeea9561e8ba3cf1bd2fbdaae9f903679b0"
+    },
+    "http://history.nasa.gov/SP-467/sp467.htm": {
+      "at": "2026-10-24T09:52:04+00:00",
+      "status": "ok",
+      "hash": "ff6aad4ea1de717b7e8d59ee7696ccec2a9cedbdac48df72fd410027d9d6cdfc"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/sats/",
-      "title": "Planetary Satellites",
-      "summary": "Title: Planetary Satellites URL Source: https://ssd.jpl.nasa.gov/sats/ Markdown Content: ### What is a planetary satellite? Naturally-formed bodies in orbit around planets are referred to here as “planetary satellites”, and are often called “moons.” Planetary satellites (as well as the primary planet) orbit the planetary system barycenter, the combined center of mass of the planet and all of the moons in that planetary system. The barycenter, in turn, orbits the Sun. The Sun, in turn, orbits the center of the Galaxy, an orbit which, as of yet, is not available on [Horizons](https://ssd.jpl.nasa.gov/horizons/). The best-known planetary satellite is, of course, Earth’s moon, eponymously named — before any other planetary satellites were known — “the Moon”. Currently, we know of no planetary satellites in orbit around Mercury or Venus. All the other planets have at least one known planetary",
-      "keywords": [
-        "planetary",
-        "satellites",
-        "jpl",
-        "gov",
-        "https",
-        "nasa",
-        "ssd",
-        "sats",
-        "known",
-        "orbit",
-        "orbits",
-        "satellite",
-        "discovery",
-        "html"
-      ],
-      "hash": "d5081fb7eb9c1cfcb428418f9ade06e889c1e561598ef40a9b88e52394c4f0c1",
-      "learned_at": "2026-10-08T14:40:40+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/asset/webb/composition-of-extreme-debris-disks-across-time/",
-      "title": "Composition of Extreme Debris Disks Across Time - NASA Science",
-      "summary": "Title: Composition of Extreme Debris Disks Across Time - NASA Science URL Source: https://science.nasa.gov/asset/webb/composition-of-extreme-debris-disks-across-time/ Published Time: 2026-10-01T09:59:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "webb"
-      ],
-      "hash": "aef9613bc676997318e97de313a7356fbe8008cf072302e6910d4156c8590fed",
-      "learned_at": "2026-10-08T20:11:00+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/asset/webb/extreme-debris-disk-artists-concept/",
-      "title": "Extreme Debris Disk (Artist’s Concept) - NASA Science",
-      "summary": "Title: Extreme Debris Disk (Artist’s Concept) - NASA Science URL Source: https://science.nasa.gov/asset/webb/extreme-debris-disk-artists-concept/ Published Time: 2026-10-01T09:59:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Reso",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "webb"
-      ],
-      "hash": "9045fbea881335190c5262e3aa767fe70ad3d19ec8ad654db1818da17ee5fdc8",
-      "learned_at": "2026-10-08T20:11:02+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-      "title": "assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png",
-      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0001,\u0000\u0000\u0001\u0018\b\u0002\u0000\u0000\u0000i�\\�\u0000\u0000\u0000 pHYs\u0000\u0000 \u0013\u0000\u0000 \u0013\u0001\u0000��\u0018\u0000\u0000 \u0000IDATx�|� �e�y �Y������ξ�s���ڻz����8$�3á� �\u0019\u000e�ݔDR�E��(Q 9ZLS�MG�e;�\u0015��%[��Ȳ\u0003;F�D�eÑ\u0012��%(��\u0018�\u0002�N\u0002$��}U]3C\u001b8(�z���խ�������O_��+R�R�2��&�5*4�-� �\u0004)\u0014#����y���ݷv��S�`6uu��n��+oi}����� �����`-g�\u0010 !��w�6\u0014��Մ�� Bn��js$�\u0010�ڞ �3���<��D��o(�K�\"T�����\u0001��~�|~�����'��Bo�\\)���Q��� �\"�b�\u0013[�2�*L{J\u001a�k�\u0007F��\u000e\\��0(�$7��έ�L��3��P�>�U��<c(W\u0014Wyfpn\u0019���E.��d�\u0010ԣ�ϦE��,�y*P*�D�3�$|��kWq2�i�2X<Mh��<UY��T��3�� \u0017��\u0001\u0017�\u0010%��\u0013^��y�\u0019�=f��Z���÷��������ޓ\u0015\u0015�\u0003e\u0003� �5�\u0001cOH�(PR\u0011\\\u0012\\�g*�j��2�qE �rC�E�B�����b\\b�(*9i\b�(Q P 0�P�)*\u0019|�-r����l��4�Y*�D���2 �H��\u0019�<�Y��T\u0014�-2�2�%*��,eɌ0j�LL�t���x�7Ai�f3�$4�W !����MQX�ͣ�:Oi2� �%\"��t&�)�M�t��\u0013��h2��)��?�N�t��\u0019�N�d��\u0019��\u0015�I1�N��\u0014��!�8�'{ٸ���4�\u0007�����Z6���\u0014]|u:�_��\u0019�M�\u0018���g3<��4a��\u0004֌� �\u0013�%<M� � ���� N\u0013�-҄&32��$�WPf����Nf�, �r�2U� e<�PIf��[y��� ��n���p\u0014�c�\u000f�;�z��ֺm ����|ଥ��\u0012������!80Rr>g|-�JˍT\u001b)�F j},�VɭU\u0007Ɯ0�Eby w�f�cþX� r�N~��|����� Y�Qb��ZЅ�",
-      "keywords": [
-        "1v1",
-        "2nƺt",
-        "3kp",
-        "4㨐jx",
-        "6uu",
-        "7ai",
-        "80rr",
-        "8_r",
-        "9zls",
-        "c2oi",
-        "coh",
-        "cþx",
-        "eby",
-        "eɍ0j"
-      ],
-      "hash": "9629087bae68780265476fe59a1aa5add331c1b300e54e79b4c4f5b5d9de2b98",
-      "learned_at": "2026-10-08T20:11:03+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-      "title": "STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png",
-      "summary": "Title: STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RC9GY4D8RDR1GDJV7TCQJ7.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: Two space images labeled Splitter and Webb, with theSplitter showing bits of green and pink peeking through the dense star mado fot wraped in scorching heat",
-      "keywords": [
-        "science",
-        "assets",
-        "png",
-        "stsci-01m2rc9gy4d8rdr1gdjv7tcqj7",
-        "webb",
-        "2026",
-        "300",
-        "bits",
-        "clip",
-        "content",
-        "crop",
-        "dense",
-        "dynamicimage",
-        "faces"
-      ],
-      "hash": "f4a3a3ae6eac62745f610a7b657aa83738c0854652a338b6af96e80362f041bc",
-      "learned_at": "2026-10-08T20:11:05+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/sb/",
-      "title": "Small Bodies",
-      "summary": "Title: Small Bodies URL Source: https://ssd.jpl.nasa.gov/sb/ Markdown Content: [![Image 1: Asteroid 4 Vesta](https://ssd.jpl.nasa.gov/images/vesta.png)](https://www.jpl.nasa.gov/images/full-view-of-vesta) Mosaic of asteroid 4 Vesta from the Dawn spacecraft. For this website, we define the term “Small Body” to include all natural bodies that are not a planet or natural satellite. This usually means all asteroids and comets, but can also include dwarf planets (e.g., Ceres) as small bodies. The [IAU](https://www.iau.org/) defines a slighly different term “Small Solar System Bodies” which excludes dwarf planets. See [IAU resolution B5](https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf). * [Why Study Asteroids?](https://ssd.jpl.nasa.gov/sb/why_asteroids.html) * [Why Study Comets?](https://ssd.jpl.nasa.gov/sb/why_comets.html) ### Description of Menu Items | Page | Description | | ",
-      "keywords": [
-        "https",
-        "gov",
-        "jpl",
-        "nasa",
-        "ssd",
-        "html",
-        "bodies",
-        "small",
-        "provides",
-        "tools",
-        "database",
-        "iau",
-        "known",
-        "list"
-      ],
-      "hash": "e4b91f4fcfeed2cc4f17ff5c7f8c53bd0ca8dd4dc6f5a760c796deeccc48df9b",
-      "learned_at": "2026-10-08T20:11:09+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
-      "title": "Small-Body Database Lookup",
-      "summary": "Title: Small-Body Database Lookup URL Source: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: Enter the **IAU number**, **designation**, **name** or **SPK-ID** for the object of interest in the search form above. For example, to display information about asteroid 433 Eros, enter either `433` or `eros`, not both (names are not case-sensitive). This tool provides access to data related to the user-specified asteroid or comet. Specifically, Entries above marked with ***** are only provided when available for the specified object. ### Instructions The search form recognizes IAU numbers, designations, names, and JPL SPK-ID numbers. When searching for a particular asteroid or comet, it is best to use either the **IAU number**, as in `433` for asteroid “433 Eros”, or the **primary designation** as in `1998 SF36` for asteroid “25143",
-      "keywords": [
-        "search",
-        "asteroid",
-        "number",
-        "iau",
-        "name",
-        "433",
-        "designation",
-        "eros",
-        "2000",
-        "both",
-        "object",
-        "remember",
-        "use",
-        "xf11"
-      ],
-      "hash": "093100ee9c7ef58e984a95f0cf76dda8d1799150ac3ef1202e24e62fb53d5cd8",
-      "learned_at": "2026-10-08T20:11:09+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/planetfact.html",
-      "title": "Planetary Fact Sheets",
-      "summary": "Title: Planetary Fact Sheets URL Source: https://nssdc.gsfc.nasa.gov/planetary/planetfact.html Markdown Content: * * * * * * [**Sun** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html) [**Mercury** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html) [**Venus** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html) [**Earth** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html) [**Moon** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html) [**Mars** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html) [**Asteroid** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html) [**Jupiter** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html) [**- Jovian Satellite** Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary",
-      "keywords": [
-        "planetary",
-        "gov",
-        "gsfc",
-        "html",
-        "https",
-        "nasa",
-        "nssdc",
-        "fact",
-        "factsheet",
-        "sheet",
-        "satellite",
-        "rings",
-        "table",
-        "galileanfact_table"
-      ],
-      "hash": "fd3aba680ae3f040f77597db373d0ff8016f71e15525825631daf5055095552e",
-      "learned_at": "2026-10-08T20:11:11+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/topics/robotics/",
       "title": "Robotics Technology at JPL",
@@ -20682,6 +20595,190 @@
       ],
       "hash": "dff211e76e09803b4e9f7a3cefadbf51fba11a928cef6d6b2a7c28a3c7c8c323",
       "learned_at": "2026-10-24T05:46:50+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/planets/approx_pos.html",
+      "title": "Approximate Positions of the Planets",
+      "summary": "Title: Approximate Positions of the Planets URL Source: https://ssd.jpl.nasa.gov/planets/approx_pos.html Markdown Content: ### Introduction Lower accuracy formulae for planetary positions have a number of important applications when one doesn’t need the full accuracy of an integrated ephemeris. They are often used in observation scheduling, telescope pointing, and prediction of certain phenomena as well as in the planning and design of spacecraft missions. Approximate positions of the planets may be found by using Keplerian formulae with their associated elements and rates. Such elements are not intended to represent any sort of mean; they are simply the result of being adjusted for a best fit. As such, it must be noted that the elements are not valid outside the given time-interval over which they were fit. High precision ephemerides for the planets are available via the [Horizons syste",
+      "keywords": [
+        "degrees",
+        "cdot",
+        "elements",
+        "overset",
+        "planets",
+        "1000",
+        "century",
+        "arcsec",
+        "longitude",
+        "mean",
+        "positions",
+        "100",
+        "600",
+        "accuracy"
+      ],
+      "hash": "3ee3bccbd79ac8dfe15dbcaf8aa2ef78c78d7bc4038e8ef1df7685fe407880d3",
+      "learned_at": "2026-10-24T09:51:34+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/planets/eph_export.html",
+      "title": "JPL Planetary and Lunar Ephemerides",
+      "summary": "Title: JPL Planetary and Lunar Ephemerides URL Source: https://ssd.jpl.nasa.gov/planets/eph_export.html Markdown Content: ******************************************************************************* JPL PLANETARY AND LUNAR EPHEMERIDES : Export Information [21 December 2020] ******************************************************************************* INTRODUCTION JPL planetary ephemerides are generally created to support spacecraft missions to the planets. Selected ephemerides are recommended for more general use. The latest JPL ephemeris with fully consistent treatment of planetary and lunar laser ranging data is DE440 (Park et al., 2021). The dynamical model for DE440 includes a frictional damping between the fluid core and the elastic mantle. This damping term is not suitable for extrapolation more than several centuries into the past. In order to cover a longer time span, the ep",
+      "keywords": [
+        "jpl",
+        "planetary",
+        "positions",
+        "de440",
+        "ephemerides",
+        "ephemeris",
+        "lunar",
+        "planets",
+        "astronomical",
+        "damping",
+        "de441",
+        "files",
+        "time",
+        "units"
+      ],
+      "hash": "5f6648790e23597e29847a3d558e49021f6d385cdfecb2150e409608db54a42a",
+      "learned_at": "2026-10-24T09:51:36+00:00"
+    },
+    {
+      "url": "https://eyes.nasa.gov/dsn/images/intro/images/intro/deep-space-network-logo@2x.png",
+      "title": "Deep Space Network Now",
+      "summary": "Title: Deep Space Network Now URL Source: https://eyes.nasa.gov/dsn/images/intro/images/intro/deep-space-network-logo@2x.png Markdown Content: [![Image 1: NASA](https://eyes.nasa.gov/dsn/images/intro/images/intro/images/intro/deep-space-network-logo@2x.png)](https://eyes.nasa.gov/dsn/images/intro/images/intro/dsn.html) ## The real time status of communications with our deep space explorers ### Welcome to \"Deep Space Network Now\" At three sites around the globe NASA's Jet Propulsion Laboratory operates a network of large radio antennas called the DSN. The DSN is used to keep in contact with the spacecraft exploring our solar system and the universe beyond. This online tool will let you see what the DSN is up to right now. Which antennas are currently in use? Which spacecraft are talking to us? How quickly is data being received? How long does a signal take to get there, and back? The grid",
+      "keywords": [
+        "dsn",
+        "images",
+        "intro",
+        "nasa",
+        "spacecraft",
+        "network",
+        "antennas",
+        "deep",
+        "eyes",
+        "gov",
+        "https",
+        "now",
+        "space",
+        "time"
+      ],
+      "hash": "4c08a159356cd5b6f220953b6baf71c74ded51c13417cd309266346bf3784dac",
+      "learned_at": "2026-10-24T09:51:38+00:00"
+    },
+    {
+      "url": "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/",
+      "title": "Coordinated Data Analysis Web (CDAWeb)",
+      "summary": "Title: Coordinated Data Analysis Web (CDAWeb) URL Source: http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/ Published Time: Fri, 23 Oct 2026 13:08:34 GMT Markdown Content: ![Image 1](http://cdaweb.gsfc.nasa.gov/images/us_flag_small.png) An official website of the United States government Here’s how you know Here’s how you know ![Image 2](http://cdaweb.gsfc.nasa.gov/images/icon-dot-gov.svg) **Official websites use .gov** A **.gov** website belongs to an official government organization in the United States. ![Image 3](http://cdaweb.gsfc.nasa.gov/images/icon-https.svg) **Secure .gov websites use HTTPS** A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Menu![Image 4: Close](http://cdaweb.gsfc.nasa.gov/images/close.svg) [![Image 5: NASA Logo](http://cdaweb.gsfc.nasa.gov/images/NASA_Insignia-RGB-2023.png)]",
+      "keywords": [
+        "gov",
+        "cdaweb",
+        "nasa",
+        "gsfc",
+        "http",
+        "https",
+        "data",
+        "html",
+        "spdf",
+        "image",
+        "images",
+        "official",
+        "svg",
+        "missions"
+      ],
+      "hash": "352456adbad3eb2135165a815eeb7f5e5985d866091e3d4aa30b00ce3888f471",
+      "learned_at": "2026-10-24T09:51:54+00:00"
+    },
+    {
+      "url": "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/)",
+      "title": "404 Not Found",
+      "summary": "Title: 404 Not Found URL Source: http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http:/cdaweb.gsfc.nasa.gov/cdaweb/lunar/) Warning: Target URL returned error 404: Not Found Markdown Content: # Not Found The requested URL was not found on this server.",
+      "keywords": [
+        "cdaweb",
+        "found",
+        "url",
+        "404",
+        "gov",
+        "gsfc",
+        "http",
+        "lunar",
+        "nasa",
+        "content",
+        "error",
+        "markdown",
+        "requested",
+        "returned"
+      ],
+      "hash": "a68faed8e32608a02e9271f5e2f7e461555ba33c925d174e240cd5688dc3574d",
+      "learned_at": "2026-10-24T09:51:55+00:00"
+    },
+    {
+      "url": "http://naif.jpl.nasa.gov/naif/toolkit.html",
+      "title": "SPICE Toolkit",
+      "summary": "Title: SPICE Toolkit URL Source: http://naif.jpl.nasa.gov/naif/toolkit.html Markdown Content: The current SPICE Toolkit version is **N0067**, released January 3, 2022. The Toolkit license and other important considerations are contained within [these rules](https://naif.jpl.nasa.gov/naif/rules.html). The SPICE Toolkit is comprised of several items. 1. A large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation (code headers). 2. A ready-to-use library made from the APIs, subroutines and functions described in 1. 3. A small set of ready-built utility (application) programs, along with their associated User Guides. These are programs thought to be of use to many SPICE users. (Additional utility programs are available from the [Utilities link](https://naif.jpl.nasa.gov/naif",
+      "keywords": [
+        "naif",
+        "gov",
+        "jpl",
+        "nasa",
+        "toolkit",
+        "html",
+        "spice",
+        "http",
+        "https",
+        "toolkits",
+        "programs",
+        "pdf",
+        "utility",
+        "apis"
+      ],
+      "hash": "0f6b646a1d7a0c898a1392fa327d11c48264fd108e1ea0ff485b5f88b9f538be",
+      "learned_at": "2026-10-24T09:51:58+00:00"
+    },
+    {
+      "url": "http://naif.jpl.nasa.gov/",
+      "title": "An Observation",
+      "summary": "Title: An Observation Geometry System for Space Science Missions URL Source: http://naif.jpl.nasa.gov/ Markdown Content: SPICE Click here for [announcements](https://naif.jpl.nasa.gov/naif/announcements.html) regarding SPICE data, software, tutorials and training; last updated July 18, 2026. ### If you are unfamiliar with SPICE, click here after reading the text below. NASA's Navigation and Ancillary Information Facility (NAIF) offers NASA flight projects and NASA funded researchers the \"SPICE\" (Spacecraft, Planet, Instrument, C-matrix, Events) observation geometry information system to assist scientists in planning and interpreting scientific observations from space-based instruments aboard robotic planetary spacecraft. SPICE is also used in support of engineering tasks associated with these missions. While planetary missions were the original focus, today SPICE is also used on some hel",
+      "keywords": [
+        "naif",
+        "spice",
+        "nasa",
+        "gov",
+        "jpl",
+        "data",
+        "https",
+        "system",
+        "missions",
+        "html",
+        "planetary",
+        "software",
+        "support",
+        "ancillary"
+      ],
+      "hash": "fed94187809c1c5d6d298d5c3891efeea9561e8ba3cf1bd2fbdaae9f903679b0",
+      "learned_at": "2026-10-24T09:52:00+00:00"
+    },
+    {
+      "url": "http://history.nasa.gov/SP-467/sp467.htm",
+      "title": "Planetary geology in the 1980s",
+      "summary": "Title: Planetary geology in the 1980s URL Source: http://history.nasa.gov/SP-467/sp467.htm Markdown Content: ![Image 1: NASA Logo](http://history.nasa.gov/assets/NASA_logo.svg) ## NTRS ## NTRS - NASA Technical Reports Server Press Enter or click the Search button to begin your search. [Back to Results](http://history.nasa.gov/) Planetary geology in the 1980s The geologic aspects of solar system studies are defined and the goals of planetary geology are discussed. Planetary geology is the study of the origin, evolution, and distribution of matter condensed in the form of planets, satellites, asteroids, and comets. It is a multidisciplinary effort involving investigators with backgrounds in geology, chemistry, physics, astronomy, geodesy, cartography, and other disciplines concerned with the solid planets. The report is primarily restricted to the kinds of experiments and observations made",
+      "keywords": [
+        "nasa",
+        "gov",
+        "history",
+        "http",
+        "19850015146",
+        "geology",
+        "planetary",
+        "document",
+        "downloads",
+        "number",
+        "pdf",
+        "1980s",
+        "api",
+        "available"
+      ],
+      "hash": "ff6aad4ea1de717b7e8d59ee7696ccec2a9cedbdac48df72fd410027d9d6cdfc",
+      "learned_at": "2026-10-24T09:52:04+00:00"
     }
   ],
   "failures": [
@@ -20782,6 +20879,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-24T09:52:04+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v40",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-24T09:52:04+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 20,
+      "frontier": 1588
+    },
     {
       "at": "2026-10-24T05:46:52+00:00",
       "kind": "core_unchanged",
@@ -21681,28 +21804,13 @@
       "message": "Crawl cycle learned 5 new pages",
       "attempted": 24,
       "frontier": 944
-    },
-    {
-      "at": "2026-10-16T07:58:38+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-16T07:58:38+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 930
     }
   ],
   "metrics": {
-    "successful_fetches": 932,
+    "successful_fetches": 940,
     "failed_fetches": 19,
     "duplicate_pages": 2,
-    "candidate_promotions": 38,
+    "candidate_promotions": 39,
     "candidate_rejections": 116
   },
   "core_genome": {
@@ -21731,15 +21839,15 @@
     "nature.com",
     "science.org",
     "www.nasa.gov",
-    "www.jpl.nasa.gov",
     "ssd.jpl.nasa.gov",
-    "science.nasa.gov",
+    "www.jpl.nasa.gov",
     "jpl.nasa.gov",
-    "assets.science.nasa.gov",
+    "science.nasa.gov",
     "nssdc.gsfc.nasa.gov",
     "www.nature.com",
-    "svs.gsfc.nasa.gov",
+    "assets.science.nasa.gov",
     "naif.jpl.nasa.gov",
-    "ssd-api.jpl.nasa.gov"
+    "svs.gsfc.nasa.gov",
+    "www.sebi.gov.in"
   ]
 }
