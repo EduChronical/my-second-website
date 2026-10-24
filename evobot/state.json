@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generation": 160,
+  "generation": 161,
   "core_version": 41,
-  "runs": 159,
-  "pages_learned": 962,
-  "last_run": "2026-10-24T19:26:33+00:00",
+  "runs": 160,
+  "pages_learned": 970,
+  "last_run": "2026-10-24T21:48:05+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
@@ -167,6 +167,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EARTH_DAY_2019_WEB_orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
+    "https://nemo-assets-live.public.springernature.app/resource/img/headerlogos/svg/header-logo-springernaturepress-mobile.svg",
+    "https://link.springer.com/brands/nature-books",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
@@ -202,7 +204,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
-    "https://nemo-assets-live.public.springernature.app/resource/img/headerlogos/svg/header-logo-springernaturepress-mobile.svg",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
@@ -289,24 +290,6 @@
     "http://www.agu.org/reference/gephys.html",
     "http://www.nap.edu/books/0309060419/html/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://www.jpl.nasa.gov/images/jupiter-jpl-travel-poster",
-    "https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster",
-    "https://www.jpl.nasa.gov/images/mars-jpl-travel-poster",
-    "https://www.jpl.nasa.gov/who-we-are/slice-of-history/",
-    "https://www.jpl.nasa.gov/robotics-at-jpl/",
-    "https://www.nature.com/nature-portfolio",
-    "https://www.nature.com/nature-portfolio/for-authors/why-publish-with-nature-research",
-    "https://www.nature.com/nature-portfolio/for-authors/write",
-    "https://www.nature.com/nature-portfolio/for-authors/publish",
-    "https://www.nature.com/nature-portfolio/for-authors/transfer",
-    "https://www.nature.com/nature-portfolio/for-authors/communication-and-media-benefits",
-    "https://www.nature.com/nature-portfolio/for-authors/indexing-abstracting",
-    "https://www.nature.com/nature-portfolio/for-authors/in-review",
-    "https://media.springernature.com/full/nature-cms/uploads/product/nature-portfolio/header-99de53da3f573b8da51c96b5fd69b5a7.svg",
-    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Ffor-authors",
-    "https://link.springer.com/brands/nature-books",
-    "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal",
-    "https://www.springernature.com/gp/librarians/recommend-to-your-library",
     "https://partnerships.nature.com/product/digital-advertising/",
     "https://www.bcg.com/x/bcg-x-ai-science-institute",
     "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
@@ -1636,7 +1619,39 @@
     "https://www.natureindex.com/nature-index/institution-outputs/generate/all/global/all",
     "https://www.natureindex.com/nature-index/country-outputs/generate/all/global",
     "https://www.natureindex.com/nature-index/topics",
-    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-index%2F"
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-index%2F",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jupiter.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jupiter.jpg",
+    "https://nasa-external-ocomm.box.com/s/oci2qvdtoeurdk5rc9gx9wlki0ep7b3h",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
+    "https://nasa-external-ocomm.box.com/s/c5uqb8cf2echl9u908up39tuux91iqya",
+    "https://www.jpl.nasa.gov/images/mars-jpl-travel-poster",
+    "https://www.jpl.nasa.gov/who-we-are/slice-of-history/",
+    "https://www.jpl.nasa.gov/robotics-at-jpl/",
+    "https://www.nature.com/nature-portfolio/about-journals",
+    "https://www.nature.com/nature-portfolio/about-journals/nature-reviews",
+    "https://www.nature.com/nature-portfolio/about-journals/scientific-series",
+    "https://www.nature.com/nature-portfolio/about-journals/journal-metrics",
+    "https://www.nature.com/nature-portfolio/for-authors",
+    "https://www.nature.com/nature-portfolio/about",
+    "https://www.nature.com/nature-portfolio/about/nature-careers",
+    "https://www.nature.com/nature-portfolio/about/diversity-commitment",
+    "https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/12255/top_item_image/joan_de_la_malla-1200x675-54c54c31f3271ebe3a3c7dc73a0d671d.jpg",
+    "https://www.nature.com/nature-portfolio/for-authors/write",
+    "https://www.nature.com/nature-portfolio/for-authors/publish",
+    "https://www.nature.com/nature-portfolio/for-authors/transfer",
+    "https://www.nature.com/nature-portfolio/for-authors/communication-and-media-benefits",
+    "https://www.nature.com/nature-portfolio/for-authors/indexing-abstracting",
+    "https://www.nature.com/nature-portfolio/for-authors/in-review",
+    "https://www.springernature.com/gp/librarians/products/journals",
+    "https://www.springernature.com/gp/librarians/products/journals/springer-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/nature-research-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/adis-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/academic-journals-on-nature-com",
+    "https://www.springernature.com/gp/librarians/products/journals/palgrave-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/journal-archives",
+    "https://www.springernature.com/gp/librarians/products/journals/open-access-journals"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -7161,193 +7176,49 @@
       "at": "2026-10-24T19:27:06+00:00",
       "status": "ok",
       "hash": "b76526863edac6a8dcb8615f0efd969813f1a05502349d14b6f7df9742b96175"
+    },
+    "https://www.jpl.nasa.gov/images/jupiter-jpl-travel-poster": {
+      "at": "2026-10-24T21:48:08+00:00",
+      "status": "ok",
+      "hash": "1aa22fe6418abc7ad60121074fcfc382b1b9866d1255e81dcc27ab4fc0604ea0"
+    },
+    "https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster": {
+      "at": "2026-10-24T21:48:11+00:00",
+      "status": "ok",
+      "hash": "56c41596e3ffc8d5ba9d5423fa7b501ab24f990cf9c0b06979457fd4ec6a683f"
+    },
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Ffor-authors": {
+      "at": "2026-10-24T21:48:21+00:00",
+      "status": "ok",
+      "hash": "de879aa64eaf3d1c7297f04b9ce52702872a805e689e69f0f999c12b86ae9d93"
+    },
+    "https://www.nature.com/nature-portfolio": {
+      "at": "2026-10-24T21:48:27+00:00",
+      "status": "ok",
+      "hash": "8b8f174c9284b832ca706064a3bcf4aa94d584669e4df4cd4079fe8b9f386e3c"
+    },
+    "https://www.nature.com/nature-portfolio/for-authors/why-publish-with-nature-research": {
+      "at": "2026-10-24T21:48:31+00:00",
+      "status": "ok",
+      "hash": "cb017d707151f194c4624fe6114158a2773ffa206a2b0ebe9daa8ffefa40f175"
+    },
+    "https://media.springernature.com/full/nature-cms/uploads/product/nature-portfolio/header-99de53da3f573b8da51c96b5fd69b5a7.svg": {
+      "at": "2026-10-24T21:48:32+00:00",
+      "status": "ok",
+      "hash": "df83eeaf757b1af2d06e6a8a46e99a1885b3e31ebd6adcc5d2bca6430b55e59a"
+    },
+    "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal": {
+      "at": "2026-10-24T21:48:33+00:00",
+      "status": "ok",
+      "hash": "8f43acfb908aa594703d976cd171743db89641c4428f3b8f398c206a39730e47"
+    },
+    "https://www.springernature.com/gp/librarians/recommend-to-your-library": {
+      "at": "2026-10-24T21:48:37+00:00",
+      "status": "ok",
+      "hash": "6801932e1b05f0741a1f17a91f7ddf0bf5e381e3c57e38853ba72952cf239926"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/horizons/news.html",
-      "title": "Horizons System",
-      "summary": "Title: Horizons System URL Source: https://ssd.jpl.nasa.gov/horizons/news.html Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/horizons/news.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/horizons/news.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/ab",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "horizons",
-        "planets",
-        "news",
-        "sats",
-        "ephemerides",
-        "image",
-        "images"
-      ],
-      "hash": "29a080afe34a6f08f6cfafd8af9412d1ec5ffb32846495b27775da1b6558520d",
-      "learned_at": "2026-10-09T23:11:47+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/webb/for-fun/",
-      "title": "For Fun & Learning - NASA Science",
-      "summary": "Title: For Fun & Learning - NASA Science URL Source: https://science.nasa.gov/mission/webb/for-fun/ Published Time: 2024-08-12T08:31:46-04:00 Markdown Content: [![Image 13: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 14: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "webb"
-      ],
-      "hash": "ad0cca318373bf1981708e2fa8f756d6a2659e4f8acd89fe2c215f8cea5a013a",
-      "learned_at": "2026-10-09T23:11:53+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/",
-      "title": "NGC 7129 (NIRCam Image) - NASA Science",
-      "summary": "Title: NGC 7129 (NIRCam Image) - NASA Science URL Source: https://science.nasa.gov/asset/webb/ngc-7129-nircam-image/ Published Time: 2026-10-06T08:58:00-04:00 Markdown Content: [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/n",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "image",
-        "images",
-        "multimedia",
-        "plus",
-        "podcasts",
-        "resources",
-        "webb"
-      ],
-      "hash": "d9dfef12599159d64170cf9d6a1ec2e422e9a32bfa2ca52ae020038fddc6807c",
-      "learned_at": "2026-10-09T23:11:58+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/topics/mars/",
-      "title": "At Work on Mars",
-      "summary": "Title: At Work on Mars URL Source: https://www.jpl.nasa.gov/topics/mars/ Markdown Content: For more than half a century, NASA's fleet of increasingly sophisticated orbiters, landers, and rovers has helped us transform science fiction into reality, enabling us to piece together detailed information about Mars, our nearest planetary neighbor. These robotic explorers have revealed details of the Red Planet’s diverse surface, atmosphere, and weather, the presence of water in its past, and its potential for life through the ages and for astronauts in the future. JPL has played a pivotal role in this exploration, starting when the first successful spacecraft, Mariner 4, completed the first Mars flyby in 1965, and in 1976, when two Viking landers successfully touched down on the Martian surface. The era of Mars rovers opened when Mars Pathfinder and its Sojourner rover successfully landed in 19",
-      "keywords": [
-        "mars",
-        "jpl",
-        "life",
-        "planet",
-        "future",
-        "learn",
-        "own",
-        "rovers",
-        "science",
-        "surface",
-        "1997",
-        "climate",
-        "explorers",
-        "exploring"
-      ],
-      "hash": "01d4cbf8e7e5bb8e75563c8c45157897fc467f123dc05e0d80fb994dce17b03e",
-      "learned_at": "2026-10-09T23:12:03+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/topics/technology/",
-      "title": "Technology at JPL",
-      "summary": "Title: Technology at JPL URL Source: https://www.jpl.nasa.gov/topics/technology/ Markdown Content: JPL's technology development program produces dramatic space and Earth exploration breakthroughs. New technology makes spacecraft more capable, independent, and able to maneuver, solve problems, and decide which intriguing targets to explore, without having to phone home and wait for a reply. Advanced space imaging techniques continue to evolve and reap benefits for those of us on Earth, while we search for life in the universe and on nearby planets, and even on icy Moons of our outer solar system. Our robotics teams fast-forward humanity's quest to study distant locales that may be icy, rocky, steep, and challenging. Caves on the moon and Mars are waiting to be explored. While we dare mighty things, we often have to think small to produce miniaturized spacecraft. Swarms of them may someday",
-      "keywords": [
-        "technology",
-        "jpl",
-        "space",
-        "spacecraft",
-        "earth",
-        "mars",
-        "breakthroughs",
-        "developed",
-        "during",
-        "exploration",
-        "explore",
-        "home",
-        "icy",
-        "imaging"
-      ],
-      "hash": "3d199797fc73c1a119cb635cff5835df0745491b613ba06b0ef26057a0953be4",
-      "learned_at": "2026-10-09T23:12:06+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mars/",
-      "title": "Mars - NASA Science",
-      "summary": "Title: Mars - NASA Science URL Source: https://science.nasa.gov/mars/ Published Time: 2023-05-31T20:49:01-04:00 Markdown Content: [![Image 6: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 7: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Mul",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "events",
-        "image",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "c18663cab9eb7e34f32ec65232e517216c96ed0d1709a2df7d3aa5ee12e69f3d",
-      "learned_at": "2026-10-10T02:22:25+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/",
-      "title": "Mars Decoder Ring",
-      "summary": "Title: Mars Decoder Ring URL Source: https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/ Markdown Content: [](https://www.jpl.nasa.gov/images/pia24431-mars-decoder-ring/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # Mars Decoder Ring Jet Propulsion Laboratory https://www.jpl.nasa.gov/ Feb. 23, 2021 [![Image 3: This",
-      "keywords": [
-        "nasa",
-        "jpl",
-        "https",
-        "gov",
-        "www",
-        "mars",
-        "image",
-        "images",
-        "perseverance",
-        "rover",
-        "2021",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "jpg"
-      ],
-      "hash": "197f1fc88e116f277090796a5c16bb3b14a1d819faad1c427dd19baa1e6c0040",
-      "learned_at": "2026-10-10T02:22:29+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/?search=Mars+perseverance",
-      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-      "summary": "Title: NASA Demonstrates Next-Generation Heat Shield Technologies URL Source: https://www.nasa.gov/?search=Mars+perseverance Markdown Content: 1. [Home](https://www.nasa.gov/) 2. Search ## Search Results for: Mars perseverance ## 22346 results found Filter Results ### Content Type * Articles * Press Release * Gallery * Topic * People * Mission * Blog ### Categories * Mars (2562) * Apollo (1572) * Photojournal (1224) * Perseverance (Rover) (1128) * ISS Research (1021) * Blogs (907) ### Changed * Last Year (5310) * Last Month (471) * Last Week (24) ### Language * English * Español * We're working continuously to improve our search results. If you aren't finding what you expect, please use our [feedback form](https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit) to share the search query and expected result with us so we can improve. * [![Image 1: NASA’s Perseverance Rover Snaps Se",
-      "keywords": [
-        "nasa",
-        "mars",
-        "perseverance",
-        "gov",
-        "rover",
-        "science",
-        "https",
-        "search",
-        "www",
-        "assets",
-        "results",
-        "_https",
-        "image",
-        "jpg"
-      ],
-      "hash": "b49459d527ba52c2aa53b297d7f5e55eb47019116d52a955d3ea4986e0328849",
-      "learned_at": "2026-10-10T02:22:34+00:00"
-    },
     {
       "url": "https://science.nasa.gov/?search=Quesst",
       "title": "NASA Science Articles & Stories - NASA Science",
@@ -20963,6 +20834,190 @@
       ],
       "hash": "b76526863edac6a8dcb8615f0efd969813f1a05502349d14b6f7df9742b96175",
       "learned_at": "2026-10-24T19:27:06+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/images/jupiter-jpl-travel-poster",
+      "title": "Jupiter - JPL Travel Poster | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Jupiter - JPL Travel Poster | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/images/jupiter-jpl-travel-poster Markdown Content: [](https://www.jpl.nasa.gov/images/jupiter-jpl-travel-poster) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # Jupiter - JPL Travel Poster Jet Propulsion Laboratory h",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "jupiter",
+        "who-we-are",
+        "image",
+        "images",
+        "jpg",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "home",
+        "net"
+      ],
+      "hash": "1aa22fe6418abc7ad60121074fcfc382b1b9866d1255e81dcc27ab4fc0604ea0",
+      "learned_at": "2026-10-24T21:48:08+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster",
+      "title": "The Grand Tour - JPL Travel Poster",
+      "summary": "Title: The Grand Tour - JPL Travel Poster URL Source: https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster Markdown Content: [](https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # The Grand Tour - JPL Travel Poster Jet Propulsion Laboratory https://www.",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "who-we-are",
+        "image",
+        "images",
+        "jpg",
+        "missions",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "grand",
+        "grand_tour"
+      ],
+      "hash": "56c41596e3ffc8d5ba9d5423fa7b501ab24f990cf9c0b06979457fd4ec6a683f",
+      "learned_at": "2026-10-24T21:48:11+00:00"
+    },
+    {
+      "url": "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Ffor-authors",
+      "title": "Springer Nature account - log in or register",
+      "summary": "Title: Springer Nature account - log in or register URL Source: https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/nature-portfolio/for-authors Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://my-profile.springernature.com/privacy-policy) for more information on the use of your personal data. for further information and to chang",
+      "keywords": [
+        "com",
+        "cookies",
+        "data",
+        "https",
+        "information",
+        "nature",
+        "personal",
+        "use",
+        "content",
+        "optional",
+        "parties",
+        "privacy",
+        "springernature",
+        "third"
+      ],
+      "hash": "de879aa64eaf3d1c7297f04b9ce52702872a805e689e69f0f999c12b86ae9d93",
+      "learned_at": "2026-10-24T21:48:21+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio",
+      "title": "Nature Portfolio",
+      "summary": "Title: Nature Portfolio URL Source: https://www.nature.com/nature-portfolio Markdown Content: ![Image 1: Scientists exploring a field of crops using head torches](https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/12255/top_item_image/joan_de_la_malla-1200x675-54c54c31f3271ebe3a3c7dc73a0d671d.jpg) As a critical ally to scientists working on today's important issues, learn about how we support researchers, and how you can publish in one of our journals. The world needs your research. ## [About our journals](https://www.nature.com/nature-portfolio/about-journals) * ### [Nature](https://www.nature.com/nature-portfolio/about-journals/nature) The foremost international weekly scientific journal in the world and the flagship journal for Nature Portfolio * ### [Nature Research Journals](https://www.nature.com/nature-portfolio/about-journals/research-journals) A series of jou",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "journals",
+        "nature-portfolio",
+        "www",
+        "about-journals",
+        "research",
+        "series",
+        "journal",
+        "publishing",
+        "open-access",
+        "portfolio",
+        "publish"
+      ],
+      "hash": "8b8f174c9284b832ca706064a3bcf4aa94d584669e4df4cd4079fe8b9f386e3c",
+      "learned_at": "2026-10-24T21:48:27+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio/for-authors/why-publish-with-nature-research",
+      "title": "Why publish with Nature Portfolio?",
+      "summary": "Title: Why publish with Nature Portfolio? URL Source: https://www.nature.com/nature-portfolio/for-authors/why-publish-with-nature-research Markdown Content: When you publish in a Nature Portfolio journal, your paper becomes part of a group of journals built around editorial selection, thorough peer review, clear presentation and global readership. Our journals cover the natural,clinical and social sciences, as well as engineering and related fields, so researchers can choose a journal that fits both the subject of their work and the audience they want to reach. A strong paper needs more than a place to appear online. It needs editors who understand the field, reviewers who can evaluate the work fairly, production teams who make the paper clearer, and publishing options that help readers find and use the results. Nature Portfolio brings these elements together for research that has someth",
+      "keywords": [
+        "nature",
+        "journal",
+        "portfolio",
+        "authors",
+        "journals",
+        "work",
+        "paper",
+        "publication",
+        "publishing",
+        "research",
+        "editors",
+        "needs",
+        "options",
+        "publish"
+      ],
+      "hash": "cb017d707151f194c4624fe6114158a2773ffa206a2b0ebe9daa8ffefa40f175",
+      "learned_at": "2026-10-24T21:48:31+00:00"
+    },
+    {
+      "url": "https://media.springernature.com/full/nature-cms/uploads/product/nature-portfolio/header-99de53da3f573b8da51c96b5fd69b5a7.svg",
+      "title": "header-99de53da3f573b8da51c96b5fd69b5a7.svg",
+      "summary": "Title: header-99de53da3f573b8da51c96b5fd69b5a7.svg URL Source: https://media.springernature.com/full/nature-cms/uploads/product/nature-portfolio/header-99de53da3f573b8da51c96b5fd69b5a7.svg Published Time: Tue, 30 Mar 2021 08:30:15 GMT Markdown Content: A 162x25 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "header-99de53da3f573b8da51c96b5fd69b5a7",
+        "svg",
+        "162x25",
+        "2021",
+        "avatar",
+        "com",
+        "content",
+        "full",
+        "gmt",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo"
+      ],
+      "hash": "df83eeaf757b1af2d06e6a8a46e99a1885b3e31ebd6adcc5d2bca6430b55e59a",
+      "learned_at": "2026-10-24T21:48:32+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal",
+      "title": "Springer Nature Librarian Portal Resources | For Librarians | Springer Nature",
+      "summary": "Title: Springer Nature Librarian Portal Resources | For Librarians | Springer Nature URL Source: https://www.springernature.com/gp/librarians/manage-your-account/librarianportal Markdown Content: [![Image 4: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 5: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Librarians](https://www.springernature.com/gp/librarians/manage-your-account/librarianportal#/",
+      "keywords": [
+        "com",
+        "https",
+        "springernature",
+        "www",
+        "librarians",
+        "springer",
+        "nature",
+        "products",
+        "journals",
+        "group",
+        "librarianportal",
+        "manage-your-account",
+        "reviewers",
+        "support"
+      ],
+      "hash": "8f43acfb908aa594703d976cd171743db89641c4428f3b8f398c206a39730e47",
+      "learned_at": "2026-10-24T21:48:33+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/librarians/recommend-to-your-library",
+      "title": "Page Not Found | Springer Nature",
+      "summary": "Title: Page Not Found | Springer Nature URL Source: https://www.springernature.com/gp/librarians/recommend-to-your-library Warning: Target URL returned error 404: Not Found Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page. Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-stat",
+      "keywords": [
+        "cookies",
+        "data",
+        "information",
+        "page",
+        "use",
+        "com",
+        "content",
+        "found",
+        "https",
+        "make",
+        "optional",
+        "parties",
+        "personal",
+        "privacy"
+      ],
+      "hash": "6801932e1b05f0741a1f17a91f7ddf0bf5e381e3c57e38853ba72952cf239926",
+      "learned_at": "2026-10-24T21:48:37+00:00"
     }
   ],
   "failures": [
@@ -21063,6 +21118,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-24T21:48:37+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-24T21:48:37+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 17,
+      "frontier": 1645
+    },
     {
       "at": "2026-10-24T19:27:06+00:00",
       "kind": "core_promoted",
@@ -21973,29 +22043,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 958
-    },
-    {
-      "at": "2026-10-16T22:46:36+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-16T22:46:36+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 962
     }
   ],
   "metrics": {
-    "successful_fetches": 962,
+    "successful_fetches": 970,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 40,
-    "candidate_rejections": 118
+    "candidate_rejections": 119
   },
   "core_genome": {
     "query_weight": 3.0,
