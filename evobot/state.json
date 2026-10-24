@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generation": 158,
+  "generation": 159,
   "core_version": 40,
-  "runs": 157,
-  "pages_learned": 947,
-  "last_run": "2026-10-24T13:45:48+00:00",
+  "runs": 158,
+  "pages_learned": 954,
+  "last_run": "2026-10-24T17:01:46+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
     "https://twitter.com/nature",
@@ -283,30 +283,6 @@
     "http://www.agu.org/reference/gephys.html",
     "http://www.nap.edu/books/0309060419/html/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://www.nasa.gov/podcasts-and-audio/",
-    "https://www.nasa.gov/nasa-blogs/",
-    "https://www.nasa.gov/apps/",
-    "https://www.nasa.gov/podcasts/",
-    "https://www.nasa.gov/ebooks/",
-    "https://www.nasa.gov/nasa-brand-center/",
-    "https://www.nasa.gov/plus/",
-    "https://www.nasa.gov/socialmedia/",
-    "https://www.nature.com/documents/Press_release_archive_2004.zip",
-    "https://www.nature.com/documents/Press_release_archive_2005.zip",
-    "https://www.nature.com/documents/Press_release_archive_2006.zip",
-    "https://www.nature.com/documents/Press_release_archive_2007.zip",
-    "https://www.nature.com/documents/Press_release_archive_2008.zip",
-    "https://www.nature.com/documents/Press_release_archive_2009.zip",
-    "https://www.nature.com/documents/Press_release_archive_2010.zip",
-    "https://www.nature.com/documents/Press_release_archive_2011.zip",
-    "https://group.springernature.com/gp/group/media",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/may-2024-shake-bake-how-spacecraft-are-tested-to-handle-the-harsh-environment-of-space/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/june-2024-nasa-in-your-home-how-space-based-technology-improves-our-daily-lives/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/july-2024-how-nasas-team-of-autonomous-mini-rovers-will-explore-the-moon/",
     "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/august-2024-sulfur-crystals-on-mars-curiositys-happy-accident/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vK_2.width-1024.jpg",
     "https://press.nature.com/press-releases/15634836",
@@ -1610,7 +1586,34 @@
     "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
     "https://twitter.com/share?text=Artemis+Unisex+Adult+Tshirt&url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
     "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt&media=%2F%2Fthejplstore.com%2Fcdn%2Fshop%2Ffiles%2FAretemisTee_1024x1024.jpg%3Fv%3D1775248687&description=Artemis+Unisex+Adult+Tshirt",
-    "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109"
+    "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Sol322B_DeckPan_crop-PIA07372.width-1024.jpg",
+    "https://youtube.com/live/sZ71zKj0MvA",
+    "https://youtube.com/live/fVtiOhf17tg",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/may-2024-shake-bake-how-spacecraft-are-tested-to-handle-the-harsh-environment-of-space/",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/june-2024-nasa-in-your-home-how-space-based-technology-improves-our-daily-lives/",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/july-2024-how-nasas-team-of-autonomous-mini-rovers-will-explore-the-moon/",
+    "https://www.nasa.gov/apps/",
+    "https://www.nasa.gov/podcasts/",
+    "https://www.nasa.gov/ebooks/",
+    "https://www.nasa.gov/nasa-brand-center/",
+    "https://www.nasa.gov/plus/",
+    "https://www.nasa.gov/socialmedia/",
+    "https://www.nature.com/documents/Press_release_archive_2006.zip",
+    "https://www.nature.com/documents/Press_release_archive_2007.zip",
+    "https://www.nature.com/documents/Press_release_archive_2008.zip",
+    "https://www.nature.com/documents/Press_release_archive_2009.zip",
+    "https://www.nature.com/documents/Press_release_archive_2010.zip",
+    "https://www.nature.com/documents/Press_release_archive_2011.zip",
+    "https://group.springernature.com/gp/group/media/press-releases",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627626/data/v8",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627630/data/v6",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627628/data/v8",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627632/data/v6",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627634/data/v12",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627636/data/v7"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -7056,170 +7059,44 @@
     "https://www.facebook.com/Nature": {
       "at": "2026-10-24T13:46:18+00:00",
       "status": "robots_disallow"
+    },
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/": {
+      "at": "2026-10-24T17:01:51+00:00",
+      "status": "ok",
+      "hash": "6421123929569f93217e1900d71cfed741085e5a284f4c3712512be602c3c761"
+    },
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/": {
+      "at": "2026-10-24T17:01:54+00:00",
+      "status": "ok",
+      "hash": "81b10b5edf1515e01532f29421bdc37ae37a997e4f9b3b75aa1567fefd5f192b"
+    },
+    "https://www.nasa.gov/podcasts-and-audio/": {
+      "at": "2026-10-24T17:01:54+00:00",
+      "status": "ok",
+      "hash": "93941f036e47e88a81f10e726d7a9bb8ea5cdad234de1fdc53c6a408311083e2"
+    },
+    "https://www.nasa.gov/nasa-blogs/": {
+      "at": "2026-10-24T17:01:57+00:00",
+      "status": "ok",
+      "hash": "47c7068fba48c1984e20bde00ebd1c5ec392897e9084a4d27e6bbc427e915a7a"
+    },
+    "https://www.nature.com/documents/Press_release_archive_2004.zip": {
+      "at": "2026-10-24T17:01:58+00:00",
+      "status": "ok",
+      "hash": "9ee4cf1ee3a4c0d48d3dee02ea1926e461adcf85d1b493f794578d1bfb8526f4"
+    },
+    "https://www.nature.com/documents/Press_release_archive_2005.zip": {
+      "at": "2026-10-24T17:01:59+00:00",
+      "status": "ok",
+      "hash": "c25def1853e61e363ebcfb8dce8b750ab1bc69fa8af8591de20bb1ad0a03f0f5"
+    },
+    "https://group.springernature.com/gp/group/media": {
+      "at": "2026-10-24T17:02:03+00:00",
+      "status": "ok",
+      "hash": "a43a22be7b1495ebc5d97c1ffde32cf53e222af830690ae35f9d6e49b9bfc82f"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf",
-      "title": "Sorry: Page not Found",
-      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf](https:/ssd.jpl.nasa.gov/ftp/ssd/horizons_stunnel_client.conf#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.na",
-      "keywords": [
-        "ssd",
-        "https",
-        "nasa",
-        "jpl",
-        "gov",
-        "html",
-        "conf",
-        "ftp",
-        "horizons_stunnel_client",
-        "planets",
-        "orbits",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "5777519c1a6b446c8d425b2f0b7af10248c97267e185a1061025a8ad70194b22",
-      "learned_at": "2026-10-09T06:30:40+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/webb/launch/",
-      "title": "Launch - NASA Science",
-      "summary": "Title: Launch - NASA Science URL Source: https://science.nasa.gov/mission/webb/launch/ Published Time: 2023-06-19T00:18:54-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Mu",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "webb"
-      ],
-      "hash": "0e3f6218efda72c1bcc7a7ced4eed1b4d3b2d3a04a6a4dec47e8b44af804628b",
-      "learned_at": "2026-10-09T06:30:42+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/",
-      "title": "New Moon Discovered Orbiting Uranus Using NASA’s Webb Telescope - NASA Science",
-      "summary": "Title: New Moon Discovered Orbiting Uranus Using NASA’s Webb Telescope - NASA Science URL Source: https://science.nasa.gov/blogs/webb/2025/08/19/new-moon-discovered-orbiting-uranus-using-nasas-webb-telescope/ Published Time: 2025-08-19T11:00:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * ",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "webb",
-        "image",
-        "moon",
-        "plus",
-        "podcasts"
-      ],
-      "hash": "1aa644a5e74ed795124dc60f993f4d088f790b17c3c955bd135778f9986230e0",
-      "learned_at": "2026-10-09T13:41:09+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/hubble-finds-huge-system-of-dusty-material-enveloping-the-young-star-hr-4796a/",
-      "title": "Hubble Finds Huge System of Dusty Material Enveloping the Young Star HR 4796A - NASA Science",
-      "summary": "Title: Hubble Finds Huge System of Dusty Material Enveloping the Young Star HR 4796A - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-finds-huge-system-of-dusty-material-enveloping-the-young-star-hr-4796a/ Published Time: 2018-03-06T13:00:00-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.na",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "8a1c2f79112a1ee3815596229f32fefc5ba61393f324552f8d5fb1ae78509b2b",
-      "learned_at": "2026-10-09T13:41:13+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/glossary/ra.html",
-      "title": "Ra",
-      "summary": "Title: Ra URL Source: https://ssd.jpl.nasa.gov/glossary/ra.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/glossary/ra.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/glossary/ra.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov/faq.html) * [Sitemap](http",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "planets",
-        "glossary",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "f9799dbc293a1222b5b6fe1f4259d3cd4d4074d0713feb9866b13c22a36c5974",
-      "learned_at": "2026-10-09T13:41:16+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/glossary/dec.html",
-      "title": "Dec",
-      "summary": "Title: Dec URL Source: https://ssd.jpl.nasa.gov/glossary/dec.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/glossary/dec.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/glossary/dec.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov/faq.html) * [Sitemap](",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "dec",
-        "planets",
-        "glossary",
-        "sats",
-        "ephemerides",
-        "image",
-        "images"
-      ],
-      "hash": "13d9bb70d6bf54c2d9da875f3a032857ef26e024074988a30519eda88cfb7f59",
-      "learned_at": "2026-10-09T13:41:18+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
-      "title": "STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
-      "summary": "Title: STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?fit=clip&crop=faces,focalpoint&w=300 Markdown Content: The Central Astronomy Research Institute publishes images of the cosmos, often featuring high-resolution telescopic captures",
-      "keywords": [
-        "science",
-        "assets",
-        "png",
-        "stsci-01kx6d0xbhsyp7q1em5qtc43rp",
-        "2026",
-        "300",
-        "astronomy",
-        "captures",
-        "central",
-        "clip",
-        "content",
-        "cosmos",
-        "crop",
-        "dynamicimage"
-      ],
-      "hash": "0ad8e4b35954e6329ba10f7035d0a387499dcb2296468dc3dc9a6bb4dfcf1771",
-      "learned_at": "2026-10-09T19:01:30+00:00"
-    },
     {
       "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png?fit=clip&crop=faces%2Cfocalpoint&w=300",
       "title": "STScI-01KX6E623Z5HQFWJKZ5C10N6X2.png",
@@ -20858,6 +20735,167 @@
       ],
       "hash": "38581782fc0072e47e77060fb525c06c132d83d443da8e07419995eae5cf6b63",
       "learned_at": "2026-10-24T13:46:18+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/",
+      "title": "January 2024 - Spirit Knocked, Opportunity Rocked: 20 Years of Rovers on Mars",
+      "summary": "Title: January 2024 - Spirit Knocked, Opportunity Rocked: 20 Years of Rovers on Mars URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/ Markdown Content: [](https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "mars",
+        "opportunity",
+        "rovers",
+        "spirit",
+        "camera",
+        "exploration",
+        "image",
+        "images",
+        "knocked"
+      ],
+      "hash": "6421123929569f93217e1900d71cfed741085e5a284f4c3712512be602c3c761",
+      "learned_at": "2026-10-24T17:01:51+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/",
+      "title": "March 2024 - Mavericks of Mars: The Ingenuity Helicopter Team’s Favorite Flights | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: March 2024 - Mavericks of Mars: The Ingenuity Helicopter Team’s Favorite Flights | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/ Markdown Content: Mar. 21 **Time:** 5 p.m. PST (8 p.m. EST; 0300 UTC) The Ingenuity Helicopter first took to the Martian skies on April 19, 2021, proving for the first time that powered, controlled flight was possible on another world. Designed as a technology demonstration that would perform up to five experimental test flights over a span of 30 days, the Mars helicopter surpassed expectations – repeatedly – only recently completing its mission after having logged an incredible 72 flights over nearly three years. Join us for a live talk to learn how Ingenuity",
+      "keywords": [
+        "flights",
+        "jpl",
+        "nasa",
+        "control",
+        "helicopter",
+        "ingenuity",
+        "live",
+        "mars",
+        "pilot",
+        "chief",
+        "first",
+        "flight",
+        "guidance",
+        "https"
+      ],
+      "hash": "81b10b5edf1515e01532f29421bdc37ae37a997e4f9b3b75aa1567fefd5f192b",
+      "learned_at": "2026-10-24T17:01:54+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/podcasts-and-audio/",
+      "title": "Podcasts and Audio - NASA",
+      "summary": "Title: Podcasts and Audio - NASA URL Source: https://www.nasa.gov/podcasts-and-audio/ Published Time: 2025-06-03T18:40:39Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.na",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "podcasts",
+        "image",
+        "plus",
+        "aeronautics"
+      ],
+      "hash": "93941f036e47e88a81f10e726d7a9bb8ea5cdad234de1fdc53c6a408311083e2",
+      "learned_at": "2026-10-24T17:01:54+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/nasa-blogs/",
+      "title": "Blogs - NASA",
+      "summary": "Title: Blogs - NASA URL Source: https://www.nasa.gov/nasa-blogs/ Published Time: 2023-06-06T14:57:11Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov/news/media-con",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "47c7068fba48c1984e20bde00ebd1c5ec392897e9084a4d27e6bbc427e915a7a",
+      "learned_at": "2026-10-24T17:01:57+00:00"
+    },
+    {
+      "url": "https://www.nature.com/documents/Press_release_archive_2004.zip",
+      "title": "www.nature.com/documents/Press_release_archive_2004.zip",
+      "summary": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000�f\u000fOv����8\u0000\u0000�L\u0000\u0000M\u0000\u0000\u00002004/A new direction for Nature Publishing Group Nature Clinical Practice.pdf��w\\\u0014��/ � \bJ�Ȑ%N`\bC�\u0019$\u0007A�0����A\u0011$\u0007��s��J\u0012�9IR��� \u0012%H����>�=���޽������@�^���Vշju��jf5iY.07/>����1|\\\u0001\u0001\u0000\b�2��\u0017\u0016\u0006*#�\u0011�NH/�9\u0000 T\u0006�a||P� \u0000 \u0004�\u0001�!<\u0002\u0010��e��e\u0007\u000f/\b(\u000f0\u0000@\u0005�\u0000`\u0001�{���\b{�ol\u0000+��`\u0010�_B�\u0011p�9B������H e�jg� �\u0002՜\u0010�H� ��R��(P\u0016i�p\u0002�ښ� ~�\u0002T�6\u0010������ �2\u0002\u0002|0~(T@����\u0007*+#-+ )+�+*, ���xa�<�\u00120� \u0014&\u0001救\u0015��\u0001 �JB�xa��� ��\b\u000f�ˑ�@� X�\u0000\u0002�� j\u0000�\u0011��.V\u0000\u0001�7mܾ�\u0013 �@�\\\u0000\u0002��\u0004��ƹ�\u000f\u0004��t@\u0000�4\u0010\u0016@]\u00030\u0000\u0002\u0000_���� aj��k���̜����d�*Q��x �c�b4B{�_(�\u000fa!\u0007���\bE\u0001`]\u0002u��l<�+��\u0017�\u0000Ǒd��\u0018��\u0000�\u0018�\u00051���\u00034 ��r|6|�K����73;��:�x8!,�qA����2wd�q�8\u0018�/�K\u0001� �/ �ͫ�\u000f\u001a\u0006�t�\u0000/P\u0013�#𧱘�|���l��]�����r��\u0013�\u0006���Gm������5��\u000e�̓��j��S�k��\u0003���GF^\\�N�}\u0000%Ɛ�ƉG��G$�gW�0��a\u0000Z�x(��bT\u0002?i�ljoy��\u0005� �*\u001a\u0017�6�&\u001bP���曻.{�U/a��䊸\u0004� ������\u0014���Kw\\]l/�� ��U5SK���'��\u0005x� �\u0003q�\u001b�\u0001�����K>p\u0017-'\u0004⻳y �[��X꒭-��_\u0000��~�,��\u0005a��l\u0000�~\u0006\u0000��c\u0007�����������\u0013�����{@)'��$��\u0000�}���\u000f ���\u000f���rX�H��{\u0019B�� �\u0006�\u0019��\u0004G�\u0016T(",
+      "keywords": [
+        "nature",
+        "-9n",
+        "2004",
+        "2rv",
+        "2wd",
+        "4a4",
+        "5jה",
+        "9ir",
+        "9oj",
+        "abe",
+        "b4b",
+        "bmg",
+        "cdg",
+        "clinical"
+      ],
+      "hash": "9ee4cf1ee3a4c0d48d3dee02ea1926e461adcf85d1b493f794578d1bfb8526f4",
+      "learned_at": "2026-10-24T17:01:58+00:00"
+    },
+    {
+      "url": "https://www.nature.com/documents/Press_release_archive_2005.zip",
+      "title": "www.nature.com/documents/Press_release_archive_2005.zip",
+      "summary": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000�f\u000fO!\u000f���?\u0000\u0000 T\u0000\u00006\u0000\u0000\u00002005/Connotea wins award for publishing innovation.pdf��uXU��/JwI7�\u000e�9�twwH#9需4R�Hw�t�t HI����H�( \u0017W����u־���?~��9� o|�\u0018� z5)\u00196\u000evnL�ͭw3�h��\u0000\u0010���\u0016SH\b�d�\b1��xC,\u0000 @%\u0000���\u0013 T\u0005��\u0002�\u0001 � |�@\u0015\u0000\u0018��p��� �\u0000��� \u0000�AF\"\"�\u0010G� l\u0000��`�q���)D b�d\u0001Q3�:�>�I:ٻ;8�\u0002��jP�����\u0013\u0014�\u0001\u0016\u0011\u0001��ػA�@\u0019{S7ȯ�\u0000� �8�����2����`n^.���4\u0017 77\u000f� \u0017'7'\u0017���4��$ ?���\u0004HF\\�K���[�G� �)�#!-��-b\u0004�w��x\u001a<X���c�� �����\u0006P �h�f ����ͳ_��\u0003j89�\u0001�y~!�|\u0000�\u0001�\u0007\u0010��!@] �%Pǀ\u0003\u0000\u0006p<@��\u0006��:`�Y���Y������c�\u00113\u0006��\u0001z��MM�\">B\u0016 ��9%�\u0003���Q\u0006�S\u0000�\u0006 ZH� �$i�$k�z\u0018\u0018э �9y�`Q@0|z\u0018 L�\u0007\\c�\u001b®n�P7O(�\u0012\u0013��4=��� &ڟ����'ܒ\u0000\u000e\u000e����`\u0007��\u0016s�y �\u0001\u0002\u00015\u0001�\\2�����Ą\u0005bbjb�l�n.\u0006#����\u0003U�M��Q��񴅗}� �G\u0010�� ���9\u000fB N&�$�<�d�x� �6)2�'���� ��V\u001b i�9�\u0006ІZ����\u0012\u0013�K\b\u0001�\u000f�@q�\\� ��\u0010�\u0006�\u0007�+,q�~b�/~��4eS��\u000f����\u0010�nPw�C�(C�L-L�L\u0001��8M����!�]\u0001`�/�j�V\u0010%S/'w7��#��\b��+���W7?02wӂB �8��ף��\\򁯽��?\u0003����\u001a�;::��> �� I'G7����\u0001�������ok�����֜���~[s���%ꌀ�P'g 'O\u0003\u0010�\u0003�� \u000e��//�ïу�\u00166����C�=��a\u001a\u0010W'w�9��s�j:��C~�h� ��",
+      "keywords": [
+        "02wӂb",
+        "2005",
+        "2lu",
+        "4es",
+        "9需4r",
+        "award",
+        "bbjb",
+        "bel",
+        "bԓt",
+        "c2pt",
+        "c_u",
+        "cn5",
+        "connotea",
+        "dvχ"
+      ],
+      "hash": "c25def1853e61e363ebcfb8dce8b750ab1bc69fa8af8591de20bb1ad0a03f0f5",
+      "learned_at": "2026-10-24T17:01:59+00:00"
+    },
+    {
+      "url": "https://group.springernature.com/gp/group/media",
+      "title": "Media Center | Springer Nature Group",
+      "summary": "Title: Media Center | Springer Nature Group URL Source: https://group.springernature.com/gp/group/media Markdown Content: ## MEDIA CENTRE Resources for journalists The Media Centre provides information on Springer Nature to help you as a journalist. This includes press contacts, press releases, images, company reports and other relevant content. ## Latest Press Release ### Congratulations to the 2026 Nobel Prize Laureates London | Berlin | New York | 14th October 2026 Springer Nature extends its warmest congratulations to this year's Nobel Prizes winners, celebrating their exceptional research and contributions that have shaped knowledge and their respective fields. ## Press Releases[see all](https://group.springernature.com/gp/group/media/press-releases) ### Congratulations to the 2026 Nobel Prize Laureates London | Berlin | New York | 14th October 2026 Springer Nature extends its warme",
+      "keywords": [
+        "group",
+        "https",
+        "springernature",
+        "media",
+        "nature",
+        "press",
+        "springer",
+        "2026",
+        "com",
+        "content",
+        "new",
+        "apps",
+        "berlin",
+        "cms-resources"
+      ],
+      "hash": "a43a22be7b1495ebc5d97c1ffde32cf53e222af830690ae35f9d6e49b9bfc82f",
+      "learned_at": "2026-10-24T17:02:03+00:00"
     }
   ],
   "failures": [
@@ -20958,6 +20996,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-24T17:02:03+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-24T17:02:03+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 1607
+    },
     {
       "at": "2026-10-24T13:46:18+00:00",
       "kind": "core_unchanged",
@@ -21857,40 +21910,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 953
-    },
-    {
-      "at": "2026-10-16T17:27:06+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v25",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-16T17:27:06+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 20,
-      "frontier": 948
     }
   ],
   "metrics": {
-    "successful_fetches": 947,
+    "successful_fetches": 954,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 39,
-    "candidate_rejections": 117
+    "candidate_rejections": 118
   },
   "core_genome": {
     "query_weight": 3.0,
