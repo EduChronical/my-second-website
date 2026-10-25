@@ -1,19 +1,12 @@
 {
   "schema": 2,
-  "generation": 162,
-  "core_version": 41,
-  "runs": 161,
-  "pages_learned": 978,
-  "last_run": "2026-10-24T23:48:36+00:00",
+  "generation": 163,
+  "core_version": 42,
+  "runs": 162,
+  "pages_learned": 986,
+  "last_run": "2026-10-25T01:48:19+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
-    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://nemo-assets-live.public.springernature.app/resource/img/headerlogos/svg/header-logo-springernaturepress-mobile.svg",
-    "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
-    "https://apps.apple.com/us/app/space-images/id347075764",
     "https://link.springer.com/brands/nature-books",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
@@ -209,9 +202,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://www.bcg.com/x/bcg-x-ai-science-institute",
+    "https://bird.com/en-fr/legal/privacy",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://universe-of-learning.org/home",
@@ -269,6 +261,9 @@
     "https://info.orcid.org/privacy-policy/",
     "https://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "https://cdn.cookielaw.org/logos/38bdeb28-e6fb-46a2-bd31-34e5d82df3c7/58a36bd0-397a-45f2-9983-842b3d2ac74a/01565d41-2c71-4d31-b9dd-293c6e88aed0/header-logo_snpo_lq.png",
+    "https://publicationethics.org/",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -295,18 +290,6 @@
     "http://www.agu.org/reference/gephys.html",
     "http://www.nap.edu/books/0309060419/html/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://www.nature.com/nature-research/for-authors/nature-research-journals",
-    "https://www.nature.com/nature-portfolio/editorial-policies/communicate-with-respect",
-    "https://www.nature.com/nature-research/editorial-policies/authorship",
-    "https://www.nature.com/nature-research/editorial-policies/competing-interests",
-    "http://www.nature.com/nature-research/editorial-policies/ethics-and-biosecurity",
-    "https://www.nature.com/nature-portfolio/editorial-policies/ai",
-    "https://www.nature.com/nature-research/editorial-policies/reporting-standards",
-    "https://www.nature.com/nature-research/editorial-policies/image-integrity",
-    "https://publicationethics.org/",
-    "https://go.nature.com/get-Nature-Briefing",
-    "https://my-profile.springernature.com/linked-accounts.](https://my-profile.springernature.com/linked-accounts)",
-    "https://bird.com/en-fr/legal/privacy",
     "https://www.twilio.com/en-us/legal/privacy",
     "https://permutive.com/privacy/",
     "https://link.springer.com/",
@@ -1665,7 +1648,47 @@
     "https://www.nature.com/bcj/",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsiteindex",
     "https://www.nature.com/subjects",
-    "https://www.nature.com/naturecareers"
+    "https://www.nature.com/naturecareers",
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+    "https://www.nature.com/nature-portfolio/editorial-policies",
+    "https://www.nature.com/nature-portfolio/editorial-policies",
+    "https://www.nature.com/nature-portfolio/editorial-policies/act-with-integrity",
+    "https://www.nature.com/nature-portfolio/editorial-policies/appealsandcomplaints",
+    "https://www.nature.com/nature-portfolio/editorial-policies/authorship",
+    "https://www.nature.com/nature-portfolio/editorial-policies/clinical-research",
+    "https://www.nature.com/nature-portfolio/editorial-policies/collections-guesteditedcollections-specialissues",
+    "https://www.nature.com/nature-portfolio/editorial-policies/competing-interests",
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Feditorial-policies%2Fcommunicate-with-respect",
+    "https://www.nature.com/nature-research/editorial-policies/authorship",
+    "https://www.nature.com/nature-research/editorial-policies/competing-interests",
+    "https://www.nature.com/nature-portfolio/editorial-policies/ai",
+    "https://www.nature.com/nature-research/editorial-policies/reporting-standards",
+    "https://www.nature.com/nature-research/editorial-policies/image-integrity",
+    "https://go.nature.com/briefing/assets/site/images/nature_briefing_device_image.png",
+    "https://go.nature.com/nature/articles?type=nature-briefing",
+    "https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)",
+    "http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)",
+    "http://www.nature.com/nature-research/editorial-policies/ethics-and-biosecurity",
+    "https://apps.apple.com/us/iphone/today",
+    "https://apps.apple.com/us/ipad/today",
+    "https://apps.apple.com/us/mac/discover",
+    "https://apps.apple.com/us/vision/apps-and-games",
+    "https://apps.apple.com/us/watch/apps-and-games",
+    "https://apps.apple.com/us/tv/discover",
+    "https://apps.apple.com/us/iphone/today",
+    "https://apps.apple.com/us/iphone/games",
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
+    "http://www.jpl.nasa.gov/apps/spaceimages",
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
+    "https://apps.apple.com/us/iphone/apps",
+    "https://apps.apple.com/us/iphone/arcade",
+    "https://apps.apple.com/assets/artwork/1x1.gif",
+    "https://apps.apple.com/assets/artwork/1x1.gif",
+    "https://apps.apple.com/assets/artwork/1x1.gif",
+    "https://apps.apple.com/us/developer/jet-propulsion-laboratory/id347075767?platform=iphone",
+    "https://apps.apple.com/assets/artwork/1x1.gif",
+    "https://apps.apple.com/assets/artwork/1x1.gif"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -7274,193 +7297,53 @@
       "at": "2026-10-24T23:51:19+00:00",
       "status": "ok",
       "hash": "b34c26495ea84d9cee50564db859f0ca4c757303e83bced1d4894a0078fe49c0"
+    },
+    "https://www.nature.com/nature-research/for-authors/nature-research-journals": {
+      "at": "2026-10-25T01:48:22+00:00",
+      "status": "ok",
+      "hash": "1938c9660d760539398d56a9063c091ac1b24a31b441ce8721b56310d32118ff"
+    },
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F": {
+      "at": "2026-10-25T01:48:24+00:00",
+      "status": "ok",
+      "hash": "fb785879012e056c9616948f4c1070d71defb3cb04c2b949de64bf071fcaa32f"
+    },
+    "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/": {
+      "at": "2026-10-25T01:48:26+00:00",
+      "status": "ok",
+      "hash": "fed917e4df3024143f8adc934d1547cde01c21e76735f3c1499fa0f0377fb0b1"
+    },
+    "https://www.nature.com/nature-portfolio/editorial-policies/communicate-with-respect": {
+      "at": "2026-10-25T01:48:30+00:00",
+      "status": "ok",
+      "hash": "ab5c8f60c2d8f96c17f871cdbc61cf7282df0beaf761f3909061cc9f52a82f4f"
+    },
+    "https://go.nature.com/get-Nature-Briefing": {
+      "at": "2026-10-25T01:48:35+00:00",
+      "status": "ok",
+      "hash": "d1053842a7562513aa03699b982bfc4c288c0ddc0598c4fbddd13a33ab0f561c"
+    },
+    "https://my-profile.springernature.com/linked-accounts.](https://my-profile.springernature.com/linked-accounts)": {
+      "at": "2026-10-25T01:48:37+00:00",
+      "status": "ok",
+      "hash": "9732a7e39e8fb2bed25bdc9264a55685fe282bad2a4f1da611d48fa7b72e70de"
+    },
+    "https://nemo-assets-live.public.springernature.app/resource/img/headerlogos/svg/header-logo-springernaturepress-mobile.svg": {
+      "at": "2026-10-25T01:48:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone": {
+      "at": "2026-10-25T01:48:40+00:00",
+      "status": "ok",
+      "hash": "356a89fbe47e3daa6ef4e37210b93c6dd937fd3e08b1d178a9ffa97a3b3d0f54"
+    },
+    "https://apps.apple.com/us/app/space-images/id347075764": {
+      "at": "2026-10-25T01:48:43+00:00",
+      "status": "ok",
+      "hash": "cf3271c78eef3144067f35185ec9b2b5c52688d2f26e5563a5a3c643a8b91d03"
     }
   },
   "memory": [
-    {
-      "url": "https://naif.jpl.nasa.gov/naif/toolkit.html",
-      "title": "SPICE Toolkit",
-      "summary": "Title: SPICE Toolkit URL Source: https://naif.jpl.nasa.gov/naif/toolkit.html Markdown Content: The current SPICE Toolkit version is **N0067**, released January 3, 2022. The Toolkit license and other important considerations are contained within [these rules](https://naif.jpl.nasa.gov/naif/rules.html). The SPICE Toolkit is comprised of several items. 1. A large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation (code headers). 2. A ready-to-use library made from the APIs, subroutines and functions described in 1. 3. A small set of ready-built utility (application) programs, along with their associated User Guides. These are programs thought to be of use to many SPICE users. (Additional utility programs are available from the [Utilities link](https://naif.jpl.nasa.gov/nai",
-      "keywords": [
-        "naif",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "toolkit",
-        "html",
-        "spice",
-        "toolkits",
-        "programs",
-        "pdf",
-        "utility",
-        "apis",
-        "application"
-      ],
-      "hash": "7e9e967619bc582f430b9851a22a6bb395937870a29dc372cd87cd82f3c61b1b",
-      "learned_at": "2026-10-10T08:46:11+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/missions?mission_status=current",
-      "title": "NASA JPL Missions – Current, Past & Future",
-      "summary": "Title: NASA JPL Missions – Current, Past & Future URL Source: https://www.jpl.nasa.gov/missions?mission_status=current Markdown Content: ## Search Missions Sort by Showing 1–12 of 40 results Target Earth (58) Earth's Moon (25) Mars (25) Stars and Galaxies (16) Asteroids and Comets (12) Exoplanets (9) Venus (6) Jupiter (4) Europa (3) Interstellar Space (2) Solar System (2) Sun (2) Deep Space (1) Mercury (1) Saturn (1) Status past (109) current (40) future (10) proposed (5) Topic Earth (46) Solar System (42) Mars (25) Technology (24) Stars and Galaxies (21) Climate Change (19) Weather (15) Asteroids and Comets (12) Exoplanets (4) Robotics (1) Type Orbiter (63) Instrument (34) Flyby Spacecraft (19) Lander/Rover (17) Technology Demonstration (17) CubeSat/SmallSat (14) Ground-based (8) Lander (6) Rover (5) Airborne (3) Drone (1) Infrastructure (1) Date 2028 (1) 2027 (1) 2026 (1) 2025 (4) 1. [",
-      "keywords": [
-        "category",
-        "current",
-        "mission",
-        "https",
-        "2025",
-        "missions",
-        "nasa",
-        "date",
-        "earth",
-        "jpl",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "galaxies",
-        "gov"
-      ],
-      "hash": "d7d7604db0a4a6f0d4f2f52aca44c398707a002795fbfc708b0a78539331306d",
-      "learned_at": "2026-10-10T08:46:15+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg?w=800",
-      "title": "moon-base1.jpg",
-      "summary": "Title: moon-base1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg?w=800 Published Time: Sat, 10 Oct 2026 08:46:16 GMT Markdown Content: A computer generated image of the moon with the earth reflecting off of it",
-      "keywords": [
-        "2026",
-        "jpg",
-        "moon-base1",
-        "800",
-        "computer",
-        "content",
-        "earth",
-        "generated",
-        "gmt",
-        "gov",
-        "https",
-        "image",
-        "markdown",
-        "moon"
-      ],
-      "hash": "6d3d3bdfe285ceb6c9be5d58fb98671a1a40f4bba4c780e71f86797117308cb0",
-      "learned_at": "2026-10-10T08:46:18+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/05/south-pole-lights-comp-v5-1.png?w=1024",
-      "title": "south-pole-lights-comp-v5-1.png",
-      "summary": "Title: south-pole-lights-comp-v5-1.png URL Source: https://www.nasa.gov/wp-content/uploads/2026/05/south-pole-lights-comp-v5-1.png?w=1024 Published Time: Sat, 10 Oct 2026 08:46:20 GMT Markdown Content: A picture of a surface shows light shining on where the moon is and a starpol crus in the middle of the image",
-      "keywords": [
-        "2026",
-        "png",
-        "south-pole-lights-comp-v5-1",
-        "1024",
-        "content",
-        "crus",
-        "gmt",
-        "gov",
-        "https",
-        "image",
-        "light",
-        "markdown",
-        "middle",
-        "moon"
-      ],
-      "hash": "9268021fe93a38ab4519ed08bfbd1c1ad4462dce2efb27e97d2f582e992190d6",
-      "learned_at": "2026-10-10T08:46:23+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/moon",
-      "title": "Earth's Moon",
-      "summary": "Title: Earth's Moon URL Source: https://science.nasa.gov/moon Published Time: 2023-03-27T00:49:48-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimedia]",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "moon",
-        "multimedia",
-        "earth",
-        "events",
-        "image",
-        "plus"
-      ],
-      "hash": "3cdd52a3456806f891f5b0242feceef3ad1f67fc88f5d5f1850208555c6c4413",
-      "learned_at": "2026-10-10T08:46:27+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/tools/mdesign.html",
-      "title": "Small-Body Mission-Design Tool",
-      "summary": "Title: Small-Body Mission-Design Tool URL Source: https://ssd.jpl.nasa.gov/tools/mdesign.html Markdown Content: The Small-Body Mission Design tool provides three services: * Accessible Small Bodies: presents the list of small bodies that can be reached given a set of mission-design constraints. In addition, users can set multiple constraints on the physical and orbital properties of the target small bodies. * Extended Missions: given a user-defined heliocentric orbit, this tool returns the list of small bodies that come closest to that particular orbit during a certain period of time. This list can be considered a proxy for the list of objects that may be easiest to reach from the reference orbit. This feature is particularly useful for identifying potential candidates to explore during an extended mission phase. * Interactive Design Tool: provides an interactive interface to explore bal",
-      "keywords": [
-        "interactive",
-        "jpl",
-        "tools",
-        "gov",
-        "html",
-        "https",
-        "mdesign",
-        "mission",
-        "nasa",
-        "ssd",
-        "small",
-        "tool",
-        "bodies",
-        "ballistic"
-      ],
-      "hash": "cd619b3af8fe45a3086740fb08298c70debdcbd3c1f3340933810700b7bbd0cf",
-      "learned_at": "2026-10-10T14:48:27+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/tools/sb_ident.html",
-      "title": "Small-Body Identification Tool",
-      "summary": "Title: Small-Body Identification Tool URL Source: https://ssd.jpl.nasa.gov/tools/sb_ident.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/tools/sb_ident.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/tools/sb_ident.html#) * [What does SSD do?](https://ssd.",
-      "keywords": [
-        "https",
-        "nasa",
-        "ssd",
-        "gov",
-        "jpl",
-        "html",
-        "orbits",
-        "tools",
-        "planets",
-        "sb_ident",
-        "sats",
-        "ephemerides",
-        "image",
-        "images"
-      ],
-      "hash": "19bfbb397239b0a1e1b79369d341f515deb87536284438d8552bd3cb3eb67ef3",
-      "learned_at": "2026-10-10T14:48:31+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/email_list.html",
-      "title": "Email Lists",
-      "summary": "Title: Email Lists URL Source: https://ssd.jpl.nasa.gov/email_list.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/email_list.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/email_list.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov/faq.html) * [Sitemap",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "planets",
-        "email_list",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "da4c742050f590a4ebb1b3c5db24400e7a5d8350e354b91d75c84bf5b6d2a8b1",
-      "learned_at": "2026-10-10T18:58:05+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/",
       "title": "Public FTP File Browser",
@@ -21076,6 +20959,190 @@
       ],
       "hash": "b34c26495ea84d9cee50564db859f0ca4c757303e83bced1d4894a0078fe49c0",
       "learned_at": "2026-10-24T23:51:19+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-research/for-authors/nature-research-journals",
+      "title": "Not Found | nature.com",
+      "summary": "Title: Not Found | nature.com URL Source: https://www.nature.com/nature-research/for-authors/nature-research-journals Warning: Target URL returned error 404: Not Found Markdown Content: [Skip to main content](https://www.nature.com/nature-research/for-authors/nature-research-journals#content) Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. [![Image 1: Nature](https://www.nature.com/static/images/logos/nature-logo.svg)](https://www.nature.com/) * [View all journals](https://www.nature.com/siteindex) * [Search](https://www.nature.com/nature-research/for-authors/nature-research-journals#search-menu) * [Log in]",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "search",
+        "authors",
+        "content",
+        "for-authors",
+        "support",
+        "articles",
+        "found",
+        "html",
+        "index",
+        "nature-research"
+      ],
+      "hash": "1938c9660d760539398d56a9063c091ac1b24a31b441ce8721b56310d32118ff",
+      "learned_at": "2026-10-25T01:48:22+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fsolar-system%2Fmeteors-meteorites%2F",
+      "title": "URL Source: https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https://science.nasa.gov/solar-system/meteors-meteorites/",
+      "summary": "Title: URL Source: https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https://science.nasa.gov/solar-system/meteors-meteorites/ Warning: Target URL returned error 404: Not Found Markdown Content: {\"code\":\"oembed_invalid_url\",\"message\":\"Not Found\",\"data\":{\"status\":404}}",
+      "keywords": [
+        "url",
+        "404",
+        "found",
+        "gov",
+        "https",
+        "nasa",
+        "science",
+        "code",
+        "content",
+        "data",
+        "embed",
+        "error",
+        "markdown",
+        "message"
+      ],
+      "hash": "fb785879012e056c9616948f4c1070d71defb3cb04c2b949de64bf071fcaa32f",
+      "learned_at": "2026-10-25T01:48:24+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/",
+      "title": "Monster Black Holes Are Everywhere - NASA Science",
+      "summary": "Title: Monster Black Holes Are Everywhere - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-highlights/monster-black-holes-are-everywhere/ Published Time: 2021-12-22T00:56:02-05:00 Markdown Content: [![Image 16: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 17: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "fed917e4df3024143f8adc934d1547cde01c21e76735f3c1499fa0f0377fb0b1",
+      "learned_at": "2026-10-25T01:48:26+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio/editorial-policies/communicate-with-respect",
+      "title": "Communicate with Respect | Nature Portfolio",
+      "summary": "Title: Communicate with Respect | Nature Portfolio URL Source: https://www.nature.com/nature-portfolio/editorial-policies/communicate-with-respect Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cooki",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "nature-portfolio",
+        "search",
+        "cookies",
+        "editorial-policies",
+        "content",
+        "editorial",
+        "use",
+        "authors",
+        "communicate-with-respect",
+        "data"
+      ],
+      "hash": "ab5c8f60c2d8f96c17f871cdbc61cf7282df0beaf761f3909061cc9f52a82f4f",
+      "learned_at": "2026-10-25T01:48:30+00:00"
+    },
+    {
+      "url": "https://go.nature.com/get-Nature-Briefing",
+      "title": "Sign up for Nature Briefing",
+      "summary": "Title: Sign up for Nature Briefing URL Source: https://go.nature.com/get-Nature-Briefing Markdown Content: ## Sign up for free to _Nature Briefing Daily_ An essential round-up of science news, opinion and analysis, free in your inbox every weekday. ![Image 1: Nature Briefing Daily displayed on a laptop and a mobile phone](https://go.nature.com/briefing/assets/site/images/nature_briefing_device_image.png) ## Why sign up? When we write _Nature Briefing_, we track down the best science journalism — from breaking news you need to know, to fresh perspectives you may have missed. Let us get you up to speed on the wider world of science in the time it takes to drink a coffee. ## What you’ll get ### What matters and why The best from _Nature’s_ journalists and other publications worldwide, handpicked and summarized by _Nature_ editors. ### An expert eye A rational perspective from the most trust",
+      "keywords": [
+        "_nature",
+        "nature",
+        "briefing",
+        "briefing_",
+        "science",
+        "com",
+        "get",
+        "https",
+        "sign",
+        "best",
+        "every",
+        "first",
+        "free",
+        "never"
+      ],
+      "hash": "d1053842a7562513aa03699b982bfc4c288c0ddc0598c4fbddd13a33ab0f561c",
+      "learned_at": "2026-10-25T01:48:35+00:00"
+    },
+    {
+      "url": "https://my-profile.springernature.com/linked-accounts.](https://my-profile.springernature.com/linked-accounts)",
+      "title": "Error 400 Illegal Path Character",
+      "summary": "Title: Error 400 Illegal Path Character URL Source: https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) Warning: Target URL returned error 400: Bad Request Markdown Content: ## HTTP ERROR 400 Illegal Path Character | URI: | http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) | | --- | | STATUS: | 400 | | MESSAGE: | Illegal Path Character |",
+      "keywords": [
+        "400",
+        "com",
+        "linked-accounts",
+        "my-profile",
+        "springernature",
+        "character",
+        "error",
+        "https",
+        "illegal",
+        "path",
+        "http",
+        "url",
+        "---",
+        "bad"
+      ],
+      "hash": "9732a7e39e8fb2bed25bdc9264a55685fe282bad2a4f1da611d48fa7b72e70de",
+      "learned_at": "2026-10-25T01:48:37+00:00"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
+      "title": "Space Images App - App Store",
+      "summary": "Title: Space Images App - App Store URL Source: https://apps.apple.com/us/app/space-images/id347075764?platform=iphone Markdown Content: for iPhone [iPhone](https://apps.apple.com/us/iphone/today)[iPad](https://apps.apple.com/us/ipad/today)[Mac](https://apps.apple.com/us/mac/discover)[Vision](https://apps.apple.com/us/vision/apps-and-games)[Watch](https://apps.apple.com/us/watch/apps-and-games)[TV](https://apps.apple.com/us/tv/discover) Search * [Today](https://apps.apple.com/us/iphone/today) * [Games](https://apps.apple.com/us/iphone/games) * [Apps](https://apps.apple.com/us/iphone/apps) * [Arcade](https://apps.apple.com/us/iphone/arcade) Categories * [Categories](https://apps.apple.com/us/iphone/editorial/6753950852) * [Photo & Video](https://apps.apple.com/us/iphone/grouping/25236) * [Health & Fitness](https://apps.apple.com/us/iphone/grouping/25188) * [Productivity](https://apps.appl",
+      "keywords": [
+        "apps",
+        "apple",
+        "com",
+        "https",
+        "iphone",
+        "1x1",
+        "app",
+        "artwork",
+        "assets",
+        "gif",
+        "grouping",
+        "image",
+        "platform",
+        "id347075764"
+      ],
+      "hash": "356a89fbe47e3daa6ef4e37210b93c6dd937fd3e08b1d178a9ffa97a3b3d0f54",
+      "learned_at": "2026-10-25T01:48:40+00:00"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/space-images/id347075764",
+      "title": "Space Images App - App Store",
+      "summary": "Title: Space Images App - App Store URL Source: https://apps.apple.com/us/app/space-images/id347075764 Markdown Content: Search * [Today](https://apps.apple.com/us/iphone/today) * [Games](https://apps.apple.com/us/iphone/games) * [Apps](https://apps.apple.com/us/iphone/apps) * [Arcade](https://apps.apple.com/us/iphone/arcade) Platform * [iPhone](https://apps.apple.com/us/iphone/today) * [iPad](https://apps.apple.com/us/ipad/today) * [Mac](https://apps.apple.com/us/mac/discover) * [Vision](https://apps.apple.com/us/vision/apps-and-games) * [Watch](https://apps.apple.com/us/watch/apps-and-games) * [TV](https://apps.apple.com/us/tv/discover) ![Image 1](https://apps.apple.com/assets/artwork/1x1.gif) ![Image 2](https://apps.apple.com/assets/artwork/1x1.gif) # Space Images The Latest from NASA Missions Free · Designed for iPad. Not verified for macOS. Share * [16 Ratings 4.6 5.](https://apps.a",
+      "keywords": [
+        "apps",
+        "apple",
+        "com",
+        "https",
+        "app",
+        "1x1",
+        "artwork",
+        "assets",
+        "gif",
+        "image",
+        "iphone",
+        "id347075764",
+        "images",
+        "space"
+      ],
+      "hash": "cf3271c78eef3144067f35185ec9b2b5c52688d2f26e5563a5a3c643a8b91d03",
+      "learned_at": "2026-10-25T01:48:43+00:00"
     }
   ],
   "failures": [
@@ -21176,6 +21243,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-25T01:48:44+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v42",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-25T01:48:43+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 17,
+      "frontier": 1682
+    },
     {
       "at": "2026-10-24T23:51:20+00:00",
       "kind": "core_unchanged",
@@ -22075,28 +22168,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 19,
       "frontier": 959
-    },
-    {
-      "at": "2026-10-17T05:05:49+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-17T05:05:49+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 13,
-      "frontier": 967
     }
   ],
   "metrics": {
-    "successful_fetches": 978,
+    "successful_fetches": 986,
     "failed_fetches": 19,
     "duplicate_pages": 2,
-    "candidate_promotions": 40,
+    "candidate_promotions": 41,
     "candidate_rejections": 120
   },
   "core_genome": {
@@ -22129,11 +22207,11 @@
     "ssd.jpl.nasa.gov",
     "www.nature.com",
     "science.nasa.gov",
-    "nssdc.gsfc.nasa.gov",
-    "jpl.nasa.gov",
     "naif.jpl.nasa.gov",
-    "assets.science.nasa.gov",
+    "nssdc.gsfc.nasa.gov",
     "www.springernature.com",
-    "svs.gsfc.nasa.gov"
+    "jpl.nasa.gov",
+    "svs.gsfc.nasa.gov",
+    "www.sebi.gov.in"
   ]
 }
