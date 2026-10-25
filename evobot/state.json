@@ -1,25 +1,12 @@
 {
   "schema": 2,
-  "generation": 167,
+  "generation": 168,
   "core_version": 43,
-  "runs": 166,
-  "pages_learned": 1010,
-  "last_run": "2026-10-25T19:20:50+00:00",
+  "runs": 167,
+  "pages_learned": 1016,
+  "last_run": "2026-10-25T21:57:05+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://secure.authorservices.springernature.com/en/researcher/submit/select",
-    "https://secure.authorservices.springernature.com/en/researcher/submit/select",
-    "https://secure.authorservices.springernature.com/prices/quote/new",
-    "http://www.facebook.com/NASAJPL",
-    "http://www.msss.com/mars_images/moc/dec00_seds/",
-    "http://www.imf.org/en/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24836-226.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-400x400-c50_J0FluKn.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_YNyz215.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-sea_ice_quadriptych.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Field_work_1.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26670-NISAR_Views_Seattle.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA04495.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26484.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_kSlf0I3.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg",
@@ -40,12 +27,16 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EARTH_DAY_2019_WEB_orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
+    "https://twitter.com/SpringerNature",
+    "http://www.facebook.com/NASAJPL",
+    "http://www.msss.com/mars_images/moc/dec00_seds/",
+    "http://www.imf.org/en/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PACE_Gulf.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
     "https://support.google.com/ads/answer/2662922?hl=en-GB",
     "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/6001196271/fav_icon/yGJISi2-j220kPPrc03dNtgyWDIqB-4mpQ.png",
     "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/6001196271/fav_icon/yGJISi2-j220kPPrc03dNtgyWDIqB-4mpQ.png",
@@ -81,11 +72,6 @@
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
     "https://authorservices.springernature.cn/",
     "https://www.cookiebot.com/",
-    "http://instagram.com/nasajpl",
-    "http://facebook.com/nasajpledu",
-    "http://x.com/nasajpl_edu",
-    "http://instagram.com/nasajpl_edu",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2015-Elachi-Lights.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
@@ -177,8 +163,13 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/watkins-lg.a0dd38af.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Edward_C._Ston.aa9be3b1.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg",
-    "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vK_2.width-1024.jpg",
+    "http://instagram.com/nasajpl",
+    "http://facebook.com/nasajpledu",
+    "http://x.com/nasajpl_edu",
+    "http://instagram.com/nasajpl_edu",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://jpl.jobs/",
@@ -196,7 +187,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
-    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://bird.com/en-fr/legal/privacy",
     "https://permutive.com/privacy/",
     "https://link.springer.com/",
@@ -219,10 +209,12 @@
     "https://www.iau.org/",
     "https://www.iers.org/",
     "https://rubriq.com/",
+    "https://unsplash.com/@thisisengineering",
     "http://www.expita.com/nomime.html",
     "http://www.youronlinechoices.com/uk/opt-out-help",
     "http://www.youronlinechoices.com/uk/opt-out-help](http://www.youronlinechoices.com/uk/opt-out-help)",
     "http://www.biomedcentral.com/",
+    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://universe-of-learning.org/home",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
@@ -291,24 +283,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://www.jpl.nasa.gov/about/maps/images/map_SGV_to_JPL.jpg",
-    "https://www.jpl.nasa.gov/about/maps/images/map_PASADENA_to_JPL.jpg",
-    "https://www.jpl.nasa.gov/about/maps/images/LA_Area-v4-grayCLN.jpg",
-    "https://www.jpl.nasa.gov/about/maps/images/Pasadena_Area-4.jpg",
-    "https://solutions.springernature.com/pages/privacy-policy",
-    "https://solutions.springernature.com/checkout",
-    "https://solutions.springernature.com/blogs/visibility",
-    "https://solutions.springernature.com/collections/all",
-    "https://solutions.springernature.com/cdn/shop/files/logo-springernature-blue_300x.svg?v=1749546953",
-    "https://solutions.springernature.com/pages/about-us",
-    "https://solutions.springernature.com/blogs/visibility",
-    "https://solutions.springernature.com/collections/all",
-    "https://unsplash.com/@thisisengineering",
-    "https://twitter.com/SpringerNature",
-    "https://www.facebook.com/SpringerNature/",
-    "https://www.linkedin.com/company/springernaturegroup/",
-    "https://twitter.com/SpringerNature",
-    "https://www.facebook.com/SpringerNature/",
     "https://www.springernature.com/gp/reviewers",
     "https://www.springernature.com/gp/book-reviewers",
     "https://www.springernature.com/gp/booksellers",
@@ -1792,7 +1766,32 @@
     "https://authorservices.springernature.com/for-organizations/",
     "https://authorservices.springernature.com/springer-nature-author-services-blog/",
     "https://authorservices.springernature.com/about-us/",
-    "https://authorservices.springernature.com/research-promotion/"
+    "https://authorservices.springernature.com/research-promotion/",
+    "https://www.jpl.nasa.gov/about/maps/images/LA_Area-v4-grayCLN.jpg",
+    "https://www.jpl.nasa.gov/about/maps/images/Pasadena_Area-4.jpg",
+    "https://shop.springernature.com/",
+    "https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm",
+    "https://usabilla.com/privacy/",
+    "https://twitter.com/en/privacy",
+    "https://en-gb.facebook.com/policy.php",
+    "https://www.criteo.com/privacy/",
+    "https://solutions.springernature.com/search",
+    "https://solutions.springernature.com/cart",
+    "https://solutions.springernature.com/search",
+    "https://solutions.springernature.com/cart",
+    "https://solutions.springernature.com/cdn/shop/files/HeroCrop2.jpg?v=1730702170",
+    "https://solutions.springernature.com/cdn/shop/files/HeroCrop2.jpg?v=1730702170",
+    "https://solutions.springernature.com/cdn/shop/files/RS-Icons-60x60px-path-to-publication_1_large.png?v=1633609804",
+    "https://solutions.springernature.com/cdn/shop/files/Workflow_Infographic_NoBackground_%7Bwidth%7Dx.png?v=1713362741",
+    "https://www.springernature.com/in/legal/ccpa",
+    "https://www.springernature.com/in/info/accessibility",
+    "https://www.springernature.com/in/legal/imprint/11033518",
+    "https://solutions.springernature.com/blogs/visibility",
+    "https://solutions.springernature.com/collections/all",
+    "https://solutions.springernature.com/cdn/shop/files/logo-springernature-blue_300x.svg?v=1749546953",
+    "https://solutions.springernature.com/pages/about-us",
+    "https://solutions.springernature.com/blogs/visibility",
+    "https://solutions.springernature.com/collections/all"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -7665,147 +7664,75 @@
       "at": "2026-10-25T19:21:15+00:00",
       "status": "ok",
       "hash": "deb0062c0a5e5e135729508b6020504f960f054a0c88ab9fdeaffaf490e219c0"
+    },
+    "https://www.jpl.nasa.gov/about/maps/images/map_SGV_to_JPL.jpg": {
+      "at": "2026-10-25T21:57:08+00:00",
+      "status": "ok",
+      "hash": "46e5eab804d1e824e9e6ca22f7c7a1be9d4c90889fd4bdb25a14f793d74af2ed"
+    },
+    "https://www.jpl.nasa.gov/about/maps/images/map_PASADENA_to_JPL.jpg": {
+      "at": "2026-10-25T21:57:11+00:00",
+      "status": "ok",
+      "hash": "3650ee6c2a19ff77e800f180d10a533870699cea5e792317421eaf040998dbfe"
+    },
+    "https://secure.authorservices.springernature.com/en/researcher/submit/select": {
+      "at": "2026-10-25T21:57:19+00:00",
+      "status": "ok",
+      "hash": "ce670f16d41ed70e27f3d0054b33581a8e36c0046d943d1efed515fba689d523"
+    },
+    "https://secure.authorservices.springernature.com/prices/quote/new": {
+      "at": "2026-10-25T21:57:24+00:00",
+      "status": "ok",
+      "hash": "a467edfa1aaee69ffe8cc17eea53c73dc3543e501f3c58a0375bfe18adc423d2"
+    },
+    "https://solutions.springernature.com/pages/privacy-policy": {
+      "at": "2026-10-25T21:57:30+00:00",
+      "status": "ok",
+      "hash": "c045e63a79dd304030bde8df8f02d62877e04a2b91231211a4911370d9182e2e"
+    },
+    "https://solutions.springernature.com/checkout": {
+      "at": "2026-10-25T21:57:37+00:00",
+      "status": "ok",
+      "hash": "694d74c79aa8afd40091f60cb9fbe82916666ce35a80af79e5c82196369a5f66"
+    },
+    "https://www.linkedin.com/company/springernaturegroup/": {
+      "at": "2026-10-25T21:57:37+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.facebook.com/SpringerNature/": {
+      "at": "2026-10-25T21:57:37+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24836-226.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-400x400-c50_J0FluKn.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_YNyz215.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-sea_ice_quadriptych.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Field_work_1.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26670-NISAR_Views_Seattle.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA04495.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-25T21:57:38+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/e1-pia23684.jpg?w=150&h=150&crop=1",
-      "title": "e1-pia23684.jpg",
-      "summary": "Title: e1-pia23684.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/e1-pia23684.jpg?w=150&h=150&crop=1 Published Time: Sun, 11 Oct 2026 07:12:30 GMT Markdown Content: This image shows a round hazy colored stone with a small circle on an older program window with a white horse",
-      "keywords": [
-        "150",
-        "2026",
-        "e1-pia23684",
-        "jpg",
-        "circle",
-        "colored",
-        "content",
-        "crop",
-        "gmt",
-        "gov",
-        "hazy",
-        "horse",
-        "https",
-        "image"
-      ],
-      "hash": "87aacc9146c8dbd57e94cedc1d2dfe53c30faf951478c4d6979153ee9faa0f18",
-      "learned_at": "2026-10-11T07:12:32+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html",
-      "title": "The Moon",
-      "summary": "Title: The Moon URL Source: https://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html Markdown Content: ![Image 1: Lunar and Planetary Science](https://nssdc.gsfc.nasa.gov/logo/planetary_header.jpg) ## General Information * [Moon Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html) * [Lunar Data Project](https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/) * [Reference Books on the Moon](https://nssdc.gsfc.nasa.gov/planetary/references.html#moon) * [On-line Books about the Moon](https://nssdc.gsfc.nasa.gov/planetary/online_books.html#moon) ## Missions to the Moon ### Current and Past Missions * [Chandrayaan 3](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-098A) - ISRO (Indian) Lunar Lander and Rover (2023) * [SLIM](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2023-137D) - JAXA (Japan) Lunar Lander (2023) * [Luna 25](https://",
-      "keywords": [
-        "nasa",
-        "gov",
-        "gsfc",
-        "https",
-        "lunar",
-        "nssdc",
-        "action",
-        "display",
-        "nmc",
-        "spacecraft",
-        "2022",
-        "moon",
-        "cubesat",
-        "lander"
-      ],
-      "hash": "95fdb1f6b39faf5b1402d57dcd27ce139610e84bb5b465b09807597d76e29cd3",
-      "learned_at": "2026-10-11T07:12:34+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt",
-      "title": "URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt",
-      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt Published Time: Wed, 22 Feb 2023 21:50:45 GMT Markdown Content: !$$SOF (ssd) JPL/Horizons Execution Control VARLIST ! Feb 22, 2023 ! https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt ! !-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- ! ! 1) First line in job (this file) MUST begin !$$SOF ! 2) Last line in job (this file) MUST begin !$$EOF ! 3) Lines in between must be variable assignment, blank, or ! start with ! (for comments) ! 4) Variable assignments should be enclosed in quotes: ! VARIABLE= 'value...' ! 5) Detailed explanation of job submittal is at end of ! this file. ! !-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- ! EMAIL_ADDR sets e-mail address for output return. Enclose ! in quotes. It is recommended to leave this blank and let ! the e-mail system use your from/reply-to address. !",
-      "keywords": [
-        "command",
-        "e-mail",
-        "line",
-        "ssd",
-        "file",
-        "must",
-        "one",
-        "assignment",
-        "commands",
-        "job",
-        "jpl",
-        "selects",
-        "specified",
-        "variable"
-      ],
-      "hash": "0978a8f1bd521f40d7fd4b6818aab4ed233042594d9b13717ca342536348913e",
-      "learned_at": "2026-10-11T07:12:36+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/tools/sbdb_query.html",
-      "title": "Small-Body Database Query",
-      "summary": "Title: Small-Body Database Query URL Source: https://ssd.jpl.nasa.gov/tools/sbdb_query.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#) * [What does SSD do?](https://ssd",
-      "keywords": [
-        "https",
-        "nasa",
-        "ssd",
-        "gov",
-        "jpl",
-        "html",
-        "orbits",
-        "tools",
-        "planets",
-        "sbdb_query",
-        "sats",
-        "ephemerides",
-        "image",
-        "images"
-      ],
-      "hash": "159bb4f3a39b8f1e021338b5c94b70713abf486537cf941631d4ecbf6fd13420",
-      "learned_at": "2026-10-11T07:12:41+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
-      "title": "Earth Fact Sheet",
-      "summary": "Title: Earth Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html Markdown Content: * * * * * * [![Image 1: Earth](https://nssdc.gsfc.nasa.gov/planetary/banner/earth.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/earth.jpg) * * * ### Bulk parameters Mass (1024 kg) 5.9722 Volume (1010 km3) 108.321 Equatorial radius (km) 6378.137 Polar radius (km) 6356.752 Volumetric mean radius (km) 6371.000 Core radius (km) 3485 Ellipticity (Flattening) 0.003353 Mean density (kg/m3) 5513 Surface gravity (mean) (m/s2) 9.820 Surface acceleration (eq) (m/s2) 9.780 Surface acceleration (pole) (m/s2) 9.832 Escape velocity (km/s) 11.186 GM (x 106 km3/s2) 0.39860 Bond albedo 0.294 Geometric albedo 0.434 V-band magnitude V(1,0) -3.99 Solar irradiance (W/m2) 1361.0 Black-body temperature (K) 254.0 Topographic range (km) 20.4 Moment of inertia (I/MR2) 0.3308 J2 (x 10-6) 1082.63 ",
-      "keywords": [
-        "deg",
-        "mean",
-        "orbital",
-        "earth",
-        "surface",
-        "orbit",
-        "radius",
-        "106",
-        "planetary",
-        "velocity",
-        "100",
-        "dipole",
-        "gov",
-        "gsfc"
-      ],
-      "hash": "906f10839c9730c1789c00f10eadedd0bbc9be4dba03aff4e534d4f0190794f4",
-      "learned_at": "2026-10-11T14:06:40+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/",
-      "title": "NGC 7129 Side-by-Side (Spitzer and Webb Image) - NASA Science",
-      "summary": "Title: NGC 7129 Side-by-Side (Spitzer and Webb Image) - NASA Science URL Source: https://science.nasa.gov/asset/webb/ngc-7129-side-by-side-spitzer-and-webb-image/ Published Time: 2026-10-06T08:58:00-04:00 Markdown Content: [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedi",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "image",
-        "images",
-        "multimedia",
-        "webb",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "70cf7d06419bbdb89d9eb308fb6ff79a3cf3ca0c078aa5270d99cef4a2b2c7e1",
-      "learned_at": "2026-10-11T14:06:44+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/images/",
       "title": "NASA JPL Image Gallery – Space Photos & Science",
@@ -21467,6 +21394,144 @@
       ],
       "hash": "deb0062c0a5e5e135729508b6020504f960f054a0c88ab9fdeaffaf490e219c0",
       "learned_at": "2026-10-25T19:21:15+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/about/maps/images/map_SGV_to_JPL.jpg",
+      "title": "map_SGV_to_JPL.jpg",
+      "summary": "Title: map_SGV_to_JPL.jpg URL Source: https://www.jpl.nasa.gov/about/maps/images/map_SGV_to_JPL.jpg Published Time: Wed, 18 Mar 2020 18:48:59 GMT Markdown Content: Below is a screenshot of a map detailing the driving directions from San Gabriel to Oak Grove Dr in the Oval, California, USA",
+      "keywords": [
+        "jpg",
+        "map_sgv_to_jpl",
+        "2020",
+        "below",
+        "california",
+        "content",
+        "detailing",
+        "directions",
+        "driving",
+        "gabriel",
+        "gmt",
+        "gov",
+        "grove",
+        "https"
+      ],
+      "hash": "46e5eab804d1e824e9e6ca22f7c7a1be9d4c90889fd4bdb25a14f793d74af2ed",
+      "learned_at": "2026-10-25T21:57:08+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/about/maps/images/map_PASADENA_to_JPL.jpg",
+      "title": "map_PASADENA_to_JPL.jpg",
+      "summary": "Title: map_PASADENA_to_JPL.jpg URL Source: https://www.jpl.nasa.gov/about/maps/images/map_PASADENA_to_JPL.jpg Published Time: Wed, 18 Mar 2020 18:48:58 GMT Markdown Content: Google map showing driving directions to 4800 Oak Grove Dr",
+      "keywords": [
+        "jpg",
+        "map_pasadena_to_jpl",
+        "2020",
+        "4800",
+        "content",
+        "directions",
+        "driving",
+        "gmt",
+        "google",
+        "gov",
+        "grove",
+        "https",
+        "images",
+        "jpl"
+      ],
+      "hash": "3650ee6c2a19ff77e800f180d10a533870699cea5e792317421eaf040998dbfe",
+      "learned_at": "2026-10-25T21:57:11+00:00"
+    },
+    {
+      "url": "https://secure.authorservices.springernature.com/en/researcher/submit/select",
+      "title": "Submit a manuscript | Nature Research Editing Service",
+      "summary": "Title: Submit a manuscript | Nature Research Editing Service URL Source: https://secure.authorservices.springernature.com/en/researcher/submit/select Markdown Content: * Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. * [Google 1](https://secure.authorservices.springernature.com/en/researcher/submit/select#)[Learn more about this provider![Image 1: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ \"Learn more about this provider Google's privacy policy - opens in a new window\")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personali",
+      "keywords": [
+        "cookie",
+        "http",
+        "provider",
+        "com",
+        "https",
+        "springernature",
+        "learn",
+        "new",
+        "opens",
+        "window",
+        "secure",
+        "submit",
+        "authorservices",
+        "duration"
+      ],
+      "hash": "ce670f16d41ed70e27f3d0054b33581a8e36c0046d943d1efed515fba689d523",
+      "learned_at": "2026-10-25T21:57:19+00:00"
+    },
+    {
+      "url": "https://secure.authorservices.springernature.com/prices/quote/new",
+      "title": "| Nature Research Editing Service",
+      "summary": "Title: | Nature Research Editing Service URL Source: https://secure.authorservices.springernature.com/prices/quote/new Markdown Content: * Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. * [Google 1](https://secure.authorservices.springernature.com/prices/quote/new#)[Learn more about this provider![Image 1: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ \"Learn more about this provider Google's privacy policy - opens in a new window\")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization. **test_cookie**Used to check if th",
+      "keywords": [
+        "new",
+        "provider",
+        "com",
+        "cookie",
+        "http",
+        "https",
+        "learn",
+        "springernature",
+        "opens",
+        "window",
+        "secure",
+        "authorservices",
+        "duration",
+        "maximum"
+      ],
+      "hash": "a467edfa1aaee69ffe8cc17eea53c73dc3543e501f3c58a0375bfe18adc423d2",
+      "learned_at": "2026-10-25T21:57:24+00:00"
+    },
+    {
+      "url": "https://solutions.springernature.com/pages/privacy-policy",
+      "title": "Privacy Policy",
+      "summary": "Title: Privacy Policy URL Source: https://solutions.springernature.com/pages/privacy-policy Published Time: Sat, 24 Oct 2026 02:00:40 GMT Markdown Content: This policy was last updated on 11/11/2020. This is the privacy policy (“policy”) for [Shop.springernature.com/](https://shop.springernature.com/) which is run and provided Springer Customer Service Center LLC, 233 Spring St, New York, NY, 10013 United States (**we, us** and **our**). We can also be contacted at [customerservice@springernature.com](mailto:customerservice@springernature.com). We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have ### I. Summary of our processing activities We publish scholarly journa",
+      "keywords": [
+        "data",
+        "personal",
+        "see",
+        "website",
+        "com",
+        "information",
+        "policy",
+        "springernature",
+        "may",
+        "only",
+        "customer",
+        "processing",
+        "provide",
+        "services"
+      ],
+      "hash": "c045e63a79dd304030bde8df8f02d62877e04a2b91231211a4911370d9182e2e",
+      "learned_at": "2026-10-25T21:57:30+00:00"
+    },
+    {
+      "url": "https://solutions.springernature.com/checkout",
+      "title": "Springer Nature Research Solutions",
+      "summary": "Title: Springer Nature Research Solutions URL Source: https://solutions.springernature.com/checkout Published Time: Fri, 23 Oct 2026 21:29:26 GMT Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://solutions.springernature.com/pages/privacy-policy) for more information on the use of your personal data. Manage preferences for further information and to change your choi",
+      "keywords": [
+        "com",
+        "solutions",
+        "springernature",
+        "https",
+        "checkout",
+        "cart",
+        "cookies",
+        "research",
+        "search",
+        "cdn",
+        "content",
+        "data",
+        "empty",
+        "files"
+      ],
+      "hash": "694d74c79aa8afd40091f60cb9fbe82916666ce35a80af79e5c82196369a5f66",
+      "learned_at": "2026-10-25T21:57:37+00:00"
     }
   ],
   "failures": [
@@ -21567,6 +21632,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-25T21:57:38+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-25T21:57:38+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 1785
+    },
     {
       "at": "2026-10-25T19:21:16+00:00",
       "kind": "core_unchanged",
@@ -22477,29 +22557,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 992
-    },
-    {
-      "at": "2026-10-17T20:59:30+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-17T20:59:30+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 987
     }
   ],
   "metrics": {
-    "successful_fetches": 1010,
+    "successful_fetches": 1016,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 42,
-    "candidate_rejections": 123
+    "candidate_rejections": 124
   },
   "core_genome": {
     "query_weight": 3.0,
