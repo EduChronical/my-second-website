@@ -1,12 +1,15 @@
 {
   "schema": 2,
-  "generation": 177,
-  "core_version": 46,
-  "runs": 176,
-  "pages_learned": 1076,
-  "last_run": "2026-10-27T16:32:31+00:00",
+  "generation": 178,
+  "core_version": 47,
+  "runs": 177,
+  "pages_learned": 1084,
+  "last_run": "2026-10-27T20:55:47+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/general/accessibility/",
+    "https://www.nasa.gov/news/all-nasa-news/",
+    "https://www.nasa.gov/audio-and-ringtones/",
     "https://www.instagram.com/nasaastromaterials/",
     "https://unsplash.com/@thisisengineering",
     "https://www.facebook.com/business/ads/lead-ads",
@@ -57,7 +60,6 @@
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
-    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pyro_still_image.2e16d0ba.fill-400x400-c50.png",
@@ -79,7 +81,12 @@
     "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
     "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
+    "https://www.youtube.com/watch?v=f_sSzn87ljM",
+    "https://www.youtube.com/watch?v=eaSaVanPysA",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
+    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
     "https://datatracker.ietf.org/doc/html/rfc3875",
     "https://datacenter.iers.org/data/16/bulletinc-072.txt",
@@ -253,6 +260,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19664.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/m2msc_Main.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.expita.com/nomime.html",
     "http://www.youronlinechoices.com/uk/opt-out-help",
@@ -264,8 +276,6 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://aa.usno.navy.mil/data/index.php",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
@@ -283,30 +293,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-    "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-    "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-    "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-    "https://www.nasa.gov/news/media-contacts/",
-    "https://www.nasa.gov/news/recently-published/",
-    "https://www.nasa.gov/general/accessibility/",
-    "https://www.nasa.gov/news/all-nasa-news/",
-    "https://www.nasa.gov/audio-and-ringtones/",
-    "https://cneos.jpl.nasa.gov/images/cneos.png",
-    "https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png",
-    "https://www.youtube.com/watch?v=f_sSzn87ljM",
-    "https://www.youtube.com/watch?v=eaSaVanPysA",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-9-the-breaking-point",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-10-saving-galileo",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
     "https://www.jpl.nasa.gov/events/lectures.php",
     "https://stemgateway.nasa.gov/nasaengages/s/",
@@ -1972,7 +1958,27 @@
     "http://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
     "http://ssd.jpl.nasa.gov/tools/sbdb_query.html",
     "http://ssd.jpl.nasa.gov/tools/mdesign.html",
-    "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.6907.jpg"
+    "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.6907.jpg",
+    "https://www.youtube.com/watch?v=Qj_62FWfH78",
+    "https://www.youtube.com/watch?v=4bim5EEwvVI",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-9-the-breaking-point",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-10-saving-galileo",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg?w=300",
+    "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=300",
+    "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=300",
+    "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/news-images/UVEX%20Artists%20Concept_Oct%202026.jpg",
+    "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
+    "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020_th.jpg",
+    "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8287,193 +8293,49 @@
       "at": "2026-10-27T16:35:19+00:00",
       "status": "ok",
       "hash": "4bdc6b535881274ae2576a00d9daef1b28e5e7b093334510ac4da5539ee1a5e9"
+    },
+    "https://cneos.jpl.nasa.gov/images/cneos.png": {
+      "at": "2026-10-27T20:55:49+00:00",
+      "status": "ok",
+      "hash": "f5bf74a437de34e446e16434ced41f7ac58b25061dc1993a3787800f4eef2159"
+    },
+    "https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png": {
+      "at": "2026-10-27T20:55:51+00:00",
+      "status": "ok",
+      "hash": "902a6738d2e1865859f07f15c8faeac277c670f360a62a81f8001f1dc175930c"
+    },
+    "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/": {
+      "at": "2026-10-27T20:55:54+00:00",
+      "status": "ok",
+      "hash": "b6a776f08b02ce8b7e5b188371fc570ad4195dfce933401220b02e2e5fbd4fc7"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams": {
+      "at": "2026-10-27T20:56:00+00:00",
+      "status": "ok",
+      "hash": "293654eecf8b058af16ae15c870ff14f0dd8ff62077225ea0a408f93a5be88b1"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager": {
+      "at": "2026-10-27T20:56:03+00:00",
+      "status": "ok",
+      "hash": "d9d1d2f4a92f0a18af6a4815861238cc503a5e9036881395213f8217f3efdba6"
+    },
+    "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/": {
+      "at": "2026-10-27T20:56:04+00:00",
+      "status": "ok",
+      "hash": "57c1bf76cddf87be7857d945dce6fbf9b1deea5d4d428703e2bd37bc9918d90e"
+    },
+    "https://www.nasa.gov/news/media-contacts/": {
+      "at": "2026-10-27T20:56:05+00:00",
+      "status": "ok",
+      "hash": "53fb585a9910ca5098dabc9c8926ca538a81b1ba0dbf7626827ce9892775ed5b"
+    },
+    "https://www.nasa.gov/news/recently-published/": {
+      "at": "2026-10-27T20:56:08+00:00",
+      "status": "ok",
+      "hash": "57a055d05463b077613f86b28f9e231e976c6669806a0cc9c682fa644a6ad1f8"
     }
   },
   "memory": [
-    {
-      "url": "https://jpl.nasa.gov/topics/earth/",
-      "title": "Earth Science | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Earth Science | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/earth/ Markdown Content: As residents of planet Earth, every one of us benefits from NASA research that has expanded our collective knowledge dramatically. These studies help us learn how Earth's land, oceans, and atmosphere work separately and in concert, and how they directly affect our lives. Armed with sophisticated instruments on the ground, in the seas, in the air, and in space, NASA gathers images and data that help with real-world applications that include developing weather forecasts, climate trends, shipping routes, and disaster recovery plans. For example, because two-thirds of our planet is covered by water, tracking the movement of water is vital to monitoring the health of people and ecosystems. Too much water, or too little, can wreak havoc by leading to floods or droughts. ",
-      "keywords": [
-        "earth",
-        "nasa",
-        "water",
-        "instrument",
-        "data",
-        "during",
-        "help",
-        "jpl",
-        "space",
-        "affect",
-        "air",
-        "areas",
-        "california",
-        "disaster"
-      ],
-      "hash": "f8e813b8c4eabf270d0a0bad71a4346ed5ef16da38bd698be606d4e289c4a0a0",
-      "learned_at": "2026-10-13T20:21:40+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/topics/mars/",
-      "title": "At Work on Mars | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: At Work on Mars | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/mars/ Markdown Content: For more than half a century, NASA's fleet of increasingly sophisticated orbiters, landers, and rovers has helped us transform science fiction into reality, enabling us to piece together detailed information about Mars, our nearest planetary neighbor. These robotic explorers have revealed details of the Red Planet’s diverse surface, atmosphere, and weather, the presence of water in its past, and its potential for life through the ages and for astronauts in the future. JPL has played a pivotal role in this exploration, starting when the first successful spacecraft, Mariner 4, completed the first Mars flyby in 1965, and in 1976, when two Viking landers successfully touched down on the Martian surface. The era of Mars rovers opened when Mars Pathfinder and its Sojour",
-      "keywords": [
-        "mars",
-        "jpl",
-        "life",
-        "planet",
-        "future",
-        "learn",
-        "nasa",
-        "own",
-        "rovers",
-        "science",
-        "surface",
-        "1997",
-        "climate",
-        "explorers"
-      ],
-      "hash": "c3a1e861ef079f619f349609fb8149360b6760f2674f0bec3375c1e99847d467",
-      "learned_at": "2026-10-13T20:21:44+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/",
-      "title": "Next Five Asteroid Approaches",
-      "summary": "Title: Next Five Asteroid Approaches URL Source: https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/ Markdown Content: [](https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3: This view of asteroid Bennu ejecting particles from its surface on Jan. 6, 2019, was created by combining two images ",
-      "keywords": [
-        "https",
-        "jpl",
-        "nasa",
-        "gov",
-        "www",
-        "image",
-        "images",
-        "2026",
-        "asteroid",
-        "asteroid-watch",
-        "000",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t"
-      ],
-      "hash": "f925032fa2e1feb763601efd23d66b979a361dafdb80ed6056a67ab1e7d26b6a",
-      "learned_at": "2026-10-13T20:21:47+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp",
-      "title": "Public FTP File Browser",
-      "summary": "Title: Public FTP File Browser URL Source: https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/planets/bsp#main_content) ## Public FTP File Browser ### Index of /ftp/eph/planets/bsp/ | Name | Last Modified | Size | Type | | --- | --- | --- | --- | | [Parent Directory](https://ssd.jpl.nasa.gov/ftp/eph/)/ | | - | Directory | | [README.txt](https://ssd.jpl.nasa.gov/ftp/eph/planets/README.txt) | 2021-01-20 18:38 | 3.8K | File | | [TTmTDB.de430.19feb2015.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/TTmTDB.de430.19feb2015.bsp) | 2015-09-10 17:22 | 31.4M | File | | [de102.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp) | 2011-03-24 01:30 | 228.1M | File | | [de200.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp) | 2011-03-18 01:03 | 54.2M | File | | [de202.bsp](https://ssd.jpl.nasa.gov/ftp/eph/planets/de202.bsp) | 2",
-      "keywords": [
-        "bsp",
-        "ftp",
-        "eph",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "planets",
-        "ssd",
-        "file",
-        "2011-03-18",
-        "---",
-        "2000-10-10",
-        "19feb2015"
-      ],
-      "hash": "fd54abebe2392aee23e660f77e7baa74fdf34c2c54d20b2cbd0791d355260e51",
-      "learned_at": "2026-10-13T20:21:52+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/orbits_doc.html",
-      "title": "Description of Orbits and Ephemerides",
-      "summary": "Title: Description of Orbits and Ephemerides URL Source: https://ssd.jpl.nasa.gov/orbits_doc.html Markdown Content: ## Background Since objects in the solar system are constantly moving with respect to (and gravitationally pulling on) one another, a reference frame and system of time-keeping must first be adopted to describe and organize all this motion. We adopt the International Celestial Reference Frame (ICRF), a three-dimensional cartesian (x,y,z) system whose three basis axes are defined relative to over 4500+ remote radio sources, mostly quasars. These objects are so far across the universe from Earth, they have no apparent angular motion themselves, so serve as fixed beacons in the sky. For time-keeping, we adopt the Barycentric Dynamical timescale (TDB), a uniform free-flowing coordinate timescale in the solar system barycentric frame consistent with General Relativity (GR). This",
-      "keywords": [
-        "other",
-        "each",
-        "system",
-        "objects",
-        "motion",
-        "moving",
-        "object",
-        "dimensions",
-        "does",
-        "frame",
-        "mass",
-        "sheet",
-        "solar",
-        "spacetime"
-      ],
-      "hash": "30d95348282d74f944ca3bfb26072ec08067443b307f2c4d05bfee19c3fe182a",
-      "learned_at": "2026-10-13T20:21:55+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/",
-      "title": "Mars Science Objectives",
-      "summary": "Title: Mars Science Objectives URL Source: https://science.nasa.gov/planetary-science/programs/mars-exploration/mars-science-objectives/ Published Time: 2026-10-09T14:04:25-04:00 Markdown Content: ## Mars Exploration Science As we develop a more robust understanding of the Martian environment, the science activities of NASA's Mars Exploration Program (MEP) are adapting to meet the challenges and ambitions of exploring a demonstrably habitable planet. While the core science themes of the MEP remain unchanged, agency planning for future human exploration of Mars puts increased focus on issues of planetary protection and preparation for human arrival. These issues are cross-cutting across many of the science objectives derived from the following science themes: * Life and Habitability * Ice, Weather, and Climate * Geology The MEP has synthesized and reframed a wide range of Mars science inp",
-      "keywords": [
-        "science",
-        "mars",
-        "exploration",
-        "objectives",
-        "each",
-        "habitability",
-        "https",
-        "human",
-        "life",
-        "mep",
-        "nasa",
-        "objective",
-        "planetary",
-        "future"
-      ],
-      "hash": "e5c46ca43adbc197f9aaa83a1aef530e702352736d4f67f224df34d3bd0febc7",
-      "learned_at": "2026-10-13T20:21:57+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/",
-      "title": "Hubble Watches How a Giant Planet Grows - NASA Science",
-      "summary": "Title: Hubble Watches How a Giant Planet Grows - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-watches-how-a-giant-planet-grows/ Published Time: 2021-04-29T11:00:00-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "071398b47d6d69a19d2744910cc596be605fcdf5af781d85e85a368ca4c33060",
-      "learned_at": "2026-10-13T20:22:05+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/",
-      "title": "Hubble Finds a Planet Forming in an Unconventional Way - NASA Science",
-      "summary": "Title: Hubble Finds a Planet Forming in an Unconventional Way - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-finds-a-planet-forming-in-an-unconventional-way/ Published Time: 2022-04-04T11:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "1a445a530e37ed07b45e6fa35712d3c523376900a412a60b5b9e0aba355979c8",
-      "learned_at": "2026-10-13T23:47:25+00:00"
-    },
     {
       "url": "https://science.nasa.gov/?search=Roman",
       "title": "NASA Science Articles & Stories - NASA Science",
@@ -22089,6 +21951,190 @@
       ],
       "hash": "4bdc6b535881274ae2576a00d9daef1b28e5e7b093334510ac4da5539ee1a5e9",
       "learned_at": "2026-10-27T16:35:19+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/images/cneos.png",
+      "title": "cneos.png",
+      "summary": "Title: cneos.png URL Source: https://cneos.jpl.nasa.gov/images/cneos.png Published Time: Thu, 08 Jan 2026 22:17:45 GMT Markdown Content: A 215x46 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "cneos",
+        "png",
+        "2026",
+        "215x46",
+        "avatar",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "jan",
+        "jpl"
+      ],
+      "hash": "f5bf74a437de34e446e16434ced41f7ac58b25061dc1993a3787800f4eef2159",
+      "learned_at": "2026-10-27T20:55:49+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png",
+      "title": "cneos_title_stacked.png",
+      "summary": "Title: cneos_title_stacked.png URL Source: https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png Published Time: Thu, 08 Jan 2026 22:17:46 GMT Markdown Content: This is a blank image or an empty canvas with no content, dimension, or context",
+      "keywords": [
+        "cneos_title_stacked",
+        "content",
+        "png",
+        "2026",
+        "blank",
+        "canvas",
+        "cneos",
+        "context",
+        "dimension",
+        "empty",
+        "gmt",
+        "gov",
+        "https",
+        "image"
+      ],
+      "hash": "902a6738d2e1865859f07f15c8faeac277c670f360a62a81f8001f1dc175930c",
+      "learned_at": "2026-10-27T20:55:51+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "title": "APOD: 2026 October 18 - Sonified: Eagle Nebula Pillars - NASA Science",
+      "summary": "Title: APOD: 2026 October 18 - Sonified: Eagle Nebula Pillars - NASA Science URL Source: https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/ Published Time: 2026-10-18T00:05:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.na",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "b6a776f08b02ce8b7e5b188371fc570ad4195dfce933401220b02e2e5fbd4fc7",
+      "learned_at": "2026-10-27T20:55:54+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams",
+      "title": "Episode 5: The Stuff of Dreams",
+      "summary": "Title: Episode 5: The Stuff of Dreams URL Source: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Who We Are](https://www.jpl.nasa.gov",
+      "keywords": [
+        "jpl",
+        "https",
+        "www",
+        "nasa",
+        "gov",
+        "who-we-are",
+        "news",
+        "missions",
+        "documentary-series-jpl-and-the-space-age",
+        "topics",
+        "documentary",
+        "episode",
+        "mission_status",
+        "series"
+      ],
+      "hash": "293654eecf8b058af16ae15c870ff14f0dd8ff62077225ea0a408f93a5be88b1",
+      "learned_at": "2026-10-27T20:56:00+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager",
+      "title": "Episode 6: The Footsteps of Voyager | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Episode 6: The Footsteps of Voyager | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-col",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "who-we-are",
+        "missions",
+        "news",
+        "documentary-series-jpl-and-the-space-age",
+        "topics",
+        "documentary",
+        "episode",
+        "footsteps",
+        "mission_status"
+      ],
+      "hash": "d9d1d2f4a92f0a18af6a4815861238cc503a5e9036881395213f8217f3efdba6",
+      "learned_at": "2026-10-27T20:56:03+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+      "title": "Autumn Paints Poland's Bieszczady Mountains - NASA Science",
+      "summary": "Title: Autumn Paints Poland's Bieszczady Mountains - NASA Science URL Source: https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/ Published Time: 2026-10-19T00:01:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/so",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "earth",
+        "image",
+        "plus",
+        "podcasts",
+        "resources"
+      ],
+      "hash": "57c1bf76cddf87be7857d945dce6fbf9b1deea5d4d428703e2bd37bc9918d90e",
+      "learned_at": "2026-10-27T20:56:04+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "summary": "Title: NASA Media Contacts - NASA URL Source: https://www.nasa.gov/news/media-contacts/ Published Time: 2023-06-29T14:53:17-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https:/",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "media",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "53fb585a9910ca5098dabc9c8926ca538a81b1ba0dbf7626827ce9892775ed5b",
+      "learned_at": "2026-10-27T20:56:05+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "summary": "Title: All NASA News - NASA URL Source: https://www.nasa.gov/news/recently-published/ Published Time: 2023-06-30T08:59:39-04:00 Markdown Content: ## Recently Published Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. [![Image 1](https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300)](https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/) [NASA Invites Media to Crew Completion of Yearlong Mars Simulation](https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/) 3 min read The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center… News Release [![Image 2",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "2026",
+        "image",
+        "science",
+        "uvex",
+        "blogs",
+        "jpg",
+        "min",
+        "read",
+        "space",
+        "300"
+      ],
+      "hash": "57a055d05463b077613f86b28f9e231e976c6669806a0cc9c682fa644a6ad1f8",
+      "learned_at": "2026-10-27T20:56:08+00:00"
     }
   ],
   "failures": [
@@ -22189,6 +22235,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-27T20:56:09+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v47",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-10-27T20:56:09+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 14,
+      "frontier": 1972
+    },
     {
       "at": "2026-10-27T16:35:19+00:00",
       "kind": "core_unchanged",
@@ -23099,28 +23171,13 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 1212
-    },
-    {
-      "at": "2026-10-19T01:48:51+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-19T01:48:51+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 24,
-      "frontier": 1207
     }
   ],
   "metrics": {
-    "successful_fetches": 1076,
+    "successful_fetches": 1084,
     "failed_fetches": 19,
     "duplicate_pages": 2,
-    "candidate_promotions": 45,
+    "candidate_promotions": 46,
     "candidate_rejections": 130
   },
   "core_genome": {
@@ -23153,11 +23210,11 @@
     "ssd.jpl.nasa.gov",
     "www.nature.com",
     "www.springernature.com",
-    "naif.jpl.nasa.gov",
     "science.nasa.gov",
+    "svs.gsfc.nasa.gov",
     "jpl.nasa.gov",
-    "www.sebi.gov.in",
+    "naif.jpl.nasa.gov",
     "nssdc.gsfc.nasa.gov",
-    "svs.gsfc.nasa.gov"
+    "assets.science.nasa.gov"
   ]
 }
