@@ -1,15 +1,12 @@
 {
   "schema": 2,
-  "generation": 178,
+  "generation": 179,
   "core_version": 47,
-  "runs": 177,
-  "pages_learned": 1084,
-  "last_run": "2026-10-27T20:55:47+00:00",
+  "runs": 178,
+  "pages_learned": 1092,
+  "last_run": "2026-10-28T00:20:17+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/general/accessibility/",
-    "https://www.nasa.gov/news/all-nasa-news/",
-    "https://www.nasa.gov/audio-and-ringtones/",
     "https://www.instagram.com/nasaastromaterials/",
     "https://unsplash.com/@thisisengineering",
     "https://www.facebook.com/business/ads/lead-ads",
@@ -265,6 +262,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.expita.com/nomime.html",
     "http://www.youronlinechoices.com/uk/opt-out-help",
@@ -293,20 +291,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
-    "https://www.jpl.nasa.gov/events/lectures.php",
-    "https://stemgateway.nasa.gov/nasaengages/s/",
-    "https://cneos.jpl.nasa.gov/risk/intro.html",
-    "https://cneos.jpl.nasa.gov/risk/intro.html",
-    "https://cneos.jpl.nasa.gov/scout/",
-    "https://cneos.jpl.nasa.gov/pd/",
-    "https://cneos.jpl.nasa.gov/pd/",
-    "https://cneos.jpl.nasa.gov/nda/",
-    "https://cneos.jpl.nasa.gov/pd/cs/",
-    "https://cneos.jpl.nasa.gov/stats/totals.html",
-    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices",
-    "https://ssd-api.jpl.nasa.gov/",
-    "https://cneos.jpl.nasa.gov/nhats/caveats.html",
     "https://cneos.jpl.nasa.gov/nhats/intro.html",
     "https://www.nasa.gov/wp-content/uploads/2023/11/1-yukondelta-usfws.webp?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/05/greetings-exoplanet-poster.png?w=826",
@@ -1978,7 +1962,56 @@
     "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
     "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020_th.jpg",
-    "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/"
+    "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+    "https://cneos.jpl.nasa.gov/sentry/intro.html",
+    "https://cneos.jpl.nasa.gov/scout/intro.html",
+    "https://cneos.jpl.nasa.gov/sentry/intro.html",
+    "http://www.minorplanetcenter.net/",
+    "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
+    "https://cneos.jpl.nasa.gov/stats/size.html",
+    "https://cneos.jpl.nasa.gov/stats/site_all.html",
+    "https://cneos.jpl.nasa.gov/stats/site_140.html",
+    "https://cneos.jpl.nasa.gov/stats/site_km.html",
+    "https://cneos.jpl.nasa.gov/stats/wise.html",
+    "https://cneos.jpl.nasa.gov/tools/",
+    "https://cneos.jpl.nasa.gov/tools/ast_size_est.html",
+    "https://cneos.jpl.nasa.gov/extras.html",
+    "https://cneos.jpl.nasa.gov/pd/",
+    "https://cneos.jpl.nasa.gov/pd/",
+    "https://cneos.jpl.nasa.gov/nda/",
+    "https://cneos.jpl.nasa.gov/pd/cs/",
+    "https://cneos.jpl.nasa.gov/stats/totals.html",
+    "https://cneos.jpl.nasa.gov/nhats/caveats.html",
+    "https://www.jpl.nasa.gov/images/lecture-540.jpg",
+    "https://www.jpl.nasa.gov/images/lectures-540b.jpg",
+    "https://www.jpl.nasa.gov/images/lectures-540c.jpg",
+    "https://ssd-api.jpl.nasa.gov/doc/fireball.html",
+    "https://ssd-api.jpl.nasa.gov/doc/horizons_lookup.html",
+    "https://ssd-api.jpl.nasa.gov/doc/cad.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sb_sat.html",
+    "https://ssd-api.jpl.nasa.gov/doc/scout.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sentry.html",
+    "http://www.json.org/",
+    "http://www.json.org/",
+    "https://api.nasa.gov/",
+    "https://api.nasa.gov/](https://api.nasa.gov/).",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=1024",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=300",
+    "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg?w=300",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+    "https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=300",
+    "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=300",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/blogs/2026/GoldMountain.png",
+    "https://science.nasa.gov/blogs/notes-from-the-field/2026/10/27/adventures-in-wildfire-smoke-stratospheric-ballooning/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
+    "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg",
+    "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+    "https://www.nasa.gov/audio-and-ringtones/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8333,193 +8366,49 @@
       "at": "2026-10-27T20:56:08+00:00",
       "status": "ok",
       "hash": "57a055d05463b077613f86b28f9e231e976c6669806a0cc9c682fa644a6ad1f8"
+    },
+    "https://cneos.jpl.nasa.gov/risk/intro.html": {
+      "at": "2026-10-28T00:20:20+00:00",
+      "status": "ok",
+      "hash": "66f1e90520a4fef981a9748ece36d6d7cf48ee79176ae329f6d929f8dc9d0354"
+    },
+    "https://cneos.jpl.nasa.gov/scout/": {
+      "at": "2026-10-28T00:20:22+00:00",
+      "status": "ok",
+      "hash": "a544d53893a557b11befd9e397012dcb932ff6eb88b051d52949a76c4518d53f"
+    },
+    "https://www.jpl.nasa.gov/events/lectures.php": {
+      "at": "2026-10-28T00:20:26+00:00",
+      "status": "ok",
+      "hash": "6c8b408084e1e6f214ef34d8b93f1a5a3befa7bfe5ea57d25320549db7acd08c"
+    },
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices": {
+      "at": "2026-10-28T00:20:29+00:00",
+      "status": "ok",
+      "hash": "980e40499a478c17152b75fcc1607633e90c1dbfd975e676797e34fb9244e295"
+    },
+    "https://ssd-api.jpl.nasa.gov/": {
+      "at": "2026-10-28T00:20:31+00:00",
+      "status": "ok",
+      "hash": "be80956953e93ac27bcfd310e09a657703b190b9738f60c4e906d4dbb66aa79e"
+    },
+    "https://www.nasa.gov/general/accessibility/": {
+      "at": "2026-10-28T00:20:32+00:00",
+      "status": "ok",
+      "hash": "c4671635d81a9b2fde451284eb2260ea30b629d5b69809566beb66d976627bb7"
+    },
+    "https://www.nasa.gov/news/all-nasa-news/": {
+      "at": "2026-10-28T00:20:38+00:00",
+      "status": "ok",
+      "hash": "2f3b860df8b689ddc009c8f0511bf3313f5c116684c5089aaae5dbe28e423637"
+    },
+    "https://stemgateway.nasa.gov/nasaengages/s/": {
+      "at": "2026-10-28T00:20:54+00:00",
+      "status": "ok",
+      "hash": "fd42e6a867fc4a32f105801b60e9a565f2aac58e9956e0ee1e6612cbbc844654"
     }
   },
   "memory": [
-    {
-      "url": "https://science.nasa.gov/?search=Roman",
-      "title": "NASA Science Articles & Stories - NASA Science",
-      "summary": "Title: NASA Science Articles & Stories - NASA Science URL Source: https://science.nasa.gov/?search=Roman Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimedia",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "events",
-        "image",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "45f10ba6c00a9c20a585c8ef54b365ce9c137fe2f0387709099e0943cad26493",
-      "learned_at": "2026-10-13T23:47:28+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg?w=1024",
-      "title": "spacex-35.jpg",
-      "summary": "Title: spacex-35.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg?w=1024 Published Time: Tue, 13 Oct 2026 23:47:30 GMT Markdown Content: The NASA Discovery Cube has the SpaceX Dragon Module hatch openแปลง",
-      "keywords": [
-        "2026",
-        "jpg",
-        "nasa",
-        "spacex-35",
-        "1024",
-        "content",
-        "cube",
-        "discovery",
-        "dragon",
-        "gmt",
-        "gov",
-        "hatch",
-        "https",
-        "markdown"
-      ],
-      "hash": "474a004c2fcb36c3e1daf337ea3bdcd5dd4afbc725c7cd168fe7b0ad03b95f0f",
-      "learned_at": "2026-10-13T23:47:32+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/e1-pia23684.jpg?w=1024",
-      "title": "e1-pia23684.jpg",
-      "summary": "Title: e1-pia23684.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/e1-pia23684.jpg?w=1024 Published Time: Sun, 11 Oct 2026 19:14:52 GMT Markdown Content: A reddish planet in the space in the form of cloud",
-      "keywords": [
-        "2026",
-        "e1-pia23684",
-        "jpg",
-        "1024",
-        "cloud",
-        "content",
-        "form",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "oct",
-        "planet"
-      ],
-      "hash": "d7f39a9925abd0ee2be459b6c4673ea97e23639bc4329b03a8ed4b2d41cfd8e2",
-      "learned_at": "2026-10-13T23:47:35+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg",
-      "title": "logo-tribrand-outline.dJHJgslS.svg",
-      "summary": "Title: logo-tribrand-outline.dJHJgslS.svg URL Source: https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg Published Time: Fri, 09 Oct 2026 02:28:12 GMT Markdown Content: Light grey layout with white text, NASA at top and below",
-      "keywords": [
-        "djhjgsls",
-        "logo-tribrand-outline",
-        "nasa",
-        "svg",
-        "2026",
-        "_nuxt",
-        "below",
-        "content",
-        "fri",
-        "gmt",
-        "gov",
-        "grey",
-        "https",
-        "jpl"
-      ],
-      "hash": "e1b82c9f476fc44357189b833cd07f90eeb6df566c2b3b2a43525bd5beaad309",
-      "learned_at": "2026-10-13T23:47:37+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/internships/",
-      "title": "Explore Programs & Apply – JPL Internships | NASA JPL Education",
-      "summary": "Title: Explore Programs & Apply – JPL Internships | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/ Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 3: JPL Logo](https://www.jpl.nasa.",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "edu",
-        "internships",
-        "apply",
-        "---",
-        "program",
-        "image",
-        "programs",
-        "_nuxt",
-        "academic"
-      ],
-      "hash": "6a9704f3932dbaa3b637ac2c00585400924b3ed9859abe95b049048c24dfaf69",
-      "learned_at": "2026-10-13T23:47:41+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html",
-      "title": "Planetary Fact Sheet",
-      "summary": "Title: Planetary Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/index.html Markdown Content: * * * * * * **[MERCURY](https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html)****[VENUS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html)****[EARTH](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)****[MOON](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html)****[MARS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)****[JUPITER](https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html)****[SATURN](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html)****[URANUS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html)****[NEPTUNE](https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html)****[PLUTO](https://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html)** **[Mass]",
-      "keywords": [
-        "planetary",
-        "factsheet",
-        "gov",
-        "gsfc",
-        "html",
-        "https",
-        "nasa",
-        "nssdc",
-        "planetfact_notes",
-        "108",
-        "687",
-        "hours",
-        "mass",
-        "peri"
-      ],
-      "hash": "16c81fe52a1ec608cc19c1c12fcc3b67dc41a3ebb89da5e5d9550f3d8fc426ce",
-      "learned_at": "2026-10-13T23:47:43+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html",
-      "title": "Planetary Fact Sheet - U.S. Units",
-      "summary": "Title: Planetary Fact Sheet - U.S. Units URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html Markdown Content: **[MERCURY](https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html)****[VENUS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html)****[EARTH](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)****[MOON](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html)****[MARS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)****[JUPITER](https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html)****[SATURN](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html)****[URANUS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html)****[NEPTUNE](https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html)****[PLUTO](https://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.",
-      "keywords": [
-        "planetary",
-        "factsheet",
-        "gov",
-        "gsfc",
-        "html",
-        "https",
-        "nasa",
-        "nssdc",
-        "planetfact_notes",
-        "miles",
-        "hours",
-        "mass",
-        "peri",
-        "period"
-      ],
-      "hash": "516cf5cd74f09c99016b110f8c713249fd42b2ae3b7fbbce231559c4a37cc794",
-      "learned_at": "2026-10-13T23:47:55+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html",
-      "title": "Planetary Fact Sheet - Ratio to Earth",
-      "summary": "Title: Planetary Fact Sheet - Ratio to Earth URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html Markdown Content: * * * * * * **[MERCURY](https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html)****[VENUS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html)****[EARTH](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)****[MOON](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html)****[MARS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)****[JUPITER](https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html)****[SATURN](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html)****[URANUS](https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html)****[NEPTUNE](https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html)****[PLUTO](https://nssdc.gsfc.nasa.gov/planetary/factsh",
-      "keywords": [
-        "planetary",
-        "factsheet",
-        "gov",
-        "gsfc",
-        "html",
-        "https",
-        "nasa",
-        "nssdc",
-        "planetfact_ratio_notes",
-        "116",
-        "241",
-        "earth",
-        "mass",
-        "peri"
-      ],
-      "hash": "a1ec05df58ef95edc3a34215aecef4b83fe514711fdc8a362aa4dd5f98514112",
-      "learned_at": "2026-10-14T02:13:18+00:00"
-    },
     {
       "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html",
       "title": "Sun Fact Sheet",
@@ -22135,6 +22024,190 @@
       ],
       "hash": "57a055d05463b077613f86b28f9e231e976c6669806a0cc9c682fa644a6ad1f8",
       "learned_at": "2026-10-27T20:56:08+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/risk/intro.html",
+      "title": "Impact Risk: Introduction",
+      "summary": "Title: Impact Risk: Introduction URL Source: https://cneos.jpl.nasa.gov/risk/intro.html Markdown Content: To assess whether a given NEO can impact the Earth, we must do more than compute an orbit and predict how close that orbit comes to Earth. Because orbit computations are based on imperfect data, each asteroid will have a range possible orbits that match the observed sky positions. CNEOS designed the [Sentry](https://cneos.jpl.nasa.gov/sentry/intro.html) impact monitoring system to analyze the full range of possible orbits for each NEO, searching for potential Earth close approaches over the next 100 years and calculating the probability of impact for each. The results are tabulated on the [Sentry Risk Page](https://cneos.jpl.nasa.gov/sentry/). The [Scout](https://cneos.jpl.nasa.gov/scout/intro.html) impact hazard assessment system operates on a different set of objects, the unconfirm",
+      "keywords": [
+        "cneos",
+        "gov",
+        "https",
+        "impact",
+        "jpl",
+        "nasa",
+        "sentry",
+        "scout",
+        "earth",
+        "html",
+        "neo",
+        "risk",
+        "each",
+        "intro"
+      ],
+      "hash": "66f1e90520a4fef981a9748ece36d6d7cf48ee79176ae329f6d929f8dc9d0354",
+      "learned_at": "2026-10-28T00:20:20+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/scout/",
+      "title": "Scout: NEOCP Hazard Assessment",
+      "summary": "Title: Scout: NEOCP Hazard Assessment URL Source: https://cneos.jpl.nasa.gov/scout/ Markdown Content: [Skip Navigation](https://cneos.jpl.nasa.gov/scout/#main_content) ![Image 1: CNEOS Banner](https://cneos.jpl.nasa.gov/images/cneos_banner.png) [![Image 2: NASA](https://cneos.jpl.nasa.gov/images/logo_nasa.png)](https://www.nasa.gov/ \"NASA\") [![Image 3: JPL](https://cneos.jpl.nasa.gov/images/jpl-top.png)](https://www.jpl.nasa.gov/ \"JPL\") [![Image 4: Caltech](https://cneos.jpl.nasa.gov/images/cal-tech-bottom.png)](https://www.caltech.edu/ \"Caltech\") [![Image 5: CNEOS](https://cneos.jpl.nasa.gov/images/cneos.png)](https://cneos.jpl.nasa.gov/ \"CNEOS\") [![Image 6: CNEOS Title](https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png)](https://cneos.jpl.nasa.gov/ \"CNEOS\") [Home](https://cneos.jpl.nasa.gov/) * [About](https://cneos.jpl.nasa.gov/about/)[Center for NEO Studies](https://cneos.jpl",
+      "keywords": [
+        "nasa",
+        "cneos",
+        "https",
+        "gov",
+        "jpl",
+        "html",
+        "image",
+        "images",
+        "png",
+        "stats",
+        "intro",
+        "introduction",
+        "neo",
+        "scout"
+      ],
+      "hash": "a544d53893a557b11befd9e397012dcb932ff6eb88b051d52949a76c4518d53f",
+      "learned_at": "2026-10-28T00:20:22+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/events/lectures.php",
+      "title": "von Kármán Lecture Series",
+      "summary": "Title: von Kármán Lecture Series URL Source: https://www.jpl.nasa.gov/events/lectures.php Markdown Content: ![Image 1: The von Kármán Lecture Series](https://www.jpl.nasa.gov/images/lecture-540.jpg)![Image 2: The von Kármán Lecture Series](https://www.jpl.nasa.gov/images/lectures-540b.jpg)![Image 3: The von Kármán Lecture Series](https://www.jpl.nasa.gov/images/lectures-540c.jpg) ### General Information JPL’s Theodore von Kármán Lecture Series, presented by the Communications and Education Directorate, aims to bring the excitement of JPL’s missions, instruments and other technologies to an audience of both JPL employees and the general public. Due to the ongoing circumstances concerning Coronavirus Disease 2019 (COVID-19) and guidance from the Centers for Disease Control and Prevention (CDC), the von Karman series has become, for the time being, a completely virtual event, taking place o",
+      "keywords": [
+        "jpl",
+        "lecture",
+        "series",
+        "von",
+        "kármán",
+        "gov",
+        "https",
+        "nasa",
+        "www",
+        "image",
+        "images",
+        "jpg",
+        "time",
+        "any"
+      ],
+      "hash": "6c8b408084e1e6f214ef34d8b93f1a5a3befa7bfe5ea57d25320549db7acd08c",
+      "learned_at": "2026-10-28T00:20:26+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices",
+      "title": "Caltech/JPL Privacy Policies and Important Notices | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Caltech/JPL Privacy Policies and Important Notices | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices Markdown Content: Unless otherwise noted, Web sites in the domain **jpl.nasa.gov** are managed by the California Institute of Technology in support of the missions and research programs that its Jet Propulsion Laboratory conducts for NASA. This document describes Caltech/JPL's policies on privacy, security, accessibility, linking and copyright. ### **Privacy Policy** This notice provides Caltech/JPL's policy regarding the nature, purpose, use and sharing of any information collected via Web sites in the jpl.nasa.gov domain. NASA's privacy policy is located [here](http://www.nasa.gov/about/highlights/HP_Privacy.html). The information you provide on a Caltech/JPL Web site will be used only for its intended pu",
+      "keywords": [
+        "information",
+        "jpl",
+        "caltech",
+        "nasa",
+        "privacy",
+        "act",
+        "collected",
+        "gov",
+        "provide",
+        "email",
+        "may",
+        "notice",
+        "policy",
+        "purpose"
+      ],
+      "hash": "980e40499a478c17152b75fcc1607633e90c1dbfd975e676797e34fb9244e295",
+      "learned_at": "2026-10-28T00:20:29+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/",
+      "title": "SSD/CNEOS API Server",
+      "summary": "Title: SSD/CNEOS API Server URL Source: https://ssd-api.jpl.nasa.gov/ Markdown Content: ## JPL SSD/CNEOS API Service Welcome to JPL’s [SSD](https://ssd.jpl.nasa.gov/) (Solar System Dynamics) and [CNEOS](https://cneos.jpl.nasa.gov/) (Center for Near-Earth Object Studies) API (Application Program Interface) service. This service provides an interface to machine-readable data ([JSON](http://www.json.org/)-format) related to [SSD](https://ssd.jpl.nasa.gov/) and [CNEOS](https://cneos.jpl.nasa.gov/). ## SSD API Service - Fair Use Policy * You agree to limit requests to those reasonably necessary for your application or use case. Automated processes must not make unnecessarily frequent, repetitive, or redundant requests. Where practical, applications should cache and reuse results rather than repeatedly requesting unchanged or predictably changing data. * You agree to submit _only_ one API requ",
+      "keywords": [
+        "jpl",
+        "api",
+        "nasa",
+        "ssd",
+        "cneos",
+        "gov",
+        "https",
+        "data",
+        "service",
+        "use",
+        "apis",
+        "available",
+        "json",
+        "requests"
+      ],
+      "hash": "be80956953e93ac27bcfd310e09a657703b190b9738f60c4e906d4dbb66aa79e",
+      "learned_at": "2026-10-28T00:20:31+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/general/accessibility/",
+      "title": "Accessibility",
+      "summary": "Title: Accessibility URL Source: https://www.nasa.gov/general/accessibility/ Published Time: 2023-07-25T09:31:45-04:00 Markdown Content: [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.g",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "accessibility"
+      ],
+      "hash": "c4671635d81a9b2fde451284eb2260ea30b629d5b69809566beb66d976627bb7",
+      "learned_at": "2026-10-28T00:20:32+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/news/all-nasa-news/",
+      "title": "All NASA News - NASA",
+      "summary": "Title: All NASA News - NASA URL Source: https://www.nasa.gov/news/all-nasa-news/ Published Time: 2023-06-30T08:59:39-04:00 Markdown Content: ## Recently Published Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. [![Image 1](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/blogs/2026/GoldMountain.png)](https://science.nasa.gov/blogs/notes-from-the-field/2026/10/27/adventures-in-wildfire-smoke-stratospheric-ballooning/) [Adventures in Wildfire Smoke Stratospheric Ballooning](https://science.nasa.gov/blogs/notes-from-the-field/2026/10/27/adventures-in-wildfire-smoke-stratospheric-ballooning/) 9 min read The student ballooning team at the University of Minnesota Twin Cities went to work tracking the plume of a pyrocumulonimbus cloud. Blog [![Image 2](https://www.nasa.gov/wp-content/uploads/2026/10/chapeamissi",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "2026",
+        "science",
+        "blogs",
+        "www",
+        "assets",
+        "image",
+        "min",
+        "read",
+        "uvex",
+        "jpg",
+        "news"
+      ],
+      "hash": "2f3b860df8b689ddc009c8f0511bf3313f5c116684c5089aaae5dbe28e423637",
+      "learned_at": "2026-10-28T00:20:38+00:00"
+    },
+    {
+      "url": "https://stemgateway.nasa.gov/nasaengages/s/",
+      "title": "NASA Engages",
+      "summary": "Title: NASA Engages URL Source: https://stemgateway.nasa.gov/nasaengages/s/ Published Time: Tue, 28 Oct 2025 00:20:39 GMT Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout. Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page. Markdown Content: Loading [×](https://stemgateway.nasa.gov/nasaengages/s/# \"Cancel and close\")Sorry to interrupt CSS Error [Refresh](https://stemgateway.nasa.gov/nasaengages/s/?)",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "nasaengages",
+        "page",
+        "stemgateway",
+        "maybe",
+        "warning",
+        "2025",
+        "access",
+        "authorized",
+        "cancel",
+        "captcha",
+        "close"
+      ],
+      "hash": "fd42e6a867fc4a32f105801b60e9a565f2aac58e9956e0ee1e6612cbbc844654",
+      "learned_at": "2026-10-28T00:20:54+00:00"
     }
   ],
   "failures": [
@@ -22235,6 +22308,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-28T00:20:54+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-28T00:20:54+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 16,
+      "frontier": 2005
+    },
     {
       "at": "2026-10-27T20:56:09+00:00",
       "kind": "core_promoted",
@@ -23156,29 +23244,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 20,
       "frontier": 1234
-    },
-    {
-      "at": "2026-10-19T07:00:36+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-19T07:00:36+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 1212
     }
   ],
   "metrics": {
-    "successful_fetches": 1084,
+    "successful_fetches": 1092,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 46,
-    "candidate_rejections": 130
+    "candidate_rejections": 131
   },
   "core_genome": {
     "query_weight": 3.0,
