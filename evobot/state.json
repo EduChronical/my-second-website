@@ -1,16 +1,18 @@
 {
   "schema": 2,
-  "generation": 179,
+  "generation": 180,
   "core_version": 47,
-  "runs": 178,
-  "pages_learned": 1092,
-  "last_run": "2026-10-28T00:20:17+00:00",
+  "runs": 179,
+  "pages_learned": 1100,
+  "last_run": "2026-10-28T05:58:50+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/",
     "https://www.instagram.com/nasaastromaterials/",
     "https://unsplash.com/@thisisengineering",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://sfp.caltech.edu/undergraduate-research/programs/surfjpl",
+    "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C300%2C300italic",
     "http://www.facebook.com/NASAJPL",
     "http://instagram.com/nasajpl",
     "http://facebook.com/nasajpledu",
@@ -44,7 +46,6 @@
     "https://www.braze.com/",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/",
-    "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C300%2C300italic",
     "https://github.com/trending",
     "https://cdn.parsely.com/",
     "https://retool.com/",
@@ -291,22 +292,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://cneos.jpl.nasa.gov/nhats/intro.html",
-    "https://www.nasa.gov/wp-content/uploads/2023/11/1-yukondelta-usfws.webp?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/greetings-exoplanet-poster.png?w=826",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/pix-large-985x350-sonification-j.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/hooray-for-sls-art.png?w=1024",
-    "https://www.nasa.gov/humans-in-space/artemis/hooray-for-sls/",
-    "https://www.nasa.gov/wp-content/uploads/2023/07/lost-universe-banner-square-v1.jpg?w=750",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/hubble.jpg?w=980",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/nasa-climate-kids.png?w=960",
-    "https://climate.nasa.gov/interactives/climate-time-machine/",
-    "https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/",
-    "https://climate.nasa.gov/interactives/global-ice-viewer/",
-    "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hearing-hubble/",
-    "https://science.nasa.gov/mission/hubble/multimedia/hubbles-cosmic-adventure/",
-    "https://science.nasa.gov/mission/hubble/multimedia/online-activities/the-lost-universe/",
-    "https://www.nasa.gov/wp-content/uploads/2023/02/home-and-city.png?w=320",
     "https://www.nasa.gov/wp-content/uploads/2023/01/kidsclub-nebula2.png?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/05/earth300.png?w=300",
     "https://www.nasa.gov/wp-content/uploads/2023/05/hubble-skymap.png?w=1024",
@@ -2011,7 +1996,15 @@
     "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg",
     "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-    "https://www.nasa.gov/audio-and-ringtones/"
+    "https://www.nasa.gov/audio-and-ringtones/",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/nasa-climate-kids.png?w=960",
+    "https://www.nasa.gov/wp-content/uploads/2023/02/home-and-city.png?w=320",
+    "https://cneos.jpl.nasa.gov/nhats/subscribe.html",
+    "https://www.nasa.gov/wp-content/uploads/2023/11/1-yukondelta-usfws.webp?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/pix-large-985x350-sonification-j.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/07/lost-universe-banner-square-v1.jpg?w=750",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/hubble.jpg?w=980",
+    "https://www.nasa.gov/humans-in-space/artemis/hooray-for-sls/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8406,193 +8399,49 @@
       "at": "2026-10-28T00:20:54+00:00",
       "status": "ok",
       "hash": "fd42e6a867fc4a32f105801b60e9a565f2aac58e9956e0ee1e6612cbbc844654"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/05/greetings-exoplanet-poster.png?w=826": {
+      "at": "2026-10-28T05:58:54+00:00",
+      "status": "ok",
+      "hash": "b6e3f97a2ced67bc4f8dea29f548c15bb98ef16b0b79de69f53a03f220b8a37a"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/05/hooray-for-sls-art.png?w=1024": {
+      "at": "2026-10-28T05:58:57+00:00",
+      "status": "ok",
+      "hash": "4bf0f5e703a7d2910343755e49aab3b31ef25085e3bb6e996a2e2e92fe78e24e"
+    },
+    "https://cneos.jpl.nasa.gov/nhats/intro.html": {
+      "at": "2026-10-28T05:59:00+00:00",
+      "status": "ok",
+      "hash": "9b89119cc1092fab8f918fc786db6b7482dac9d964505ecc9899ead6569dcfe6"
+    },
+    "https://climate.nasa.gov/interactives/climate-time-machine/": {
+      "at": "2026-10-28T05:59:09+00:00",
+      "status": "ok",
+      "hash": "cf788eed91c97b0d64f99b4b75b6eaf6c204189e9b8ac0b297adf388eac96149"
+    },
+    "https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/": {
+      "at": "2026-10-28T05:59:13+00:00",
+      "status": "ok",
+      "hash": "432500ba0a6daae41d5120a2fd5c4ac432d7fed4c281ae09a3ff89c564824864"
+    },
+    "https://climate.nasa.gov/interactives/global-ice-viewer/": {
+      "at": "2026-10-28T05:59:16+00:00",
+      "status": "ok",
+      "hash": "fd5f1a9828e60169fc934652d5b8d897d6850f188de5412732ca0f0337dd956c"
+    },
+    "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hearing-hubble/": {
+      "at": "2026-10-28T05:59:19+00:00",
+      "status": "ok",
+      "hash": "54a0ee47bd9ed9b17ee150b6410056dc2fa0b1284b2b5508079b7961f8b9d03a"
+    },
+    "https://science.nasa.gov/mission/hubble/multimedia/hubbles-cosmic-adventure/": {
+      "at": "2026-10-28T05:59:23+00:00",
+      "status": "ok",
+      "hash": "1d42332253a4bb6c685e0507df9f08856ec669b03579a7331c3f8096e2d8f924"
     }
   },
   "memory": [
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html",
-      "title": "Sun Fact Sheet",
-      "summary": "Title: Sun Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html Markdown Content: * * * * * * [![Image 1: [Sun]](https://nssdc.gsfc.nasa.gov/planetary/banner/sun.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/sun.jpg) * * * ## Sun/Earth Comparison * * * ### Bulk parameters | | Sun | Earth | Ratio (Sun/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 1,988,400. | 5.9722 | 332,900. | | GM (x 10 6 km 3/s 2) | 132,712. | 0.39860 | 332,900. | | Volume (10 12 km 3) | 1,412,000. | 1.083 | 1,304,000. | | Volumetric mean radius (km) | 695,700. | 6371. | 109.2 | | Mean density (kg/m 3) | 1408. | 5514. | 0.255 | | Surface gravity (eq.) (m/s 2) | 274.0 | 9.78 | 28.0 | | Escape velocity (km/s) | 617.6 | 11.19 | 55.2 | | Ellipticity | 0.00005 | 0.0034 | 0.015 | | Moment of inertia (I/MR 2) | 0.070 | 0.3308 | 0.212 | | Visual magnitude V(1,0) | -26.74 | -3.86 | - | | A",
-      "keywords": [
-        "sun",
-        "earth",
-        "---",
-        "gauss",
-        "mean",
-        "106",
-        "arc",
-        "central",
-        "deg",
-        "field",
-        "gov",
-        "gsfc",
-        "https",
-        "nasa"
-      ],
-      "hash": "03bb6cd49438dfa1c4c9afa8b9f2543881cbef85fd0368b35ce284c3a1a8266e",
-      "learned_at": "2026-10-14T02:13:37+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=earth-moon&family=halo&libr=1&branch=N%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=earth-moon&family=halo&libr=1&branch=N`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=earth-moon&family=halo&libr=1&branch=N` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"message\":\"invalid value specified for query parameter 'branch': supported values: N, S, E, W, pq (resonance)\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/periodic_orbits.html\",\"code\":\"400\"}",
-      "keywords": [
-        "400",
-        "branch",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "periodic_orbits",
-        "ssd-api",
-        "url",
-        "api",
-        "bad",
-        "code",
-        "content",
-        "doc"
-      ],
-      "hash": "a2367affd591695708cc35d0e4f1458e9a67395ed5a04d0a9b646c90f340c917",
-      "learned_at": "2026-10-14T02:13:40+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=mars-phobos&family=resonant&jacobimin=3&stabmax=1&branch=21%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=mars-phobos&family=resonant&jacobimin=3&stabmax=1&branch=21`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=mars-phobos&family=resonant&jacobimin=3&stabmax=1&branch=21` Markdown Content: {\"signature\":{\"version\":\"1.0\",\"source\":\"NASA/JPL Three-Body Periodic Orbits API\"},\"system\":{\"radius_secondary\":11.267,\"L3\":[\"-1.00000000671284\",\"0.0\",\"0.0\"],\"mass_ratio\":\"1.611081404409632e-08\",\"tunit\":4451.83899462989,\"L2\":[\"1.00175219070903\",\"0.0\",\"0.0\"],\"L1\":[\"0.998249821501471\",\"0.0\",\"0.0\"],\"L5\":[\"0.499999983889186\",\"-0.866025403784439\",\"0.0\"],\"name\":\"Mars-Phobos\",\"lunit\":9468.25503898377,\"L4\":[\"0.499999983889186\",\"0.866025403784439\",\"0.0\"]},\"count\":\"416\",\"family\":\"resonant\",\"branch\":\"21`\",\"filter\":{\"stabmax\":\"1\",\"jacobimin\":\"3\",\"periodunits\":\"TU\"},\"limits\":{\"stability\":[1,1.00000000000011],\"period\":[6.28318488996296,6.28318531618467],\"jacobi\":[2.55167034273291,3.14520890980048]},\"fields\":[\"x\",\"y\",\"z\",\"vx\",\"vy\",\"vz\",\"jacobi\",\"period\",\"",
-      "keywords": [
-        "499999983889186",
-        "866025403784439",
-        "api",
-        "branch",
-        "family",
-        "jacobi",
-        "jacobimin",
-        "jpl",
-        "mars-phobos",
-        "nasa",
-        "period",
-        "resonant",
-        "source",
-        "stability"
-      ],
-      "hash": "e3239659a295099f3988d380db94ae6c695394f484d5029587fb39fd3f634f5c",
-      "learned_at": "2026-10-14T02:13:41+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/planetarydefense/overview",
-      "title": "Planetary Defense at NASA - NASA Science",
-      "summary": "Title: Planetary Defense at NASA - NASA Science URL Source: https://www.nasa.gov/planetarydefense/overview Published Time: 2023-08-18T08:57:13-04:00 Markdown Content: [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 6: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-m",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "e9caf85d427374d341bb9b01b1b2fea8db6927dd0f778061eedd4d78771e78a3",
-      "learned_at": "2026-10-14T02:13:48+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/blogs/quesst/2026/10/09/nasa-x-59-pilot-receives-top-test-pilot-award/",
-      "title": "NASA X-59 Test Pilot Receives Top Award from Society of Experimental Test Pilots",
-      "summary": "Title: NASA X-59 Test Pilot Receives Top Award from Society of Experimental Test Pilots URL Source: https://www.nasa.gov/blogs/quesst/2026/10/09/nasa-x-59-pilot-receives-top-test-pilot-award/ Published Time: 2026-10-09T19:53:47Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "events",
-        "images",
-        "multimedia",
-        "science",
-        "image",
-        "plus",
-        "podcasts",
-        "quesst"
-      ],
-      "hash": "d902b19064e1f877285b880cc40323af5baa3de865160b7a0e386d35e5a6e40a",
-      "learned_at": "2026-10-14T02:13:58+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=saturn-titan&family=butterfly&jacobimin=3&stabmax=1&branch=N%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=saturn-titan&family=butterfly&jacobimin=3&stabmax=1&branch=N`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=saturn-titan&family=butterfly&jacobimin=3&stabmax=1&branch=N` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/periodic_orbits.html\",\"code\":\"400\",\"message\":\"invalid value specified for query parameter 'branch': supported values: N, S, E, W, pq (resonance)\"}",
-      "keywords": [
-        "400",
-        "branch",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "periodic_orbits",
-        "ssd-api",
-        "url",
-        "api",
-        "bad",
-        "butterfly",
-        "code",
-        "content"
-      ],
-      "hash": "3c1c4d2bad29c2c9e11952367ff838680c028f59e0d57c211f32ff8af833f03c",
-      "learned_at": "2026-10-14T07:44:11+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/images/mathilde.jpg",
-      "title": "mathilde.jpg",
-      "summary": "Title: mathilde.jpg URL Source: https://ssd.jpl.nasa.gov/images/mathilde.jpg Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: Infrared image of Herschel asteroid, where rocky plumes and large ripples ore depicted with lighter and darker shades of grey to denote their temperature",
-      "keywords": [
-        "jpg",
-        "mathilde",
-        "2023",
-        "asteroid",
-        "content",
-        "darker",
-        "denote",
-        "depicted",
-        "gmt",
-        "gov",
-        "grey",
-        "herschel",
-        "https",
-        "image"
-      ],
-      "hash": "b64f28e343d5c5077e0cb71bb51c39c3c39c513b8e24096d9c6621bdd5863cb5",
-      "learned_at": "2026-10-14T07:44:15+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/news/?topics=Earth",
-      "title": "NASA JPL News – Latest Space Science & Missions",
-      "summary": "Title: NASA JPL News – Latest Space Science & Missions URL Source: https://www.jpl.nasa.gov/news/?topics=Earth Markdown Content: ## Search News Sort by Showing 1–12 of 1,727 results Topic Solar System (4,075) Mars (1,944) Earth (1,727) Stars and Galaxies (1,198) Technology (835) Asteroids and Comets (793) Climate Change (609) Weather (587) JPL Life (505) Exoplanets (231) Earthquakes (88) Robotics (86) CubeSats and SmallSats (41) Date 2026 (66) 2025 (142) 2024 (172) 2023 (183) 1. [Category: News.Category: Earth. Category: News.Category: Earth. ## US-India Satellite Captures Time-lapse Video of Volcanic Eruption Returning to the same spot in orbit numerous times over several months, NISAR documented the ongoing lava flow from a volcano on the Kamchatka Peninsula. . Sept. 24, 2026 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-Kamchatka-still-volcano.2e16d0ba.fill-400x400-c50",
-      "keywords": [
-        "category",
-        "news",
-        "earth",
-        "https",
-        "nasa",
-        "jpl",
-        "2026",
-        "gov",
-        "www",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-400x400-c50",
-        "image"
-      ],
-      "hash": "87a24fc5302066c623a86dd5afb05d993a719c52e412da377044d38ca292971b",
-      "learned_at": "2026-10-14T07:44:18+00:00"
-    },
     {
       "url": "https://ssd-api.jpl.nasa.gov/doc/sb_ident.html",
       "title": "SB Identification API",
@@ -22208,6 +22057,190 @@
       ],
       "hash": "fd42e6a867fc4a32f105801b60e9a565f2aac58e9956e0ee1e6612cbbc844654",
       "learned_at": "2026-10-28T00:20:54+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/05/greetings-exoplanet-poster.png?w=826",
+      "title": "greetings-exoplanet-poster.png",
+      "summary": "Title: greetings-exoplanet-poster.png URL Source: https://www.nasa.gov/wp-content/uploads/2023/05/greetings-exoplanet-poster.png?w=826 Published Time: Wed, 28 Oct 2026 05:58:52 GMT Markdown Content: A piece of paper with Pegasi b printed on it",
+      "keywords": [
+        "greetings-exoplanet-poster",
+        "png",
+        "2023",
+        "2026",
+        "826",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "oct",
+        "paper",
+        "pegasi"
+      ],
+      "hash": "b6e3f97a2ced67bc4f8dea29f548c15bb98ef16b0b79de69f53a03f220b8a37a",
+      "learned_at": "2026-10-28T05:58:54+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/05/hooray-for-sls-art.png?w=1024",
+      "title": "hooray-for-sls-art.png",
+      "summary": "Title: hooray-for-sls-art.png URL Source: https://www.nasa.gov/wp-content/uploads/2023/05/hooray-for-sls-art.png?w=1024 Published Time: Wed, 28 Oct 2026 05:58:55 GMT Markdown Content: an cartoon picture the boy wearing white hat and girl wearing white cap and brownlaish or green colour shirt",
+      "keywords": [
+        "hooray-for-sls-art",
+        "png",
+        "wearing",
+        "white",
+        "1024",
+        "2023",
+        "2026",
+        "boy",
+        "brownlaish",
+        "cap",
+        "cartoon",
+        "colour",
+        "content",
+        "girl"
+      ],
+      "hash": "4bf0f5e703a7d2910343755e49aab3b31ef25085e3bb6e996a2e2e92fe78e24e",
+      "learned_at": "2026-10-28T05:58:57+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/nhats/intro.html",
+      "title": "Accessible NEAs",
+      "summary": "Title: Accessible NEAs URL Source: https://cneos.jpl.nasa.gov/nhats/intro.html Markdown Content: The **Near-Earth Object Human Space Flight Accessible Targets Study (NHATS)** began in September 2010 under the auspices of NASA Headquarters Planetary Science Division of the Science Mission Directorate in cooperation with the Advanced Exploration Systems Division of the Human Exploration and Operations Mission Directorate. Its purpose was to identify any known NEOs, particularly Near-Earth Asteroids (NEAs) that might be accessible by future human space flight missions. The Goddard Space Flight Center (GSFC) and the Jet Propulsion Laboratory (JPL) independently performed the first phase of the NHATS study in parallel to validate the results. NEAs are discovered almost daily, and often the time just after discovery is also the optimal time to provide follow-up observations to secure their orb",
+      "keywords": [
+        "jpl",
+        "nhats",
+        "neas",
+        "cneos",
+        "nasa",
+        "future",
+        "gov",
+        "https",
+        "mission",
+        "nea",
+        "observations",
+        "these",
+        "accessible",
+        "daily"
+      ],
+      "hash": "9b89119cc1092fab8f918fc786db6b7482dac9d964505ecc9899ead6569dcfe6",
+      "learned_at": "2026-10-28T05:59:00+00:00"
+    },
+    {
+      "url": "https://climate.nasa.gov/interactives/climate-time-machine/",
+      "title": "Climate Change - NASA Science",
+      "summary": "Title: Climate Change - NASA Science URL Source: https://climate.nasa.gov/interactives/climate-time-machine/ Published Time: 2023-06-16T13:25:17-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "cf788eed91c97b0d64f99b4b75b6eaf6c204189e9b8ac0b297adf388eac96149",
+      "learned_at": "2026-10-28T05:59:09+00:00"
+    },
+    {
+      "url": "https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/",
+      "title": "Exoplanets - NASA Science",
+      "summary": "Title: Exoplanets - NASA Science URL Source: https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/ Published Time: 2023-06-07T21:16:36-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/na",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "432500ba0a6daae41d5120a2fd5c4ac432d7fed4c281ae09a3ff89c564824864",
+      "learned_at": "2026-10-28T05:59:13+00:00"
+    },
+    {
+      "url": "https://climate.nasa.gov/interactives/global-ice-viewer/",
+      "title": "Climate Change - NASA Science",
+      "summary": "Title: Climate Change - NASA Science URL Source: https://climate.nasa.gov/interactives/global-ice-viewer/ Published Time: 2023-06-16T13:25:17-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-me",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "fd5f1a9828e60169fc934652d5b8d897d6850f188de5412732ca0f0337dd956c",
+      "learned_at": "2026-10-28T05:59:16+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hearing-hubble/",
+      "title": "Hearing Hubble - NASA Science",
+      "summary": "Title: Hearing Hubble - NASA Science URL Source: https://science.nasa.gov/mission/hubble/multimedia/online-activities/hearing-hubble/ Published Time: 2025-03-07T14:54:54-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "multimedia",
+        "news",
+        "images",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "54a0ee47bd9ed9b17ee150b6410056dc2fa0b1284b2b5508079b7961f8b9d03a",
+      "learned_at": "2026-10-28T05:59:19+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/multimedia/hubbles-cosmic-adventure/",
+      "title": "Hubble's Cosmic Adventure - NASA Science",
+      "summary": "Title: Hubble's Cosmic Adventure - NASA Science URL Source: https://science.nasa.gov/mission/hubble/multimedia/hubbles-cosmic-adventure/ Published Time: 2025-01-22T09:50:05-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](ht",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "multimedia",
+        "news",
+        "images",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "1d42332253a4bb6c685e0507df9f08856ec669b03579a7331c3f8096e2d8f924",
+      "learned_at": "2026-10-28T05:59:23+00:00"
     }
   ],
   "failures": [
@@ -22308,6 +22341,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-28T05:59:23+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-28T05:59:23+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 15,
+      "frontier": 1998
+    },
     {
       "at": "2026-10-28T00:20:54+00:00",
       "kind": "core_unchanged",
@@ -23218,40 +23266,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 16,
       "frontier": 1228
-    },
-    {
-      "at": "2026-10-19T14:37:29+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v31",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-19T14:37:29+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 20,
-      "frontier": 1234
     }
   ],
   "metrics": {
-    "successful_fetches": 1092,
+    "successful_fetches": 1100,
     "failed_fetches": 19,
     "duplicate_pages": 2,
     "candidate_promotions": 46,
-    "candidate_rejections": 131
+    "candidate_rejections": 132
   },
   "core_genome": {
     "query_weight": 3.0,
