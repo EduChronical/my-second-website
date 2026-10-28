@@ -1,22 +1,15 @@
 {
   "schema": 2,
-  "generation": 181,
+  "generation": 182,
   "core_version": 48,
-  "runs": 180,
-  "pages_learned": 1108,
-  "last_run": "2026-10-28T12:40:15+00:00",
+  "runs": 181,
+  "pages_learned": 1111,
+  "last_run": "2026-10-28T18:30:39+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.instagram.com/nasaastromaterials/",
-    "https://www.facebook.com/business/ads/lead-ads",
-    "https://sfp.caltech.edu/undergraduate-research/programs/surfjpl",
-    "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C300%2C300italic",
-    "http://www.facebook.com/NASAJPL",
-    "http://instagram.com/nasajpl",
-    "http://facebook.com/nasajpledu",
-    "http://x.com/nasajpl_edu",
-    "http://instagram.com/nasajpl_edu",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://www.imf.org/en/",
+    "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
     "https://www.cookiebot.com/",
@@ -73,16 +66,16 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PI_Day_Banner_large.original.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
-    "https://www.stunnel.org/downloads.html",
-    "https://www.stunnel.org/downloads.html",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
     "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
     "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
     "https://www.youtube.com/watch?v=f_sSzn87ljM",
     "https://www.youtube.com/watch?v=eaSaVanPysA",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
+    "https://www.stunnel.org/downloads.html",
+    "https://www.stunnel.org/downloads.html",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
     "https://datatracker.ietf.org/doc/html/rfc3875",
@@ -110,7 +103,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2015-Elachi-Lights.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -275,9 +267,10 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://sat.gov.in/scripts/showdailyboard.asp",
+    "http://www.mapaplanet.org/explorer/moon.html",
+    "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://aa.usno.navy.mil/data/index.php",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
-    "http://www.mapaplanet.org/explorer/moon.html",
     "http://www.nineplanets.org/luna.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.caltech.edu/",
@@ -286,27 +279,10 @@
     "http://www.nap.edu/books/0309060419/html/",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-    "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://lroc.sese.asu.edu/",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://www.sebi.gov.in/sebiweb/account-verification.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=133",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=11&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=12&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=13&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=50&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=79&smid=0",
-    "https://www.sebi.gov.in/filings.html",
-    "https://www.sebi.gov.in/filings/processing-status.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=8",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=9",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=62",
-    "https://www.sebi.gov.in/conf.html",
-    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doBoardMeeting=yes",
     "https://www.sebi.gov.in/powers-and-functions.html",
     "https://www.sebi.gov.in/orgchart.html",
     "https://www.sebi.gov.in/alldepartment.html",
@@ -2006,7 +1982,21 @@
     "https://lunar-landing.arc.nasa.gov/",
     "https://www.youtube.com/watch?v=2B4SOtZ74fY",
     "https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146"
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=11&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=12&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=13&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=50&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=79&smid=0",
+    "https://www.sebi.gov.in/filings.html",
+    "https://www.sebi.gov.in/filings/processing-status.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=8",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=9",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=62",
+    "https://www.sebi.gov.in/conf.html",
+    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doBoardMeeting=yes"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8486,78 +8476,52 @@
       "at": "2026-10-28T12:41:30+00:00",
       "status": "ok",
       "hash": "95d76ab94037208b0378879b7e56344e3c51ed0489ff06c62375c301fbda9a0b"
+    },
+    "https://www.sebi.gov.in/sebiweb/account-verification.html": {
+      "at": "2026-10-28T18:30:50+00:00",
+      "status": "ok",
+      "hash": "75955d60caf3c2483c539fdc4e452470392874885abdfe9ad1b1f2209d1f2941"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=133": {
+      "at": "2026-10-28T18:31:02+00:00",
+      "status": "ok",
+      "hash": "6f8fb2c48aef7112057b8bcb0888b8e6918c9b6fe70ae4e5b60c4a5ae2d30c13"
+    },
+    "https://www.instagram.com/nasaastromaterials/": {
+      "at": "2026-10-28T18:31:02+00:00",
+      "status": "robots_disallow"
+    },
+    "https://sfp.caltech.edu/undergraduate-research/programs/surfjpl": {
+      "at": "2026-10-28T18:31:02+00:00",
+      "status": "robots_disallow"
+    },
+    "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C300%2C300italic": {
+      "at": "2026-10-28T18:31:03+00:00",
+      "status": "ok",
+      "hash": "5f70c7910a3af7e21498a15865ecc91f1210fb6d654f31d679d402ffb832870d"
+    },
+    "http://www.facebook.com/NASAJPL": {
+      "at": "2026-10-28T18:31:04+00:00",
+      "status": "robots_disallow"
+    },
+    "http://instagram.com/nasajpl": {
+      "at": "2026-10-28T18:31:04+00:00",
+      "status": "robots_disallow"
+    },
+    "http://facebook.com/nasajpledu": {
+      "at": "2026-10-28T18:31:04+00:00",
+      "status": "robots_disallow"
+    },
+    "http://x.com/nasajpl_edu": {
+      "at": "2026-10-28T18:31:04+00:00",
+      "status": "robots_disallow"
+    },
+    "http://instagram.com/nasajpl_edu": {
+      "at": "2026-10-28T18:31:04+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.jpl.nasa.gov/missions?mission_target=Jupiter",
-      "title": "NASA JPL Missions – Current, Past & Future",
-      "summary": "Title: NASA JPL Missions – Current, Past & Future URL Source: https://www.jpl.nasa.gov/missions?mission_target=Jupiter Markdown Content: [](https://www.jpl.nasa.gov/missions?mission_target=Jupiter) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Missions ## Search Missions Skip to search results Hide Filters Sort by Showing 1–4 of 4 results Target - [x] Earth (58) - ",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "mission",
-        "category",
-        "missions",
-        "current",
-        "europa",
-        "proposed",
-        "jupiter",
-        "lander",
-        "earth"
-      ],
-      "hash": "fddc1e20058df803a765c01dcac1b25cd89e317c8c1cb4f47a514d5ba96cdf36",
-      "learned_at": "2026-10-14T13:07:15+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/missions?mission_target=Saturn",
-      "title": "NASA JPL Missions – Current, Past & Future",
-      "summary": "Title: NASA JPL Missions – Current, Past & Future URL Source: https://www.jpl.nasa.gov/missions?mission_target=Saturn Markdown Content: [](https://www.jpl.nasa.gov/missions?mission_target=Saturn) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Missions ## Search Missions Skip to search results Hide Filters Sort by Showing 1 result Target - [x] Earth (58) - [x] Earth'",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "missions",
-        "past",
-        "mission",
-        "category",
-        "earth",
-        "filters",
-        "image",
-        "saturn",
-        "space"
-      ],
-      "hash": "b7c7a4e99506e49e477402db874544bbbac05310d3df37b06aeac6b7e4373b12",
-      "learned_at": "2026-10-14T13:07:19+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/extras.html",
-      "title": "Extras",
-      "summary": "Title: Extras URL Source: https://ssd.jpl.nasa.gov/extras.html Markdown Content: The following table describes pages available under the \"Extras\" menu. | Page | Description | | --- | --- | | [Astrodynamic Parameters](https://ssd.jpl.nasa.gov/astro_par.html) | Selected parameters commonly used in astrodynamic computations. | | [Diagrams and Charts](https://ssd.jpl.nasa.gov/diagrams/) | A collection of various diagrams and charts of the solar system and the distribution of small-body orbital elements. | | [Observational Data](https://ssd.jpl.nasa.gov/obs_data.html) | Provides access to observation data used in the creation and improvement of JPL planetary (and lunar) and planetary satellite ephemerides. | | [Three-Body Periodic Orbits](https://ssd.jpl.nasa.gov/tools/periodic_orbits.html) | Presents relevant periodic orbits in the Circular Restricted Three-Body Problem (CR3BP). | | [Custom ",
-      "keywords": [
-        "jpl",
-        "gov",
-        "https",
-        "nasa",
-        "ssd",
-        "html",
-        "related",
-        "available",
-        "collection",
-        "announcements",
-        "contact",
-        "diagrams",
-        "discovery",
-        "extras"
-      ],
-      "hash": "49ca5b9566e472f1f31318f843e9aca294ca299103a5d579275f137a88a43224",
-      "learned_at": "2026-10-14T13:07:22+00:00"
-    },
     {
       "url": "https://jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/",
       "title": "Documentary Series: JPL and the Space Age | NASA Jet Propulsion Laboratory (JPL)",
@@ -22288,6 +22252,75 @@
       ],
       "hash": "95d76ab94037208b0378879b7e56344e3c51ed0489ff06c62375c301fbda9a0b",
       "learned_at": "2026-10-28T12:41:30+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/account-verification.html",
+      "title": "SEBI | 400 Page",
+      "summary": "Title: SEBI | 400 Page URL Source: https://www.sebi.gov.in/sebiweb/account-verification.html Warning: Target URL returned error 404: 404 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/account-verification.html \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/qr-verification.html)[Type](https://www.sebi.gov.in/upi-verification.html)[Account](https://www.sebi.gov.in/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/account-verification.html# \"Increase Font\") * [",
+      "keywords": [
+        "sebi",
+        "gov",
+        "https",
+        "www",
+        "html",
+        "sebiweb",
+        "account-verification",
+        "font",
+        "board",
+        "change",
+        "color",
+        "hindi",
+        "content",
+        "image"
+      ],
+      "hash": "75955d60caf3c2483c539fdc4e452470392874885abdfe9ad1b1f2209d1f2941",
+      "learned_at": "2026-10-28T18:30:50+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=133",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=133 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=133 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAc",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "133",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid"
+      ],
+      "hash": "6f8fb2c48aef7112057b8bcb0888b8e6918c9b6fe70ae4e5b60c4a5ae2d30c13",
+      "learned_at": "2026-10-28T18:31:02+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C300%2C300italic",
+      "title": "URL Source: https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,300,300italic",
+      "summary": "Title: URL Source: https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,300,300italic Published Time: Wed, 28 Oct 2026 18:31:03 GMT Markdown Content: /* cyrillic-ext */ @font-face { font-family: 'Open Sans'; font-style: italic; font-weight: 300; font-stretch: 100%; src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2) format('woff2'); unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; } /* cyrillic */ @font-face { font-family: 'Open Sans'; font-style: italic; font-weight: 300; font-stretch: 100%; src: url(https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2) format('woff2'); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; } /* greek-ext */ @font-face { font-family: 'Open Sans'; font-style: italic; fo",
+      "keywords": [
+        "woff2",
+        "300",
+        "com",
+        "fonts",
+        "https",
+        "open",
+        "sans",
+        "url",
+        "100",
+        "font-face",
+        "font-family",
+        "font-stretch",
+        "font-style",
+        "font-weight"
+      ],
+      "hash": "5f70c7910a3af7e21498a15865ecc91f1210fb6d654f31d679d402ffb832870d",
+      "learned_at": "2026-10-28T18:31:03+00:00"
     }
   ],
   "failures": [
@@ -22393,6 +22426,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-28T18:31:04+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-28T18:31:04+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 3 new pages",
+      "attempted": 24,
+      "frontier": 1990
+    },
     {
       "at": "2026-10-28T12:41:30+00:00",
       "kind": "core_promoted",
@@ -23314,29 +23362,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 1293
-    },
-    {
-      "at": "2026-10-19T23:44:48+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-19T23:44:48+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 10,
-      "frontier": 1274
     }
   ],
   "metrics": {
-    "successful_fetches": 1108,
+    "successful_fetches": 1111,
     "failed_fetches": 20,
     "duplicate_pages": 2,
     "candidate_promotions": 47,
-    "candidate_rejections": 132
+    "candidate_rejections": 133
   },
   "core_genome": {
     "query_weight": 3.0,
