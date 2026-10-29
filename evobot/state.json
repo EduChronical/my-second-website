@@ -1,16 +1,12 @@
 {
   "schema": 2,
-  "generation": 184,
+  "generation": 185,
   "core_version": 49,
-  "runs": 183,
-  "pages_learned": 1123,
-  "last_run": "2026-10-29T01:58:11+00:00",
+  "runs": 184,
+  "pages_learned": 1130,
+  "last_run": "2026-10-29T08:20:55+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "http://cdaweb.gsfc.nasa.gov/quickstartguides/CDAWeb_Quick_Start_guide.html",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://www.imf.org/en/",
-    "https://cdn.cookielaw.org/logos/38bdeb28-e6fb-46a2-bd31-34e5d82df3c7/58a36bd0-397a-45f2-9983-842b3d2ac74a/01565d41-2c71-4d31-b9dd-293c6e88aed0/header-logo_snpo_lq.png",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
@@ -32,7 +28,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
-    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -102,7 +99,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EARTH_DAY_2019_WEB_orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2015-Elachi-Lights.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
@@ -257,6 +253,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
     "https://github.com/autoplot/documentation/wiki/help",
+    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -286,27 +283,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=116",
-    "https://www.sebi.gov.in/sebiweb/other/RegulatorySandbox.jsp",
-    "https://www.sebi.gov.in/filings/public-issues.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=10",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=12",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=78",
-    "https://www.sebi.gov.in/filings/rights-issues.html",
-    "https://cneos.jpl.nasa.gov/images/SchmidtB1.jpg",
-    "https://cneos.jpl.nasa.gov/images/PS1_dome.jpg",
-    "https://ssd.jpl.nasa.gov/sbdb.cgi",
-    "https://ssd.jpl.nasa.gov/horizons.cgi",
-    "https://cneos.jpl.nasa.gov/orbits/intro.html",
-    "https://cneos.jpl.nasa.gov/orbits/elements.html",
-    "https://cneos.jpl.nasa.gov/ca/intro.html",
-    "https://cneos.jpl.nasa.gov/ca/intro.html",
-    "https://cneos.jpl.nasa.gov/fireballs/",
-    "https://cneos.jpl.nasa.gov/pi/",
-    "https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2022+UP6",
-    "https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TE2",
-    "https://cneos.jpl.nasa.gov/stats/",
     "https://naif.jpl.nasa.gov/naif/self_training.html",
     "https://naif.jpl.nasa.gov/naif/credit.html",
     "https://naif.jpl.nasa.gov/naif/feedback.html",
@@ -2016,7 +1992,33 @@
     "https://spdf.gsfc.nasa.gov/images/checkmark_red.gif",
     "https://spdf.gsfc.nasa.gov/images/checkmark_red.gif",
     "https://spdf.gsfc.nasa.gov/spdf-secaa_usage.html",
-    "https://spdf.gsfc.nasa.gov/CDAWlib.html"
+    "https://spdf.gsfc.nasa.gov/CDAWlib.html",
+    "https://cneos.jpl.nasa.gov/orbits/intro.html",
+    "https://cneos.jpl.nasa.gov/orbits/elements.html",
+    "https://cneos.jpl.nasa.gov/ca/intro.html",
+    "https://cneos.jpl.nasa.gov/ca/intro.html",
+    "https://cneos.jpl.nasa.gov/fireballs/",
+    "https://cneos.jpl.nasa.gov/pi/",
+    "https://cneos.jpl.nasa.gov/stats/",
+    "https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2022+UP6",
+    "https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TE2",
+    "https://www.sebi.gov.in/filings/public-issues.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=10",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=12",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=78",
+    "https://www.sebi.gov.in/filings/rights-issues.html",
+    "https://cdaweb.gsfc.nasa.gov/CDAWeb_Statistics.html",
+    "http://cdaweb.gsfc.nasa.gov/images/cdf-binary.png",
+    "https://cdaweb.gsfc.nasa.gov/pub/software/cdawlib",
+    "https://cdaweb.gsfc.nasa.gov/errors.html",
+    "https://cdaweb.gsfc.nasa.gov/team.html",
+    "http://spdf.gsfc.nasa.gov/",
+    "http://cdf.gsfc.nasa.gov/",
+    "https://www.unidata.ucar.edu/software/netcdf/",
+    "http://spdf.gsfc.nasa.gov/istp_guide/istp_guide.html",
+    "https://pwg.gsfc.nasa.gov/istp/",
+    "http://spdf.gsfc.nasa.gov/istp_kp_caveats.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8599,170 +8601,52 @@
       "at": "2026-10-29T01:58:43+00:00",
       "status": "ok",
       "hash": "b645612e6cb9ed64a352de42482bb075cd3ace318546c942a4613f49ca99b82b"
+    },
+    "https://cneos.jpl.nasa.gov/images/SchmidtB1.jpg": {
+      "at": "2026-10-29T08:20:58+00:00",
+      "status": "ok",
+      "hash": "18ca786846ad2f248385884d909ebabd697c56ed0816f1ce19059802bf74ebf0"
+    },
+    "https://cneos.jpl.nasa.gov/images/PS1_dome.jpg": {
+      "at": "2026-10-29T08:21:02+00:00",
+      "status": "ok",
+      "hash": "850d8b1ec6c993cfae8b670d654544d7448065aba2e4a560cfb5aeccd147cb5d"
+    },
+    "https://ssd.jpl.nasa.gov/sbdb.cgi": {
+      "at": "2026-10-29T08:21:03+00:00",
+      "status": "ok",
+      "hash": "9cdd4ba625a6135584e2a64e0bdf2b63e4d8197f600c86a3899c102aa010ad57"
+    },
+    "https://ssd.jpl.nasa.gov/horizons.cgi": {
+      "at": "2026-10-29T08:21:04+00:00",
+      "status": "ok",
+      "hash": "198a78f2ee09fd62453e57e745666ac037d0fc8cf83108406b0ac75f1029c607"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=116": {
+      "at": "2026-10-29T08:21:14+00:00",
+      "status": "ok",
+      "hash": "bf0bfe0deb0275aa72fb16ac12f2873ba6340029d46d4e1f113b534bf49f4d17"
+    },
+    "https://www.sebi.gov.in/sebiweb/other/RegulatorySandbox.jsp": {
+      "at": "2026-10-29T08:21:22+00:00",
+      "status": "ok",
+      "hash": "3bb65014e2bcbf8c08601dabca09e39520ccf8922b709a780cbe9f34a12d5f6a"
+    },
+    "http://cdaweb.gsfc.nasa.gov/quickstartguides/CDAWeb_Quick_Start_guide.html": {
+      "at": "2026-10-29T08:21:41+00:00",
+      "status": "ok",
+      "hash": "8fdc6e1466ac4af9c0b72128240be982dd9e5bd011d83f1bc603e2a409cdbf45"
+    },
+    "http://www.imf.org/en/": {
+      "at": "2026-10-29T08:22:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cdn.cookielaw.org/logos/38bdeb28-e6fb-46a2-bd31-34e5d82df3c7/58a36bd0-397a-45f2-9983-842b3d2ac74a/01565d41-2c71-4d31-b9dd-293c6e88aed0/header-logo_snpo_lq.png": {
+      "at": "2026-10-29T08:22:15+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024",
-      "title": "hls-eva-apr2020.jpg",
-      "summary": "Title: hls-eva-apr2020.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/06/hls-eva-apr2020.jpg?w=1024 Published Time: Wed, 14 Oct 2026 21:35:08 GMT Markdown Content: Astronauts kneeling on an alien surface below a yellow piece of equipment",
-      "keywords": [
-        "hls-eva-apr2020",
-        "jpg",
-        "1024",
-        "2023",
-        "2026",
-        "alien",
-        "astronauts",
-        "below",
-        "content",
-        "equipment",
-        "gmt",
-        "gov",
-        "https",
-        "kneeling"
-      ],
-      "hash": "fc44765609ea23e7fef4857162de12d8e974f68661b08bcbd912a3a3003dc0af",
-      "learned_at": "2026-10-14T21:35:10+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024",
-      "title": "surface-1024x576-1.jpg",
-      "summary": "Title: surface-1024x576-1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2020/10/surface-1024x576-1.jpg?w=1024 Published Time: Wed, 14 Oct 2026 21:35:12 GMT Markdown Content: A lunar base set on the black expanse of the moon with personnel and vehicles in white spacuits",
-      "keywords": [
-        "jpg",
-        "surface-1024x576-1",
-        "1024",
-        "2020",
-        "2026",
-        "base",
-        "black",
-        "content",
-        "expanse",
-        "gmt",
-        "gov",
-        "https",
-        "lunar",
-        "markdown"
-      ],
-      "hash": "6d4328d5cc9d1347eb0ca363019309aca37f55c39c716cefe8ba10bc753b0606",
-      "learned_at": "2026-10-14T21:35:14+00:00"
-    },
-    {
-      "url": "https://eyes.nasa.gov/dsn/dsn.html",
-      "title": "Deep Space Network Now",
-      "summary": "Title: Deep Space Network Now URL Source: https://eyes.nasa.gov/dsn/dsn.html Markdown Content: [![Image 1: NASA](https://eyes.nasa.gov/dsn/images/intro/deep-space-network-logo@2x.png)](https://eyes.nasa.gov/dsn/dsn.html) ## The real time status of communications with our deep space explorers ### Welcome to \"Deep Space Network Now\" At three sites around the globe NASA's Jet Propulsion Laboratory operates a network of large radio antennas called the DSN. The DSN is used to keep in contact with the spacecraft exploring our solar system and the universe beyond. This online tool will let you see what the DSN is up to right now. Which antennas are currently in use? Which spacecraft are talking to us? How quickly is data being received? How long does a signal take to get there, and back? The grid of antennas show you the current state of the network. 'Radio Waves' will show you if data is being",
-      "keywords": [
-        "dsn",
-        "nasa",
-        "spacecraft",
-        "network",
-        "antennas",
-        "deep",
-        "eyes",
-        "gov",
-        "https",
-        "now",
-        "space",
-        "time",
-        "being",
-        "click"
-      ],
-      "hash": "9a050963f47a10c541b965978052faf1f2a7e163e380c7bd9f0d850c18606d64",
-      "learned_at": "2026-10-15T00:05:03+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/apps/",
-      "title": "JPL Apps",
-      "summary": "Title: JPL Apps URL Source: https://www.jpl.nasa.gov/apps/ Markdown Content: ## Mobile Apps ### Space Images [![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/si-app-mockup-rounded-17-adj.width-1024.jpg)](https://d2pn8kiwq2w21t.cloudfront.net/original_images/si-app-mockup-rounded-17-adj.jpg) Discover, share and explore stunning images and videos of space from NASA's Jet Propulsion Laboratory -- now available for iPhone, iPod Touch, iPad and Android devices. * [Download for iPhone](https://apps.apple.com/us/app/space-images/id347075764?platform=iphone) * [Download for iPad](https://apps.apple.com/us/app/space-images/id347075764) ### Satellite Insight [![Image 2: Satellite Insight](https://d2pn8kiwq2w21t.cloudfront.net/images/insight.width-1024.jpg)](https://d2pn8kiwq2w21t.cloudfront.net/original_images/insight.jpg) This game, based on NASA's GOES-R satellite series, which is design",
-      "keywords": [
-        "https",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "jpg",
-        "net",
-        "apps",
-        "nasa",
-        "images",
-        "app",
-        "com",
-        "devices",
-        "download",
-        "earth",
-        "spacecraft"
-      ],
-      "hash": "c667b305e4713bff7caa0ea0260ac9fbaae89557bab56d153e071b729673b308",
-      "learned_at": "2026-10-15T00:05:07+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/galleries/visions-of-the-future/",
-      "title": "NASA JPL Visions of the Future – Space Posters",
-      "summary": "Title: NASA JPL Visions of the Future – Space Posters URL Source: https://www.jpl.nasa.gov/galleries/visions-of-the-future/ Markdown Content: [](https://www.jpl.nasa.gov/galleries/visions-of-the-future/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [](https://www.facebook.com/dialog/feed?app_id=361412888534196&link=https%3A%2F%2Fwww.jpl.nasa.gov%2Fgalleries%2Fvision",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "gov",
-        "www",
-        "visions",
-        "20future",
-        "20of",
-        "20the",
-        "2fgalleries",
-        "2fvisions-of-the-future",
-        "2fwww",
-        "com",
-        "url"
-      ],
-      "hash": "9d20ea906e0bab1b2cb9acf1c819759f00def7d844d28ce6b522c1aeebfdadfd",
-      "learned_at": "2026-10-15T00:05:10+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2008/02/365-mer-1280-spirit.jpg?w=1024",
-      "title": "365-mer-1280-spirit.jpg",
-      "summary": "Title: 365-mer-1280-spirit.jpg URL Source: https://science.nasa.gov/wp-content/uploads/2008/02/365-mer-1280-spirit.jpg?w=1024 Published Time: Thu, 15 Oct 2026 04:30:41 GMT Markdown Content: Painting of a alien race figure with three wheels",
-      "keywords": [
-        "365-mer-1280-spirit",
-        "jpg",
-        "1024",
-        "2008",
-        "2026",
-        "alien",
-        "content",
-        "figure",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "oct"
-      ],
-      "hash": "f54c96d398bdb0d3044be2b86270a8f2e2ad689a7a1f42bfdb1cd882ba6403d7",
-      "learned_at": "2026-10-15T04:30:43+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/",
-      "title": "Hubble Gravitational Lenses - NASA Science",
-      "summary": "Title: Hubble Gravitational Lenses - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/ Published Time: 2024-09-23T11:00:11-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/soc",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "abb8ba119f700e4e8f38fa851a9d4014f5af020c33d119d74d37f3af2232dcb7",
-      "learned_at": "2026-10-15T04:30:47+00:00"
-    },
     {
       "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26643/PIA26643.tif?w=12650&h=4200&fit=clip&crop=faces%2Cfocalpoint",
       "title": "PIA26643.tif",
@@ -22401,6 +22285,167 @@
       ],
       "hash": "b645612e6cb9ed64a352de42482bb075cd3ace318546c942a4613f49ca99b82b",
       "learned_at": "2026-10-29T01:58:43+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/images/SchmidtB1.jpg",
+      "title": "SchmidtB1.jpg",
+      "summary": "Title: SchmidtB1.jpg URL Source: https://cneos.jpl.nasa.gov/images/SchmidtB1.jpg Published Time: Thu, 08 Jan 2026 22:17:45 GMT Markdown Content: A photograph of a telescope that is pointed at the stars above",
+      "keywords": [
+        "jpg",
+        "schmidtb1",
+        "2026",
+        "above",
+        "cneos",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "images",
+        "jan",
+        "jpl",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "18ca786846ad2f248385884d909ebabd697c56ed0816f1ce19059802bf74ebf0",
+      "learned_at": "2026-10-29T08:20:58+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/images/PS1_dome.jpg",
+      "title": "PS1_dome.jpg",
+      "summary": "Title: PS1_dome.jpg URL Source: https://cneos.jpl.nasa.gov/images/PS1_dome.jpg Published Time: Thu, 08 Jan 2026 22:17:45 GMT Markdown Content: An astronomy observatories next to some clouds with blue sky in the background",
+      "keywords": [
+        "jpg",
+        "ps1_dome",
+        "2026",
+        "astronomy",
+        "background",
+        "blue",
+        "clouds",
+        "cneos",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "images",
+        "jan"
+      ],
+      "hash": "850d8b1ec6c993cfae8b670d654544d7448065aba2e4a560cfb5aeccd147cb5d",
+      "learned_at": "2026-10-29T08:21:02+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sbdb.cgi",
+      "title": "Small-Body Database Lookup",
+      "summary": "Title: Small-Body Database Lookup URL Source: https://ssd.jpl.nasa.gov/sbdb.cgi Published Time: Thu, 22 Oct 2026 19:31:29 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sbdb.cgi#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sbdb.cgi#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "planets",
+        "cgi",
+        "sbdb",
+        "sats",
+        "ephemerides",
+        "image",
+        "images"
+      ],
+      "hash": "9cdd4ba625a6135584e2a64e0bdf2b63e4d8197f600c86a3899c102aa010ad57",
+      "learned_at": "2026-10-29T08:21:03+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/horizons.cgi",
+      "title": "Horizons System",
+      "summary": "Title: Horizons System URL Source: https://ssd.jpl.nasa.gov/horizons.cgi Published Time: Thu, 22 Oct 2026 19:31:29 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/horizons.cgi#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/horizons.cgi#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](http",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "horizons",
+        "planets",
+        "cgi",
+        "sats",
+        "ephemerides",
+        "image",
+        "images"
+      ],
+      "hash": "198a78f2ee09fd62453e57e745666ac037d0fc8cf83108406b0ac75f1029c607",
+      "learned_at": "2026-10-29T08:21:04+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=116",
+      "title": "SEBI | Processing Status",
+      "summary": "Title: SEBI | Processing Status URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=116 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=116 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiwe",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "116",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid"
+      ],
+      "hash": "bf0bfe0deb0275aa72fb16ac12f2873ba6340029d46d4e1f113b534bf49f4d17",
+      "learned_at": "2026-10-29T08:21:14+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/other/RegulatorySandbox.jsp",
+      "title": "SEBI | Regulatory Sandbox",
+      "summary": "Title: SEBI | Regulatory Sandbox URL Source: https://www.sebi.gov.in/sebiweb/other/RegulatorySandbox.jsp Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/other/RegulatorySandbox.jsp \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/other/RegulatorySandbox.jsp# \"Increase Font\") * [(A)]",
+      "keywords": [
+        "sebi",
+        "gov",
+        "https",
+        "www",
+        "sebiweb",
+        "font",
+        "html",
+        "jsp",
+        "other",
+        "regulatorysandbox",
+        "board",
+        "change",
+        "color",
+        "hindi"
+      ],
+      "hash": "3bb65014e2bcbf8c08601dabca09e39520ccf8922b709a780cbe9f34a12d5f6a",
+      "learned_at": "2026-10-29T08:21:22+00:00"
+    },
+    {
+      "url": "http://cdaweb.gsfc.nasa.gov/quickstartguides/CDAWeb_Quick_Start_guide.html",
+      "title": "URL Source: http://cdaweb.gsfc.nasa.gov/quickstartguides/CDAWeb_Quick_Start_guide.html",
+      "summary": "Title: URL Source: http://cdaweb.gsfc.nasa.gov/quickstartguides/CDAWeb_Quick_Start_guide.html Published Time: Tue, 20 Oct 2026 12:02:35 GMT Markdown Content: ## **CDAWeb Quick Start Guide** The NASA/GSFC Space Physics Data Facility ([SPDF](http://spdf.gsfc.nasa.gov/)) developed CDAWeb, the Coordinated Data Analysis (Workshop) Web data browsing and listing tool in 1993, to support interactive plotting of variables from multiple instruments on multiple investigations simultaneously on arbitrary, user-defined time-scales. This system depends on data in [Common Data Format/CDF] ([http://cdf.gsfc.nasa.gov/](http://cdf.gsfc.nasa.gov/)) or netCDF [https://www.unidata.ucar.edu/software/netcdf/](https://www.unidata.ucar.edu/software/netcdf/) containing metadata following the [ISTP Metadata Guidelines](http://spdf.gsfc.nasa.gov/istp_guide/istp_guide.html). Data can be displayed as plots, listings,",
+      "keywords": [
+        "cdaweb",
+        "data",
+        "gsfc",
+        "nasa",
+        "gov",
+        "http",
+        "cdf",
+        "https",
+        "istp",
+        "magnetic",
+        "multiple",
+        "netcdf",
+        "spdf",
+        "coordinated"
+      ],
+      "hash": "8fdc6e1466ac4af9c0b72128240be982dd9e5bd011d83f1bc603e2a409cdbf45",
+      "learned_at": "2026-10-29T08:21:41+00:00"
     }
   ],
   "failures": [
@@ -22506,6 +22551,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-29T08:22:15+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-29T08:22:15+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2012
+    },
     {
       "at": "2026-10-29T01:58:43+00:00",
       "kind": "core_promoted",
@@ -23427,29 +23487,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 1283
-    },
-    {
-      "at": "2026-10-20T12:58:10+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-20T12:58:09+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 17,
-      "frontier": 1292
     }
   ],
   "metrics": {
-    "successful_fetches": 1123,
+    "successful_fetches": 1130,
     "failed_fetches": 20,
     "duplicate_pages": 2,
     "candidate_promotions": 48,
-    "candidate_rejections": 134
+    "candidate_rejections": 135
   },
   "core_genome": {
     "query_weight": 3.0,
