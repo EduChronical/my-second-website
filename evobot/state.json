@@ -1,12 +1,14 @@
 {
   "schema": 2,
-  "generation": 185,
+  "generation": 186,
   "core_version": 49,
-  "runs": 184,
+  "runs": 185,
   "pages_learned": 1130,
-  "last_run": "2026-10-29T08:20:55+00:00",
+  "last_run": "2026-10-29T15:20:48+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
+    "https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
@@ -25,61 +27,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PI_Day_Banner_large.original.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "https://www.facebook.com/business/ads/lead-ads",
-    "https://unsplash.com/@thisisengineering",
-    "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
-    "https://www.cookiebot.com/",
-    "https://news.ycombinator.com/",
-    "https://www.youtube.com/watch?v=y6D3qUPEVGA",
-    "https://www.youtube.com/watch?v=NoOKQTb2h7A",
-    "https://www.youtube.com/watch?v=j3mk6tUokm4",
-    "https://www.youtube.com/watch?v=SQvp5_XlzRI",
-    "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
-    "https://www.youtube.com/watch?v=SDuXAHuc7W0",
-    "https://www.youtube.com/watch?v=rYnA4EeU8f8",
-    "https://www.youtube.com/watch?v=9eAxR_5iGwU",
-    "https://www.youtube.com/watch?v=0rJQi6oaZf0",
-    "https://www.youtube.com/watch?v=ynjNentVaxk",
-    "https://www.youtube.com/watch?v=HNWyu6G8PtQ",
-    "https://www.youtube.com/watch?v=cBG1KYa95JY",
-    "https://www.youtube.com/watch?v=G03N5_13Os0",
-    "https://www.youtube.com/watch?v=Ab2L1ktl8v0",
-    "https://www.youtube.com/watch?v=Rwhv38BVjUM",
-    "https://www.youtube.com/watch?v=5_z7k4DjClk",
-    "https://www.linkedin.com/company/jet-propulsion-laboratory/",
-    "https://www.iaucom4.org/",
-    "https://www.bcg.com/x/bcg-x-ai-science-institute",
-    "https://www.twilio.com/en-us/legal/privacy",
-    "https://www.braze.com/",
-    "https://github.com/trending",
-    "https://cdn.parsely.com/",
-    "https://retool.com/",
-    "https://bird.com/en-fr/legal/privacy",
-    "https://permutive.com/privacy/",
-    "https://cloud.google.com/",
-    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
-    "https://rubriq.com/",
-    "https://www.twitter.com/astromaterials",
-    "https://lp.constantcontactpages.com/sl/x2uIcln",
-    "https://lp.constantcontactpages.com/sl/x2uIcln",
-    "https://www.youtube.com/watch?v=RBasWgn5XhM&list=PLtiY5LIQjxYOcBVBfOsgQIvLow01XrNb7",
-    "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
-    "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
-    "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
-    "https://www.youtube.com/watch?v=f_sSzn87ljM",
-    "https://www.youtube.com/watch?v=eaSaVanPysA",
-    "https://www.stunnel.org/downloads.html",
-    "https://www.stunnel.org/downloads.html",
-    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
     "https://datatracker.ietf.org/doc/html/rfc3875",
     "https://datacenter.iers.org/data/16/bulletinc-072.txt",
-    "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26484.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_kSlf0I3.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg",
@@ -190,6 +142,62 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Edward_C._Ston.aa9be3b1.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vK_2.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19664.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/m2msc_Main.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "https://www.facebook.com/business/ads/lead-ads",
+    "https://unsplash.com/@thisisengineering",
+    "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
+    "https://www.cookiebot.com/",
+    "https://news.ycombinator.com/",
+    "https://www.youtube.com/watch?v=y6D3qUPEVGA",
+    "https://www.youtube.com/watch?v=NoOKQTb2h7A",
+    "https://www.youtube.com/watch?v=j3mk6tUokm4",
+    "https://www.youtube.com/watch?v=SQvp5_XlzRI",
+    "https://www.youtube.com/watch?v=Gr_AF_AB1AU",
+    "https://www.youtube.com/watch?v=SDuXAHuc7W0",
+    "https://www.youtube.com/watch?v=rYnA4EeU8f8",
+    "https://www.youtube.com/watch?v=9eAxR_5iGwU",
+    "https://www.youtube.com/watch?v=0rJQi6oaZf0",
+    "https://www.youtube.com/watch?v=ynjNentVaxk",
+    "https://www.youtube.com/watch?v=HNWyu6G8PtQ",
+    "https://www.youtube.com/watch?v=cBG1KYa95JY",
+    "https://www.youtube.com/watch?v=G03N5_13Os0",
+    "https://www.youtube.com/watch?v=Ab2L1ktl8v0",
+    "https://www.youtube.com/watch?v=Rwhv38BVjUM",
+    "https://www.youtube.com/watch?v=5_z7k4DjClk",
+    "https://www.linkedin.com/company/jet-propulsion-laboratory/",
+    "https://www.iaucom4.org/",
+    "https://www.bcg.com/x/bcg-x-ai-science-institute",
+    "https://www.twilio.com/en-us/legal/privacy",
+    "https://www.braze.com/",
+    "https://github.com/trending",
+    "https://cdn.parsely.com/",
+    "https://retool.com/",
+    "https://bird.com/en-fr/legal/privacy",
+    "https://permutive.com/privacy/",
+    "https://cloud.google.com/",
+    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+    "https://rubriq.com/",
+    "https://www.twitter.com/astromaterials",
+    "https://lp.constantcontactpages.com/sl/x2uIcln",
+    "https://lp.constantcontactpages.com/sl/x2uIcln",
+    "https://www.youtube.com/watch?v=RBasWgn5XhM&list=PLtiY5LIQjxYOcBVBfOsgQIvLow01XrNb7",
+    "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
+    "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
+    "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
+    "https://www.youtube.com/watch?v=f_sSzn87ljM",
+    "https://www.youtube.com/watch?v=eaSaVanPysA",
+    "https://www.stunnel.org/downloads.html",
+    "https://www.stunnel.org/downloads.html",
+    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
+    "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://www.innovation-sandbox.in/",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
@@ -243,15 +251,7 @@
     "https://pds-geosciences.wustl.edu/missions/apollo/index.htm",
     "https://publicationethics.org/",
     "https://rubriq.cn/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19664.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/m2msc_Main.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
     "https://github.com/autoplot/documentation/wiki/help",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
@@ -259,6 +259,7 @@
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
+    "http://aa.usno.navy.mil/data/index.php",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.expita.com/nomime.html",
     "http://www.youronlinechoices.com/uk/opt-out-help",
@@ -269,7 +270,6 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
-    "http://aa.usno.navy.mil/data/index.php",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://www.nineplanets.org/luna.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
@@ -283,30 +283,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://naif.jpl.nasa.gov/naif/self_training.html",
-    "https://naif.jpl.nasa.gov/naif/credit.html",
-    "https://naif.jpl.nasa.gov/naif/feedback.html",
-    "https://naif.jpl.nasa.gov/naif/gettinghelp.html",
-    "https://naif.jpl.nasa.gov/naif/sitemap.html",
-    "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/naif0012.tls",
-    "https://naif.jpl.nasa.gov/pub/naif/",
-    "https://naif.jpl.nasa.gov/naif/Cosmographia_Release_4.2.pdf",
-    "https://naif.jpl.nasa.gov/pub/naif/misc/JNISpice/JNISpice_N0067_whats.new",
-    "https://naif.jpl.nasa.gov/naif/data_pds_archived.html",
-    "https://naif.jpl.nasa.gov/naif/SPICE_Users.pdf",
-    "http://naif.jpl.nasa.gov/pub/naif/misc/toolkit_dev/N0067",
-    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011.tpc",
-    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011_n0066.tpc",
-    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00010.tpc",
-    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/13_comments_in_kernels.pdf",
-    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/13_comments_in_kernels.pdf",
-    "https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html",
-    "https://naif.jpl.nasa.gov/naif/public.html",
-    "https://naif.jpl.nasa.gov/naif/ancillary_data.pdf",
-    "https://naif.jpl.nasa.gov/naif/observation_geometry.pdf",
-    "https://naif.jpl.nasa.gov/naif/solar_system_events.pdf",
-    "https://naif.jpl.nasa.gov/naif/links.html",
-    "https://naif.jpl.nasa.gov/naif/utilities.html",
     "https://naif.jpl.nasa.gov/naif/toolkit_C.html",
     "https://naif.jpl.nasa.gov/naif/toolkit_FORTRAN.html",
     "https://naif.jpl.nasa.gov/naif/toolkit_IDL.html",
@@ -8643,6 +8619,98 @@
     },
     "https://cdn.cookielaw.org/logos/38bdeb28-e6fb-46a2-bd31-34e5d82df3c7/58a36bd0-397a-45f2-9983-842b3d2ac74a/01565d41-2c71-4d31-b9dd-293c6e88aed0/header-logo_snpo_lq.png": {
       "at": "2026-10-29T08:22:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/pub/naif/misc/JNISpice/JNISpice_N0067_whats.new": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/data_pds_archived.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/SPICE_Users.pdf": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/ancillary_data.pdf": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/self_training.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/credit.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/feedback.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/gettinghelp.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/sitemap.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/naif0012.tls": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/pub/naif/": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/Cosmographia_Release_4.2.pdf": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/13_comments_in_kernels.pdf": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/public.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/observation_geometry.pdf": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/solar_system_events.pdf": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/links.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://naif.jpl.nasa.gov/naif/utilities.html": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "http://naif.jpl.nasa.gov/pub/naif/misc/toolkit_dev/N0067": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011.tpc": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011_n0066.tpc": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "http://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00010.tpc": {
+      "at": "2026-10-29T15:20:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Destination-Moon_cropped.width-1024.jpg": {
+      "at": "2026-10-29T15:20:50+00:00",
       "status": "robots_disallow"
     }
   },
@@ -22552,6 +22620,21 @@
   ],
   "events": [
     {
+      "at": "2026-10-29T15:20:50+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-29T15:20:50+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 0 new pages",
+      "attempted": 24,
+      "frontier": 1988
+    },
+    {
       "at": "2026-10-29T08:22:15+00:00",
       "kind": "core_unchanged",
       "message": "No candidate beat the current core",
@@ -23461,32 +23544,6 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 1290
-    },
-    {
-      "at": "2026-10-20T17:54:34+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v33",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-20T17:54:34+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 1283
     }
   ],
   "metrics": {
@@ -23494,7 +23551,7 @@
     "failed_fetches": 20,
     "duplicate_pages": 2,
     "candidate_promotions": 48,
-    "candidate_rejections": 135
+    "candidate_rejections": 136
   },
   "core_genome": {
     "query_weight": 3.0,
