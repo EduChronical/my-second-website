@@ -1,6 +1,6 @@
 """EvoBot evolved pure core. Generated and benchmarked by the protected supervisor."""
 STOPWORDS=['the', 'and', 'for', 'with', 'that', 'this', 'from', 'into', 'your', 'you', 'are', 'was', 'were', 'have', 'has', 'had', 'but', 'not', 'can', 'will', 'would', 'about', 'what', 'when', 'where', 'which', 'their', 'there', 'than', 'then', 'them', 'they', 'its', 'our', 'out', 'all', 'also', 'more', 'most', 'how', 'why', 'who', 'an', 'of', 'to', 'in', 'on', 'at', 'is', 'it', 'as', 'be', 'or', 'by']
-TRUSTED_HOSTS=['isro.gov.in', 'nasa.gov', 'noaa.gov', 'who.int', 'worldbank.org', 'imf.org', 'rbi.org.in', 'sebi.gov.in', 'pib.gov.in', 'data.gov.in', 'arxiv.org', 'nature.com', 'science.org', 'www.nasa.gov', 'www.jpl.nasa.gov', 'ssd.jpl.nasa.gov', 'www.nature.com', 'www.springernature.com', 'science.nasa.gov', 'svs.gsfc.nasa.gov', 'jpl.nasa.gov', 'nssdc.gsfc.nasa.gov', 'assets.science.nasa.gov', 'info.arxiv.org']
+TRUSTED_HOSTS=['isro.gov.in', 'nasa.gov', 'noaa.gov', 'who.int', 'worldbank.org', 'imf.org', 'rbi.org.in', 'sebi.gov.in', 'pib.gov.in', 'data.gov.in', 'arxiv.org', 'nature.com', 'science.org', 'www.nasa.gov', 'www.jpl.nasa.gov', 'www.nature.com', 'ssd.jpl.nasa.gov', 'www.springernature.com', 'science.nasa.gov', 'svs.gsfc.nasa.gov', 'jpl.nasa.gov', 'nssdc.gsfc.nasa.gov', 'assets.science.nasa.gov', 'www.sebi.gov.in']
 QUERY_WEIGHT=3.0
 TRUSTED_BONUS=8.0
 HTTPS_BONUS=0.2
