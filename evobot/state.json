@@ -1,26 +1,24 @@
 {
   "schema": 2,
-  "generation": 188,
+  "generation": 189,
   "core_version": 50,
-  "runs": 187,
-  "pages_learned": 1144,
-  "last_run": "2026-10-30T00:05:30+00:00",
+  "runs": 188,
+  "pages_learned": 1152,
+  "last_run": "2026-10-30T05:40:03+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
-    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
     "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
-    "https://pds.jpl.nasa.gov/home/about/",
-    "https://pds.jpl.nasa.gov/home/users/",
-    "https://pds.jpl.nasa.gov/home/proposers/",
-    "https://pds.jpl.nasa.gov/home/providers/",
     "https://www.nasa.gov/mission/apollo-7/",
     "https://www.nasa.gov/nasa-missions/",
     "https://spaceplace.nasa.gov/sp/",
+    "https://science.nasa.gov/skywatching/whats-up/",
+    "http://pds.jpl.nasa.gov/home/about/PDS_Charter_2015.docx",
+    "http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
+    "http://pds.jpl.nasa.gov/home/about/node-descriptions.shtml",
+    "http://pds.jpl.nasa.gov/contact/contact.shtml",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
     "https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
@@ -134,7 +132,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Saving_Galileo_Digital_postcard_1-2.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E2__PIA26150_photo.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-3791.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -157,12 +154,12 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
-    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
+    "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -295,18 +292,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://spaceplace.nasa.gov/resources/homepage/search-button.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nav_earth.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png",
-    "https://science.nasa.gov/skywatching/whats-up/",
-    "http://pds.jpl.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf",
-    "http://pds.jpl.nasa.gov/home/about/PDS_Charter_2015.docx",
-    "http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
-    "http://pds.jpl.nasa.gov/home/about/node-descriptions.shtml",
-    "http://pds.jpl.nasa.gov/contact/contact.shtml",
-    "http://pds.jpl.nasa.gov/images/PDS_OrgChart.jpg",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130412AP_RE_90165_18018.bsp",
     "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130528BP_IRRE_00256_25017.bsp",
     "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140127AP_RE_90165_18018.bsp",
     "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140809BP_IRRE_00256_25017.bsp",
@@ -1997,7 +1982,25 @@
     "https://spaceplace.nasa.gov/resources/homepage/logo.png",
     "https://ssd.jpl.nasa.gov/doc/de430_de431.html",
     "https://ssd.jpl.nasa.gov/discovery.html",
-    "https://ssd.jpl.nasa.gov/announcements/"
+    "https://ssd.jpl.nasa.gov/announcements/",
+    "https://pds.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf",
+    "https://pds.nasa.gov/home/about/PDS_Charter_2015.docx",
+    "https://pds.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
+    "https://pds.nasa.gov/home/about/node-descriptions.shtml",
+    "https://pds.nasa.gov/contact/contact.shtml",
+    "https://pds.nasa.gov/images/PDS_OrgChart.jpg",
+    "https://pds.nasa.gov/datasearch/data-search/",
+    "https://pds.nasa.gov/datasearch/subscription-service/top.cfm",
+    "https://pds.nasa.gov/tools/about/",
+    "https://pds.nasa.gov/datastandards/about/",
+    "https://pds.nasa.gov/home/users/",
+    "https://pds.jpl.nasa.gov/home/proposers/",
+    "https://pds.jpl.nasa.gov/home/providers/",
+    "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png",
+    "https://spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png",
+    "http://pds.jpl.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf",
+    "http://pds.jpl.nasa.gov/images/PDS_OrgChart.jpg",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8785,193 +8788,49 @@
       "at": "2026-10-30T00:06:03+00:00",
       "status": "ok",
       "hash": "5a694c2c89ad4ba4bdc7842ca4d7a71b1c82fc4494a0ffbafa0c864ce4070d9c"
+    },
+    "https://pds.jpl.nasa.gov/home/about/": {
+      "at": "2026-10-30T05:40:06+00:00",
+      "status": "ok",
+      "hash": "a80065f5469d88bc6ba24da9d1b0de57226b579980a3a2c0ba1e0c82d5079b2c"
+    },
+    "https://pds.jpl.nasa.gov/home/users/": {
+      "at": "2026-10-30T05:40:07+00:00",
+      "status": "ok",
+      "hash": "5be7a68c298e4872e679f392763e4f303213dce08b5db97330328e0b31249641"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/search-button.png": {
+      "at": "2026-10-30T05:40:08+00:00",
+      "status": "ok",
+      "hash": "5491ffa8e3ab02410b6fd64a7994fe541e61d25754e39304def3902799a75548"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/nav_earth.png": {
+      "at": "2026-10-30T05:40:11+00:00",
+      "status": "ok",
+      "hash": "216afba7cc548a96ac6b0aadc20f96a119101251052265af60993d07ebca6025"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130412AP_RE_90165_18018.bsp": {
+      "at": "2026-10-30T05:40:13+00:00",
+      "status": "ok",
+      "hash": "580b2c43c1cba0b1fc0cfa24f10f1ece13375eb31bbdb9aea1c44f5ee3936d3e"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6": {
+      "at": "2026-10-30T05:40:24+00:00",
+      "status": "ok",
+      "hash": "5b771250eeaa30f462faf7d7e00e9324e32f10ba2936c3d52149671bd9a9be1c"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7": {
+      "at": "2026-10-30T05:40:34+00:00",
+      "status": "ok",
+      "hash": "51b69fdc4cfafacd09ea96b655bfebd73d3bf77ca0c482e378a45b888eef9f27"
+    },
+    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/": {
+      "at": "2026-10-30T05:40:36+00:00",
+      "status": "ok",
+      "hash": "654ecb573d873711b5269c79b5e5c2f1e6a2c3b45a9d82c94d49591107579a77"
     }
   },
   "memory": [
-    {
-      "url": "https://www.jpl.nasa.gov/topics/jpl-life/",
-      "title": "JPL Life | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: JPL Life | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/topics/jpl-life/ Markdown Content: Nestled at the base of the San Gabriel Mountains in Southern California, NASA's Jet Propulsion Laboratory – JPL for short –is a federally funded research and development center managed by Caltech. Amid a sprawling and picturesque campus-like setting, where deer and other critters are a common sight, there are limitless possibilities for high-tech innovation. JPL's main activities involve robotic space and Earth science missions – for example, we've visited every planet in our solar system and landed five rovers on Mars. Life at JPL includes a dedicated and diverse population of scientists, engineers, technologists, developers, communicators, designers, safety experts, business administrators, and more. They think big and dream big. Our robust [internship program]",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "employee",
-        "ideas",
-        "space",
-        "big",
-        "california",
-        "caltech",
-        "development",
-        "enjoy",
-        "every",
-        "experience",
-        "high-tech",
-        "https"
-      ],
-      "hash": "5b4a9f2a284f1231f6e09b0b6e7f403fd1604bea3b8c44562d24d5d2b2024cf5",
-      "learned_at": "2026-10-15T14:17:02+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-      "title": "robot_shortanswer.en.png",
-      "summary": "Title: robot_shortanswer.en.png URL Source: https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png Markdown Content: Espionage spy figures robot in form of a globe working on something",
-      "keywords": [
-        "png",
-        "robot",
-        "robot_shortanswer",
-        "content",
-        "espionage",
-        "figures",
-        "form",
-        "globe",
-        "gov",
-        "https",
-        "layout",
-        "markdown",
-        "nasa",
-        "resources"
-      ],
-      "hash": "0748a9ab7f2a59a7af0b48091548fd224f5c4bc9f243f722538d854660cfb064",
-      "learned_at": "2026-10-15T14:17:06+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/image-of-the-day/",
-      "title": "Image of the Day - NASA",
-      "summary": "Title: Image of the Day - NASA URL Source: https://www.nasa.gov/image-of-the-day/ Published Time: 2023-09-07T13:29:24-04:00 Markdown Content: [The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft are seen illuminated by sunlight against... ![Image 1: The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft are seen illuminated by sunlight against the predawn sky.](https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg)](https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/) [Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket... ![Image 2: View of a SpaceX payload fairing interior showing mounted satellites and hardware arranged along the center structure, surrounded by the curved black fairi",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "image",
-        "2026",
-        "galaxies",
-        "spacecraft",
-        "spacex",
-        "image-article",
-        "jpg",
-        "uploads",
-        "wp-content",
-        "against"
-      ],
-      "hash": "7499093d813c54a90bf9ce03271e940eef2074405e6c19b98ea861f125d9407f",
-      "learned_at": "2026-10-15T14:17:18+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/directions-and-maps/",
-      "title": "Directions and Maps | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Directions and Maps | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/directions-and-maps/ Markdown Content: [](https://www.jpl.nasa.gov/jpl-and-the-community/directions-and-maps/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Directions and Maps [![Image 3: Map](https://d2pn8kiwq2w21t.cloudfront.net/images/dir",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "maps",
-        "jpg",
-        "images",
-        "map",
-        "pasadena",
-        "who-we-are",
-        "angeles",
-        "directions",
-        "image"
-      ],
-      "hash": "6a5eb52b6612afa6e9c08d39dd69340c5ebdc00acc1997fd1527e8db3308b7e7",
-      "learned_at": "2026-10-15T14:17:21+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/a-to-z-topics-listing/",
-      "title": "A to Z Topics Listing - NASA",
-      "summary": "Title: A to Z Topics Listing - NASA URL Source: https://www.nasa.gov/a-to-z-topics-listing/ Published Time: 2023-09-27T09:39:50-04:00 Markdown Content: Use this A to Z Topics listing to discover all things NASA! [A](https://www.nasa.gov/a-to-z-topics-listing/#A) [B](https://www.nasa.gov/a-to-z-topics-listing/#B) [C](https://www.nasa.gov/a-to-z-topics-listing/#C) [D](https://www.nasa.gov/a-to-z-topics-listing/#D) [E](https://www.nasa.gov/a-to-z-topics-listing/#E) [F](https://www.nasa.gov/a-to-z-topics-listing/#F) [G](https://www.nasa.gov/a-to-z-topics-listing/#G) [H](https://www.nasa.gov/a-to-z-topics-listing/#H) [I](https://www.nasa.gov/a-to-z-topics-listing/#I) [J](https://www.nasa.gov/a-to-z-topics-listing/#J) [K](https://www.nasa.gov/a-to-z-topics-listing/#K) [L](https://www.nasa.gov/a-to-z-topics-listing/#L) [M](https://www.nasa.gov/a-to-z-topics-listing/#M) [N](https://www.nasa.gov/",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "a-to-z-topics-listing",
-        "science",
-        "eclipse",
-        "listing",
-        "mission",
-        "topics",
-        "accessibility",
-        "ace",
-        "acme",
-        "advanced"
-      ],
-      "hash": "5b430022ca8bbaa4eda2e6786d823719e75d6950fc40d0dacc88bec74fdf6b8d",
-      "learned_at": "2026-10-15T14:17:23+00:00"
-    },
-    {
-      "url": "https://ares.jsc.nasa.gov/astromaterials3d/",
-      "title": "Astromaterials 3D",
-      "summary": "Title: Astromaterials 3D URL Source: https://ares.jsc.nasa.gov/astromaterials3d/ Markdown Content: [![Image 1: NASA Astromaterials 3D Logo](https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png)](https://ares.jsc.nasa.gov/astromaterials3d/#) * [Apollo Lunar Collection](https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm) * [Antarctic Meteorite Collection](https://ares.jsc.nasa.gov/astromaterials3d/antarctic-meteorite.htm) ![Image 2: NASA Astromaterials 3D Logo](https://ares.jsc.nasa.gov/astromaterials3d/_images/_interface/a3d-logo.png) A virtual library for exploration and research of NASA's space rock collections [Sample **GRO 17099,0 (Subsample)**](https://ares.jsc.nasa.gov/astromaterials3d/sample-details.htm?sample=GRO17099-0_sub) [![Image 3: Apollo collection icon](https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/apollo-lander.png) APOLLO LU",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "ares",
-        "jsc",
-        "astromaterials3d",
-        "collection",
-        "astromaterials",
-        "www",
-        "_images",
-        "htm",
-        "image",
-        "png",
-        "apollo"
-      ],
-      "hash": "e3e1bd2fe411467899a6c79920f15e3410435d5838fcdfa4c4bfcf153700d07a",
-      "learned_at": "2026-10-15T14:17:32+00:00"
-    },
-    {
-      "url": "https://svs.gsfc.nasa.gov/goto",
-      "title": "NASA Scientific Visualization Studio",
-      "summary": "Title: NASA Scientific Visualization Studio URL Source: https://svs.gsfc.nasa.gov/goto Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Home Page](https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg)](https://www.nasa.gov/)[Scientific Visualization Studio](https://svs.gsfc.nasa.gov/) * [Galleries](https://svs.gsfc.nasa.gov/gallery/the-galleries/) * [Help](https://svs.gsfc.nasa.gov/help/) Search # 404 > \"That just goes to show that you never know, although what it is we never know I suspect we'll never know.\" Terry Pratchett, Snuff [Return to home page](https://svs.gsfc.nasa.gov/) [![Image 2: NASA Home Page](https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg)](https://www.nasa.gov/)[![Image 3: USA.gov Home Page](https://svs.gsfc.nasa.gov/static/svs/images/USAgov_logo.svg)](https://www.usa.gov/) * * * [Privacy Policy and Important No",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "svs",
-        "gsfc",
-        "www",
-        "home",
-        "page",
-        "image",
-        "images",
-        "know",
-        "never",
-        "static",
-        "svg"
-      ],
-      "hash": "2adc04f1e91b685a806691310b60e806df6512a6d79363a89fb1dafc61915001",
-      "learned_at": "2026-10-15T14:17:37+00:00"
-    },
-    {
-      "url": "https://eyes.nasa.gov/",
-      "title": "Eyes - NASA Science",
-      "summary": "Title: Eyes - NASA Science URL Source: https://eyes.nasa.gov/ Published Time: 2024-03-15T16:46:47-04:00 Markdown Content: [![Image 13: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 14: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimedi",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "events",
-        "eyes",
-        "image",
-        "plus",
-        "podcasts"
-      ],
-      "hash": "5edd24ad47a30c3866ab7e251abde1757f585ab7226cb2f784a92ccb23eeb4d3",
-      "learned_at": "2026-10-15T14:17:42+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/edu/news/",
       "title": "Edu News | NASA JPL Education",
@@ -22587,6 +22446,190 @@
       ],
       "hash": "5a694c2c89ad4ba4bdc7842ca4d7a71b1c82fc4494a0ffbafa0c864ce4070d9c",
       "learned_at": "2026-10-30T00:06:03+00:00"
+    },
+    {
+      "url": "https://pds.jpl.nasa.gov/home/about/",
+      "title": "PDS: About the PDS",
+      "summary": "Title: PDS: About the PDS URL Source: https://pds.nasa.gov/home/about/ Markdown Content: The PDS is a federation of nine teams geographically distributed around the U.S. Six are science discipline nodes, focusing on Atmospheres, Geosciences, Cartography and Imaging Sciences, Planetary Plasma Interactions, Ring-Moon Systems, and Small Bodies. There are two support nodes: the Engineering Node, and the Navigation and Ancillary Information Node. The ninth team is the project management group, which includes a project scientist function. Several of the nodes have \"sub-nodes\" to help with a specific aspect of the node's discipline. Several of the nodes oversee one or more data nodes, established for a short period of time to deliver a specific data collection to the PDS. Each node is led by an expert in the subject discipline, and each has an advisory group made up of other practitioners of th",
+      "keywords": [
+        "pds",
+        "nasa",
+        "node",
+        "gov",
+        "https",
+        "nodes",
+        "home",
+        "contact",
+        "discipline",
+        "each",
+        "information",
+        "report",
+        "data",
+        "group"
+      ],
+      "hash": "a80065f5469d88bc6ba24da9d1b0de57226b579980a3a2c0ba1e0c82d5079b2c",
+      "learned_at": "2026-10-30T05:40:06+00:00"
+    },
+    {
+      "url": "https://pds.jpl.nasa.gov/home/users/",
+      "title": "PDS: Information for Data Users",
+      "summary": "Title: PDS: Information for Data Users URL Source: https://pds.nasa.gov/home/users/ Markdown Content: ## Researchers * [Search or browse](https://pds.nasa.gov/datasearch/data-search/) for data sets * [Get notified (subscribe)](https://pds.nasa.gov/datasearch/subscription-service/top.cfm) when new data become available * [Find tools](https://pds.nasa.gov/tools/about/) for viewing and working with PDS data * [Learn about](https://pds.nasa.gov/datastandards/about/) PDS data standards ## Educators, Students, and the General Public The PDS is mainly designed for scientists researching the planets. While you may find what you are looking for here, you may also find the sites below to be helpful. * [Planetary Photojournal](http://photojournal.jpl.nasa.gov/index.html) A searchable collection of press release images from NASA planetary missions. * [Map a Planet](https://astrogeology.usgs.gov/tool",
+      "keywords": [
+        "pds",
+        "gov",
+        "nasa",
+        "https",
+        "data",
+        "find",
+        "tools",
+        "datasearch",
+        "galleries",
+        "html",
+        "http",
+        "images",
+        "may",
+        "photojournal"
+      ],
+      "hash": "5be7a68c298e4872e679f392763e4f303213dce08b5db97330328e0b31249641",
+      "learned_at": "2026-10-30T05:40:07+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/search-button.png",
+      "title": "search-button.png",
+      "summary": "Title: search-button.png URL Source: https://spaceplace.nasa.gov/resources/homepage/search-button.png Markdown Content: A 73x26 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "png",
+        "search-button",
+        "73x26",
+        "avatar",
+        "content",
+        "gov",
+        "homepage",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "5491ffa8e3ab02410b6fd64a7994fe541e61d25754e39304def3902799a75548",
+      "learned_at": "2026-10-30T05:40:08+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/nav_earth.png",
+      "title": "nav_earth.png",
+      "summary": "Title: nav_earth.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nav_earth.png Markdown Content: A green icon features a blue and white representation of the Earth with scattered clouds",
+      "keywords": [
+        "nav_earth",
+        "png",
+        "blue",
+        "clouds",
+        "content",
+        "earth",
+        "features",
+        "gov",
+        "green",
+        "homepage",
+        "https",
+        "icon",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "216afba7cc548a96ac6b0aadc20f96a119101251052265af60993d07ebca6025",
+      "learned_at": "2026-10-30T05:40:11+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130412AP_RE_90165_18018.bsp",
+      "title": "Sorry: Page not Found",
+      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/eph/satellites/130412AP_RE_90165_18018.bsp Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/satellites/130412AP_RE_90165_18018.bsp#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "planets",
+        "satellites",
+        "130412ap_re_90165_18018",
+        "bsp",
+        "eph",
+        "ftp",
+        "sats"
+      ],
+      "hash": "580b2c43c1cba0b1fc0cfa24f10f1ece13375eb31bbdb9aea1c44f5ee3936d3e",
+      "learned_at": "2026-10-30T05:40:13+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "5b771250eeaa30f462faf7d7e00e9324e32f10ba2936c3d52149671bd9a9be1c",
+      "learned_at": "2026-10-30T05:40:24+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "51b69fdc4cfafacd09ea96b655bfebd73d3bf77ca0c482e378a45b888eef9f27",
+      "learned_at": "2026-10-30T05:40:34+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
+      "title": "Able 5A (Pioneer P-30) - NASA Science",
+      "summary": "Title: Able 5A (Pioneer P-30) - NASA Science URL Source: https://science.nasa.gov/mission/pioneer-p-30-able-5a/ Published Time: 2017-11-15T00:40:41-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/n",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "654ecb573d873711b5269c79b5e5c2f1e6a2c3b45a9d82c94d49591107579a77",
+      "learned_at": "2026-10-30T05:40:36+00:00"
     }
   ],
   "failures": [
@@ -22692,6 +22735,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-30T05:40:37+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-30T05:40:37+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 15,
+      "frontier": 1994
+    },
     {
       "at": "2026-10-30T00:06:04+00:00",
       "kind": "core_unchanged",
@@ -23602,40 +23660,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 1322
-    },
-    {
-      "at": "2026-10-21T04:30:25+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v34",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-21T04:30:25+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 12,
-      "frontier": 1296
     }
   ],
   "metrics": {
-    "successful_fetches": 1144,
+    "successful_fetches": 1152,
     "failed_fetches": 20,
     "duplicate_pages": 2,
     "candidate_promotions": 49,
-    "candidate_rejections": 137
+    "candidate_rejections": 138
   },
   "core_genome": {
     "query_weight": 3.0,
