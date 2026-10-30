@@ -1,19 +1,26 @@
 {
   "schema": 2,
-  "generation": 187,
+  "generation": 188,
   "core_version": 50,
-  "runs": 186,
-  "pages_learned": 1136,
-  "last_run": "2026-10-29T20:23:40+00:00",
+  "runs": 187,
+  "pages_learned": 1144,
+  "last_run": "2026-10-30T00:05:30+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
+    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
+    "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
+    "https://pds.jpl.nasa.gov/home/about/",
+    "https://pds.jpl.nasa.gov/home/users/",
+    "https://pds.jpl.nasa.gov/home/proposers/",
+    "https://pds.jpl.nasa.gov/home/providers/",
+    "https://www.nasa.gov/mission/apollo-7/",
+    "https://www.nasa.gov/nasa-missions/",
+    "https://spaceplace.nasa.gov/sp/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spacecraft-AR.width-1024.jpg",
     "https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html",
-    "https://www.jpl.jobs/",
-    "https://www.jpl.jobs/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
-    "https://jpl.jobs/",
-    "https://jpl.jobs/university-recruiting",
     "https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25629.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26617-NISAR_Nunatak-MAIN.2e16d0ba.fill-400x400-c50.png",
@@ -151,6 +158,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "https://www.jpl.jobs/",
+    "https://www.jpl.jobs/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
+    "https://jpl.jobs/",
+    "https://jpl.jobs/university-recruiting",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -254,12 +266,12 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://github.com/autoplot/documentation/wiki/help",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
-    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://aa.usno.navy.mil/data/index.php",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.expita.com/nomime.html",
     "http://www.youronlinechoices.com/uk/opt-out-help",
@@ -283,30 +295,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://pds-geosciences.wustl.edu/missions/apollo/",
     "http://books.nap.edu/catalog.php?record_id=11954",
-    "https://ssd.jpl.nasa.gov/sb/orbits.html",
-    "https://ssd.jpl.nasa.gov/doc/",
-    "https://ssd.jpl.nasa.gov/discovery.html",
-    "https://ssd.jpl.nasa.gov/announcements/",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=6",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=7",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1",
-    "https://science.nasa.gov/mission/pioneer-p-30-able-5a/",
-    "https://science.nasa.gov/mission/pioneer-p-31-able-5b/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024",
-    "https://pds.jpl.nasa.gov/home/about/",
-    "https://pds.jpl.nasa.gov/home/users/",
-    "https://pds.jpl.nasa.gov/home/proposers/",
-    "https://pds.jpl.nasa.gov/home/providers/",
-    "https://www.nasa.gov/mission/apollo-7/",
-    "https://www.nasa.gov/nasa-missions/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
-    "https://spaceplace.nasa.gov/resources/homepage/nasa.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png",
-    "https://spaceplace.nasa.gov/resources/homepage/logo.png",
-    "https://spaceplace.nasa.gov/sp/",
     "https://spaceplace.nasa.gov/resources/homepage/search-button.png",
     "https://spaceplace.nasa.gov/resources/homepage/nav_earth.png",
     "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png",
@@ -2004,7 +1992,12 @@
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=85&smid=0",
     "https://www.sebi.gov.in/enforcement.html",
     "https://www.sebi.gov.in/enforcement/orders.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1"
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=150&h=150&crop=1",
+    "https://spaceplace.nasa.gov/resources/homepage/logo.png",
+    "https://ssd.jpl.nasa.gov/doc/de430_de431.html",
+    "https://ssd.jpl.nasa.gov/discovery.html",
+    "https://ssd.jpl.nasa.gov/announcements/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -8752,193 +8745,49 @@
       "at": "2026-10-29T20:24:07+00:00",
       "status": "ok",
       "hash": "5b5f6f72dc17b4cfabb2775ca3c7361d2d79aae6732963a5c908303391bb134c"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1": {
+      "at": "2026-10-30T00:05:32+00:00",
+      "status": "ok",
+      "hash": "e091d874a8ffe0aca17ef0d55dac9b7442154872edf1490431152481fc30109c"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024": {
+      "at": "2026-10-30T00:05:34+00:00",
+      "status": "ok",
+      "hash": "5d851d4984dc728c9876f2d43dae46115c733e81cbc6f4f30218bcf887f59e7d"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/nasa.png": {
+      "at": "2026-10-30T00:05:36+00:00",
+      "status": "ok",
+      "hash": "cc9a8f29c78fd104b2da4f4cd7d8a1853af71ed028ebd45bc28ac6c6f07948cd"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png": {
+      "at": "2026-10-30T00:05:37+00:00",
+      "status": "ok",
+      "hash": "055066097bbf5e5f2f3e817c62a3bf32da34102f73a9304504329fb21015141c"
+    },
+    "https://ssd.jpl.nasa.gov/sb/orbits.html": {
+      "at": "2026-10-30T00:05:42+00:00",
+      "status": "ok",
+      "hash": "34f9eb7e093c6585cc85929f9b47bffb2854261d40ffe6ffb368b78c79b41779"
+    },
+    "https://ssd.jpl.nasa.gov/doc/": {
+      "at": "2026-10-30T00:05:43+00:00",
+      "status": "ok",
+      "hash": "d49ccd072c675233cadeabffad8540185b6a38e3d0e09763177f7b7442046398"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4": {
+      "at": "2026-10-30T00:05:54+00:00",
+      "status": "ok",
+      "hash": "29f3a826b941826c9be65627452d443c3ce8f69677ffd1d17c1ec3880e5debfc"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5": {
+      "at": "2026-10-30T00:06:03+00:00",
+      "status": "ok",
+      "hash": "5a694c2c89ad4ba4bdc7842ca4d7a71b1c82fc4494a0ffbafa0c864ce4070d9c"
     }
   },
   "memory": [
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/news/index.html",
-      "title": "Index of News Pages",
-      "summary": "Title: Index of News Pages URL Source: https://nssdc.gsfc.nasa.gov/planetary/news/index.html Markdown Content: * * * --------------- Planetary News --------------- * * * * * * ### [Evidence of Martian Land of Lakes Discovered - 4 December 2000](https://nssdc.gsfc.nasa.gov/planetary/news/mars_lake_pr_20001204.html) ### [New Images Suggest Present-Day Sources of Liquid Water on Mars - 22 June 2000](https://nssdc.gsfc.nasa.gov/planetary/news/mars_water_pr_20000622.html) ### [Astronomers Catch Images of Giant Metal Dog Bone Asteroid - 4 May 2000](https://nssdc.gsfc.nasa.gov/planetary/news/kleopatra_pr_20000504.html) ### [Astronomers Discover a Moon Orbiting an Asteroid - 6 October 1999](https://nssdc.gsfc.nasa.gov/planetary/news/eugenia_pr_19991006.html) ### [Mars Climate Orbiter May Have Been Destroyed - 23 September 1999](https://nssdc.gsfc.nasa.gov/planetary/news/mco_19990923.html) ### [T",
-      "keywords": [
-        "nasa",
-        "gov",
-        "news",
-        "planetary",
-        "gsfc",
-        "html",
-        "https",
-        "nssdc",
-        "1999",
-        "2000",
-        "david",
-        "june",
-        "mars",
-        "williams"
-      ],
-      "hash": "ad5156a6a83aa2e32d21143bd4a9d2159b05890ccbec790d63e7f7956c068688",
-      "learned_at": "2026-10-15T09:22:31+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/news/2020/2/21/doing-the-math-on-why-we-have-leap-day/",
-      "title": "Doing the Math on Why We Have Leap Day – News | NASA JPL Education",
-      "summary": "Title: Doing the Math on Why We Have Leap Day – News | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/news/2020/2/21/doing-the-math-on-why-we-have-leap-day/ Markdown Content: You may have noticed that there's an extra day on your calendar this year. That's not a typo – it's leap day! Leap day is another name for Feb. 29, a date that typically comes around every four years, during a leap year. Why doesn't Feb. 29 appear on the calendar every year? The length of a year is based on how long it takes a planet to revolve around the Sun. Earth takes about 365.2422 days to make one revolution around the Sun. That's about six hours longer than the 365 days that we typically include in a calendar year. As a result, every four years, we have about 24 extra hours that we add to the calendar at the end of February in the form of leap day. Without leap day, the dates of annual events, su",
-      "keywords": [
-        "leap",
-        "day",
-        "year",
-        "every",
-        "nasa",
-        "years",
-        "days",
-        "gov",
-        "https",
-        "jpl",
-        "around",
-        "calendar",
-        "edu",
-        "extra"
-      ],
-      "hash": "818fea154f70caeded617df456456ebe5aafcb6f191dfe4ebc3c60b1f2969875",
-      "learned_at": "2026-10-15T09:22:39+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif",
-      "title": "blu_bullet_half.gif",
-      "summary": "Title: blu_bullet_half.gif URL Source: https://nssdc.gsfc.nasa.gov/bullet/blu_bullet_half.gif Published Time: Wed, 15 Jul 1998 17:38:31 GMT Markdown Content: A 12x12 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "blu_bullet_half",
-        "gif",
-        "12x12",
-        "1998",
-        "avatar",
-        "bullet",
-        "content",
-        "gmt",
-        "gov",
-        "gsfc",
-        "https",
-        "icon",
-        "image",
-        "jul"
-      ],
-      "hash": "ebde253daeac7ad7b6dcf8e4615c41822fd73ccac26aa950a238d60e7a82e2e8",
-      "learned_at": "2026-10-15T09:22:40+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif",
-      "title": "1day-1year.en.gif",
-      "summary": "Title: 1day-1year.en.gif URL Source: https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif Markdown Content: til dispandeloppdeling er den felle formen",
-      "keywords": [
-        "1day-1year",
-        "gif",
-        "content",
-        "den",
-        "dispandeloppdeling",
-        "felle",
-        "formen",
-        "gov",
-        "https",
-        "leap-year",
-        "markdown",
-        "nasa",
-        "review",
-        "source"
-      ],
-      "hash": "8888223ec542912f8ebeebf7a3111f1c32288b367a91162aeff8fa806aa0ab69",
-      "learned_at": "2026-10-15T09:22:44+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/review/leap-year/snowmen-in-summer.en.jpg",
-      "title": "snowmen-in-summer.en.jpg",
-      "summary": "Title: snowmen-in-summer.en.jpg URL Source: https://spaceplace.nasa.gov/review/leap-year/snowmen-in-summer.en.jpg Markdown Content: Happy Fourth of July's snowman",
-      "keywords": [
-        "jpg",
-        "snowmen-in-summer",
-        "content",
-        "fourth",
-        "gov",
-        "happy",
-        "https",
-        "july",
-        "leap-year",
-        "markdown",
-        "nasa",
-        "review",
-        "snowman",
-        "source"
-      ],
-      "hash": "a6782b05f859283daa15925846eedc3a4420879162374c24af7be622fba4f11d",
-      "learned_at": "2026-10-15T09:22:46+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/teach/activity/leap-day-math/",
-      "title": "Leap Day Math – Math Lesson | NASA JPL Education",
-      "summary": "Title: Leap Day Math – Math Lesson | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/teach/activity/leap-day-math/ Markdown Content: Lesson . . Jet Propulsion Laboratory https://www.jpl.nasa.gov/ Last Updated: Sept. 26, 2025 [Video 3](https://d2pn8kiwq2w21t.cloudfront.net/media/1d410991dfb54a196066e32a7c4ab400_earthorbit.gif.mp4) ## Overview Every four years, during a leap year, the imperfect match between the length of a calendar year and Earth's orbit result in an interesting calendar adjustment known as a leap day. In this problem set, students calculate the difference between the calendar year and Earth's orbital period, determine how much extra time gets added to our calendar and identify which years omit leap years. ## Materials * Student Worksheet | [Download PDF](https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf) * Teacher Answer Key | [Dow",
-      "keywords": [
-        "leap",
-        "https",
-        "year",
-        "years",
-        "day",
-        "nasa",
-        "calendar",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "net",
-        "students",
-        "days",
-        "earth",
-        "gov"
-      ],
-      "hash": "4bacbe61df46808bc0d0edf537fe3055732f19697d0d50dc5e2a4954040f19b7",
-      "learned_at": "2026-10-15T09:22:51+00:00"
-    },
-    {
-      "url": "https://cneos.jpl.nasa.gov/images/icon_nda.png",
-      "title": "icon_nda.png",
-      "summary": "Title: icon_nda.png URL Source: https://cneos.jpl.nasa.gov/images/icon_nda.png Published Time: Thu, 08 Jan 2026 22:17:46 GMT Markdown Content: The sign shows a small hand sending a round object flying or dropping it",
-      "keywords": [
-        "icon_nda",
-        "png",
-        "2026",
-        "cneos",
-        "content",
-        "dropping",
-        "flying",
-        "gmt",
-        "gov",
-        "hand",
-        "https",
-        "images",
-        "jan",
-        "jpl"
-      ],
-      "hash": "3cb6feef86e68ec2fbea52d73668cfb909b2768ba60d9ebf69d3db30a3e6dfc1",
-      "learned_at": "2026-10-15T09:22:53+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/humans-in-space/artemis/",
-      "title": "Moon to Mars | NASA's Artemis Program - NASA",
-      "summary": "Title: Moon to Mars | NASA's Artemis Program - NASA URL Source: https://www.nasa.gov/humans-in-space/artemis/ Published Time: 2022-12-05T17:03:34Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media R",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "science",
-        "artemis",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "moon",
-        "plus"
-      ],
-      "hash": "7bcec0bf1d329f42fbfa7ba1accc46af43205235859e86cccb23757b3c15704b",
-      "learned_at": "2026-10-15T09:22:54+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/topics/jpl-life/",
       "title": "JPL Life | NASA Jet Propulsion Laboratory (JPL)",
@@ -22554,6 +22403,190 @@
       ],
       "hash": "5b5f6f72dc17b4cfabb2775ca3c7361d2d79aae6732963a5c908303391bb134c",
       "learned_at": "2026-10-29T20:24:07+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1",
+      "title": "sr-1-freedom-lmo-2.jpg",
+      "summary": "Title: sr-1-freedom-lmo-2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1 Published Time: Fri, 30 Oct 2026 00:05:31 GMT Markdown Content: A satellite with solar panels orbiting near a planet with brown terrain",
+      "keywords": [
+        "150",
+        "2026",
+        "jpg",
+        "sr-1-freedom-lmo-2",
+        "brown",
+        "content",
+        "crop",
+        "fri",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "near"
+      ],
+      "hash": "e091d874a8ffe0aca17ef0d55dac9b7442154872edf1490431152481fc30109c",
+      "learned_at": "2026-10-30T00:05:32+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024",
+      "title": "sr-1-freedom-lmo-2.jpg",
+      "summary": "Title: sr-1-freedom-lmo-2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024 Published Time: Fri, 30 Oct 2026 00:05:33 GMT Markdown Content: Satellite above Mars with golden tiles",
+      "keywords": [
+        "2026",
+        "jpg",
+        "sr-1-freedom-lmo-2",
+        "1024",
+        "above",
+        "content",
+        "fri",
+        "gmt",
+        "golden",
+        "gov",
+        "https",
+        "markdown",
+        "mars",
+        "nasa"
+      ],
+      "hash": "5d851d4984dc728c9876f2d43dae46115c733e81cbc6f4f30218bcf887f59e7d",
+      "learned_at": "2026-10-30T00:05:34+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/nasa.png",
+      "title": "nasa.png",
+      "summary": "Title: nasa.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nasa.png Markdown Content: informal generalized version of the NASA logo for a team website",
+      "keywords": [
+        "nasa",
+        "png",
+        "content",
+        "generalized",
+        "gov",
+        "homepage",
+        "https",
+        "informal",
+        "logo",
+        "markdown",
+        "resources",
+        "source",
+        "spaceplace",
+        "team"
+      ],
+      "hash": "cc9a8f29c78fd104b2da4f4cd7d8a1853af71ed028ebd45bc28ac6c6f07948cd",
+      "learned_at": "2026-10-30T00:05:36+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png",
+      "title": "nasa-science-logo-horizontal.png",
+      "summary": "Title: nasa-science-logo-horizontal.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png Markdown Content: A 128x24 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "nasa-science-logo-horizontal",
+        "png",
+        "128x24",
+        "avatar",
+        "content",
+        "gov",
+        "homepage",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "055066097bbf5e5f2f3e817c62a3bf32da34102f73a9304504329fb21015141c",
+      "learned_at": "2026-10-30T00:05:37+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/sb/orbits.html",
+      "title": "Small-Body Orbits & Ephemerides",
+      "summary": "Title: Small-Body Orbits & Ephemerides URL Source: https://ssd.jpl.nasa.gov/sb/orbits.html Markdown Content: The orbits for all known small-bodies are provided via JPL’s Small-Body DataBase ([SBDB](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html)). In this context, small-bodies are defined as comets and asteroids, where “asteroids” includes Kuiper-belt objects (TNOs) and dwarf planets. In addition to orbital elements and physical parameters, the SBDB provides uncertainties in each orbital element which are useful in observation planning, hazard assessment and mission planning. The SBDB is kept up-to-date. As new small bodies are announced and as new data (astrometry) for existing small bodies are made available, we automatically compute new orbits typically within an hour or two. ## Ephemerides Use the [Horizons web-interface](https://ssd.jpl.nasa.gov/horizons/app.html) to generate ephem",
+      "keywords": [
+        "https",
+        "jpl",
+        "gov",
+        "nasa",
+        "html",
+        "ssd",
+        "sbdb",
+        "database",
+        "elements",
+        "horizons",
+        "orbital",
+        "tools",
+        "available",
+        "small-body"
+      ],
+      "hash": "34f9eb7e093c6585cc85929f9b47bffb2854261d40ffe6ffb368b78c79b41779",
+      "learned_at": "2026-10-30T00:05:42+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/doc/",
+      "title": "Technical Documents",
+      "summary": "Title: Technical Documents URL Source: https://ssd.jpl.nasa.gov/doc/ Published Time: Thu, 22 Oct 2026 19:31:29 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/doc/#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/doc/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "planets",
+        "doc",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "d49ccd072c675233cadeabffad8540185b6a38e3d0e09763177f7b7442046398",
+      "learned_at": "2026-10-30T00:05:43+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "29f3a826b941826c9be65627452d443c3ce8f69677ffd1d17c1ec3880e5debfc",
+      "learned_at": "2026-10-30T00:05:54+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "5a694c2c89ad4ba4bdc7842ca4d7a71b1c82fc4494a0ffbafa0c864ce4070d9c",
+      "learned_at": "2026-10-30T00:06:03+00:00"
     }
   ],
   "failures": [
@@ -22659,6 +22692,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-30T00:06:04+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-30T00:06:04+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 12,
+      "frontier": 1991
+    },
     {
       "at": "2026-10-29T20:24:07+00:00",
       "kind": "core_promoted",
@@ -23580,29 +23628,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 12,
       "frontier": 1296
-    },
-    {
-      "at": "2026-10-20T23:59:14+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-20T23:59:14+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 19,
-      "frontier": 1286
     }
   ],
   "metrics": {
-    "successful_fetches": 1136,
+    "successful_fetches": 1144,
     "failed_fetches": 20,
     "duplicate_pages": 2,
     "candidate_promotions": 49,
-    "candidate_rejections": 136
+    "candidate_rejections": 137
   },
   "core_genome": {
     "query_weight": 3.0,
