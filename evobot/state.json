@@ -1,25 +1,12 @@
 {
   "schema": 2,
-  "generation": 196,
+  "generation": 197,
   "core_version": 53,
-  "runs": 195,
-  "pages_learned": 1207,
-  "last_run": "2026-10-31T17:53:07+00:00",
+  "runs": 196,
+  "pages_learned": 1214,
+  "last_run": "2026-10-31T20:57:17+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "http://oig.nasa.gov/hotline.html",
-    "http://oig.nasa.gov/",
-    "http://www.nasa.gov/audience/formedia/features/communication_policy.html",
-    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
-    "https://datatracker.ietf.org/doc/html/rfc3875",
-    "https://datacenter.iers.org/data/16/bulletinc-072.txt",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26484.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_kSlf0I3.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Record-Setting_Ro.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/summersteam.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/cadre_interns.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/iss_sunrise_EyEpv8m.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mirointerns-main.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/tf_pomona_present1.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
@@ -162,7 +149,6 @@
     "https://twitter.com/NASAAstrobio",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
@@ -172,6 +158,17 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
     "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/psss.242f489f.fill-1024x441-c10.jpg",
+    "https://www.jpl.jobs/students-and-postdocs",
+    "https://www.jpl.jobs/students",
+    "https://www.caltech.edu/claimed-copyright-infringement",
+    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -227,14 +224,8 @@
     "https://www.iau.org/",
     "https://www.iers.org/",
     "https://esahubble.org/images/heic1215a/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
@@ -272,6 +263,8 @@
     "http://lroc.sese.asu.edu/",
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://polac.obspm.fr/llrdatae.html",
+    "http://www.ftc.gov/ogc/coppa1.htm",
+    "http://www.section508.gov/",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
@@ -288,25 +281,8 @@
     "http://www.nineplanets.org/luna.html",
     "http://www.agu.org/reference/gephys.html",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://www.jpl.nasa.gov/edu/internships",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://www.jpl.nasa.gov/edu/internships/apply",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/psss.242f489f.fill-1024x441-c10.jpg",
-    "https://www.jpl.jobs/students-and-postdocs",
-    "https://www.nasa.gov/wp-content/uploads/2024/09/oiir-designated-country-list-9-13-2024.pdf?emrc=ace877",
-    "https://www.jpl.jobs/students",
-    "https://www.jpl.nasa.gov/contact-jpl",
-    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/general-data-protection-regulation-notice",
     "http://www.icontact.com/",
-    "http://www.ftc.gov/ogc/coppa1.htm",
-    "http://www.section508.gov/",
     "http://www.adobe.com/products/acrobat/alternate.html",
-    "https://www.caltech.edu/claimed-copyright-infringement",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "https://www.jpl.nasa.gov/jpl-image-use-policy/",
     "https://www.jpl.nasa.gov/frequently-asked-questions/",
@@ -2147,7 +2123,26 @@
     "https://www.nasa.gov/contact-2/",
     "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=1024",
     "https://www.nasa.gov/nac/",
-    "https://www.nasa.gov/nac/"
+    "https://www.nasa.gov/nac/",
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/general-data-protection-regulation-notice",
+    "https://www.jpl.nasa.gov/contact-jpl",
+    "https://www.nasa.gov/reference/nasa-policy-on-the-release-of-information-to-news-and-information-media/",
+    "https://oig.nasa.gov/wp-content/uploads/2026/10/nasas-decadal-survey-oversight-is-hindered-by-challenges-with-internal-processes-communication-and-progress-tracking-image.jpg?w=640",
+    "https://oig.nasa.gov/people/nasa-oig-senior-official/",
+    "https://oig.nasa.gov/nasa-oig-organization/",
+    "https://oig.nasa.gov/locations/",
+    "https://oig.nasa.gov/contact/",
+    "https://oig.nasa.gov/active-projects/",
+    "https://oig.nasa.gov/audit-open-recommendations/",
+    "https://oig.nasa.gov/investigations/",
+    "https://oig.nasa.gov/investigations-impact-areas/",
+    "https://oig.nasa.gov/office-of-investigation-field-offices/",
+    "https://oig.nasa.gov/hotline",
+    "https://oig.nasa.gov/congressional-testimony/",
+    "https://oig.nasa.gov/foia-requests/",
+    "https://oig.nasa.gov/letters-to-congress/",
+    "https://oig.nasa.gov/management-challenges/",
+    "https://oig.nasa.gov/peer-reviews/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9303,170 +9298,81 @@
       "at": "2026-10-31T17:53:44+00:00",
       "status": "ok",
       "hash": "2513420e2a3df8af2812394c6a5f26b3e6d413420efe4863a3d1c5dfa1f2ad5e"
+    },
+    "https://www.jpl.nasa.gov/edu/internships": {
+      "at": "2026-10-31T20:57:32+00:00",
+      "status": "ok",
+      "hash": "679435502ae40c227c4620b9d2de553bf7ebf5e85c6fe432270c3eb137a0f1a6"
+    },
+    "https://www.jpl.nasa.gov/edu/internships/apply": {
+      "at": "2026-10-31T20:57:34+00:00",
+      "status": "ok",
+      "hash": "f137b6e80e3250b02f27aa4a2dfecc54418783d68829fd78f160c6f3691fa1c7"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2024/09/oiir-designated-country-list-9-13-2024.pdf?emrc=ace877": {
+      "at": "2026-10-31T20:57:36+00:00",
+      "status": "ok",
+      "hash": "d04a8722b0989ec470409aeea9f90fe9e9bdba633af465fa97dc8340aff2d4a3"
+    },
+    "http://www.nasa.gov/audience/formedia/features/communication_policy.html": {
+      "at": "2026-10-31T20:57:39+00:00",
+      "status": "ok",
+      "hash": "7d33e412cf3de530905be78938c2fb1345945d52c7fb979660d11c8f8d4a73fc"
+    },
+    "http://oig.nasa.gov/hotline.html": {
+      "at": "2026-10-31T20:57:43+00:00",
+      "status": "ok",
+      "hash": "48cb2bdb3c96065bfc13c901c38fd2923f6efe5c76e6463847af31e81e80f151"
+    },
+    "http://oig.nasa.gov/": {
+      "at": "2026-10-31T20:57:46+00:00",
+      "status": "ok",
+      "hash": "3cbfa012c77bfba7c562a09bfd50561247a967b8f8b375b495082a77d875b27c"
+    },
+    "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services": {
+      "at": "2026-10-31T20:57:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://datatracker.ietf.org/doc/html/rfc3875": {
+      "at": "2026-10-31T20:57:52+00:00",
+      "status": "ok",
+      "hash": "f180a5e9320f93574c241b1796d774e9a89956f53c34293cf219dde0d0fc56ca"
+    },
+    "https://datacenter.iers.org/data/16/bulletinc-072.txt": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "error",
+      "error": "<urlopen error timed out>"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26484.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_kSlf0I3.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059-8122-7DD9F6.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Record-Setting_Ro.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/summersteam.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/cadre_interns.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/iss_sunrise_EyEpv8m.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-10-31T21:00:51+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.rbi.org.in/images/graytheme.gif",
-      "title": "graytheme.gif",
-      "summary": "Title: graytheme.gif URL Source: https://www.rbi.org.in/images/graytheme.gif Published Time: Sat, 07 Jun 2025 15:09:08 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "gif",
-        "graytheme",
-        "2025",
-        "20x20",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "jun",
-        "likely",
-        "logo"
-      ],
-      "hash": "5ca3d3366b761ba233b922bbb906622c5931999b2c21e7e2b37c77e76287bd6d",
-      "learned_at": "2026-10-16T20:01:50+00:00"
-    },
-    {
-      "url": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
-      "title": "apple-touch-icon.png",
-      "summary": "Title: apple-touch-icon.png URL Source: https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: Red and grey axe icon cross",
-      "keywords": [
-        "apple-touch-icon",
-        "png",
-        "2026",
-        "arxiv",
-        "axe",
-        "browse",
-        "content",
-        "cross",
-        "gmt",
-        "grey",
-        "https",
-        "icon",
-        "icons",
-        "images"
-      ],
-      "hash": "161aedc09d3bfa664f9cd21cc19a2f029a21fb4212c808ef44c0881ab2256343",
-      "learned_at": "2026-10-16T20:01:52+00:00"
-    },
-    {
-      "url": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png",
-      "title": "favicon-32x32.png",
-      "summary": "Title: favicon-32x32.png URL Source: https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: A 32x32 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "favicon-32x32",
-        "png",
-        "2026",
-        "32x32",
-        "arxiv",
-        "avatar",
-        "browse",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "icons",
-        "image",
-        "images"
-      ],
-      "hash": "fdef788b4300d98fa39f959aab652c6d06c20ea7f4c3c4ab5ab21ba0e8b7047b",
-      "learned_at": "2026-10-16T20:01:52+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-789/",
-      "title": "TOI-789 - NASA Science",
-      "summary": "Title: TOI-789 - NASA Science URL Source: https://science.nasa.gov/exoplanets/star-catalog/toi-789/ Published Time: 2026-10-09T12:51:53-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-co",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "413e1df7c121f6ec1142d1efb2b7d80d7df040c26bbec104b213b7a3e72c61a0",
-      "learned_at": "2026-10-16T20:01:55+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-4468/",
-      "title": "TOI-4468 - NASA Science",
-      "summary": "Title: TOI-4468 - NASA Science URL Source: https://science.nasa.gov/exoplanets/star-catalog/toi-4468/ Published Time: 2026-10-09T12:51:52-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "9a6de2f7f4ecaedbce965836d71b4a67138b2106afd9110792e381fac78684e7",
-      "learned_at": "2026-10-16T20:01:57+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program",
-      "title": "JPL Visiting Student Research Program – Explore Programs & Apply | NASA JPL Education",
-      "summary": "Title: JPL Visiting Student Research Program – Explore Programs & Apply | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/jpl-visiting-student-research-program) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "edu",
-        "internships",
-        "apply",
-        "research",
-        "students",
-        "_nuxt",
-        "education",
-        "image",
-        "logo"
-      ],
-      "hash": "f5ec95f1f15946732f9d012d036370ab1c278246480d18623290bf41748088f3",
-      "learned_at": "2026-10-16T22:46:25+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/doc/jd\\_cal.html",
-      "title": "404 Not Found",
-      "summary": "Title: 404 Not Found URL Source: https://ssd-api.jpl.nasa.gov/doc/jd/_cal.html Warning: Target URL returned error 404: Not Found Markdown Content: * * * nginx",
-      "keywords": [
-        "404",
-        "found",
-        "url",
-        "_cal",
-        "content",
-        "doc",
-        "error",
-        "gov",
-        "html",
-        "https",
-        "jpl",
-        "markdown",
-        "nasa",
-        "nginx"
-      ],
-      "hash": "aac5e190e20a14e38c5c8340e77bd759798abb77e306a6ed8209aefad73e6694",
-      "learned_at": "2026-10-16T22:46:27+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program",
       "title": "JPL Summer Internship Program – Explore Programs & Apply | NASA JPL Education",
@@ -23105,6 +23011,167 @@
       ],
       "hash": "2513420e2a3df8af2812394c6a5f26b3e6d413420efe4863a3d1c5dfa1f2ad5e",
       "learned_at": "2026-10-31T17:53:44+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/internships",
+      "title": "Explore Programs & Apply – JPL Internships | NASA JPL Education",
+      "summary": "Title: Explore Programs & Apply – JPL Internships | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships Final URL: https://www.jpl.nasa.gov/edu/internships/apply/ Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "edu",
+        "internships",
+        "apply",
+        "---",
+        "program",
+        "image",
+        "programs",
+        "_nuxt",
+        "academic"
+      ],
+      "hash": "679435502ae40c227c4620b9d2de553bf7ebf5e85c6fe432270c3eb137a0f1a6",
+      "learned_at": "2026-10-31T20:57:32+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/internships/apply",
+      "title": "Explore Programs & Apply – JPL Internships | NASA JPL Education",
+      "summary": "Title: Explore Programs & Apply – JPL Internships | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply Final URL: https://www.jpl.nasa.gov/edu/internships/apply/ Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://ww",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "edu",
+        "internships",
+        "apply",
+        "---",
+        "program",
+        "image",
+        "programs",
+        "_nuxt",
+        "academic"
+      ],
+      "hash": "f137b6e80e3250b02f27aa4a2dfecc54418783d68829fd78f160c6f3691fa1c7",
+      "learned_at": "2026-10-31T20:57:34+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2024/09/oiir-designated-country-list-9-13-2024.pdf?emrc=ace877",
+      "title": "Microsoft Word - Designated Country list draft 8.29.2024.docx",
+      "summary": "Title: Microsoft Word - Designated Country list draft 8.29.2024.docx URL Source: https://www.nasa.gov/wp-content/uploads/2024/09/oiir-designated-country-list-9-13-2024.pdf?emrc=ace877 Published Time: Mon, 09 Sep 2024 13:35:28 GMT Number of Pages: 2 Markdown Content: September 13, 2024 # NASA Designated Countries List > DESIGNATED STATUS * CODE DESCRIPTION I II III IV AF Afghanistan X BH Bahrain X BY Belarus X X BT Bhutan X MM Burma (Now Myanmar) X KH Cambodia X CT Central African Republic X CN China, Peoples Republic ** X X CD Congo (Formerly Zaire; Democratic Republic of) X CU Cuba X X EG Egypt X ER Eritrea X ET Ethiopia X HT Haiti X IR Iran X X X X IQ Iraq X X IL Israel X JO Jordan X KP Korea, North X X X X KW Kuwait X LB Lebanon X X LY Libya X X MO Macau X NI Nicaragua X OM Oman X PK Pakistan X This NASA list of “Designated Countries” is a compilation of countries and territories with",
+      "keywords": [
+        "countries",
+        "2024",
+        "nasa",
+        "designated",
+        "current",
+        "list",
+        "republic",
+        "administrator",
+        "cfr",
+        "country",
+        "export",
+        "foreign",
+        "iii",
+        "march"
+      ],
+      "hash": "d04a8722b0989ec470409aeea9f90fe9e9bdba633af465fa97dc8340aff2d4a3",
+      "learned_at": "2026-10-31T20:57:36+00:00"
+    },
+    {
+      "url": "http://www.nasa.gov/audience/formedia/features/communication_policy.html",
+      "title": "NASA Policy on the Release of Information to News and Information Media - NASA",
+      "summary": "Title: NASA Policy on the Release of Information to News and Information Media - NASA URL Source: http://www.nasa.gov/audience/formedia/features/communication_policy.html Final URL: https://www.nasa.gov/reference/nasa-policy-on-the-release-of-information-to-news-and-information-media/ Published Time: 2025-12-31T19:14:39Z Markdown Content: This directive sets forth policy governing the release of public information, which is defined as information in any form provided to news and information media, especially information that has the potential to generate significant media, or public interest or inquiry. Examples include, but are not limited to, press releases, media advisories, news features, and web postings. Not included under this definition are scientific and technical reports, web postings designed for technical or scientific interchange, and technical information presented at profe",
+      "keywords": [
+        "nasa",
+        "information",
+        "policy",
+        "public",
+        "scientific",
+        "technical",
+        "media",
+        "any",
+        "release",
+        "activities",
+        "agency",
+        "directive",
+        "news",
+        "under"
+      ],
+      "hash": "7d33e412cf3de530905be78938c2fb1345945d52c7fb979660d11c8f8d4a73fc",
+      "learned_at": "2026-10-31T20:57:39+00:00"
+    },
+    {
+      "url": "http://oig.nasa.gov/hotline.html",
+      "title": "Hotline - NASA OIG",
+      "summary": "Title: Hotline - NASA OIG URL Source: http://oig.nasa.gov/hotline.html Final URL: https://oig.nasa.gov/hotline/ Markdown Content: Report Fraud, Waste & Abuse: [HOTLINE](https://oig.nasa.gov/hotline/) or 1-800-424-9183[Whistleblower Protections](https://oig.nasa.gov/nasa-oig-whistleblower-protection/) [![Image 1: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * Menu Search Results for **{phrase}** (**{results_count}** of **{results_count_total}**) Displaying **{results_count}** results of **{results_count_total}** [![Image 2: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * [News & Features](https://oig.nasa.gov/news/) * [Multimedia](https://oig.nasa.gov/multimedia/) * [Subscribe](https://lp.constantcontactpages.com/sl/x2uIcln) Search ## Suggested S",
+      "keywords": [
+        "nasa",
+        "oig",
+        "https",
+        "gov",
+        "hotline",
+        "news",
+        "space",
+        "image",
+        "multimedia",
+        "fraud",
+        "images",
+        "mission",
+        "wp-content",
+        "artemis"
+      ],
+      "hash": "48cb2bdb3c96065bfc13c901c38fd2923f6efe5c76e6463847af31e81e80f151",
+      "learned_at": "2026-10-31T20:57:43+00:00"
+    },
+    {
+      "url": "http://oig.nasa.gov/",
+      "title": "Office of Inspector General - NASA OIG",
+      "summary": "Title: Office of Inspector General - NASA OIG URL Source: http://oig.nasa.gov/ Final URL: https://oig.nasa.gov/ Published Time: 2024-02-06T18:24:16-05:00 Markdown Content: Report Fraud, Waste & Abuse: [HOTLINE](https://oig.nasa.gov/hotline/) or 1-800-424-9183[Whistleblower Protections](https://oig.nasa.gov/nasa-oig-whistleblower-protection/) [![Image 4: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * Menu Search Results for **{phrase}** (**{results_count}** of **{results_count_total}**) Displaying **{results_count}** results of **{results_count_total}** [![Image 5: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * [News & Features](https://oig.nasa.gov/news/) * [Multimedia](https://oig.nasa.gov/multimedia/) * [Subscribe](https://lp.constantcontactp",
+      "keywords": [
+        "nasa",
+        "oig",
+        "https",
+        "gov",
+        "news",
+        "space",
+        "image",
+        "multimedia",
+        "fraud",
+        "images",
+        "mission",
+        "wp-content",
+        "artemis",
+        "assets"
+      ],
+      "hash": "3cbfa012c77bfba7c562a09bfd50561247a967b8f8b375b495082a77d875b27c",
+      "learned_at": "2026-10-31T20:57:46+00:00"
+    },
+    {
+      "url": "https://datatracker.ietf.org/doc/html/rfc3875",
+      "title": "RFC 3875: The Common Gateway Interface (CGI) Version 1.1",
+      "summary": "Title: RFC 3875: The Common Gateway Interface (CGI) Version 1.1 URL Source: https://datatracker.ietf.org/doc/html/rfc3875 Markdown Content: Network Working Group D. Robinson Request for Comments: 3875 K. Coar Category: Informational The Apache Software Foundation October 2004 Status of this Memo This memo provides information for the Internet community. It does not specify an Internet standard of any kind. Distribution of this memo is unlimited. Copyright Notice Copyright (C) The Internet Society (2004). IESG Note This document is not a candidate for any level of Internet Standard. The IETF disclaims any knowledge of the fitness of this document for any purpose, and in particular notes that it has not had IETF review for such things as security, congestion control or inappropriate interaction with deployed protocols. The RFC Editor has chosen to publish this document at its discretion. R",
+      "keywords": [
+        "ietf",
+        "https",
+        "datatracker",
+        "doc",
+        "html",
+        "org",
+        "rfc3875",
+        "interface",
+        "cgi",
+        "document",
+        "section-1",
+        "any",
+        "internet",
+        "page-4"
+      ],
+      "hash": "f180a5e9320f93574c241b1796d774e9a89956f53c34293cf219dde0d0fc56ca",
+      "learned_at": "2026-10-31T20:57:52+00:00"
     }
   ],
   "failures": [
@@ -23212,9 +23279,29 @@
       "at": "2026-10-31T01:02:05+00:00",
       "url": "https://www.jpl.nasa.gov/about_JPL/maps.php",
       "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-10-31T21:00:51+00:00",
+      "url": "https://datacenter.iers.org/data/16/bulletinc-072.txt",
+      "error": "URLError: <urlopen error timed out>"
     }
   ],
   "events": [
+    {
+      "at": "2026-10-31T21:00:51+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-31T21:00:51+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2136
+    },
     {
       "at": "2026-10-31T17:53:44+00:00",
       "kind": "core_promoted",
@@ -24136,29 +24223,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 20,
       "frontier": 1442
-    },
-    {
-      "at": "2026-10-22T19:29:29+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-22T19:29:29+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 1 new pages",
-      "attempted": 24,
-      "frontier": 1432
     }
   ],
   "metrics": {
-    "successful_fetches": 1207,
-    "failed_fetches": 21,
+    "successful_fetches": 1214,
+    "failed_fetches": 22,
     "duplicate_pages": 2,
     "candidate_promotions": 52,
-    "candidate_rejections": 142
+    "candidate_rejections": 143
   },
   "core_genome": {
     "query_weight": 3.0,
