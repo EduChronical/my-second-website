@@ -1,27 +1,12 @@
 {
   "schema": 2,
-  "generation": 194,
+  "generation": 195,
   "core_version": 52,
-  "runs": 193,
-  "pages_learned": 1191,
-  "last_run": "2026-10-31T06:55:55+00:00",
+  "runs": 194,
+  "pages_learned": 1199,
+  "last_run": "2026-10-31T13:28:30+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor",
-    "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips",
-    "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals",
-    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-    "http://pds-geosciences.wustl.edu/missions/apollo/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PI_Day_Banner_large.original.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
-    "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
     "https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services",
     "https://datatracker.ietf.org/doc/html/rfc3875",
     "https://datacenter.iers.org/data/16/bulletinc-072.txt",
@@ -171,9 +156,19 @@
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://universe-of-learning.org/home",
     "https://www.caltech.edu/",
+    "https://twitter.com/NASAAstrobio",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PI_Day_Banner_large.original.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
+    "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -261,6 +256,8 @@
     "https://github.com/autoplot/documentation/wiki/help",
     "https://www.agu.org/abscicon",
     "https://www.agu.org/abscicon",
+    "https://www.youtube.com/watch?v=yIWyFX0uxoc",
+    "https://www.youtube.com/watch?v=yIWyFX0uxoc",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://aa.usno.navy.mil/data/index.php",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
@@ -287,26 +284,6 @@
     "http://www.nineplanets.org/luna.html",
     "http://www.agu.org/reference/gephys.html",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://science.nasa.gov/researchers/sara/grant-solicitations/",
-    "https://mars.nasa.gov/mars2020/",
-    "https://mars.nasa.gov/mars2020/",
-    "https://www.youtube.com/watch?v=yIWyFX0uxoc",
-    "https://www.youtube.com/watch?v=yIWyFX0uxoc",
-    "https://twitter.com/NASAAstrobio",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6a.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6b.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6c.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash9.txt",
-    "https://jplwater.nasa.gov/images/logo_nasa.gif",
-    "https://jplwater.nasa.gov/images/spacer.gif",
-    "https://jplwater.nasa.gov/images/spacer.gif",
-    "https://jplwater.nasa.gov/?id=feedback",
-    "https://jplwater.nasa.gov/images/spacer.gif",
-    "https://jplwater.nasa.gov/images/header_text.gif",
     "https://jplwater.nasa.gov/?id=1.projectbkg",
     "https://jplwater.nasa.gov/?id=3.infofornewsmedia",
     "http://www.nasa.gov/about/contact/index.html",
@@ -2106,7 +2083,47 @@
     "https://pds.nasa.gov/datastandards/documents/examples/",
     "http://pds.nasa.gov/contact/contact.shtml",
     "https://pds.jpl.nasa.gov/datasearch/subscription-service/SS-Release.shtml",
-    "https://pds.nasa.gov/home/proposers/Mission-Proposers-Archive-Guide-v4-r5.pdf"
+    "https://pds.nasa.gov/home/proposers/Mission-Proposers-Archive-Guide-v4-r5.pdf",
+    "https://science.nasa.gov/researchers/sara/faqs/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/",
+    "https://science.nasa.gov/researchers/dual-anonymous-peer-review/",
+    "https://science.nasa.gov/researchers/nodd/",
+    "https://science.nasa.gov/researchers/sara/library-and-useful-links/",
+    "https://science.nasa.gov/researchers/new-pi-resources/",
+    "https://science.nasa.gov/researchers/sara/faqs/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/](https://science.nasa.gov/researchers/solicitations/roses-2025/)",
+    "https://solicitation.nasaprs.com/ROSES2025table2",
+    "https://solicitation.nasaprs.com/ROSES2025table3",
+    "https://assets.science.nasa.gov/content/dam/science/cds/researchers/library-and-useful-links/2025/How_to_Subscribe_to_the_ROSES-2025_Due_Date_Calendars-tagged.pdf",
+    "https://nspires.nasaprs.com/",
+    "https://soma.larc.nasa.gov/",
+    "https://nspires.nasaprs.com/",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6a.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6b.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6c.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash9.txt",
+    "https://jplwater.nasa.gov/?id=feedback",
+    "https://jplwater.nasa.gov/images/header_text.gif",
+    "https://science.nasa.gov/mission/mars-2020-perseverance/",
+    "https://science.nasa.gov/mission/mars-2020-perseverance/",
+    "https://pds-geosciences.wustl.edu/contact/default.htm",
+    "https://pds-geosciences.wustl.edu/sitemap/default.htm",
+    "https://pds-geosciences.wustl.edu/spectrallibrary/default.htm",
+    "https://pds-geosciences.wustl.edu/dataserv/anonftp.html",
+    "https://pds-geosciences.wustl.edu/workshops/default.htm",
+    "https://pds-geosciences.wustl.edu/missions/mep/index.htm",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/index.htm",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/pixl.htm",
+    "https://pds-geosciences.wustl.edu/missions/apollo/",
+    "https://pds-geosciences.wustl.edu/missions/apollo/",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/returned_sample_science.htm",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/rimfax.htm",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/sherloc.htm",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/supercam.htm",
+    "https://pds-geosciences.wustl.edu/missions/apollo/",
+    "https://pds-geosciences.wustl.edu/missions/insight/index.htm"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9166,193 +9183,61 @@
       "at": "2026-10-31T06:56:34+00:00",
       "status": "ok",
       "hash": "3452f8b67659a8bae318c667e28c06f3fb4eb35d65acfbee6be0e1859ab9b316"
+    },
+    "https://science.nasa.gov/researchers/sara/grant-solicitations/": {
+      "at": "2026-10-31T13:28:30+00:00",
+      "status": "ok",
+      "hash": "336dfad2521e486296cb3d7a6f9c979df2b958c1edc9d002f7e14ee6c075750f"
+    },
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt": {
+      "at": "2026-10-31T13:28:31+00:00",
+      "status": "ok",
+      "hash": "632baca8b77fe6fd74e64937b2c7c17ed1e33f0d1953d1e9ee1bef1c78c321c8"
+    },
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt": {
+      "at": "2026-10-31T13:28:32+00:00",
+      "status": "ok",
+      "hash": "a3624cecafc7c0060c109751235e2426604591d89da40aa42d9a0b528ba9a9ee"
+    },
+    "https://jplwater.nasa.gov/images/logo_nasa.gif": {
+      "at": "2026-10-31T13:28:33+00:00",
+      "status": "ok",
+      "hash": "22428dde9ddceb8c21fe35a8d849bb67d0a45abe10c681265b2c8ea475754a39"
+    },
+    "https://jplwater.nasa.gov/images/spacer.gif": {
+      "at": "2026-10-31T13:28:34+00:00",
+      "status": "ok",
+      "hash": "e0b5f653a5efe99a8fd8d702e1e56cdb99903811ebbcae1d3af073df84d37c67"
+    },
+    "https://mars.nasa.gov/mars2020/": {
+      "at": "2026-10-31T13:28:37+00:00",
+      "status": "ok",
+      "hash": "0766f0c6ec2208eda460481dcdcf545418e9374348744c1f9521571383cfc5a6"
+    },
+    "https://sfp.caltech.edu/undergraduate-research/getting-started/finding_a_mentor": {
+      "at": "2026-10-31T13:28:37+00:00",
+      "status": "robots_disallow"
+    },
+    "https://sfp.caltech.edu/undergraduate-research/getting-started/meeting_tips": {
+      "at": "2026-10-31T13:28:37+00:00",
+      "status": "robots_disallow"
+    },
+    "https://sfp.caltech.edu/undergraduate-research/proposal/surf_and_amgen_proposals": {
+      "at": "2026-10-31T13:28:37+00:00",
+      "status": "robots_disallow"
+    },
+    "http://pds-geosciences.wustl.edu/missions/apollo/index.htm": {
+      "at": "2026-10-31T13:28:39+00:00",
+      "status": "ok",
+      "hash": "bde70e793b1325f5ba3aeff2c7be65ae9462005969f6ad6cf4a12c831483f900"
+    },
+    "http://pds-geosciences.wustl.edu/missions/apollo/": {
+      "at": "2026-10-31T13:28:42+00:00",
+      "status": "ok",
+      "hash": "173efd3246184e9684868525f391a518c2639dbebc22a6dd111543405ca1933d"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/glossary/",
-      "title": "Index",
-      "summary": "Title: Index URL Source: https://ssd.jpl.nasa.gov/glossary/ Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/glossary/#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/glossary/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.go",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "planets",
-        "glossary",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "4d71a7b0f93b2f3de5b8854acb61127db3610e3295329db5cc03183c5d770388",
-      "learned_at": "2026-10-16T13:10:57+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/links.html",
-      "title": "Related Sites",
-      "summary": "Title: Related Sites URL Source: https://ssd.jpl.nasa.gov/links.html Markdown Content: The following resources related to solar system dynamics are provided _without_ endorsement by JPL. This list is not exhaustive and is provided only for your convenience. ### General * [Planetary Data System](https://pds.jpl.nasa.gov/) — NASA * [Planetary Photojournal](https://photojournal.jpl.nasa.gov/) — NASA * [U.S. Naval Observatory](https://www.usno.navy.mil/USNO/astronomical-applications/data-services/data-services) — Data Services * [IAU Commission 4](https://www.iaucom4.org/) — Ephemerides * [International Earth Rotation and Reference System](https://www.iers.org/) — (IERS) * [Navigation and Ancillary Information Facility](https://naif.jpl.nasa.gov/) — (NAIF/JPL) SPICE Toolkit, etc. * [The Nine Planets](https://nineplanets.org/) — Bill Arnett * [Eclipse Home Page](https://eclipse.gsfc.nasa.gov/",
-      "keywords": [
-        "https",
-        "nasa",
-        "jpl",
-        "gov",
-        "www",
-        "asteroid",
-        "org",
-        "system",
-        "data",
-        "edu",
-        "iau",
-        "international",
-        "net",
-        "observatory"
-      ],
-      "hash": "5be746ec899e755b3bea3b05c646ee5a5e5dc609623460c519a61e9d40f30a53",
-      "learned_at": "2026-10-16T13:10:59+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/",
-      "title": "Asteroid Bennu Particles",
-      "summary": "Title: Asteroid Bennu Particles URL Source: https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/ Markdown Content: [](https://www.jpl.nasa.gov/images/pia23554-asteroid-bennu-particles/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # Asteroid Bennu Particles Jet Propulsion Laboratory https://www.jpl.nasa.gov/ De",
-      "keywords": [
-        "https",
-        "jpl",
-        "nasa",
-        "gov",
-        "www",
-        "images",
-        "image",
-        "asteroid",
-        "jpg",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "net",
-        "particles",
-        "bennu"
-      ],
-      "hash": "429dbde7f11d827f64b8090c5caae561d852821a5cf5e6e5db58539de7da1d28",
-      "learned_at": "2026-10-16T13:11:03+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/",
-      "title": "Eyes on Asteroids",
-      "summary": "Title: Eyes on Asteroids URL Source: https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/ Markdown Content: [](https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Asteroid Watch](https://www.jpl.nasa.gov/asteroid-watch/) [Next Five Asteroid Approaches](https://www.jpl.nasa.gov/asteroid-watch/next-five-appro",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "gov",
-        "www",
-        "eyes",
-        "asteroids",
-        "asteroid-watch",
-        "20asteroids",
-        "20on",
-        "2fasteroid-watch",
-        "2feyes-on-asteroids",
-        "2fwww",
-        "who-we-are"
-      ],
-      "hash": "37bf7006e0fc8a47d33ccd8dcf9189e325ccfcd7284ba88c079184a3f6e57fbd",
-      "learned_at": "2026-10-16T13:11:08+00:00"
-    },
-    {
-      "url": "https://astrobiology.nasa.gov/",
-      "title": "NASA Astrobiology",
-      "summary": "Title: NASA Astrobiology URL Source: https://astrobiology.nasa.gov/ Markdown Content: ![Image 1: The image shows the AbSciCon 2026 logo on a light purple background. The logo shows a dairy cow with a space helmet on floating over a moon made of cheese. An Earth-like planet is to the left, a Mars-like planet bottom left, and a purple gas giant right.](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3a/1b/3a1b7ecd-ad2c-444f-b388-d69dab7f2e75/untitled-1.jpg__1240x510_q85_crop_subject_location-620%2C289_subsampling-2.jpg)![Image 2: Against a black background, ELI5 is printed in large blue outline text to the top right. Below is Osiris REx mission in purple to left of the mission badge. Hannah Kaplan stands to the left with the NASA meatball logo.](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/15/77/1577aa11-3e19-40f9-83bd-e3eaf7b95a60/e",
-      "keywords": [
-        "nasa",
-        "image",
-        "astrobiology",
-        "gov",
-        "https",
-        "left",
-        "filer_public",
-        "filer_public_thumbnails",
-        "jpg",
-        "uploads",
-        "2026",
-        "abscicon",
-        "background",
-        "bottom"
-      ],
-      "hash": "1ecf535dfe7602999588b072e1ea627933adadee23eb79aa24474f11165f57f1",
-      "learned_at": "2026-10-16T13:11:12+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/e1%20-%20PIA26812%20-%20NAVCAM%20record.png?w=1024",
-      "title": "e1%20-%20PIA26812%20-%20NAVCAM%20record.png",
-      "summary": "Title: e1%20-%20PIA26812%20-%20NAVCAM%20record.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/e1%20-%20PIA26812%20-%20NAVCAM%20record.png?w=1024 Markdown Content: Mars Rover has treaded upon this terrain",
-      "keywords": [
-        "20-",
-        "20navcam",
-        "20pia26812",
-        "20record",
-        "assets",
-        "png",
-        "science",
-        "1024",
-        "2026",
-        "content",
-        "dynamicimage",
-        "gov",
-        "https",
-        "markdown"
-      ],
-      "hash": "4e29131a2cfff10745317a1a9bc826203b6dd1bfa592ab9d6c19cb2ae0e51a90",
-      "learned_at": "2026-10-16T17:26:44+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/",
-      "title": "JPL Media Contacts | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: JPL Media Contacts | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/ Markdown Content: * * * **General Public** Please call 818-354-4321 for all inquiries. [Public tours information](http://www.jpl.nasa.gov/events/tours/views/) [Map and directions to JPL](https://www.jpl.nasa.gov/about_JPL/maps.php) * * * **JPL Media and Mission Communications Office** Main Number 818-354-5011 * * * **Legal Issues, Institutional News, Director Interviews** [**Matthew Segal**](mailto:matthew.j.segal@jpl.nasa.gov) News Chief 818-354-8307 * * * **Mars, Juno Mission to Jupiter** [**DC Agle**](mailto:agle@jpl.nasa.gov) Media Relations Specialist 818-393-9011 * * * **Mars** [**Andrew Good**](mailto:Andrew.C.Good@jpl.nasa.gov) Media Relations Specialist 818-393-2433 * * * **Earth Sciences** [**Andrew Wang**](mailto:andrew.wang@jpl",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "gov",
-        "media",
-        "mailto",
-        "relations",
-        "specialist",
-        "andrew",
-        "good",
-        "https",
-        "mission",
-        "news",
-        "www",
-        "818-354-5011"
-      ],
-      "hash": "58adb364db18b9f2fd86262036b07b0f422c85a3774c54ef16a5f00c85fe3419",
-      "learned_at": "2026-10-16T17:26:47+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/planets/obs_data.html",
-      "title": "Planetary Observational Data",
-      "summary": "Title: Planetary Observational Data URL Source: https://ssd.jpl.nasa.gov/planets/obs_data.html Markdown Content: The creation of modern ephemerides involves the fitting to a wide variety of astronomical measurements (observations). This page presents the sets of observations that are currently being used in the creation and improvement of modern planetary and lunar ephemerides. These data are currently maintained by **Ryan Park**; JPL/Caltech ([ryan.s.park@jpl.nasa.gov](mailto:ryan.s.park@jpl.nasa.gov)). #### Meridian Circle Timings (transits) * [iBordeaux, 1985-96](https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt) * [RGO, Herstmonceux,1957-82](https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt) * [RGO, La Palma, 1984-98](https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt) * [Tokyo, 1986-88](https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt) * [USNO 6″, 1913-76](https://ssd.jp",
-      "keywords": [
-        "jpl",
-        "gov",
-        "nasa",
-        "planets",
-        "https",
-        "ssd",
-        "dat",
-        "txt",
-        "usno",
-        "format",
-        "observations",
-        "references",
-        "astrometry",
-        "optical_format"
-      ],
-      "hash": "b43417d3da182673095e288e9580638d8628c74982ce963816fb7d39a374701d",
-      "learned_at": "2026-10-16T17:26:54+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/ftp/eph/",
       "title": "Public FTP File Browser",
@@ -22968,6 +22853,190 @@
       ],
       "hash": "3452f8b67659a8bae318c667e28c06f3fb4eb35d65acfbee6be0e1859ab9b316",
       "learned_at": "2026-10-31T06:56:34+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/researchers/sara/grant-solicitations/",
+      "title": "Funding Opportunities and Announcements - NASA Science",
+      "summary": "Title: Funding Opportunities and Announcements - NASA Science URL Source: https://science.nasa.gov/researchers/sara/grant-solicitations/ Published Time: 2008-03-04T04:42:00-05:00 Markdown Content: ### Funding Opportunities Our current omnibus research funding opportunity is Research Opportunities in Space and Earth Science (ROSES) - 2025, which was released July 10, 2025. We anticipate that ROSES-26 will be released in July of 2026. Thus, ROSES-25 will stay open through August 2026. To see what is in ROSES-25 refer to Tables 2 and 3 of ROSES-25 at [https://solicitation.nasaprs.com/ROSES2025table2](https://solicitation.nasaprs.com/ROSES2025table2) and [https://solicitation.nasaprs.com/ROSES2025table3](https://solicitation.nasaprs.com/ROSES2025table3), respectively. To review what's new in ROSES this year see [https://science.nasa.gov/researchers/sara/faqs/#faq-1](https://science.nasa.gov/",
+      "keywords": [
+        "https",
+        "science",
+        "com",
+        "nasa",
+        "nasaprs",
+        "gov",
+        "researchers",
+        "roses-25",
+        "2026",
+        "released",
+        "lists",
+        "nspires",
+        "roses",
+        "solicitation"
+      ],
+      "hash": "336dfad2521e486296cb3d7a6f9c979df2b958c1edc9d002f7e14ee6c075750f",
+      "learned_at": "2026-10-31T13:28:30+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnstsbordx.txt Published Time: Wed, 25 Mar 2026 06:54:05 GMT Markdown Content: # Meridian Circle Observations, Bordeaux Observatory P60624469066443481 999 1 31720147100 3-213045400 1987BORD P60624469106330881 999 1 31719516550 3-212856710 1987BORD P60624469375549281 999 1 31713162040 3-212300240 1987BORD P60624469405461996 999 1 31712281080 3-212042720 1987BORD P60624469794318356 999 1 31700536190 3-211046980 1987BORD P60624469993729518 999 1 31655599590 3-210713400 1987BORD P60624472995999692 999 1 31806349560 3-221732670 1988BORD P60624473005978307 999 1 31806163520 3-221745860 1988BORD P60624473025911122 999 1 31805372770 3-221736630 1988BORD P60624473275184531 999 1 31758393260 3-221706170 1988BORD P60624473344973454 999 1 31756092870 3-221917720 1988BORD P60624473524441263 999 1 31750306970 3-221919260 1988BORD P60624473584268",
+      "keywords": [
+        "999",
+        "1989bord",
+        "1988bord",
+        "1987bord",
+        "1990bord",
+        "2026",
+        "3-210259680",
+        "3-210713400",
+        "3-211046980",
+        "3-211312630",
+        "3-212042720",
+        "3-212300240",
+        "3-212856710",
+        "3-213045400"
+      ],
+      "hash": "632baca8b77fe6fd74e64937b2c7c17ed1e33f0d1953d1e9ee1bef1c78c321c8",
+      "learned_at": "2026-10-31T13:28:31+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnstsherst.txt Published Time: Wed, 25 Mar 2026 06:54:05 GMT Markdown Content: # Meridian Circle Observations, RGO, Herstmonceux P002243614912460000000011991140 21803021030 6-264005400 1957HRST P002243617513222000000011991100 21956331170 6-233740900 1957HRST P007243617567259000000011991140 1 856480730 1 175647750 1957HRST P002243620310576000000011991120 22108444090 0-000000000 1957HRST P007243621057433000000011991130 6 852545200 6 181348840 1958HRST P002243621108630000000011991100 22112112130 0-000000000 1958HRST P007243621157149000000011991120 1 852451920 1 181428200 1958HRST P005243622175360000000011991160 61355078350 6-102435350 1958HRST P001243622693983000000011991120 0 000000000 1-224316770 1958HRST P007243622852310000000011991180 1 849534760 0 000000000 1958HRST P007243623450598000000011991130 1 848497530 1 183026490 1958HRST",
+      "keywords": [
+        "1958hrst",
+        "1957hrst",
+        "0-000000000",
+        "000000000",
+        "1-110852900",
+        "1-111448700",
+        "1-112035820",
+        "1-220740780",
+        "1-224316770",
+        "11409297450",
+        "11410329090",
+        "11411319600",
+        "11949404910",
+        "140004250"
+      ],
+      "hash": "a3624cecafc7c0060c109751235e2426604591d89da40aa42d9a0b528ba9a9ee",
+      "learned_at": "2026-10-31T13:28:32+00:00"
+    },
+    {
+      "url": "https://jplwater.nasa.gov/images/logo_nasa.gif",
+      "title": "logo_nasa.gif",
+      "summary": "Title: logo_nasa.gif URL Source: https://jplwater.nasa.gov/images/logo_nasa.gif Published Time: Tue, 28 Nov 2023 20:26:19 GMT Markdown Content: A 288x51 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "gif",
+        "logo_nasa",
+        "2023",
+        "288x51",
+        "avatar",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "jplwater",
+        "likely"
+      ],
+      "hash": "22428dde9ddceb8c21fe35a8d849bb67d0a45abe10c681265b2c8ea475754a39",
+      "learned_at": "2026-10-31T13:28:33+00:00"
+    },
+    {
+      "url": "https://jplwater.nasa.gov/images/spacer.gif",
+      "title": "spacer.gif",
+      "summary": "Title: spacer.gif URL Source: https://jplwater.nasa.gov/images/spacer.gif Published Time: Tue, 28 Nov 2023 20:26:19 GMT Markdown Content: A 1x1 image, likely be a tacker probe",
+      "keywords": [
+        "gif",
+        "spacer",
+        "1x1",
+        "2023",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "images",
+        "jplwater",
+        "likely",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "e0b5f653a5efe99a8fd8d702e1e56cdb99903811ebbcae1d3af073df84d37c67",
+      "learned_at": "2026-10-31T13:28:34+00:00"
+    },
+    {
+      "url": "https://mars.nasa.gov/mars2020/",
+      "title": "Mars 2020: Perseverance Rover - NASA Science",
+      "summary": "Title: Mars 2020: Perseverance Rover - NASA Science URL Source: https://mars.nasa.gov/mars2020/ Final URL: https://science.nasa.gov/mission/mars-2020-perseverance/ Published Time: 2017-12-05T00:19:50-05:00 Markdown Content: [![Image 7: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 8: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmed",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "0766f0c6ec2208eda460481dcdcf545418e9374348744c1f9521571383cfc5a6",
+      "learned_at": "2026-10-31T13:28:37+00:00"
+    },
+    {
+      "url": "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
+      "title": "PDS Geosciences Node Data and Services: Apollo Data",
+      "summary": "Title: PDS Geosciences Node Data and Services: Apollo Data URL Source: http://pds-geosciences.wustl.edu/missions/apollo/index.htm Final URL: https://pds-geosciences.wustl.edu/missions/apollo/index.htm Markdown Content: [![Image 1: PDS logo](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and a",
+      "keywords": [
+        "https",
+        "edu",
+        "wustl",
+        "nasa",
+        "pds-geosciences",
+        "gov",
+        "pds",
+        "htm",
+        "image",
+        "images",
+        "default",
+        "data",
+        "http",
+        "node"
+      ],
+      "hash": "bde70e793b1325f5ba3aeff2c7be65ae9462005969f6ad6cf4a12c831483f900",
+      "learned_at": "2026-10-31T13:28:39+00:00"
+    },
+    {
+      "url": "http://pds-geosciences.wustl.edu/missions/apollo/",
+      "title": "PDS Geosciences Node Data and Services: Apollo Data",
+      "summary": "Title: PDS Geosciences Node Data and Services: Apollo Data URL Source: http://pds-geosciences.wustl.edu/missions/apollo/ Final URL: https://pds-geosciences.wustl.edu/missions/apollo/ Markdown Content: [![Image 1: PDS logo](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and approval under a re",
+      "keywords": [
+        "https",
+        "edu",
+        "wustl",
+        "nasa",
+        "pds-geosciences",
+        "gov",
+        "pds",
+        "image",
+        "images",
+        "default",
+        "htm",
+        "data",
+        "http",
+        "node"
+      ],
+      "hash": "173efd3246184e9684868525f391a518c2639dbebc22a6dd111543405ca1933d",
+      "learned_at": "2026-10-31T13:28:42+00:00"
     }
   ],
   "failures": [
@@ -23078,6 +23147,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-10-31T13:28:42+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-10-31T13:28:42+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 23,
+      "frontier": 2117
+    },
     {
       "at": "2026-10-31T06:56:34+00:00",
       "kind": "core_unchanged",
@@ -23988,40 +24072,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 19,
       "frontier": 1443
-    },
-    {
-      "at": "2026-10-22T10:30:48+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v36",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-22T10:30:48+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 13,
-      "frontier": 1449
     }
   ],
   "metrics": {
-    "successful_fetches": 1191,
+    "successful_fetches": 1199,
     "failed_fetches": 21,
     "duplicate_pages": 2,
     "candidate_promotions": 51,
-    "candidate_rejections": 141
+    "candidate_rejections": 142
   },
   "core_genome": {
     "query_weight": 3.0,
