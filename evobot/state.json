@@ -1,12 +1,23 @@
 {
   "schema": 2,
-  "generation": 199,
+  "generation": 200,
   "core_version": 54,
-  "runs": 198,
-  "pages_learned": 1228,
-  "last_run": "2026-11-01T05:50:16+00:00",
+  "runs": 199,
+  "pages_learned": 1236,
+  "last_run": "2026-11-01T12:16:17+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://rbi.org.in/images/font-reset.gif",
+    "https://rbi.org.in/images/font-decrease.gif",
+    "https://rbi.org.in/images/dark-theme.gif",
+    "https://rbi.org.in/images/bright-theme.gif",
+    "https://rbi.org.in/images/graytheme.gif",
+    "https://rbi.org.in/images/print-icon.png",
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_August_10_12_2026.jpeg",
+    "https://cos.rbi.org.in/images/logo.png",
+    "https://cos.rbi.org.in/default.aspx",
+    "https://cos.rbi.org.in/AboutUs.aspx",
+    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2015-Elachi-Lights.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -122,7 +133,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25439.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-Kamchatka-st.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26815_-_Mas.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://news.berkeley.edu/2021/06/28/stellar-explosion-in-1054-c-e-may-have-been-a-third-flavor-of-supernova/",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebarrm_61DYT4A.2e16d0ba.fill-400x400-c50.jpg",
@@ -158,7 +168,11 @@
     "https://www.conicet.gov.ar/?lan=en",
     "https://www.utn.edu.ar/es/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
+    "https://news.ycombinator.com/",
+    "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
+    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://universe-of-learning.org/home",
     "https://pds-rings.seti.org/",
@@ -166,7 +180,6 @@
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
     "https://www.cookiebot.com/",
-    "https://news.ycombinator.com/",
     "https://www.youtube.com/watch?v=y6D3qUPEVGA",
     "https://www.youtube.com/watch?v=NoOKQTb2h7A",
     "https://www.youtube.com/watch?v=j3mk6tUokm4",
@@ -242,9 +255,7 @@
     "https://www.youtube.com/watch?v=yIWyFX0uxoc",
     "https://www.youtube.com/watch?v=yIWyFX0uxoc",
     "https://www.aggo-conicet.gob.ar/",
-    "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
     "https://www.aggo-conicet.gob.ar/",
-    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "https://www.youtube.com/watch?v=7-lKCKM_wqw",
     "https://www.youtube.com/watch?v=7-lKCKM_wqw&feature=emb_title",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
@@ -253,7 +264,6 @@
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://aa.usno.navy.mil/data/index.php",
-    "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.caltech.edu/",
     "http://www.housing.caltech.edu/",
@@ -283,30 +293,6 @@
     "http://www.icontact.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
-    "https://www.jpl.nasa.gov/edu/internships/apply/",
-    "https://www.jpl.nasa.gov/edu/internships/faq/",
-    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-year-round-internship-program",
-    "https://www.rbi.org.in/images/font-decrease.gif",
-    "https://www.rbi.org.in/images/letspace.png",
-    "https://rbi.org.in/images/letspace.png",
-    "https://rbi.org.in/images/font-increase.gif",
-    "https://rbi.org.in/images/font-reset.gif",
-    "https://rbi.org.in/images/font-decrease.gif",
-    "https://rbi.org.in/images/dark-theme.gif",
-    "https://rbi.org.in/images/bright-theme.gif",
-    "https://rbi.org.in/images/graytheme.gif",
-    "https://rbi.org.in/images/print-icon.png",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_MCLDP_Sept_21_23_2026.jpg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_September_07_10_2026.jpg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_OPs_Risk_September_07_09.jpg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_RBIA_NBFCs_August_24_25.jpg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_DCW_August_19_21_2026.jpg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_CM_UCBs_August_17_21.jpg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_August_10_12_2026.jpeg",
-    "https://cab.rbi.org.in/images/mediagallery/Photograph_BASEL_III_August_10_12.jpg",
-    "https://cos.rbi.org.in/images/logo.png",
-    "https://cos.rbi.org.in/default.aspx",
-    "https://cos.rbi.org.in/AboutUs.aspx",
     "https://cos.rbi.org.in/Notifications.aspx",
     "https://cos.rbi.org.in/programs.aspx",
     "https://cos.rbi.org.in/PhotoGallery.aspx",
@@ -2156,7 +2142,16 @@
     "https://therbimuseum.rbi.org.in/images/carousel/DSC_4671.jpg",
     "https://therbimuseum.rbi.org.in/images/carousel/DSC_4675.jpg",
     "https://therbimuseum.rbi.org.in/images/carousel/DSC_4681.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4706.jpg"
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4706.jpg",
+    "http://www.jpl.nasa.gov/edu/intern/apply",
+    "http://www.jpl.nasa.gov/edu/intern/apply/student-independent-research-intern/",
+    "http://www.jpl.nasa.gov/edu/intern/apply",
+    "https://www.jpl.nasa.gov/edu/internships/apply/jpl-year-round-internship-program",
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_OPs_Risk_September_07_09.jpg",
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_RBIA_NBFCs_August_24_25.jpg",
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_DCW_August_19_21_2026.jpg",
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_CM_UCBs_August_17_21.jpg",
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_BASEL_III_August_10_12.jpg"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9498,193 +9493,49 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/EARTH_DAY_2019_WEB_orig.2e16d0ba.fill-400x400-c50.jpg": {
       "at": "2026-11-01T05:50:40+00:00",
       "status": "robots_disallow"
+    },
+    "https://www.jpl.nasa.gov/edu/internships/apply/": {
+      "at": "2026-11-01T12:16:21+00:00",
+      "status": "ok",
+      "hash": "23d08d6431827e91303d9d18038b8a49ac4591e16da170d33b9b219e25fc3641"
+    },
+    "https://www.jpl.nasa.gov/edu/internships/faq/": {
+      "at": "2026-11-01T12:16:24+00:00",
+      "status": "ok",
+      "hash": "3a1d6be732587d253bf396e76900c44224c1221a674018af47cec3364690e654"
+    },
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_MCLDP_Sept_21_23_2026.jpg": {
+      "at": "2026-11-01T12:16:31+00:00",
+      "status": "ok",
+      "hash": "b051c7ad11c0bbdcff8a320b3e985942542011dd6e4148ea23f3225a4638c311"
+    },
+    "https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_September_07_10_2026.jpg": {
+      "at": "2026-11-01T12:16:37+00:00",
+      "status": "ok",
+      "hash": "1099aafd039c6f2c25f5278d2bd76d1dd0f4ec90e3e25b68f7234307c0b1efc3"
+    },
+    "https://www.rbi.org.in/images/font-decrease.gif": {
+      "at": "2026-11-01T12:16:38+00:00",
+      "status": "ok",
+      "hash": "1eea5c35663777a6dcac9df288f6d6e179238a5308195fcf35200f12fb70a0af"
+    },
+    "https://www.rbi.org.in/images/letspace.png": {
+      "at": "2026-11-01T12:16:39+00:00",
+      "status": "ok",
+      "hash": "877c5e97a2f4997c00e0557c27a534a19160878e7befb5e802f9567f7951c72c"
+    },
+    "https://rbi.org.in/images/letspace.png": {
+      "at": "2026-11-01T12:16:40+00:00",
+      "status": "ok",
+      "hash": "7af4f80ff4872302cd8b92be93dd18bb1bb8f4688e53b330a832392a4e269f39"
+    },
+    "https://rbi.org.in/images/font-increase.gif": {
+      "at": "2026-11-01T12:16:40+00:00",
+      "status": "ok",
+      "hash": "558d404cb730356ea2ac056914825b3e950097b0981d7f1e664f1b8dba4d3f53"
     }
   },
   "memory": [
-    {
-      "url": "https://www.jpl.nasa.gov/eyes-on-the-news-beta/",
-      "title": "Eyes on the News - Beta | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Eyes on the News - Beta | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/eyes-on-the-news-beta/ Markdown Content: [](https://www.jpl.nasa.gov/eyes-on-the-news-beta/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) Interactive. # Eyes on the News - Beta Be the one of the first to test out a whole new way to keep up with the latest news ",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "news",
-        "missions",
-        "who-we-are",
-        "eyes",
-        "topics",
-        "eyes-on-the-news-beta",
-        "home",
-        "mission_status",
-        "solar"
-      ],
-      "hash": "ad1bb854afc31db91ce772c82cb5f8b13317295fb6cea516866a423bc89f7809",
-      "learned_at": "2026-10-17T05:05:33+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/02/asap-annual-report-2025-cover.png?w=672",
-      "title": "asap-annual-report-2025-cover.png",
-      "summary": "Title: asap-annual-report-2025-cover.png URL Source: https://www.nasa.gov/wp-content/uploads/2026/02/asap-annual-report-2025-cover.png?w=672 Published Time: Sat, 17 Oct 2026 05:05:36 GMT Markdown Content: The AeroSpace Safety Advisory Panel Annual Report 2025",
-      "keywords": [
-        "2026",
-        "asap-annual-report-2025-cover",
-        "png",
-        "2025",
-        "672",
-        "advisory",
-        "aerospace",
-        "annual",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "4f608ccfe8f34dfc2147cb8bd6a8c63be3e79720b06b17806f49b4b779b25323",
-      "learned_at": "2026-10-17T05:05:38+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2018/10/pulsar-loop-allparticles-glow.gif?w=600",
-      "title": "pulsar-loop-allparticles-glow.gif",
-      "summary": "Title: pulsar-loop-allparticles-glow.gif URL Source: https://www.nasa.gov/wp-content/uploads/2018/10/pulsar-loop-allparticles-glow.gif?w=600 Published Time: Sat, 17 Oct 2026 05:05:43 GMT Markdown Content: A spherical object caught in both light and shadow",
-      "keywords": [
-        "gif",
-        "pulsar-loop-allparticles-glow",
-        "2018",
-        "2026",
-        "600",
-        "both",
-        "caught",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "light",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "9ecb9c3a1a3f45d20c607f1fd58acfd3a0cec042ed50d5216cd02ed8fc1fcd97",
-      "learned_at": "2026-10-17T05:05:46+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/2000/2499/aster_bhutan_glaciers.jpg?w=540&h=301&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "aster_bhutan_glaciers.jpg",
-      "summary": "Title: aster_bhutan_glaciers.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/2000/2499/aster_bhutan_glaciers.jpg?w=540&h=301&fit=clip&crop=faces,focalpoint Markdown Content: The image is an overhead satellite photograph featuring a mountainous landscape",
-      "keywords": [
-        "assets",
-        "aster_bhutan_glaciers",
-        "jpg",
-        "science",
-        "2000",
-        "2499",
-        "301",
-        "540",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "esd",
-        "faces"
-      ],
-      "hash": "d87a740dc9cb7c5f59d588c3e9bbf8bbd038eaab2927d45d5a134ff23da1b22b",
-      "learned_at": "2026-10-17T05:05:49+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/osdr_PSI_article_image.png?w=1276&h=850&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "osdr_PSI_article_image.png",
-      "summary": "Title: osdr_PSI_article_image.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/osdr_PSI_article_image.png?w=1276&h=850&fit=clip&crop=faces,focalpoint Markdown Content: Close up picture of inside of a spacecraft, inside of the spacecraft, there is a tv, there are small wires connected to the tv, there is a computer on the left side, there are oxygen masks to the further side",
-      "keywords": [
-        "assets",
-        "inside",
-        "osdr_psi_article_image",
-        "png",
-        "science",
-        "side",
-        "spacecraft",
-        "1276",
-        "850",
-        "bps",
-        "bps-data_osdr_psi",
-        "bps-general",
-        "clip",
-        "close"
-      ],
-      "hash": "012a60b7e5716627631a9b0ca9b9cde4fa1ad01dc76ce4b0a371cf239e2ae56e",
-      "learned_at": "2026-10-17T09:18:01+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/148000/148473/swfires_amo_2021172.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "swfires_amo_2021172.jpg",
-      "summary": "Title: swfires_amo_2021172.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/148000/148473/swfires_amo_2021172.jpg?w=720&h=480&fit=clip&crop=faces,focalpoint Markdown Content: FT VARAH ASH CONSERVATION PARK BEFORE AND AFTER YEAR 2010",
-      "keywords": [
-        "assets",
-        "jpg",
-        "science",
-        "swfires_amo_2021172",
-        "148000",
-        "148473",
-        "2010",
-        "480",
-        "720",
-        "after",
-        "ash",
-        "before",
-        "clip",
-        "conservation"
-      ],
-      "hash": "4aad2325ce95969d0dcc1ce67e19f8b9c2a19c121ac863c33c99678f7e82cf44",
-      "learned_at": "2026-10-17T09:18:04+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/02/astrosphere-xray-infrared.jpg?w=1024",
-      "title": "astrosphere-xray-infrared.jpg",
-      "summary": "Title: astrosphere-xray-infrared.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/02/astrosphere-xray-infrared.jpg?w=1024 Published Time: Sat, 17 Oct 2026 09:18:06 GMT Markdown Content: A cluster of planets with a big star and a center planet",
-      "keywords": [
-        "2026",
-        "astrosphere-xray-infrared",
-        "jpg",
-        "1024",
-        "big",
-        "center",
-        "cluster",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "oct"
-      ],
-      "hash": "79270eede6b86dc492d3dd1bbeca0dcd11c5c21a82bc1c7c9c8e5f17d5388576",
-      "learned_at": "2026-10-17T09:18:08+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/blogs/earth-matters/page/29",
-      "title": "Earth Matters Archives - Page 29 of 68 - NASA Science",
-      "summary": "Title: Earth Matters Archives - Page 29 of 68 - NASA Science URL Source: https://science.nasa.gov/blogs/earth-matters/page/29 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multi",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "earth",
-        "image",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "9b2314dd4a9a0a7ef217d750ae2a49fcb4bf3bb5fc2db9041d1f3402e76aebd6",
-      "learned_at": "2026-10-17T09:18:18+00:00"
-    },
     {
       "url": "https://www.nasa.gov/spacecapital",
       "title": "Space Capital Office - NASA",
@@ -23300,6 +23151,190 @@
       ],
       "hash": "13d7f7d9d8e1ff828b01daae4bd1e694e61d90ed45baf5513082609d436bfbc9",
       "learned_at": "2026-11-01T05:50:39+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/internships/apply/",
+      "title": "Explore Programs & Apply – JPL Internships | NASA JPL Education",
+      "summary": "Title: Explore Programs & Apply – JPL Internships | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/ Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 3: JPL Logo](https://w",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "edu",
+        "internships",
+        "apply",
+        "---",
+        "program",
+        "image",
+        "programs",
+        "_nuxt",
+        "academic"
+      ],
+      "hash": "23d08d6431827e91303d9d18038b8a49ac4591e16da170d33b9b219e25fc3641",
+      "learned_at": "2026-11-01T12:16:21+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/internships/faq/",
+      "title": "Internships FAQ – JPL Internships | NASA JPL Education",
+      "summary": "Title: Internships FAQ – JPL Internships | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/faq/ Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/faq/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 6: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 7: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 8: JPL Logo](https://www.jpl.nasa.g",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "internships",
+        "edu",
+        "faq",
+        "image",
+        "students",
+        "_nuxt",
+        "education",
+        "logo",
+        "svg"
+      ],
+      "hash": "3a1d6be732587d253bf396e76900c44224c1221a674018af47cec3364690e654",
+      "learned_at": "2026-11-01T12:16:24+00:00"
+    },
+    {
+      "url": "https://cab.rbi.org.in/images/mediagallery/Photograph_MCLDP_Sept_21_23_2026.jpg",
+      "title": "Photograph_MCLDP_Sept_21_23_2026.jpg",
+      "summary": "Title: Photograph_MCLDP_Sept_21_23_2026.jpg URL Source: https://cab.rbi.org.in/images/mediagallery/Photograph_MCLDP_Sept_21_23_2026.jpg Published Time: Tue, 29 Sep 2026 10:17:30 GMT Markdown Content: A group of people posing for a photo in front of a Reserve Bank of India sign in front of the Reserve Bank of India building",
+      "keywords": [
+        "bank",
+        "front",
+        "india",
+        "jpg",
+        "photograph_mcldp_sept_21_23_2026",
+        "reserve",
+        "2026",
+        "building",
+        "cab",
+        "content",
+        "gmt",
+        "group",
+        "https",
+        "images"
+      ],
+      "hash": "b051c7ad11c0bbdcff8a320b3e985942542011dd6e4148ea23f3225a4638c311",
+      "learned_at": "2026-11-01T12:16:31+00:00"
+    },
+    {
+      "url": "https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_September_07_10_2026.jpg",
+      "title": "Photograph_LDP_September_07_10_2026.jpg",
+      "summary": "Title: Photograph_LDP_September_07_10_2026.jpg URL Source: https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_September_07_10_2026.jpg Published Time: Tue, 29 Sep 2026 10:17:30 GMT Markdown Content: Group of people posing fot a photo in front of a stone wall",
+      "keywords": [
+        "jpg",
+        "photograph_ldp_september_07_10_2026",
+        "2026",
+        "cab",
+        "content",
+        "fot",
+        "front",
+        "gmt",
+        "group",
+        "https",
+        "images",
+        "markdown",
+        "mediagallery",
+        "org"
+      ],
+      "hash": "1099aafd039c6f2c25f5278d2bd76d1dd0f4ec90e3e25b68f7234307c0b1efc3",
+      "learned_at": "2026-11-01T12:16:37+00:00"
+    },
+    {
+      "url": "https://www.rbi.org.in/images/font-decrease.gif",
+      "title": "font-decrease.gif",
+      "summary": "Title: font-decrease.gif URL Source: https://www.rbi.org.in/images/font-decrease.gif Published Time: Sun, 09 Aug 2026 10:15:44 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "font-decrease",
+        "gif",
+        "2026",
+        "20x20",
+        "aug",
+        "avatar",
+        "content",
+        "gmt",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo"
+      ],
+      "hash": "1eea5c35663777a6dcac9df288f6d6e179238a5308195fcf35200f12fb70a0af",
+      "learned_at": "2026-11-01T12:16:38+00:00"
+    },
+    {
+      "url": "https://www.rbi.org.in/images/letspace.png",
+      "title": "letspace.png",
+      "summary": "Title: letspace.png URL Source: https://www.rbi.org.in/images/letspace.png Published Time: Sun, 09 Aug 2026 10:13:14 GMT Markdown Content: A 21x21 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "letspace",
+        "png",
+        "2026",
+        "21x21",
+        "aug",
+        "avatar",
+        "content",
+        "gmt",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo"
+      ],
+      "hash": "877c5e97a2f4997c00e0557c27a534a19160878e7befb5e802f9567f7951c72c",
+      "learned_at": "2026-11-01T12:16:39+00:00"
+    },
+    {
+      "url": "https://rbi.org.in/images/letspace.png",
+      "title": "letspace.png",
+      "summary": "Title: letspace.png URL Source: https://rbi.org.in/images/letspace.png Published Time: Sun, 09 Aug 2026 10:13:14 GMT Markdown Content: A 21x21 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "letspace",
+        "png",
+        "2026",
+        "21x21",
+        "aug",
+        "avatar",
+        "content",
+        "gmt",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo"
+      ],
+      "hash": "7af4f80ff4872302cd8b92be93dd18bb1bb8f4688e53b330a832392a4e269f39",
+      "learned_at": "2026-11-01T12:16:40+00:00"
+    },
+    {
+      "url": "https://rbi.org.in/images/font-increase.gif",
+      "title": "font-increase.gif",
+      "summary": "Title: font-increase.gif URL Source: https://rbi.org.in/images/font-increase.gif Published Time: Sun, 09 Aug 2026 10:15:45 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "font-increase",
+        "gif",
+        "2026",
+        "20x20",
+        "aug",
+        "avatar",
+        "content",
+        "gmt",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo"
+      ],
+      "hash": "558d404cb730356ea2ac056914825b3e950097b0981d7f1e664f1b8dba4d3f53",
+      "learned_at": "2026-11-01T12:16:40+00:00"
     }
   ],
   "failures": [
@@ -23415,6 +23450,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-01T12:16:41+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-01T12:16:41+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 14,
+      "frontier": 2145
+    },
     {
       "at": "2026-11-01T05:50:40+00:00",
       "kind": "core_promoted",
@@ -24336,29 +24386,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 1458
-    },
-    {
-      "at": "2026-10-23T05:56:14+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-23T05:56:14+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 1458
     }
   ],
   "metrics": {
-    "successful_fetches": 1228,
+    "successful_fetches": 1236,
     "failed_fetches": 22,
     "duplicate_pages": 2,
     "candidate_promotions": 53,
-    "candidate_rejections": 144
+    "candidate_rejections": 145
   },
   "core_genome": {
     "query_weight": 3.0,
