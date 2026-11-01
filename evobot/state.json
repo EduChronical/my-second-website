@@ -1,12 +1,15 @@
 {
   "schema": 2,
-  "generation": 197,
+  "generation": 198,
   "core_version": 53,
-  "runs": 196,
-  "pages_learned": 1214,
-  "last_run": "2026-10-31T20:57:17+00:00",
+  "runs": 197,
+  "pages_learned": 1222,
+  "last_run": "2026-10-31T23:59:58+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg",
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg",
+    "http://ilrs.gsfc.nasa.gov/about/news/index.html",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mirointerns-main.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/tf_pomona_present1.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
@@ -122,7 +125,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
-    "https://pds-rings.seti.org/",
     "https://www.bcg.com/x/bcg-x-ai-science-institute",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
@@ -168,7 +170,11 @@
     "https://www.jpl.jobs/students-and-postdocs",
     "https://www.jpl.jobs/students",
     "https://www.caltech.edu/claimed-copyright-infringement",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
+    "https://www.conicet.gov.ar/?lan=en",
+    "https://www.utn.edu.ar/es/",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "https://pds-rings.seti.org/",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -226,7 +232,6 @@
     "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
@@ -250,12 +255,15 @@
     "https://www.agu.org/abscicon",
     "https://www.youtube.com/watch?v=yIWyFX0uxoc",
     "https://www.youtube.com/watch?v=yIWyFX0uxoc",
+    "https://www.aggo-conicet.gob.ar/",
+    "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
+    "https://www.aggo-conicet.gob.ar/",
+    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://aa.usno.navy.mil/data/index.php",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
-    "http://pds-rings.seti.org/galleries.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.caltech.edu/",
     "http://www.housing.caltech.edu/",
@@ -265,6 +273,7 @@
     "http://polac.obspm.fr/llrdatae.html",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
+    "http://pds-rings.seti.org/galleries.html",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
@@ -284,29 +293,6 @@
     "http://www.icontact.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
-    "https://www.jpl.nasa.gov/jpl-image-use-policy/",
-    "https://www.jpl.nasa.gov/frequently-asked-questions/",
-    "https://www.jpl.nasa.gov/contact-jpl/",
-    "http://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
-    "http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png",
-    "http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png",
-    "http://ilrs.gsfc.nasa.gov/about/news/index.html",
-    "https://www.aggo-conicet.gob.ar/",
-    "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
-    "https://www.aggo-conicet.gob.ar/",
-    "https://www.conicet.gov.ar/?lan=en",
-    "https://www.utn.edu.ar/es/",
-    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
-    "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2025/mar/ph202534512401.jpeg",
-    "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg",
-    "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph202394248901.png",
-    "https://static.pib.gov.in/WriteReadData/userfiles/image/image002YL5F.jpg",
-    "https://static.pib.gov.in/WriteReadData/userfiles/image/image003AFLN.jpg",
-    "https://static.pib.gov.in/WriteReadData/userfiles/image/image004GUT8.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4659.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4679.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg",
     "https://therbimuseum.rbi.org.in/images/carousel/DSC_4671.jpg",
     "https://therbimuseum.rbi.org.in/images/carousel/DSC_4675.jpg",
     "https://therbimuseum.rbi.org.in/images/carousel/DSC_4681.jpg",
@@ -2142,7 +2128,22 @@
     "https://oig.nasa.gov/foia-requests/",
     "https://oig.nasa.gov/letters-to-congress/",
     "https://oig.nasa.gov/management-challenges/",
-    "https://oig.nasa.gov/peer-reviews/"
+    "https://oig.nasa.gov/peer-reviews/",
+    "https://www.jpl.nasa.gov/opportunities/",
+    "https://www.jpl.nasa.gov/opportunities/",
+    "https://www.jpl.nasa.gov/spaceimages/",
+    "http://trs.jpl.nasa.gov/",
+    "http://ntrs.nasa.gov/",
+    "http://space.jpl.nasa.gov/",
+    "http://ntrs.nasa.gov/](http://ntrs.nasa.gov/)",
+    "https://www.jpl.nasa.gov/contact-jpl/",
+    "https://static.pib.gov.in/WriteReadData/userfiles/image/image002YL5F.jpg",
+    "https://static.pib.gov.in/WriteReadData/userfiles/image/image003AFLN.jpg",
+    "https://static.pib.gov.in/WriteReadData/userfiles/image/image004GUT8.jpg",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2025/mar/ph202534512401.jpeg",
+    "https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
+    "https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
+    "https://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9370,193 +9371,49 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/iss_sunrise_EyEpv8m.2e16d0ba.fill-400x400-c50.jpg": {
       "at": "2026-10-31T21:00:51+00:00",
       "status": "robots_disallow"
+    },
+    "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg": {
+      "at": "2026-11-01T00:00:06+00:00",
+      "status": "ok",
+      "hash": "a5d2f90ba9885d3976422caad03d8e2c42c08cee1a98896eb519bdc137237d1e"
+    },
+    "https://www.jpl.nasa.gov/jpl-image-use-policy/": {
+      "at": "2026-11-01T00:00:10+00:00",
+      "status": "ok",
+      "hash": "a22c419948780af1ad73809c581db6c53358c4fa34b0b6005711d45c13e28652"
+    },
+    "https://www.jpl.nasa.gov/frequently-asked-questions/": {
+      "at": "2026-11-01T00:00:13+00:00",
+      "status": "ok",
+      "hash": "8eb41632824bd841ed5fc0993214120fa7c4583d31ad5bad29e21df4e39e6b99"
+    },
+    "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph202394248901.png": {
+      "at": "2026-11-01T00:00:15+00:00",
+      "status": "ok",
+      "hash": "3fd381cb1d690ad3e8fea66dfc0207ae487d6a6684cd5e2b2a3996d09bc099f1"
+    },
+    "http://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg": {
+      "at": "2026-11-01T00:00:22+00:00",
+      "status": "ok",
+      "hash": "9de9555f5d191fbe617e2e07388ddb8a5a99d0ad4ce2b480381cf20f1d3843fc"
+    },
+    "http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png": {
+      "at": "2026-11-01T00:00:25+00:00",
+      "status": "ok",
+      "hash": "749bfacc1e3ad843422b1337441569ba23f305428b1cafcab902e4ba6e65de76"
+    },
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4659.jpg": {
+      "at": "2026-11-01T00:00:31+00:00",
+      "status": "ok",
+      "hash": "7238e89d127bd3ff70395fa19c362905c9db66e90208a5ffb69bd96416b07b88"
+    },
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4679.jpg": {
+      "at": "2026-11-01T00:00:36+00:00",
+      "status": "ok",
+      "hash": "18cba8669735df5705e95477c855f77f964345aded4923e78f87e3a12ebb854c"
     }
   },
   "memory": [
-    {
-      "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program",
-      "title": "JPL Summer Internship Program – Explore Programs & Apply | NASA JPL Education",
-      "summary": "Title: JPL Summer Internship Program – Explore Programs & Apply | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\")",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "edu",
-        "internships",
-        "students",
-        "apply",
-        "_nuxt",
-        "education",
-        "image",
-        "internship",
-        "logo"
-      ],
-      "hash": "6ac35501809a09927305575cd26895603c7c7276cea9ab90590ee6adf8b2edb3",
-      "learned_at": "2026-10-16T22:46:32+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html",
-      "title": "Saturn Fact Sheet",
-      "summary": "Title: Saturn Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html Markdown Content: * * * * * * [![Image 1: Saturn](https://nssdc.gsfc.nasa.gov/planetary/banner/saturn.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/saturn.jpg) * * * ## Saturn/Earth Comparison * * * ### Bulk parameters | | Saturn | Earth | Ratio (Saturn/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 568.32 | 5.9722 | 95.16 | | Volume (10 10 km 3) | 82,713 | 108.321 | 763.59 | | Equatorial radius (1 bar level) (km) | 60,268 | 6,378.1 | 9.449 | | Polar radius (1 bar level) (km) | 54,364 | 6,356.8 | 8.552 | | Volumetric mean radius (km) | 58,232 | 6,371.0 | 9.140 | | Ellipticity (Flattening) | 0.09796 | 0.00335 | 29.24 | | Mean density (kg/m 3) | 687 | 5,513 | 0.125 | | Gravity (mean, 1 bar) (m/s 2) | 11.19 | 9.82 | 1.140 | | Acceleration (eq., 1 bar) (m/s 2) | 8.96 | 9.78 | 0.916 | | ",
-      "keywords": [
-        "saturn",
-        "earth",
-        "---",
-        "bar",
-        "orbit",
-        "mean",
-        "orbital",
-        "period",
-        "planetary",
-        "velocity",
-        "140",
-        "days",
-        "gov",
-        "gsfc"
-      ],
-      "hash": "2078c58c0f70ccc23650eeed659f3237d6e836f183d64bee8d7a6c97e671c686",
-      "learned_at": "2026-10-16T22:46:34+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html",
-      "title": "Uranus Fact Sheet",
-      "summary": "Title: Uranus Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html Markdown Content: * * * * * * [![Image 1: Voyager 2 - Uranus](https://nssdc.gsfc.nasa.gov/planetary/banner/uranus.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/uranus.jpg) * * * ## Uranus/Earth Comparison * * * ### Bulk parameters | | Uranus | Earth | Ratio (Uranus/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 86.811 | 5.9722 | 14.54 | | Volume (10 10 km 3) | 6,833 | 108.321 | 63.08 | | Equatorial radius (1 bar level) (km) | 25,559 | 6,378.1 | 4.007 | | Polar radius (1 bar level) (km) | 24,973 | 6,356.8 | 3.929 | | Volumetric mean radius (km) | 25,362 | 6,371.0 | 3.981 | | Ellipticity (Flattening) | 0.02293 | 0.00335 | 6.84 | | Mean density (kg/m 3) | 1,270 | 5,513 | 0.230 | | Gravity (mean, 1 bar) (m/s 2) | 9.01 | 9.82 | 0.918 | | Acceleration (eq., 1 bar) (m/s 2) | 8.69 | 9.78 | ",
-      "keywords": [
-        "uranus",
-        "---",
-        "bar",
-        "earth",
-        "orbit",
-        "mean",
-        "orbital",
-        "period",
-        "planetary",
-        "velocity",
-        "days",
-        "deg",
-        "gov",
-        "gsfc"
-      ],
-      "hash": "b9c2832dccf71ccb44dbee0ae22bad9adb23f641892a4f26db2589e215fc143f",
-      "learned_at": "2026-10-16T22:46:36+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/sb_ident.api?xobs=-5.957613176404512E%2B02%2C-6.319860760764293E%2B03%2C2.735882778341472E%2B03%2C7.326499360212761E%2B00%2C1.801234666741493E-01%2C2.003177731007209E%2B00&obs-time=2020-12-14&fov-ra-center=03-00-00&fov-dec-center=20-00-00&fov-ra-hwidth=1.5&fov-dec-hwidth=1.5&two-pass=true&suppress-first-pass=true&req-elem=true%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/sb_ident.api?xobs=-5.957613176404512E+02,-6.319860760764293E+03,2.735882778341472E+03,7.326499360212761E+00,1.801234666741493E-01,2.003177731007209E+00&obs-time=2020-12-14&fov-ra-",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/sb_ident.api?xobs=-5.957613176404512E+02,-6.319860760764293E+03,2.735882778341472E+03,7.326499360212761E+00,1.801234666741493E-01,2.003177731007209E+00&obs-time=2020-12-14&fov-ra-center=03-00-00&fov-dec-center=20-00-00&fov-ra-hwidth=1.5&fov-dec-hwidth=1.5&two-pass=true&suppress-first-pass=true&req-elem=true` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"code\":\"400\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/sb_ident.html\",\"message\":\"invalid value specified for query parameter 'xobs': invalid real number in component 1\"}",
-      "keywords": [
-        "true",
-        "400",
-        "gov",
-        "https",
-        "invalid",
-        "jpl",
-        "nasa",
-        "sb_ident",
-        "ssd-api",
-        "url",
-        "xobs",
-        "003177731007209e",
-        "03-00-00",
-        "20-00-00"
-      ],
-      "hash": "b294ecc14e709930a769ef3b9140bb3851588e770d84b579811fe979e95fada3",
-      "learned_at": "2026-10-17T00:49:13+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=saturn-enceladus&family=vertical&libr=2&periodmax=1&periodunits=d%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=saturn-enceladus&family=vertical&libr=2&periodmax=1&periodunits=d`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=saturn-enceladus&family=vertical&libr=2&periodmax=1&periodunits=d` Markdown Content: {\"limits\":{\"jacobi\":[-0.550293719627495,3.0001371938454],\"period\":[3.17037100350985,6.28318486328222],\"stability\":[15.7416548715484,1226.78586345961]},\"warning\":\"No matching records\",\"count\":\"0\",\"signature\":{\"source\":\"NASA/JPL Three-Body Periodic Orbits API\",\"version\":\"1.0\"},\"system\":{\"L5\":[\"0.499999809889026\",\"-0.866025403784439\",\"0.0\"],\"lunit\":238529.333386019,\"L2\":[\"1.00399193980005\",\"0.0\",\"0.0\"],\"mass_ratio\":\"1.901109735892602e-07\",\"L3\":[\"-1.00000007921291\",\"0.0\",\"0.0\"],\"name\":\"Saturn-Enceladus\",\"radius_secondary\":252.1,\"L4\":[\"0.499999809889026\",\"0.866025403784439\",\"0.0\"],\"tunit\":18913.2798604104,\"L1\":[\"0.99601827654077\",\"0.0\",\"0.0\"]}}",
-      "keywords": [
-        "499999809889026",
-        "866025403784439",
-        "api",
-        "jpl",
-        "nasa",
-        "saturn-enceladus",
-        "source",
-        "00000007921291",
-        "0001371938454",
-        "00399193980005",
-        "1226",
-        "17037100350985",
-        "18913",
-        "238529"
-      ],
-      "hash": "302d14f6ed2290da92437ec949564de423e4edd40c3c9a7b2916bd3f13468ede",
-      "learned_at": "2026-10-17T00:49:14+00:00"
-    },
-    {
-      "url": "https://www.nature.com/static/images/product-logos/naturecom-secondary-aba9cc0a61.svg",
-      "title": "www.nature.com/static/images/product-logos/naturecom-secondary-aba9cc0a61.svg",
-      "summary": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"205\" height=\"32\"><g fill-rule=\"evenodd\"><path fill-rule=\"nonzero\" d=\"m5.522 7.467.062 3.702h.063c.753-2.071 2.573-3.702 5.27-3.702 3.514 0 4.518 1.757 4.518 5.02v6.588c0 2.007.126 4.015.628 5.584h-5.647c.439-1.443.502-3.263.502-5.396v-6.275c0-1.506-.628-2.259-2.26-2.259-1.254 0-2.258.314-2.948 1.004V19.2c0 2.133.063 3.953.502 5.396H.627c.502-1.569.628-3.64.628-5.584v-6.087c0-1.63-.565-3.137-1.255-3.89zm18.823-.063c4.33 0 5.96 1.694 5.96 5.27v7.404c0 1.318.503 1.757 1.57 1.757.188 0 .69-.062.878-.25-.063.501-.126.752-.251 1.066-.502 1.38-1.38 2.322-3.263 2.322-2.133 0-3.263-1.506-3.325-3.075h-.063c-.69 2.133-2.133 3.075-4.33 3.075-2.697 0-4.454-1.632-4.454-4.142 0-2.698 2.447-3.827 4.957-4.831 2.384-.941 3.701-1.631 3.701-3.388v-.314c0-1.882-.564-2.886-2.384-2.886-1.13 0-1.506.502-1.757 1.568-.313 1.632-1.004 2.196-2.07 2.196-.941 0-1.82-.627",
-      "keywords": [
-        "757",
-        "133",
-        "0-1",
-        "063",
-        "443",
-        "698",
-        "0-2",
-        "0-4",
-        "125",
-        "384",
-        "502",
-        "502-1",
-        "635",
-        "69-"
-      ],
-      "hash": "4a7632db34f5b621ddc2a8822b4d4d3fb4570e8f0b6c37bb1499ed412b47439a",
-      "learned_at": "2026-10-17T00:49:15+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/app-sn/public/images/logo-springernature.svg",
-      "title": "logo-springernature.svg",
-      "summary": "Title: logo-springernature.svg URL Source: https://www.springernature.com/app-sn/public/images/logo-springernature.svg Published Time: Tue, 15 Sep 2026 15:01:14 GMT Markdown Content: A 567x55 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "logo-springernature",
-        "svg",
-        "2026",
-        "567x55",
-        "app-sn",
-        "avatar",
-        "com",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely"
-      ],
-      "hash": "b3b088de25e733995ba9bde3e8e2c606fdbdae56e52be711c31e00eb7ce71ed7",
-      "learned_at": "2026-10-17T00:49:16+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg",
-      "title": "logo-springernature-mobile.svg",
-      "summary": "Title: logo-springernature-mobile.svg URL Source: https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg Published Time: Tue, 15 Sep 2026 15:01:14 GMT Markdown Content: A 567x55 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "logo-springernature-mobile",
-        "svg",
-        "2026",
-        "567x55",
-        "app-sn",
-        "avatar",
-        "com",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely"
-      ],
-      "hash": "c15b5345e02ede3c2aa7457f8949711fb1eac326fb0b5b39b8a9813e5ed3c6e8",
-      "learned_at": "2026-10-17T00:49:16+00:00"
-    },
     {
       "url": "https://www.nature.com/app-sn/public/images/logo-springernature.svg",
       "title": "www.nature.com/app-sn/public/images/logo-springernature.svg",
@@ -23172,6 +23029,190 @@
       ],
       "hash": "f180a5e9320f93574c241b1796d774e9a89956f53c34293cf219dde0d0fc56ca",
       "learned_at": "2026-10-31T20:57:52+00:00"
+    },
+    {
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg",
+      "title": "ph202441327901.jpg",
+      "summary": "Title: ph202441327901.jpg URL Source: https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg Published Time: Mon, 01 Apr 2024 08:23:37 GMT Markdown Content: A woman wearing a orange saree looking straight at camera in a glass",
+      "keywords": [
+        "2024",
+        "apr",
+        "jpg",
+        "ph202441327901",
+        "camera",
+        "content",
+        "glass",
+        "gmt",
+        "gov",
+        "https",
+        "looking",
+        "markdown",
+        "mon",
+        "orange"
+      ],
+      "hash": "a5d2f90ba9885d3976422caad03d8e2c42c08cee1a98896eb519bdc137237d1e",
+      "learned_at": "2026-11-01T00:00:06+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "title": "JPL Image Use Policy | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: JPL Image Use Policy | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-image-use-policy/ Markdown Content: Unless otherwise noted, images and video on JPL public web sites (public sites ending with a jpl.nasa.gov address) may be used for any purpose without prior permission, subject to the special cases noted below. Publishers who wish to have authorization may print this page and retain it for their records; JPL does not issue image permissions on an image by image basis. By electing to download the material from this web site the user agrees: 1. that Caltech makes no representations or warranties with respect to ownership of copyrights in the images, and does not represent others who may claim to be authors or owners of copyright of any of the images, and makes no warranties as to the quality of the images. Caltech shall not be responsible for any l",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "use",
+        "image",
+        "images",
+        "may",
+        "caltech",
+        "gov",
+        "any",
+        "logo",
+        "commercial",
+        "must",
+        "noted",
+        "obtained"
+      ],
+      "hash": "a22c419948780af1ad73809c581db6c53358c4fa34b0b6005711d45c13e28652",
+      "learned_at": "2026-11-01T00:00:10+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/frequently-asked-questions/",
+      "title": "Frequently Asked Questions | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Frequently Asked Questions | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/frequently-asked-questions/ Markdown Content: **Tours** _How can I arrange to go on a tour of JPL?_ JPL tours are conducted regularly by the Public Services Office. For more information, please visit their [website.](https://www.jpl.nasa.gov/events/tours/) _Does JPL have a gift shop that sells souvenirs, space-oriented gifts, etc.?_ The JPL Store sells souvenirs, gifts, etc., and accepts mail orders. Since it is located on the Laboratory's premises, special arrangement must be made to visit it. For more information, call (818) 354-6120 or visit the [JPL Store website.](https://thejplstore.com/) * * * **Employment** _How can I apply to work at JPL?_ You can get information about currently open positions on the [employment opportunities](https://www.jpl.nasa.gov/opportunities/) web",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "gov",
+        "https",
+        "information",
+        "technical",
+        "www",
+        "http",
+        "visit",
+        "opportunities",
+        "program",
+        "818",
+        "_how",
+        "available"
+      ],
+      "hash": "8eb41632824bd841ed5fc0993214120fa7c4583d31ad5bad29e21df4e39e6b99",
+      "learned_at": "2026-11-01T00:00:13+00:00"
+    },
+    {
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph202394248901.png",
+      "title": "ph202394248901.png",
+      "summary": "Title: ph202394248901.png URL Source: https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph202394248901.png Published Time: Mon, 04 Sep 2023 11:44:11 GMT Markdown Content: man with a watermark image of an a for very generous network owner",
+      "keywords": [
+        "2023",
+        "ph202394248901",
+        "png",
+        "sep",
+        "content",
+        "generous",
+        "gmt",
+        "gov",
+        "https",
+        "image",
+        "man",
+        "markdown",
+        "mon",
+        "network"
+      ],
+      "hash": "3fd381cb1d690ad3e8fea66dfc0207ae487d6a6684cd5e2b2a3996d09bc099f1",
+      "learned_at": "2026-11-01T00:00:15+00:00"
+    },
+    {
+      "url": "http://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
+      "title": "https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
+      "summary": "Title: https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg URL Source: http://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg Final URL: https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg Published Time: Fri, 14 Mar 2025 17:23:46 GMT Markdown Content: In this image, we see a single item, inscribed, that is depicted on a dark background",
+      "keywords": [
+        "gov",
+        "gsfc",
+        "ilrs",
+        "images",
+        "jpg",
+        "lageos_alt_448x275",
+        "nasa",
+        "https",
+        "url",
+        "2025",
+        "background",
+        "content",
+        "dark",
+        "depicted"
+      ],
+      "hash": "9de9555f5d191fbe617e2e07388ddb8a5a99d0ad4ce2b480381cf20f1d3843fc",
+      "learned_at": "2026-11-01T00:00:22+00:00"
+    },
+    {
+      "url": "http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png",
+      "title": "ILRS_workshop_2026.png",
+      "summary": "Title: ILRS_workshop_2026.png URL Source: http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png Final URL: https://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png Published Time: Wed, 05 Aug 2026 17:42:04 GMT Markdown Content: Poster from the 24th International Workshop on Laser Ranging with logos of sponsors",
+      "keywords": [
+        "ilrs_workshop_2026",
+        "png",
+        "gov",
+        "gsfc",
+        "ilrs",
+        "nasa",
+        "news",
+        "url",
+        "2026",
+        "24th",
+        "aug",
+        "content",
+        "final",
+        "gmt"
+      ],
+      "hash": "749bfacc1e3ad843422b1337441569ba23f305428b1cafcab902e4ba6e65de76",
+      "learned_at": "2026-11-01T00:00:25+00:00"
+    },
+    {
+      "url": "https://therbimuseum.rbi.org.in/images/carousel/DSC_4659.jpg",
+      "title": "DSC_4659.jpg",
+      "summary": "Title: DSC_4659.jpg URL Source: https://therbimuseum.rbi.org.in/images/carousel/DSC_4659.jpg Published Time: Tue, 26 Feb 2019 10:58:10 GMT Markdown Content: Narain Mandir at Noida, India decorated with art showcase",
+      "keywords": [
+        "dsc_4659",
+        "jpg",
+        "2019",
+        "art",
+        "carousel",
+        "content",
+        "decorated",
+        "feb",
+        "gmt",
+        "https",
+        "images",
+        "india",
+        "mandir",
+        "markdown"
+      ],
+      "hash": "7238e89d127bd3ff70395fa19c362905c9db66e90208a5ffb69bd96416b07b88",
+      "learned_at": "2026-11-01T00:00:31+00:00"
+    },
+    {
+      "url": "https://therbimuseum.rbi.org.in/images/carousel/DSC_4679.jpg",
+      "title": "DSC_4679.jpg",
+      "summary": "Title: DSC_4679.jpg URL Source: https://therbimuseum.rbi.org.in/images/carousel/DSC_4679.jpg Published Time: Tue, 26 Feb 2019 11:02:32 GMT Markdown Content: A Museum display exhibits the Nationalisation of 80 years",
+      "keywords": [
+        "dsc_4679",
+        "jpg",
+        "2019",
+        "carousel",
+        "content",
+        "display",
+        "exhibits",
+        "feb",
+        "gmt",
+        "https",
+        "images",
+        "markdown",
+        "museum",
+        "nationalisation"
+      ],
+      "hash": "18cba8669735df5705e95477c855f77f964345aded4923e78f87e3a12ebb854c",
+      "learned_at": "2026-11-01T00:00:36+00:00"
     }
   ],
   "failures": [
@@ -23287,6 +23328,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-01T00:00:36+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-01T00:00:36+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 14,
+      "frontier": 2137
+    },
     {
       "at": "2026-10-31T21:00:51+00:00",
       "kind": "core_unchanged",
@@ -24197,40 +24253,14 @@
       "message": "Crawl cycle learned 5 new pages",
       "attempted": 24,
       "frontier": 1449
-    },
-    {
-      "at": "2026-10-22T22:41:18+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v37",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-22T22:41:17+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 20,
-      "frontier": 1442
     }
   ],
   "metrics": {
-    "successful_fetches": 1214,
+    "successful_fetches": 1222,
     "failed_fetches": 22,
     "duplicate_pages": 2,
     "candidate_promotions": 52,
-    "candidate_rejections": 143
+    "candidate_rejections": 144
   },
   "core_genome": {
     "query_weight": 3.0,
