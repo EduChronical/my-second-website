@@ -1,29 +1,15 @@
 {
   "schema": 2,
-  "generation": 198,
-  "core_version": 53,
-  "runs": 197,
-  "pages_learned": 1222,
-  "last_run": "2026-10-31T23:59:58+00:00",
+  "generation": 199,
+  "core_version": 54,
+  "runs": 198,
+  "pages_learned": 1228,
+  "last_run": "2026-11-01T05:50:16+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg",
-    "http://ilrs.gsfc.nasa.gov/about/news/index.html",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/mirointerns-main.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/tf_pomona_present1.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_SPHEREx_Cygnus_H2O_Ice_CROP.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide_MAIN.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26702.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/e1a-SPHEREx_all_sky_stars_and_.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA0.2e16d0ba.fill-400x400-c50_wlFIXs6.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19314.2e16d0ba.fill-400x400-c50_gnk3iND.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/EARTH_DAY_2019_WEB_orig.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/2015-Elachi-Lights.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -145,8 +131,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_5AhIZGp.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiro_HHs24IW.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebhayabusa_W6NDE5n.2e16d0ba.fill-400x400-c50.jpg",
-    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
-    "https://universe-of-learning.org/home",
     "https://www.caltech.edu/",
     "https://twitter.com/NASAAstrobio",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
@@ -173,7 +157,10 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://www.conicet.gov.ar/?lan=en",
     "https://www.utn.edu.ar/es/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "https://universe-of-learning.org/home",
     "https://pds-rings.seti.org/",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://unsplash.com/@thisisengineering",
@@ -230,7 +217,6 @@
     "https://www.iau.org/",
     "https://www.iers.org/",
     "https://esahubble.org/images/heic1215a/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
@@ -259,6 +245,10 @@
     "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
     "https://www.aggo-conicet.gob.ar/",
     "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
+    "https://www.youtube.com/watch?v=7-lKCKM_wqw",
+    "https://www.youtube.com/watch?v=7-lKCKM_wqw&feature=emb_title",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -293,21 +283,6 @@
     "http://www.icontact.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4671.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4675.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4681.jpg",
-    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4706.jpg",
-    "https://www.jpl.nasa.gov/edu/news/2017/6/15/from-interns-to-astronauts-former-jpl-interns-join-nasa-astronaut-class/",
-    "https://www.youtube.com/watch?v=7-lKCKM_wqw",
-    "https://www.nasa.gov/wp-content/uploads/2025/07/oiir-designated-country-list-7-11-2025.pdf?emrc=017b3e",
-    "https://www.nasa.gov/wp-content/uploads/2025/07/oiir-designated-country-list-7-11-2025.pdf?emrc=017b3e",
-    "https://www.youtube.com/watch?v=7-lKCKM_wqw&feature=emb_title",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
-    "https://www.jpl.nasa.gov/edu/events/",
-    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
-    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
-    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
     "https://www.jpl.nasa.gov/edu/internships/apply/",
     "https://www.jpl.nasa.gov/edu/internships/faq/",
     "https://www.jpl.nasa.gov/edu/internships/apply/jpl-year-round-internship-program",
@@ -2143,7 +2118,45 @@
     "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2025/mar/ph202534512401.jpeg",
     "https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
     "https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
-    "https://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png"
+    "https://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png",
+    "http://www.jpl.nasa.gov/edu/intern",
+    "https://www.jpl.nasa.gov/edu/intern/apply/maximizing-student-potential/",
+    "https://www.jpl.nasa.gov/edu/news/tag/Where+Are+They+Now",
+    "https://www.jpl.nasa.gov/edu/intern",
+    "https://www.jpl.nasa.gov/edu/intern",
+    "https://www.jpl.nasa.gov/edu/news/from-interns-to-astronauts-former-jpl-interns-join-nasa-astronaut-class/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jplinterns_astronauts-2019.width-1024.jpg",
+    "https://www.nasa.gov/astronauts/biographies/jessica-watkins/biography",
+    "https://www.nasa.gov/humans-in-space/astronauts/loral-ohara/",
+    "https://www.nasa.gov/people/warren-hoburg/",
+    "https://www.youtube.com/watch?v=VZZX_idrN50",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/orr.2e16d0ba.fill-490x430-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/student_employment.f6336184.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Franklin_Institute.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Sian_Proctor-768.6564f4c4.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/virtual_tour.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa_express.5622afd4.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_artchallenge.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
+    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html",
+    "https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg",
+    "https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/eta2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/eta2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lrs2_general.html",
+    "https://edc.dgfi.tum.de/en/mailing_lists/slr_mail/no2952/",
+    "https://itrf.ign.fr/en/homepage",
+    "https://dtrf.dgfi.tum.de/en/",
+    "https://www.jpl.nasa.gov/site/jsgt/jtrf/",
+    "https://geodesy.science/ggos/products/terrestrial-reference-frame/",
+    "https://geodesy.science/ggos/products/earth-orientation-parameter-products/",
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4671.jpg",
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4675.jpg",
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4681.jpg",
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4706.jpg"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9411,147 +9424,83 @@
       "at": "2026-11-01T00:00:36+00:00",
       "status": "ok",
       "hash": "18cba8669735df5705e95477c855f77f964345aded4923e78f87e3a12ebb854c"
+    },
+    "https://www.jpl.nasa.gov/edu/news/2017/6/15/from-interns-to-astronauts-former-jpl-interns-join-nasa-astronaut-class/": {
+      "at": "2026-11-01T05:50:21+00:00",
+      "status": "ok",
+      "hash": "f3a7caf20dfb4c972f65aeae125bf840d20cd2406006392b0428e2d99c489836"
+    },
+    "https://www.jpl.nasa.gov/edu/events/": {
+      "at": "2026-11-01T05:50:24+00:00",
+      "status": "ok",
+      "hash": "6e729d7686f7e2aa15b0a12ea675ff4bc4e7f350ecbd28b4ce113081062f84e4"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2025/07/oiir-designated-country-list-7-11-2025.pdf?emrc=017b3e": {
+      "at": "2026-11-01T05:50:25+00:00",
+      "status": "ok",
+      "hash": "93e93a95444427a536f1e27d274f888decb48519328c230091805fd8ee3b105e"
+    },
+    "http://ilrs.gsfc.nasa.gov/about/news/index.html": {
+      "at": "2026-11-01T05:50:29+00:00",
+      "status": "ok",
+      "hash": "edfc76d656748c43204646f8aa9ab06bf1399604ab759f92be2948d4fe2c6671"
+    },
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg": {
+      "at": "2026-11-01T05:50:34+00:00",
+      "status": "ok",
+      "hash": "c5879f6314a8c8a5ae30e83bc17ad6f89814b51cc104eca95391befb6ac27be1"
+    },
+    "https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg": {
+      "at": "2026-11-01T05:50:39+00:00",
+      "status": "ok",
+      "hash": "13d7f7d9d8e1ff828b01daae4bd1e694e61d90ed45baf5513082609d436bfbc9"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2023-06-2.81bb38e4.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/mirointerns-main.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/tf_pomona_present1.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ASTHROS_Beauty_Expanded_1.891c919c.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_SPHEREx_Cygnus_H2O_Ice_CROP.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide_MAIN.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26702.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/e1a-SPHEREx_all_sky_stars_and_.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA0.2e16d0ba.fill-400x400-c50_wlFIXs6.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19314.2e16d0ba.fill-400x400-c50_gnk3iND.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/EARTH_DAY_2019_WEB_orig.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-01T05:50:40+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nature.com/app-sn/public/images/logo-springernature.svg",
-      "title": "www.nature.com/app-sn/public/images/logo-springernature.svg",
-      "summary": "Client Challenge A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
-      "keywords": [
-        "browser",
-        "any",
-        "blockers",
-        "challenge",
-        "check",
-        "client",
-        "connection",
-        "couldn",
-        "different",
-        "disable",
-        "due",
-        "extension",
-        "issues",
-        "load"
-      ],
-      "hash": "8ec7caf9e2bde63e06c15dd7587a189c00b45158d7899e4260fc5653ad931da5",
-      "learned_at": "2026-10-17T00:49:17+00:00"
-    },
-    {
-      "url": "https://arxiv.org/static/browse/0.3.4/images/icons/safari-pinned-tab.svg",
-      "title": "safari-pinned-tab.svg",
-      "summary": "Title: safari-pinned-tab.svg URL Source: https://arxiv.org/static/browse/0.3.4/images/icons/safari-pinned-tab.svg Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: A diagram useful when helping a child password protect a CD project file",
-      "keywords": [
-        "safari-pinned-tab",
-        "svg",
-        "2026",
-        "arxiv",
-        "browse",
-        "child",
-        "content",
-        "diagram",
-        "file",
-        "gmt",
-        "helping",
-        "https",
-        "icons",
-        "images"
-      ],
-      "hash": "2d88075bc733fc118082183dbabf62b930012052db4a16d164bd6548330838f1",
-      "learned_at": "2026-10-17T00:49:19+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/oco20140625-538px.png?w=538&h=330&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "oco20140625-538px.png",
-      "summary": "Title: oco20140625-538px.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/oco20140625-538px.png?w=538&h=330&fit=clip&crop=faces,focalpoint Markdown Content: A fast road of several lanes holding a lot of cars뽐 out as we can figure from what there is no time for slow drives",
-      "keywords": [
-        "assets",
-        "oco20140625-538px",
-        "png",
-        "science",
-        "2023",
-        "330",
-        "538",
-        "cars뽐",
-        "climate",
-        "clip",
-        "content",
-        "crop",
-        "drives",
-        "dynamicimage"
-      ],
-      "hash": "b530cbb4483c06814d1aead2ef1f6cdf8912ee0c69ab8b54dcf714fd15dca639",
-      "learned_at": "2026-10-17T05:05:23+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/doc/sbwobs.html",
-      "title": "SB Observability API",
-      "summary": "Title: SB Observability API URL Source: https://ssd-api.jpl.nasa.gov/doc/sbwobs.html Markdown Content: ## Small-Body Observability API **Version: 1.0** (2021 March) [change log](https://ssd-api.jpl.nasa.gov/doc/sbwobs.html#change_log) The Small-Body Observability API provides a method of determining small-bodies that would be _optically_ observable from a specified topocentric observatory during the specified night (determined from a specified date) or observable via _radar_ or _radiotelescopes_ during a specific time frame, meeting various user-specified constraints. ## HTTP Request GET`https://ssd-api.jpl.nasa.gov/sbwobs.api` ## Example Query URLs * `https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03` - observable objects from Pan-STARRS 1 (F51) on 2016-07-03. * `https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&gla",
-      "keywords": [
-        "time",
-        "---",
-        "api",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "sbwobs",
-        "ssd-api",
-        "location",
-        "observable",
-        "optical",
-        "f51",
-        "mpc-code"
-      ],
-      "hash": "0957728e339d8ec9ec1d6e6bd7ecfc479b622766a2851d36e86abf50f97d221a",
-      "learned_at": "2026-10-17T05:05:26+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/doc/sb_radar.html",
-      "title": "SB Radar API",
-      "summary": "Title: SB Radar API URL Source: https://ssd-api.jpl.nasa.gov/doc/sb_radar.html Published Time: Wed, 23 Sep 2026 18:18:15 GMT Markdown Content: ## Small-Body Radar Astrometry API **Version: 1.1** (2022 February) [change log](https://ssd-api.jpl.nasa.gov/doc/sb_radar.html#change_log) The small-body radar astrometry API provides a method of requesting specific records from the available data-set for asteroids and/or comets. Every successful query will return content representing one or more radar astrometry data record. See the SSD page on [radar astrometry](https://ssd.jpl.nasa.gov/sb/radar.html) for details on this data-set. ## HTTP Request GET`https://ssd-api.jpl.nasa.gov/sb_radar.api` ### Example Queries * `https://ssd-api.jpl.nasa.gov/sb_radar.api` (return all available data) * `https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=c` (return data only for comets) * `https://ssd-api.jpl.nasa.",
-      "keywords": [
-        "data",
-        "api",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "sb_radar",
-        "ssd-api",
-        "boolean",
-        "false",
-        "include",
-        "output",
-        "radar",
-        "---"
-      ],
-      "hash": "c9da21c7bc655782903d49a8d1373d9ba468ee650023adebe7508500b8fb24b9",
-      "learned_at": "2026-10-17T05:05:27+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/news/?topics=Stars+and+Galaxies",
-      "title": "NASA JPL News – Latest Space Science & Missions | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: NASA JPL News – Latest Space Science & Missions | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/news/?topics=Stars+and+Galaxies Markdown Content: ## Search News Sort by Showing 1–12 of 1,198 results 1. [Category: News.Category: Stars and Galaxies. Category: News.Category: Stars and Galaxies. ## NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs The dimly glowing balls of gas formed like stars but in other ways resemble giant planets. . Oct. 8, 2026 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/1-Brown_dwarf_grid.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/news/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/) 2. [Category: News.Category: Stars and Galaxies. Category: News.Category: Stars and Galaxies. ## NASA Sets Coverage for Roman Space Telescope Launch from Florida The flagship telescope includes the Roman Coronagra",
-      "keywords": [
-        "category",
-        "news",
-        "nasa",
-        "stars",
-        "galaxies",
-        "https",
-        "jpl",
-        "gov",
-        "www",
-        "2026",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-400x400-c50",
-        "image"
-      ],
-      "hash": "4c05ee4f17d1e1051de164261efc839e3af6883bb0ccda497bfbe33643156264",
-      "learned_at": "2026-10-17T05:05:29+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/eyes-on-the-news-beta/",
       "title": "Eyes on the News - Beta | NASA Jet Propulsion Laboratory (JPL)",
@@ -23213,6 +23162,144 @@
       ],
       "hash": "18cba8669735df5705e95477c855f77f964345aded4923e78f87e3a12ebb854c",
       "learned_at": "2026-11-01T00:00:36+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/news/2017/6/15/from-interns-to-astronauts-former-jpl-interns-join-nasa-astronaut-class/",
+      "title": "From Interns to Astronauts: Former JPL Interns Join NASA Astronaut Class – News | NASA JPL Education",
+      "summary": "Title: From Interns to Astronauts: Former JPL Interns Join NASA Astronaut Class – News | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/news/2017/6/15/from-interns-to-astronauts-former-jpl-interns-join-nasa-astronaut-class/ Final URL: https://www.jpl.nasa.gov/edu/news/from-interns-to-astronauts-former-jpl-interns-join-nasa-astronaut-class/ Markdown Content: .3 min read Written by Kim Orr Jan. 10, 2020 [![Image 1: NASA Astronaut Candidates Jessica Watkins and Loral O'Hara and Warren \"Woody\" Hoburg](https://d2pn8kiwq2w21t.cloudfront.net/images/jplinterns_astronauts-2019.width-1024.jpg)](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jplinterns_astronauts-2019.jpg) Former JPL interns Jessica Watkins, Loral O'Hara and Warren \"Woody\" Hoburg were among those who joined NASA's active astronaut corps on Jan. 10, 2020, becoming the agency's first wave of 'Artemis Generation' a",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "astronaut",
+        "https",
+        "gov",
+        "interns",
+        "www",
+        "astronauts",
+        "candidates",
+        "former",
+        "hara",
+        "hoburg",
+        "jessica",
+        "loral"
+      ],
+      "hash": "f3a7caf20dfb4c972f65aeae125bf840d20cd2406006392b0428e2d99c489836",
+      "learned_at": "2026-11-01T05:50:21+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/events/",
+      "title": "Edu Events | NASA JPL Education",
+      "summary": "Title: Edu Events | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/events/ Markdown Content: [](https://www.jpl.nasa.gov/edu/events/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 3: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.s",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "edu",
+        "events",
+        "image",
+        "education",
+        "event",
+        "_nuxt",
+        "astronomy",
+        "internship",
+        "logo"
+      ],
+      "hash": "6e729d7686f7e2aa15b0a12ea675ff4bc4e7f350ecbd28b4ce113081062f84e4",
+      "learned_at": "2026-11-01T05:50:24+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/07/oiir-designated-country-list-7-11-2025.pdf?emrc=017b3e",
+      "title": "Microsoft Word - Designated Country List 11.13.2025",
+      "summary": "Title: Microsoft Word - Designated Country List 11.13.2025 URL Source: https://www.nasa.gov/wp-content/uploads/2025/07/oiir-designated-country-list-7-11-2025.pdf?emrc=017b3e Published Time: Wed, 03 Dec 2025 20:07:11 GMT Number of Pages: 2 Markdown Content: > November 13, 2025 2025 The following countries and areas are designated as requiring additional guidance, review, and approval by NASA HQ due to concerns regarding potential technology transfer based either on a) technology transfer concerns by the Departments of Commerce and State; and/or b) other considerations such as political sensitivities. This list is a critical tool for ensuring NASA adherence with related requirements. All Foreign National visitors require Center Export Administrator review and approval; in addition, Foreign National visitors to NASA born in, or citizens of, these countries or areas require review and approv",
+      "keywords": [
+        "nasa",
+        "countries",
+        "designated",
+        "2025",
+        "list",
+        "areas",
+        "country",
+        "department",
+        "export",
+        "state",
+        "administrator",
+        "approval",
+        "commerce",
+        "foreign"
+      ],
+      "hash": "93e93a95444427a536f1e27d274f888decb48519328c230091805fd8ee3b105e",
+      "learned_at": "2026-11-01T05:50:25+00:00"
+    },
+    {
+      "url": "http://ilrs.gsfc.nasa.gov/about/news/index.html",
+      "title": "ILRS | About ILRS | News |",
+      "summary": "Title: ILRS | About ILRS | News | URL Source: http://ilrs.gsfc.nasa.gov/about/news/index.html Final URL: https://ilrs.gsfc.nasa.gov/about/news/index.html Markdown Content: ## Recent News This page contains all recent ILRS news. For those interested in news specific to satellite missions, please visit our [Mission News](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html) page. ![Image 1: ILRS logo](https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg)ILRS Analysis Standing Committee announces official transition to new products that include LARES-2 Release Date: 10/21/2026 The ILRS Analysis Standing Committee (ASC) has announced the **official transition to its new operational product series**, accompanied by a comprehensive reorganization of the product directory structure at the two ILRS Data Centers (DCs), namely the **Crustal Dynamics Data Information System (",
+      "keywords": [
+        "ilrs",
+        "new",
+        "operational",
+        "news",
+        "product",
+        "products",
+        "asc",
+        "data",
+        "series",
+        "structure",
+        "transition",
+        "directory",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "edfc76d656748c43204646f8aa9ab06bf1399604ab759f92be2948d4fe2c6671",
+      "learned_at": "2026-11-01T05:50:29+00:00"
+    },
+    {
+      "url": "https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg",
+      "title": "DSC_4660.jpg",
+      "summary": "Title: DSC_4660.jpg URL Source: https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg Published Time: Tue, 26 Feb 2019 11:02:58 GMT Markdown Content: Council office waiting area",
+      "keywords": [
+        "dsc_4660",
+        "jpg",
+        "2019",
+        "area",
+        "carousel",
+        "content",
+        "council",
+        "feb",
+        "gmt",
+        "https",
+        "images",
+        "markdown",
+        "office",
+        "org"
+      ],
+      "hash": "c5879f6314a8c8a5ae30e83bc17ad6f89814b51cc104eca95391befb6ac27be1",
+      "learned_at": "2026-11-01T05:50:34+00:00"
+    },
+    {
+      "url": "https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg",
+      "title": "DSC_4666.jpg",
+      "summary": "Title: DSC_4666.jpg URL Source: https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg Published Time: Tue, 26 Feb 2019 11:02:54 GMT Markdown Content: the interior with many paintings over here",
+      "keywords": [
+        "dsc_4666",
+        "jpg",
+        "2019",
+        "carousel",
+        "content",
+        "feb",
+        "gmt",
+        "here",
+        "https",
+        "images",
+        "interior",
+        "many",
+        "markdown",
+        "org"
+      ],
+      "hash": "13d7f7d9d8e1ff828b01daae4bd1e694e61d90ed45baf5513082609d436bfbc9",
+      "learned_at": "2026-11-01T05:50:39+00:00"
     }
   ],
   "failures": [
@@ -23328,6 +23415,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-01T05:50:40+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v54",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-01T05:50:40+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 2150
+    },
     {
       "at": "2026-11-01T00:00:36+00:00",
       "kind": "core_unchanged",
@@ -24238,28 +24351,13 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 1458
-    },
-    {
-      "at": "2026-10-23T00:59:27+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-23T00:59:27+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 1449
     }
   ],
   "metrics": {
-    "successful_fetches": 1222,
+    "successful_fetches": 1228,
     "failed_fetches": 22,
     "duplicate_pages": 2,
-    "candidate_promotions": 52,
+    "candidate_promotions": 53,
     "candidate_rejections": 144
   },
   "core_genome": {
@@ -24288,8 +24386,8 @@
     "nature.com",
     "science.org",
     "www.nasa.gov",
-    "ssd.jpl.nasa.gov",
     "www.jpl.nasa.gov",
+    "ssd.jpl.nasa.gov",
     "science.nasa.gov",
     "www.nature.com",
     "www.springernature.com",
