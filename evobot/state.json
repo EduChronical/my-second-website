@@ -1,18 +1,12 @@
 {
   "schema": 2,
-  "generation": 203,
+  "generation": 204,
   "core_version": 55,
-  "runs": 202,
-  "pages_learned": 1256,
-  "last_run": "2026-11-02T01:24:51+00:00",
+  "runs": 203,
+  "pages_learned": 1263,
+  "last_run": "2026-11-02T07:59:34+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25281.2e16d0ba.fill-122x122-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA22561.2e16d0ba.fill-480x480-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA17794.2e16d0ba.fill-122x122-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA11066.2e16d0ba.fill-480x480-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA21607.2e16d0ba.fill-122x122-c70.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24431.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26236.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26202.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26074.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -49,7 +43,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/watkins-lg.a0dd38af.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Edward_C._Ston.aa9be3b1.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19664.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
@@ -63,6 +56,24 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26815_-_Mas.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/m2msc_Main.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebarrm_61DYT4A.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebneowise_OvGk75p.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebdeep_impact_k3IVDXN.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_5AhIZGp.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiro_HHs24IW.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebhayabusa_W6NDE5n.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PI_Day_Banner_large.original.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Orionid_Meteor_Shower_2017_Ben.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Harvest_Moon_212_Mike_Linnihan.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/know_before_we_go_square.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.nature.com/info/accessibility-statement",
+    "https://www.nature.com/info/terms-and-conditions",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -106,32 +117,21 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Breaking_Point_Show_Graphic_postcard_clean.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Saving_Galileo_Digital_postcard_1-2.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vK_2.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/m2msc_Main.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebarrm_61DYT4A.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebneowise_OvGk75p.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebdeep_impact_k3IVDXN.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA1.2e16d0ba.fill-400x400-c50_5AhIZGp.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebmiro_HHs24IW.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebhayabusa_W6NDE5n.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26758_-figure_a_-_Inset.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PI_Day_Banner_large.original.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/rtgs_video_ZN9CHVB.4808377b.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/edp_light.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/psss.242f489f.fill-1024x441-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/shirin_nataneli-courtesy.width-640.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/laurie_barge-erika_flores.width-640.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/intern_murphy-b_JfRiROw.width-640.jpg",
+    "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
@@ -144,7 +144,6 @@
     "https://jpl.jobs/university-recruiting",
     "https://astrogeology.usgs.gov/tools/map-a-planet-2",
     "https://twitter.com/NASAAstrobio",
-    "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
     "https://www.jpl.jobs/students-and-postdocs",
     "https://www.jpl.jobs/students",
     "https://www.conicet.gov.ar/?lan=en",
@@ -164,7 +163,9 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
     "https://www.state.gov/state-sponsors-of-terrorism/",
+    "https://app.icontact.com/icp/core/signup/tracking.gif?id=5&cid=1389932&lid=11365",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
+    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
     "https://www.caltech.edu/",
@@ -251,7 +252,6 @@
     "https://www.youtube.com/watch?v=7-lKCKM_wqw&feature=emb_title",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
-    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
@@ -283,30 +283,6 @@
     "http://www.icontact.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
-    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03%60",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&glat-min=10%60",
-    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag%60",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=c%60",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api?des=433%60",
-    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=an&coords=1%60",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
-    "https://app.icontact.com/icp/core/signup/tracking.gif?id=5&cid=1389932&lid=11365",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Orionid_Meteor_Shower_2017_Ben.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Harvest_Moon_212_Mike_Linnihan.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/20260717_Whats_Up_August_2026_.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Whats_Up_-_December_2023.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa_skywatching_square_nuiA1s.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/know_before_we_go_square.2e16d0ba.fill-400x400-c50.jpg",
-    "https://www.jpl.nasa.gov/audio/",
-    "https://www.jpl.nasa.gov/podcasts/",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=758",
-    "https://www.nature.com/static/images/logos/nature-logo.svg",
-    "https://www.nature.com/info/accessibility-statement",
-    "https://www.nature.com/info/terms-and-conditions",
-    "https://www.nature.com/static/images/logos/sn-logo-white.svg",
     "https://www.nature.com/)",
     "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2F",
     "https://partnerships.nature.com/",
@@ -2153,7 +2129,40 @@
     "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
     "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
     "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
-    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/"
+    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api`",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?lim=200&crit=1&year=2025%2C2026%2C2027%2C2028%2C2029&sb-group=neo%60.",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?lim=200&crit=3&year=2032&sb-class=MBA&sb-sat=true%60.",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?des=2012+TC4%60",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?des=1&class=true%60",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?sstr=apophis%60",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?des=2012+TC4&mjd0=58490&span=3652&tof-min=10&tof-max=365&step=2%60",
+    "https://ssd-api.jpl.nasa.gov/mdesign.api?des=1&mjd0=59000&span=1800&tof-min=120&tof-max=1500&step=5%60",
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03%60",
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&glat-min=10%60",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api`",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=c%60",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api?des=433%60",
+    "https://ssd-api.jpl.nasa.gov/sb_radar.api?kind=an&coords=1%60",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E6_The_Promise_of_Perseverance.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E5_v2-01_copy.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E4_Lifetime_on_Mars_v2-01_copy.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E3_Twins_Cleanroom_Alt-01_copy.2e16d0ba.fill-400x400-c50.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2017/02/lrc-centennial-apache.jpeg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2017/04/aimclouds2_0.gif?w=985",
+    "https://www.nasa.gov/wp-content/uploads/2023/10/brown-dwarf-cool-neighbors-aaronmeisner-jpeg.webp?w=858",
+    "https://www.nasa.gov/wp-content/uploads/2017/10/m17-119.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/10/iss065e074654.jpg?w=1024",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=757",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=757",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/90000/90883/harvey_crw_2017242.png?w=720&h=545&fit=clip",
+    "https://science.nasa.gov/wp-content/uploads/2024/07/picture-1-red-snow-algae-jpg-1240x510-q85-subject-location-561545-subsampling-2.jpg?w=525",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia01/pia01730/PIA01730.jpg?w=1024&h=981&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/151000/151011/argentinafires_oli2_2023050.jpg?w=720&h=600&fit=clip",
+    "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/144000/144358/ghgdetergent_2000.gif",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/pia21973.jpg?w=1024&h=1024&fit=clip"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9659,170 +9668,84 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
       "at": "2026-11-02T01:25:03+00:00",
       "status": "robots_disallow"
+    },
+    "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag%60": {
+      "at": "2026-11-02T07:59:36+00:00",
+      "status": "ok",
+      "hash": "45672c1b1ac2c287d1d1722d1aa85f43ccd8cd31b14944581e73ce5b77361e70"
+    },
+    "https://ssd-api.jpl.nasa.gov/doc/mdesign.html": {
+      "at": "2026-11-02T07:59:38+00:00",
+      "status": "ok",
+      "hash": "7096104698202ac0bde0c8c7707002d42aa45cfcde0dbbc6fe4400a4e519ccbb"
+    },
+    "https://www.jpl.nasa.gov/audio/": {
+      "at": "2026-11-02T07:59:41+00:00",
+      "status": "ok",
+      "hash": "455ae66073f20fa1e8f9f0b5695670013ab6de25f7ad2cd5a64e000131b9f255"
+    },
+    "https://www.jpl.nasa.gov/podcasts/": {
+      "at": "2026-11-02T07:59:44+00:00",
+      "status": "ok",
+      "hash": "9705ec287b001e41cfd6b5d3cb7c09f8386a398b4c8ade9a197fd8ee4193b7b3"
+    },
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=758": {
+      "at": "2026-11-02T07:59:49+00:00",
+      "status": "ok",
+      "hash": "395c5c5309df54a72f74422c4659ebcd79348cf1d67ef85e7b6818023353ab17"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19664.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-02T07:59:50+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/20260717_Whats_Up_August_2026_.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-02T07:59:50+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Whats_Up_-_December_2023.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-02T07:59:50+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa_skywatching_square_nuiA1s.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-02T07:59:50+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.nature.com/static/images/logos/nature-logo.svg": {
+      "at": "2026-11-02T07:59:50+00:00",
+      "status": "ok",
+      "hash": "bad6826549603eab127c16380b03039bde6dfc54646353cc1ac0cf75d1293681"
+    },
+    "https://www.nature.com/static/images/logos/sn-logo-white.svg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "ok",
+      "hash": "54c9738a85b92af24a955d5610f65ee7679ac97005d6254303d09c34c7aa40eb"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25281.2e16d0ba.fill-122x122-c70.jpg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA22561.2e16d0ba.fill-480x480-c70.jpg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA17794.2e16d0ba.fill-122x122-c70.jpg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA11066.2e16d0ba.fill-480x480-c70.jpg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA21607.2e16d0ba.fill-122x122-c70.jpg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24431.jpg": {
+      "at": "2026-11-02T07:59:51+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://jpl.nasa.gov/topics/jpl-life/",
-      "title": "JPL Life | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: JPL Life | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/jpl-life/ Markdown Content: Nestled at the base of the San Gabriel Mountains in Southern California, NASA's Jet Propulsion Laboratory – JPL for short –is a federally funded research and development center managed by Caltech. Amid a sprawling and picturesque campus-like setting, where deer and other critters are a common sight, there are limitless possibilities for high-tech innovation. JPL's main activities involve robotic space and Earth science missions – for example, we've visited every planet in our solar system and landed five rovers on Mars. Life at JPL includes a dedicated and diverse population of scientists, engineers, technologists, developers, communicators, designers, safety experts, business administrators, and more. They think big and dream big. Our robust [internship program](htt",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "employee",
-        "ideas",
-        "space",
-        "big",
-        "california",
-        "caltech",
-        "development",
-        "enjoy",
-        "every",
-        "experience",
-        "high-tech",
-        "https"
-      ],
-      "hash": "b9a0824b50d592e1c47b07743a988eae211f6fb64d88c4d52391658e5ce75810",
-      "learned_at": "2026-10-17T18:38:23+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/topics/climate-change/",
-      "title": "Understanding Climate Change | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Understanding Climate Change | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/climate-change/ Markdown Content: JPL scientists study Earth’s changing climate, focusing on four broad themes: icy regions; the movement of water between sea, air, and land; greenhouse gas emissions and absorption; and our world’s ecosystems. **Exploring the World’s Ice** Earth’s ice lies in the most remote parts of the globe. Using technologies that also help us explore other planets, JPL studies Earth’s land ice. If all the land ice on Earth melted, it would raise sea level around 260 feet (80 meters), so understanding how the Greenland and Antarctic ice sheets are changing is important to predicting future sea level. Changing sea level affects our port cities and coastlines, and the quality of groundwater near the coasts, where most of the world’s human population lives.",
-      "keywords": [
-        "water",
-        "jpl",
-        "earth",
-        "ice",
-        "land",
-        "sea",
-        "carbon",
-        "greenhouse",
-        "change",
-        "changing",
-        "cycle",
-        "human",
-        "level",
-        "nasa"
-      ],
-      "hash": "74dd98663b7e1c0645faf7aacf3e64d5e7157f4f3b2eba48d153f959583710ea",
-      "learned_at": "2026-10-17T18:38:26+00:00"
-    },
-    {
-      "url": "https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
-      "title": "URL Source: https://arxiv.org/static/browse/0.3.4/css/browse_search.css",
-      "summary": "Title: URL Source: https://arxiv.org/static/browse/0.3.4/css/browse_search.css Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: .search-block.level-right { display: flex; justify-content: flex-end; clear: right; } @media screen and (max-width: 768px) { .search-block.level-right { justify-content: center; clear: left; } .search-block form.level-item { margin-left:12px !important; } } .search-block form.level-item, .field.has-addons { display: flex; } .search-block p.help { margin-bottom: 0; } .search-block .input, .search-block select, .search-block .button { font-size: 0.75rem; line-height: 1.5; height: 2.25em; border-radius: 2px; border: 1px solid transparent; } .search-block .button { margin-left:0; } .search-block .input { border-color: transparent; box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1); border-bottom-right-radius: 0; border-top-right-radius: 0; border: 0; w",
-      "keywords": [
-        "search-block",
-        "select",
-        "none",
-        "button",
-        "display",
-        "2px",
-        "5em",
-        "form",
-        "100",
-        "1px",
-        "background-color",
-        "border",
-        "border-color",
-        "border-radius"
-      ],
-      "hash": "276e27606d21b63f5cfd8b2fddde0f6898e83062c38784ddfe0622a20e8a504c",
-      "learned_at": "2026-10-17T18:38:26+00:00"
-    },
-    {
-      "url": "https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
-      "title": "URL Source: https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611",
-      "summary": "Title: URL Source: https://arxiv.org/static/browse/0.3.4/css/arXiv-print.css?v=20200611 Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: /**************************************** * arXiv.org Cascading Style Sheet:: Print * $Date: 2019/11/20 $ *****************************************/ /**************************************** * Print rules *****************************************/ #cu-identity, .extra-services, .search-block, footer .columns { display:none; } .header-breadcrumbs { font-size:18px; } .subheader h1 { font-size:14px; font-weight: bold; } /* arXivLabs: interactive tools, nothing for paper (and its logo has no size here) */ #labstabs { display: none; } /* abs.css (every medium) indents the abstract block to the screen's left column; on paper it starts at the margin like the rest, the abstract inset as on screen. The ancestor outranks abs.css, which loads later.",
-      "keywords": [
-        "abs",
-        "content-inner",
-        "css",
-        "abstract",
-        "div",
-        "arxiv",
-        "display",
-        "font-size",
-        "none",
-        "org",
-        "paper",
-        "print",
-        "screen",
-        "title"
-      ],
-      "hash": "0e472eb9fdf6c4869ab875ac5a67358c6aa58890cdddfe37ff6c45c7312c4f31",
-      "learned_at": "2026-10-17T18:38:27+00:00"
-    },
-    {
-      "url": "https://info.arxiv.org/about/donate.html",
-      "title": "Give to arXiv - arXiv info",
-      "summary": "Title: Give to arXiv - arXiv info URL Source: https://info.arxiv.org/about/donate.html Published Time: Fri, 16 Oct 2026 14:58:02 GMT Markdown Content: - [x] - [x] [Skip to content](https://info.arxiv.org/about/donate.html#give-to-arxiv) ![Image 1](https://static.arxiv.org/static/base/1.0.1/images/icons/smileybones-small.svg)arXiv is now an independent nonprofit![Learn more](https://info.arxiv.org/about)× [![Image 2: archive](https://static.arxiv.org/static/base/1.0.1/images/arxiv-logo-primary-light.svg)](https://arxiv.org/)arXiv info[![Image 3: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info Give to arXiv Initializing search [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") [![Image 4: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info [GitHub](htt",
-      "keywords": [
-        "arxiv",
-        "https",
-        "info",
-        "org",
-        "html",
-        "help",
-        "index",
-        "governance",
-        "people",
-        "submit",
-        "advisory",
-        "github",
-        "image",
-        "static"
-      ],
-      "hash": "c6b7645bfc1f6abfbc2fa4f8c62315c673e5108ceb927fe77e536d4e51e8e355",
-      "learned_at": "2026-10-17T18:38:28+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-med.png?w=3600&h=2025&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Roman_BeautyPass2026-med.png",
-      "summary": "Title: Roman_BeautyPass2026-med.png URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-med.png?w=3600&h=2025&fit=clip&crop=faces,focalpoint Markdown Content: illustration of a european-telescope withsbackframe, pointing towards the left side in space galaxy, illuminated by purple radiation",
-      "keywords": [
-        "assets",
-        "png",
-        "roman_beautypass2026-med",
-        "science",
-        "2025",
-        "3600",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "european-telescope",
-        "faces",
-        "fit",
-        "focalpoint"
-      ],
-      "hash": "fb6ba0d04d6b4bb98dd86a15d996c571c27c458298165ecc2b67aca1fc8c3f1d",
-      "learned_at": "2026-10-17T20:59:06+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/education/Roman_FOV_EagleView_Poster2021-web.jpg?w=2430&h=1620&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Roman_FOV_EagleView_Poster2021-web.jpg",
-      "summary": "Title: Roman_FOV_EagleView_Poster2021-web.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/education/Roman_FOV_EagleView_Poster2021-web.jpg?w=2430&h=1620&fit=clip&crop=faces,focalpoint Markdown Content: The Nancy Grace Roman Space Telescope Field of View shows M58",
-      "keywords": [
-        "assets",
-        "jpg",
-        "roman_fov_eagleview_poster2021-web",
-        "science",
-        "1620",
-        "2430",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "education",
-        "faces",
-        "field",
-        "fit"
-      ],
-      "hash": "69c68dc575b2d4e6f10fe476858bfd744012e225b71edb7196e5fdfe22aadb58",
-      "learned_at": "2026-10-17T20:59:10+00:00"
-    },
     {
       "url": "https://jpl.nasa.gov/missions/",
       "title": "NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL)",
@@ -23461,6 +23384,167 @@
       ],
       "hash": "4bb82c16286661522faa3b4688f537e6352618e6adba9ad88ba0ab505581e2d8",
       "learned_at": "2026-11-02T01:25:02+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag%60",
+      "title": "URL Source: https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag`",
+      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2020-06-23&sb-group=neo&sb-kind=a&maxoutput=100&output-sort=vmag` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"message\":\"invalid value specified for query parameter 'output-sort': available options: name,rise,trans,set,maxt,ra,dec,vmag,helio,topo,oes,oem,glat\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/sbwobs.html\",\"code\":\"400\"}",
+      "keywords": [
+        "400",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "output-sort",
+        "sbwobs",
+        "ssd-api",
+        "url",
+        "vmag",
+        "100",
+        "2020-06-23",
+        "api",
+        "available"
+      ],
+      "hash": "45672c1b1ac2c287d1d1722d1aa85f43ccd8cd31b14944581e73ce5b77361e70",
+      "learned_at": "2026-11-02T07:59:36+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/doc/mdesign.html",
+      "title": "SB Mission Design API",
+      "summary": "Title: SB Mission Design API URL Source: https://ssd-api.jpl.nasa.gov/doc/mdesign.html Markdown Content: ## Small-Body Mission Design API **Version: 1.2** (2025 July) [change log](https://ssd-api.jpl.nasa.gov/doc/mdesign.html#change_log) This API provides access to the JPL/SSD small-body mission design suite. The following operation modes are available: * Mode `A` (accessible) - retrieves the list of accessible small bodies based on user-defined constraint. * Mode `Q` (query) - retrieves pre-computed mission options to a specific object. * Mode `M` (map) - an extension of mode `Q`, returns the data required to render a porkchop plot with multiple parameters. * Mode `T` (mission extension) - retrieves the list of small bodies that come closest (or within a prescribed distance) to a user-defined orbit during a certain period of time. This is a crude filter for finding potential candidates ",
+      "keywords": [
+        "api",
+        "jpl",
+        "gov",
+        "https",
+        "mdesign",
+        "mode",
+        "nasa",
+        "ssd-api",
+        "mission",
+        "list",
+        "accessible",
+        "missions",
+        "200",
+        "2012"
+      ],
+      "hash": "7096104698202ac0bde0c8c7707002d42aa45cfcde0dbbc6fe4400a4e519ccbb",
+      "learned_at": "2026-11-02T07:59:38+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/audio/",
+      "title": "Audio Gallery",
+      "summary": "Title: Audio Gallery URL Source: https://www.jpl.nasa.gov/audio/ Markdown Content: ## Search Audio Gallery Sort by Showing 1–10 of 95 results Topic Solar System (34) Earth (17) Mars (16) Stars and Galaxies (10) Asteroids and Comets (9) JPL Life (1) Technology (1) Date 2023 (2) 2022 (9) 2021 (2) 2020 (10) 1. [Category: Audio.Category: Mars. Category: Audio.Category: Mars. ## Episode 12: Secrets of the Mars Rovers In this season 4 finale, Gentry Lee and Rob Manning reveal how surprises, hidden flaws, and uncertainties have always been a part of rovers and the exploration of Mars. . March 9, 2023 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/E12_art.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/podcasts/on-a-mission-season-1/season-4-mars-rovers/episode-12-secrets-of-the-mars-rovers/) 2. [Category: Audio.Category: Mars. Category: Audio.Category: Mars. ## Episode 11: Dig",
+      "keywords": [
+        "category",
+        "mars",
+        "audio",
+        "https",
+        "rovers",
+        "jpl",
+        "nasa",
+        "episode",
+        "gov",
+        "rover",
+        "www",
+        "2e16d0ba",
+        "cloudfront",
+        "d2pn8kiwq2w21t"
+      ],
+      "hash": "455ae66073f20fa1e8f9f0b5695670013ab6de25f7ad2cd5a64e000131b9f255",
+      "learned_at": "2026-11-02T07:59:41+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/podcasts/",
+      "title": "Podcasts | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Podcasts | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/podcasts/ Markdown Content: [](https://www.jpl.nasa.gov/podcasts/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Podcasts ## Search Podcasts Skip to search results Show Filters Sort by Showing 1 result Topic - [x] Mars (1) More Date - [x] 2020 (1) More Apply filters Reset fi",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "news",
+        "missions",
+        "podcasts",
+        "who-we-are",
+        "mars",
+        "podcast",
+        "category",
+        "topics",
+        "filters"
+      ],
+      "hash": "9705ec287b001e41cfd6b5d3cb7c09f8386a398b4c8ade9a197fd8ee4193b7b3",
+      "learned_at": "2026-11-02T07:59:44+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/search/?search=Climate+Change&search_page=758",
+      "title": "Page Not Found - NASA",
+      "summary": "Title: Page Not Found - NASA URL Source: https://www.nasa.gov/search/?search=Climate+Change&search_page=758 Warning: Target URL returned error 404: Not Found Markdown Content: Filter Results ### Content Type * Articles * Press Release * Gallery * Topic * People * Mission * Blog ### Categories * Earth Observatory (4021) * Apollo (2402) * Earth (1186) * Climate Change (747) * Wildfires (663) * Human Dimensions (575) * Earth Science (500) * Droughts (459) ### Changed * Last Year (8189) * Last Month (395) * Last Week (17) ### Language * English * Español * We're working continuously to improve our search results. If you aren't finding what you expect, please use our [feedback form](https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit) to share the search query and expected result with us so we can improve. * [![Image 1: Harvey Churned Up and Cooled Down the Gulf - NASA Science ](htt",
+      "keywords": [
+        "nasa",
+        "earth",
+        "gov",
+        "science",
+        "https",
+        "www",
+        "change",
+        "climate",
+        "mission",
+        "search",
+        "human",
+        "image",
+        "last",
+        "min"
+      ],
+      "hash": "395c5c5309df54a72f74422c4659ebcd79348cf1d67ef85e7b6818023353ab17",
+      "learned_at": "2026-11-02T07:59:49+00:00"
+    },
+    {
+      "url": "https://www.nature.com/static/images/logos/nature-logo.svg",
+      "title": "nature-logo.svg",
+      "summary": "Title: nature-logo.svg URL Source: https://www.nature.com/static/images/logos/nature-logo.svg Markdown Content: A 200x49 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "nature-logo",
+        "svg",
+        "200x49",
+        "avatar",
+        "com",
+        "content",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo",
+        "logos",
+        "markdown"
+      ],
+      "hash": "bad6826549603eab127c16380b03039bde6dfc54646353cc1ac0cf75d1293681",
+      "learned_at": "2026-11-02T07:59:50+00:00"
+    },
+    {
+      "url": "https://www.nature.com/static/images/logos/sn-logo-white.svg",
+      "title": "sn-logo-white.svg",
+      "summary": "Title: sn-logo-white.svg URL Source: https://www.nature.com/static/images/logos/sn-logo-white.svg Markdown Content: A 140x13 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "sn-logo-white",
+        "svg",
+        "140x13",
+        "avatar",
+        "com",
+        "content",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo",
+        "logos",
+        "markdown"
+      ],
+      "hash": "54c9738a85b92af24a955d5610f65ee7679ac97005d6254303d09c34c7aa40eb",
+      "learned_at": "2026-11-02T07:59:51+00:00"
     }
   ],
   "failures": [
@@ -23576,6 +23660,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-02T07:59:51+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-02T07:59:51+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2156
+    },
     {
       "at": "2026-11-02T01:25:03+00:00",
       "kind": "core_unchanged",
@@ -24486,40 +24585,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 17,
       "frontier": 1563
-    },
-    {
-      "at": "2026-10-23T22:37:33+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v39",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-23T22:37:33+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 18,
-      "frontier": 1532
     }
   ],
   "metrics": {
-    "successful_fetches": 1256,
+    "successful_fetches": 1263,
     "failed_fetches": 22,
     "duplicate_pages": 2,
     "candidate_promotions": 54,
-    "candidate_rejections": 147
+    "candidate_rejections": 148
   },
   "core_genome": {
     "query_weight": 3.0,
