@@ -1,26 +1,12 @@
 {
   "schema": 2,
-  "generation": 204,
-  "core_version": 55,
-  "runs": 203,
-  "pages_learned": 1263,
-  "last_run": "2026-11-02T07:59:34+00:00",
+  "generation": 205,
+  "core_version": 56,
+  "runs": 204,
+  "pages_learned": 1265,
+  "last_run": "2026-11-02T18:12:24+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26236.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26202.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26074.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Brown_dwarf_grid.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Figure_A-PIA2672.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Europa_Clipper_hea.e3f871ff.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacevoyagers_main.2e16d0ba.fill-512x288-c70.format-jpeg_vzQ0kgo.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/tardigrade.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/mappingworlds_main.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/poetry_step4-b_393.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Recor.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26814.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26812.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Caltech_SFP.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26071.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26072.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -72,8 +58,18 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Orionid_Meteor_Shower_2017_Ben.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Harvest_Moon_212_Mike_Linnihan.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/know_before_we_go_square.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24108-16.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/fido-offset-websafe.0812e950.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/rollocopter-offset-websafe.22895f4b.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/puffer-offset-websafe.3880eed4.fill-400x400-c50.jpg",
     "https://www.nature.com/info/accessibility-statement",
     "https://www.nature.com/info/terms-and-conditions",
+    "https://www.nature.com/)",
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2F",
+    "https://partnerships.nature.com/",
+    "https://partnerships.nature.com/media-kits/",
+    "https://partnerships.nature.com/product/branded-content-native-advertising/",
+    "https://conferences.nature.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -124,13 +120,14 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/psss.242f489f.fill-1024x441-c10.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/shirin_nataneli-courtesy.width-640.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/laurie_barge-erika_flores.width-640.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/intern_murphy-b_JfRiROw.width-640.jpg",
     "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
+    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
@@ -155,7 +152,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
-    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://www.bcg.com/x/bcg-x-ai-science-institute",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
@@ -250,11 +246,15 @@
     "https://www.aggo-conicet.gob.ar/",
     "https://www.youtube.com/watch?v=7-lKCKM_wqw",
     "https://www.youtube.com/watch?v=7-lKCKM_wqw&feature=emb_title",
+    "https://www.youtube.com/watch?v=3Tkib8zc-Ws",
+    "https://www.youtube.com/watch?v=6vVle67Tfjc",
+    "https://doi.org/10.1016/j.jfp.2023.100185",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
+    "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://aa.usno.navy.mil/data/index.php",
     "http://polac.obspm.fr/llrdatae.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
@@ -266,7 +266,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
-    "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.expita.com/nomime.html",
     "http://www.youronlinechoices.com/uk/opt-out-help",
     "http://www.youronlinechoices.com/uk/opt-out-help](http://www.youronlinechoices.com/uk/opt-out-help)",
@@ -283,30 +282,7 @@
     "http://www.icontact.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
-    "https://www.nature.com/)",
-    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2F",
-    "https://partnerships.nature.com/",
-    "https://partnerships.nature.com/media-kits/",
-    "https://partnerships.nature.com/product/branded-content-native-advertising/",
-    "https://conferences.nature.com/",
     "http://www.naturechina.com/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/2-EELS_in_Mars_Yard_curled.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/BRUIE-new-thumb.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA24108-16.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/fido-offset-websafe.0812e950.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/rollocopter-offset-websafe.22895f4b.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/puffer-offset-websafe.3880eed4.fill-400x400-c50.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2015/03/jsc2011e212182.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2015/02/hhp-nutritional-biochemistry-jsc2008e039116.jpg?w=1024",
-    "https://www.nasa.gov/directorates/esdmd/hhp/nutritional-biochemistry/",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/iss036e008131-orig.jpeg?w=1024",
-    "https://www.nasa.gov/directorates/esdmd/hhp/risk-of-performance-decrement-and-crew-illness-due-to-inadequate-food-and-nutrition/",
-    "https://www.nasa.gov/wp-content/uploads/2020/08/iss20_food_tereshkova_eating_in_space_vostok_6.jpg?w=590",
-    "https://www.nasa.gov/history/space-station-20th-food-on-iss/",
-    "https://www.nasa.gov/wp-content/uploads/2024/06/spaceflight-food-book-graphic-e1718645594410.jpg?w=609",
-    "https://www.youtube.com/watch?v=3Tkib8zc-Ws",
-    "https://www.youtube.com/watch?v=6vVle67Tfjc",
-    "https://doi.org/10.1016/j.jfp.2023.100185",
     "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
     "https://doi.org/10.1016/j.actaastro.2016.04.026",
     "https://doi.org/10.1093/jn/nxaa188",
@@ -2162,7 +2138,13 @@
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia01/pia01730/PIA01730.jpg?w=1024&h=981&fit=clip",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/151000/151011/argentinafires_oli2_2023050.jpg?w=720&h=600&fit=clip",
     "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/144000/144358/ghgdetergent_2000.gif",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/pia21973.jpg?w=1024&h=1024&fit=clip"
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/pia21973.jpg?w=1024&h=1024&fit=clip",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/iss036e008131-orig.jpeg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2020/08/iss20_food_tereshkova_eating_in_space_vostok_6.jpg?w=590",
+    "https://www.nasa.gov/wp-content/uploads/2024/06/spaceflight-food-book-graphic-e1718645594410.jpg?w=609",
+    "https://www.nasa.gov/directorates/esdmd/hhp/nutritional-biochemistry/",
+    "https://www.nasa.gov/directorates/esdmd/hhp/risk-of-performance-decrement-and-crew-illness-due-to-inadequate-food-and-nutrition/",
+    "https://www.nasa.gov/history/space-station-20th-food-on-iss/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9743,55 +9725,83 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24431.jpg": {
       "at": "2026-11-02T07:59:51+00:00",
       "status": "robots_disallow"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2015/03/jsc2011e212182.jpg?w=1024": {
+      "at": "2026-11-02T18:12:28+00:00",
+      "status": "ok",
+      "hash": "34f979753cc03a6e0444b249ef6a038fd43aebd438a6753abc218014161e5190"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2015/02/hhp-nutritional-biochemistry-jsc2008e039116.jpg?w=1024": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "ok",
+      "hash": "4aff74e19cb88533ba3d65dd8f352e3162757f65a36c843a6b3da23874358f24"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/2-EELS_in_Mars_Yard_curled.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/BRUIE-new-thumb.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26236.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26202.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26074.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Brown_dwarf_grid.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Figure_A-PIA2672.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Europa_Clipper_hea.e3f871ff.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/spacevoyagers_main.2e16d0ba.fill-512x288-c70.format-jpeg_vzQ0kgo.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/tardigrade.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/mappingworlds_main.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/poetry_step4-b_393.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Perseverance_Recor.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26814.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26812.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T18:12:30+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://jpl.nasa.gov/missions/",
-      "title": "NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/missions/ Markdown Content: ## Search Missions Sort by Showing 1–12 of 164 results 1. [Category: Mission.Category: future. Category: Mission.Category: future. ## SkyFall NASA’s next Mars helicopters will survey the Red Planet to collect science data and scout areas to uncover clues about climate history and the presence of potential subsurface ice. . Launch date: 2028 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/SkyFall_helicopter_trio_croppe.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/missions/skyfall/) 2. [Category: Mission.Category: future. Category: Mission.Category: future. ## SunRISE The Sun Radio Interferometer Space Experiment, or SunRISE, is an array of six toaster-size CubeSats that will work together to study solar activity. . Launch",
-      "keywords": [
-        "category",
-        "mission",
-        "nasa",
-        "https",
-        "future",
-        "jpl",
-        "missions",
-        "current",
-        "gov",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-400x400-c50",
-        "image"
-      ],
-      "hash": "9da3d73656e8d8d88355d07b54e9dcf4a8dab864f7f23c02a21baaeb9190c403",
-      "learned_at": "2026-10-17T20:59:12+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/05/milky-way-zones-mkv.jpg?w=1024",
-      "title": "milky-way-zones-mkv.jpg",
-      "summary": "Title: milky-way-zones-mkv.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/05/milky-way-zones-mkv.jpg?w=1024 Published Time: Sat, 17 Oct 2026 20:59:15 GMT Markdown Content: A depiction of the Witwits association model with detailed labels identifying key stellar regions in the image",
-      "keywords": [
-        "2026",
-        "jpg",
-        "milky-way-zones-mkv",
-        "1024",
-        "association",
-        "content",
-        "depiction",
-        "detailed",
-        "gmt",
-        "gov",
-        "https",
-        "identifying",
-        "image",
-        "key"
-      ],
-      "hash": "e7c19d93f757a47b9145186820e36e4229d573e21b3460643a9cd97225ac749a",
-      "learned_at": "2026-10-17T20:59:17+00:00"
-    },
     {
       "url": "https://www.nasa.gov/wp-content/uploads/2020/07/roman_hubble_data.png?w=1024",
       "title": "roman_hubble_data.png",
@@ -23545,6 +23555,52 @@
       ],
       "hash": "54c9738a85b92af24a955d5610f65ee7679ac97005d6254303d09c34c7aa40eb",
       "learned_at": "2026-11-02T07:59:51+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2015/03/jsc2011e212182.jpg?w=1024",
+      "title": "jsc2011e212182.jpg",
+      "summary": "Title: jsc2011e212182.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2015/03/jsc2011e212182.jpg?w=1024 Published Time: Mon, 02 Nov 2026 18:12:25 GMT Markdown Content: Cooking in the kitchen with veggies and veggies and also with spoon and also iron on stainless steel box",
+      "keywords": [
+        "jpg",
+        "jsc2011e212182",
+        "veggies",
+        "1024",
+        "2015",
+        "2026",
+        "box",
+        "content",
+        "cooking",
+        "gmt",
+        "gov",
+        "https",
+        "iron",
+        "kitchen"
+      ],
+      "hash": "34f979753cc03a6e0444b249ef6a038fd43aebd438a6753abc218014161e5190",
+      "learned_at": "2026-11-02T18:12:28+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2015/02/hhp-nutritional-biochemistry-jsc2008e039116.jpg?w=1024",
+      "title": "hhp-nutritional-biochemistry-jsc2008e039116.jpg",
+      "summary": "Title: hhp-nutritional-biochemistry-jsc2008e039116.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2015/02/hhp-nutritional-biochemistry-jsc2008e039116.jpg?w=1024 Published Time: Mon, 02 Nov 2026 18:12:29 GMT Markdown Content: A scientist, A",
+      "keywords": [
+        "hhp-nutritional-biochemistry-jsc2008e039116",
+        "jpg",
+        "1024",
+        "2015",
+        "2026",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mon",
+        "nasa",
+        "nov",
+        "published"
+      ],
+      "hash": "4aff74e19cb88533ba3d65dd8f352e3162757f65a36c843a6b3da23874358f24",
+      "learned_at": "2026-11-02T18:12:30+00:00"
     }
   ],
   "failures": [
@@ -23660,6 +23716,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-02T18:12:31+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v56",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-02T18:12:30+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 2138
+    },
     {
       "at": "2026-11-02T07:59:51+00:00",
       "kind": "core_unchanged",
@@ -24570,28 +24652,13 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 1567
-    },
-    {
-      "at": "2026-10-24T01:05:32+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-24T01:05:32+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 17,
-      "frontier": 1563
     }
   ],
   "metrics": {
-    "successful_fetches": 1263,
+    "successful_fetches": 1265,
     "failed_fetches": 22,
     "duplicate_pages": 2,
-    "candidate_promotions": 54,
+    "candidate_promotions": 55,
     "candidate_rejections": 148
   },
   "core_genome": {
@@ -24624,11 +24691,11 @@
     "ssd.jpl.nasa.gov",
     "science.nasa.gov",
     "www.nature.com",
-    "www.springernature.com",
     "www.sebi.gov.in",
+    "www.springernature.com",
     "svs.gsfc.nasa.gov",
     "cneos.jpl.nasa.gov",
     "spaceplace.nasa.gov",
-    "pds.jpl.nasa.gov"
+    "nssdc.gsfc.nasa.gov"
   ]
 }
