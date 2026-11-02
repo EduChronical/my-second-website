@@ -1,13 +1,12 @@
 {
   "schema": 2,
-  "generation": 202,
+  "generation": 203,
   "core_version": 55,
-  "runs": 201,
-  "pages_learned": 1250,
-  "last_run": "2026-11-01T21:56:41+00:00",
+  "runs": 202,
+  "pages_learned": 1256,
+  "last_run": "2026-11-02T01:24:51+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25281.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA22561.2e16d0ba.fill-480x480-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA17794.2e16d0ba.fill-122x122-c70.jpg",
@@ -158,17 +157,19 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "https://www.bcg.com/x/bcg-x-ai-science-institute",
+    "https://www.esa.int/Science_Exploration/Space_Science/Planck",
+    "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
+    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
+    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
+    "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
+    "https://www.state.gov/state-sponsors-of-terrorism/",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
     "https://www.caltech.edu/",
     "https://www.caltech.edu/claimed-copyright-infringement",
     "https://www.utn.edu.ar/es/",
-    "https://www.bcg.com/x/bcg-x-ai-science-institute",
-    "https://www.esa.int/Science_Exploration/Space_Science/Planck",
-    "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
-    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
-    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://universe-of-learning.org/home",
     "https://pds-rings.seti.org/",
     "https://www.facebook.com/business/ads/lead-ads",
@@ -248,15 +249,14 @@
     "https://www.aggo-conicet.gob.ar/",
     "https://www.youtube.com/watch?v=7-lKCKM_wqw",
     "https://www.youtube.com/watch?v=7-lKCKM_wqw&feature=emb_title",
-    "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://sat.gov.in/scripts/showdailyboard.asp",
-    "http://aa.usno.navy.mil/data/index.php",
-    "http://polac.obspm.fr/llrdatae.html",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
+    "http://aa.usno.navy.mil/data/index.php",
+    "http://polac.obspm.fr/llrdatae.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.caltech.edu/",
     "http://www.housing.caltech.edu/",
@@ -283,30 +283,6 @@
     "http://www.icontact.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
-    "https://nssdc.gsfc.nasa.gov/planetary/galileo.html",
-    "https://www.state.gov/state-sponsors-of-terrorism/",
-    "https://plus.nasa.gov/video/stemonstrations-water-filtration/",
-    "https://plus.nasa.gov/video/stemonstrations-water-filtration/",
-    "https://plus.nasa.gov/video/stemonstrations-vestibular-system/",
-    "https://plus.nasa.gov/video/stemonstrations-vestibular-system/",
-    "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
-    "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
-    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
-    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
-    "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro%60",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api`",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=d.5%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=s%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01_12%3A00%60",
-    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01+12%3A00%60",
-    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
-    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
-    "https://ssd-api.jpl.nasa.gov/sb_ident.api`",
     "https://ssd-api.jpl.nasa.gov/doc/mdesign.html",
     "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=F51&obs-time=2016-07-03%60",
     "https://ssd-api.jpl.nasa.gov/sbwobs.api?mpc-code=568&obs-time=2016-12-17&vmag-max=22&helio-min=1.5&glat-min=10%60",
@@ -2161,7 +2137,23 @@
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/2026/Tahu%20portrait.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=300",
     "https://science.nasa.gov/people/george-tahu/",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/internal_resources/tiffany_morgan.webp?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "https://science.nasa.gov/people/tiffany-m-morgan/"
+    "https://science.nasa.gov/people/tiffany-m-morgan/",
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/venus.gif",
+    "https://nssdc.gsfc.nasa.gov/planetary/banner/jupiter.gif",
+    "https://nssdc.gsfc.nasa.gov/planetary/galileo.html",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api`",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=d.5%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?jd=2451544&format=s%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01_12%3A00%60",
+    "https://ssd-api.jpl.nasa.gov/jd_cal.api?cd=2000-01-01+12%3A00%60",
+    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
+    "https://ssd-api.jpl.nasa.gov/doc/sbdb_filter.html",
+    "https://ssd-api.jpl.nasa.gov/sb_ident.api`",
+    "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
+    "https://plus.nasa.gov/video/stemonstrations-spacewalk-part-2-spacesuits/",
+    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/",
+    "https://plus.nasa.gov/video/stemonstrations-moment-of-inertia/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9633,147 +9625,43 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mdl-tech-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
       "at": "2026-11-01T21:56:58+00:00",
       "status": "robots_disallow"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html": {
+      "at": "2026-11-02T01:24:51+00:00",
+      "status": "ok",
+      "hash": "45dd8007ae7ca334e6310455e32ae016ef3f88bb77dfe021fe8c6bb0aef3dbe6"
+    },
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html": {
+      "at": "2026-11-02T01:24:52+00:00",
+      "status": "ok",
+      "hash": "64dfdded6ec116865416c488501dc87f1d3b611c3e7c1b27eb1c216aa144c2d1"
+    },
+    "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro%60": {
+      "at": "2026-11-02T01:24:53+00:00",
+      "status": "ok",
+      "hash": "35289001d68ecdd5ff61c8d8d8d92e0898372588f2907d82eb1aef373f64c8a2"
+    },
+    "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60": {
+      "at": "2026-11-02T01:24:55+00:00",
+      "status": "ok",
+      "hash": "23b8a8e2a84ea6c3c608d89e226b0dcf6ac65da5fb8600b4e98e71177a20ef56"
+    },
+    "https://plus.nasa.gov/video/stemonstrations-water-filtration/": {
+      "at": "2026-11-02T01:24:59+00:00",
+      "status": "ok",
+      "hash": "a50cba62e61db366adea22f7a12d5531bb5a7c93775c52e3cdd4400a5ed100db"
+    },
+    "https://plus.nasa.gov/video/stemonstrations-vestibular-system/": {
+      "at": "2026-11-02T01:25:02+00:00",
+      "status": "ok",
+      "hash": "4bb82c16286661522faa3b4688f537e6352618e6adba9ad88ba0ab505581e2d8"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ord-interns-01.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-02T01:25:03+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "http://science.nasa.gov/kids/earth",
-      "title": "Earth - NASA Science",
-      "summary": "Title: Earth - NASA Science URL Source: http://science.nasa.gov/kids/earth Published Time: 2025-08-15T13:32:18-04:00 Markdown Content: [![Image 11: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 12: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia #",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "earth",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "16f0ab845998a1270babb092f756b11d1019bb0839c1047b26cebcf8cb516add",
-      "learned_at": "2026-10-17T16:20:35+00:00"
-    },
-    {
-      "url": "https://solarsystem.nasa.gov/basics/",
-      "title": "Basics of Space Flight",
-      "summary": "Title: Basics of Space Flight URL Source: https://solarsystem.nasa.gov/basics/ Published Time: 2023-07-20T15:56:27-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "f4654faeab504473ea84a55e090e6012d48e7a8416c776309d9a0798b733ab64",
-      "learned_at": "2026-10-17T16:20:39+00:00"
-    },
-    {
-      "url": "https://climate.nasa.gov/",
-      "title": "Climate Change - NASA Science",
-      "summary": "Title: Climate Change - NASA Science URL Source: https://climate.nasa.gov/ Published Time: 2023-06-16T13:25:17-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ###",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "8328b796d45df9917097adc4c50c8f4a53c8623a01febae7f0741ffef2137f63",
-      "learned_at": "2026-10-17T16:20:44+00:00"
-    },
-    {
-      "url": "https://exoplanets.nasa.gov/",
-      "title": "Exoplanets - NASA Science",
-      "summary": "Title: Exoplanets - NASA Science URL Source: https://exoplanets.nasa.gov/ Published Time: 2023-06-07T21:16:36-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### ",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "80caa4372d61ba68a85d682bcb370435f790cbffd0c9ae204d685146c04094f2",
-      "learned_at": "2026-10-17T16:20:52+00:00"
-    },
-    {
-      "url": "https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg",
-      "title": "header-86f1267ea01eccd46b530284be10585e.svg",
-      "summary": "Title: header-86f1267ea01eccd46b530284be10585e.svg URL Source: https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg Published Time: Thu, 10 Sep 2020 10:58:59 GMT Markdown Content: A 131x32 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "header-86f1267ea01eccd46b530284be10585e",
-        "svg",
-        "131x32",
-        "2020",
-        "avatar",
-        "com",
-        "content",
-        "full",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "likely",
-        "logo"
-      ],
-      "hash": "d219e8c5519670ae3bc5c7063aea1d996119c0a28ed5aa42ad2879242853a17a",
-      "learned_at": "2026-10-17T16:20:54+00:00"
-    },
-    {
-      "url": "https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318",
-      "title": "URL Source: https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318",
-      "summary": "Title: URL Source: https://arxiv.org/static/browse/0.3.4/css/arXiv.css?v=20260318 Published Time: Tue, 06 Oct 2026 20:58:36 GMT Markdown Content: /**************************************** * arXiv.org Cascading Style Sheet * $Date: 2024/12/06 $ *****************************************/ /**************************************** * General rules *****************************************/ body { margin: 0; padding: 0; background-color: #fff; color: #000; font-family: 'Lucida Grande', helvetica, arial, verdana, sans-serif; } a:link, a:visited, a:active { text-decoration: none; /*font-weight: bold;*/ font-weight: normal; } a:hover { text-decoration: underline; } /* Underline links within prose content for accessibility (WCAG 1.4.1) */ /* Only in contexts where links appear within running text, not navigation or link lists */ .abstract a, blockquote:not(.abstract) a, figcaption a, .submission-h",
-      "keywords": [
-        "arxiv",
-        "css",
-        "color",
-        "font-weight",
-        "used",
-        "abs",
-        "bold",
-        "command",
-        "cu-identity",
-        "display",
-        "following",
-        "present",
-        "samples",
-        "margin"
-      ],
-      "hash": "25fd97069d0cf4741d1f659c6454972bc6a260a30d018e153981a54292a2601f",
-      "learned_at": "2026-10-17T16:20:55+00:00"
-    },
     {
       "url": "https://jpl.nasa.gov/topics/jpl-life/",
       "title": "JPL Life | NASA Jet Propulsion Laboratory (JPL)",
@@ -23435,6 +23323,144 @@
       ],
       "hash": "83cd67c08a44b3b277f440c8d2d05b1ca5dad6deed80bf129f1b2bb03fdf16f0",
       "learned_at": "2026-11-01T21:56:57+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+      "title": "Venus Fact Sheet",
+      "summary": "Title: Venus Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html Markdown Content: * * * * * * [![Image 1: Venus](https://nssdc.gsfc.nasa.gov/planetary/banner/venus.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/venus.jpg) * * * ## Venus/Earth Comparison * * * ### Bulk parameters | | Venus | Earth | Ratio (Venus/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 4.8673 | 5.9722 | 0.815 | | Volume (10 10 km 3) | 92.843 | 108.321 | 0.857 | | Equatorial radius (km) | 6051.8 | 6378.1 | 0.949 | | Polar radius (km) | 6051.8 | 6356.8 | 0.952 | | Volumetric mean radius (km) | 6051.8 | 6371.0 | 0.950 | | Ellipticity (Flattening) | 0.000 | 0.00335 | 0.0 | | Mean density (kg/m 3) | 5243 | 5513 | 0.951 | | Surface gravity (mean) (m/s 2) | 8.87 | 9.82 | 0.903 | | Surface acceleration (eq.) (m/s 2) | 8.87 | 9.78 | 0.907 | | Surface acceleration (pole) (m/s 2) | 8.87 ",
+      "keywords": [
+        "venus",
+        "earth",
+        "---",
+        "orbit",
+        "mean",
+        "orbital",
+        "period",
+        "planetary",
+        "velocity",
+        "108",
+        "6051",
+        "days",
+        "deg",
+        "gov"
+      ],
+      "hash": "45dd8007ae7ca334e6310455e32ae016ef3f88bb77dfe021fe8c6bb0aef3dbe6",
+      "learned_at": "2026-11-02T01:24:51+00:00"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html",
+      "title": "Jupiter Fact Sheet",
+      "summary": "Title: Jupiter Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html Markdown Content: * * * * * * [![Image 1: Jupiter](https://nssdc.gsfc.nasa.gov/planetary/banner/jupiter.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/jupiter.jpg) * * * ## Jupiter/Earth Comparison * * * ### Bulk parameters | | Jupiter | Earth | Ratio (Jupiter/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 1,898.13 | 5.9722 | 317.83 | | Volume (10 10 km 3) | 143,128 | 108.321 | 1321.33 | | Equatorial radius (1 bar level) (km) | 71,492 | 6,378.1 | 11.209 | | Polar radius (km) | 66,854 | 6,356.8 | 10.517 | | Volumetric mean radius (km) | 69,911 | 6,371.0 | 10.973 | | Ellipticity | 0.06487 | 0.00335 | 19.36 | | Mean density (kg/m 3) | 1,326 | 5,513 | 0.241 | | Gravity (mean, 1 bar) (m/s 2) | 25.92 | 9.82 | 2.640 | | Acceleration (eq., 1 bar) (m/s 2) | 23.12 | 9.78 | 2.364 | | Accelera",
+      "keywords": [
+        "jupiter",
+        "---",
+        "earth",
+        "orbit",
+        "bar",
+        "mean",
+        "orbital",
+        "period",
+        "planetary",
+        "velocity",
+        "days",
+        "deg",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "64dfdded6ec116865416c488501dc87f1d3b611c3e7c1b27eb1c216aa144c2d1",
+      "learned_at": "2026-11-02T01:24:52+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro%60",
+      "title": "URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro`",
+      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/periodic_orbits.api?sys=jupiter-europa&family=dro` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"message\":\"invalid value specified for query parameter 'family': supported values: axial, halo, vertical, lpo, butterfly, short, longp, dro, lyapunov, resonant, dragonfly, dpo\",\"code\":\"400\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/periodic_orbits.html\"}",
+      "keywords": [
+        "400",
+        "dro",
+        "family",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "periodic_orbits",
+        "ssd-api",
+        "url",
+        "api",
+        "axial",
+        "bad",
+        "butterfly"
+      ],
+      "hash": "35289001d68ecdd5ff61c8d8d8d92e0898372588f2907d82eb1aef373f64c8a2",
+      "learned_at": "2026-11-02T01:24:53+00:00"
+    },
+    {
+      "url": "https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11%3A10%3A01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10%2C10-10-10&two-pass=false&req-elem=false&sb-group=neo%60",
+      "title": "URL Source: https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11:10:01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10,10-10-10&two-pass=false&req-elem=false&sb-group=neo`",
+      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/sb_ident.api?mpc-code=F51&obs-time=2020-01-01T11:10:01&fov-ra-center=10-10-10&fov-dec-lim=10-05-10,10-10-10&two-pass=false&req-elem=false&sb-group=neo` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/sb_ident.html\",\"message\":\"invalid value specified for query parameter 'sb-group': invalid sb-group value (expecting 'neo' or 'pha')\",\"code\":\"400\"}",
+      "keywords": [
+        "sb-group",
+        "10-10-10",
+        "400",
+        "false",
+        "gov",
+        "https",
+        "invalid",
+        "jpl",
+        "nasa",
+        "neo",
+        "sb_ident",
+        "ssd-api",
+        "url",
+        "value"
+      ],
+      "hash": "23b8a8e2a84ea6c3c608d89e226b0dcf6ac65da5fb8600b4e98e71177a20ef56",
+      "learned_at": "2026-11-02T01:24:55+00:00"
+    },
+    {
+      "url": "https://plus.nasa.gov/video/stemonstrations-water-filtration/",
+      "title": "STEMonstrations: Water Filtration",
+      "summary": "Title: STEMonstrations: Water Filtration URL Source: https://plus.nasa.gov/video/stemonstrations-water-filtration/ Published Time: 2023-11-03T17:05:07Z Markdown Content: [Skip to content](https://plus.nasa.gov/video/stemonstrations-water-filtration/#content) [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](http",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "plus",
+        "events",
+        "images",
+        "multimedia",
+        "content",
+        "image",
+        "podcasts",
+        "science"
+      ],
+      "hash": "a50cba62e61db366adea22f7a12d5531bb5a7c93775c52e3cdd4400a5ed100db",
+      "learned_at": "2026-11-02T01:24:59+00:00"
+    },
+    {
+      "url": "https://plus.nasa.gov/video/stemonstrations-vestibular-system/",
+      "title": "STEMonstrations: Vestibular System",
+      "summary": "Title: STEMonstrations: Vestibular System URL Source: https://plus.nasa.gov/video/stemonstrations-vestibular-system/ Published Time: 2023-11-03T17:05:08Z Markdown Content: [Skip to content](https://plus.nasa.gov/video/stemonstrations-vestibular-system/#content) [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](h",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "plus",
+        "events",
+        "images",
+        "multimedia",
+        "content",
+        "image",
+        "podcasts",
+        "science"
+      ],
+      "hash": "4bb82c16286661522faa3b4688f537e6352618e6adba9ad88ba0ab505581e2d8",
+      "learned_at": "2026-11-02T01:25:02+00:00"
     }
   ],
   "failures": [
@@ -23550,6 +23576,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-02T01:25:03+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-02T01:25:03+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 2147
+    },
     {
       "at": "2026-11-01T21:56:58+00:00",
       "kind": "core_promoted",
@@ -24471,29 +24512,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 18,
       "frontier": 1532
-    },
-    {
-      "at": "2026-10-23T19:35:14+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-23T19:35:13+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 11,
-      "frontier": 1500
     }
   ],
   "metrics": {
-    "successful_fetches": 1250,
+    "successful_fetches": 1256,
     "failed_fetches": 22,
     "duplicate_pages": 2,
     "candidate_promotions": 54,
-    "candidate_rejections": 146
+    "candidate_rejections": 147
   },
   "core_genome": {
     "query_weight": 3.0,
