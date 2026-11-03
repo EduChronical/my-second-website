@@ -1,12 +1,18 @@
 {
   "schema": 2,
-  "generation": 205,
+  "generation": 206,
   "core_version": 56,
-  "runs": 204,
-  "pages_learned": 1265,
-  "last_run": "2026-11-02T18:12:24+00:00",
+  "runs": 205,
+  "pages_learned": 1273,
+  "last_run": "2026-11-03T01:02:06+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=871",
+    "https://www.nasa.gov/search/?search=Climate+Change&search_page=869",
+    "https://www.nasa.gov/?search=Artemis",
+    "https://www.nasa.gov/?search=Expedition+64",
+    "https://www.nasa.gov/?search=SpaceX+Crew-2",
+    "http://www.nasa.gov/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Caltech_SFP.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26071.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26072.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -249,6 +255,9 @@
     "https://www.youtube.com/watch?v=3Tkib8zc-Ws",
     "https://www.youtube.com/watch?v=6vVle67Tfjc",
     "https://doi.org/10.1016/j.jfp.2023.100185",
+    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
+    "https://doi.org/10.1016/j.actaastro.2016.04.026",
+    "https://doi.org/10.1093/jn/nxaa188",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -283,30 +292,6 @@
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.naturechina.com/",
-    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
-    "https://doi.org/10.1016/j.actaastro.2016.04.026",
-    "https://doi.org/10.1093/jn/nxaa188",
-    "https://science.nasa.gov/universe/overview/building-blocks/",
-    "https://science.nasa.gov/science-news/citizenscience/become-a-dark-energy-explorer",
-    "https://roman.gsfc.nasa.gov/Type_Ia_Supernovae.html",
-    "https://www.jpl.nasa.gov/missions/euclid",
-    "https://www.jpl.nasa.gov/missions/spherex",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=871",
-    "https://www.nasa.gov/search/?search=Climate+Change&search_page=869",
-    "https://www.nasa.gov/?search=Artemis",
-    "https://www.nasa.gov/?search=Expedition+64",
-    "https://www.nasa.gov/?search=SpaceX+Crew-2",
-    "http://www.nasa.gov/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pexels-pixabay-104826_768px.jpg?w=768&h=576&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/mollweide_cycle.gif?w=720&h=360&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/john-fowler-qQIb6343A8U-unsplash-scaled-1.jpeg?w=1024&h=662&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/5000/5668/glacier_4up.jpg?w=540&h=423&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/80000/80825/CAPE_720.png?w=720&h=432&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/Alabama_Coast_Maury_Estes.jpeg?w=1024&h=703&fit=clip",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/details/original/459_12_aqua-lrg.en-60.jpg?w=800&h=494&fit=clip",
-    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/",
-    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
-    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/",
     "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/",
     "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/may-2024-shake-bake-how-spacecraft-are-tested-to-handle-the-harsh-environment-of-space/",
     "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/june-2024-nasa-in-your-home-how-space-based-technology-improves-our-daily-lives/",
@@ -2144,7 +2129,33 @@
     "https://www.nasa.gov/wp-content/uploads/2024/06/spaceflight-food-book-graphic-e1718645594410.jpg?w=609",
     "https://www.nasa.gov/directorates/esdmd/hhp/nutritional-biochemistry/",
     "https://www.nasa.gov/directorates/esdmd/hhp/risk-of-performance-decrement-and-crew-illness-due-to-inadequate-food-and-nutrition/",
-    "https://www.nasa.gov/history/space-station-20th-food-on-iss/"
+    "https://www.nasa.gov/history/space-station-20th-food-on-iss/",
+    "https://science.nasa.gov/get-involved/citizen-science/become-a-dark-energy-explorer/",
+    "https://science.nasa.gov/get-involved/citizen-science/become-a-dark-energy-explorer/",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/john-fowler-qQIb6343A8U-unsplash-scaled-1.jpeg?w=1024&h=662&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/5000/5668/glacier_4up.jpg?w=540&h=423&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/80000/80825/CAPE_720.png?w=720&h=432&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/Alabama_Coast_Maury_Estes.jpeg?w=1024&h=703&fit=clip",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/details/original/459_12_aqua-lrg.en-60.jpg?w=800&h=494&fit=clip",
+    "https://www.jpl.nasa.gov/missions/euclid/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/euclid20170509-full.height-1024.jpg",
+    "https://science.nasa.gov/mission/euclid/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/KSC-20260821-PH-SE.bf5a83f9.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26725.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_SPHEREx_Cygnus_H.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26748_figA.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://www.jpl.nasa.gov/missions/spherex/",
+    "https://www.jpl.nasa.gov/images/spherex-poster/",
+    "https://www.jpl.nasa.gov/press-kits/spherex/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still01_R08_SpaceBa.height-1024.jpg",
+    "https://spherex.caltech.edu/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Lyrid_slworking2_v.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Blood_Moon_Trevor_.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Andromeda_above_Mo.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/M31_BlackHole_Wide.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
+    "https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/",
+    "https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -9799,193 +9810,54 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26813.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
       "at": "2026-11-02T18:12:30+00:00",
       "status": "robots_disallow"
+    },
+    "https://science.nasa.gov/science-news/citizenscience/become-a-dark-energy-explorer": {
+      "at": "2026-11-03T01:02:08+00:00",
+      "status": "ok",
+      "hash": "f28abe574e62ed6eae85d0e530eab6d2d5f9b841e882b8eccd0bb290f5da3a9b"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pexels-pixabay-104826_768px.jpg?w=768&h=576&fit=clip": {
+      "at": "2026-11-03T01:02:11+00:00",
+      "status": "ok",
+      "hash": "1e9f4aefc1fe178b5939e804adb1e23bf4e766126b3a2f3dcfd33dc937d65616"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/mollweide_cycle.gif?w=720&h=360&fit=clip": {
+      "at": "2026-11-03T01:02:11+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/": {
+      "at": "2026-11-03T01:02:16+00:00",
+      "status": "ok",
+      "hash": "08ef3bc0ed4ac5ae74fe637bb02a84fb2430dd55dbfc2f87bb88b69e9fe8fa76"
+    },
+    "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/": {
+      "at": "2026-11-03T01:02:19+00:00",
+      "status": "ok",
+      "hash": "100975baeb4bfca4b6b942a7b9401a63d6bf4989372119bbc9b82b9245e29912"
+    },
+    "https://science.nasa.gov/universe/overview/building-blocks/": {
+      "at": "2026-11-03T01:02:21+00:00",
+      "status": "ok",
+      "hash": "ada74c854493d0c7466165cd1f0918b707ddd43c9e43a61721468291c8aa7148"
+    },
+    "https://www.jpl.nasa.gov/missions/euclid": {
+      "at": "2026-11-03T01:02:24+00:00",
+      "status": "ok",
+      "hash": "97b663c3b3a15981812aa4e42bfc86046812c5a97d69cf7f666fde6c2646c84f"
+    },
+    "https://www.jpl.nasa.gov/missions/spherex": {
+      "at": "2026-11-03T01:02:27+00:00",
+      "status": "ok",
+      "hash": "1ee6598c375470ded3c5b1d4febcb1dbdb30a18e316347e92505b70ff4c6c1aa"
+    },
+    "https://roman.gsfc.nasa.gov/Type_Ia_Supernovae.html": {
+      "at": "2026-11-03T01:02:31+00:00",
+      "status": "ok",
+      "hash": "0d4d370bcc4af5738e0aa8d87c901b18f6c4f0f8ca7a11cd9e7e3ac60d7b2aee"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2020/07/roman_hubble_data.png?w=1024",
-      "title": "roman_hubble_data.png",
-      "summary": "Title: roman_hubble_data.png URL Source: https://www.nasa.gov/wp-content/uploads/2020/07/roman_hubble_data.png?w=1024 Published Time: Sat, 17 Oct 2026 20:59:20 GMT Markdown Content: A bar display comparing the Hubble telescope data with 1",
-      "keywords": [
-        "png",
-        "roman_hubble_data",
-        "1024",
-        "2020",
-        "2026",
-        "bar",
-        "comparing",
-        "content",
-        "data",
-        "display",
-        "gmt",
-        "gov",
-        "https",
-        "hubble"
-      ],
-      "hash": "e8f7585b8638913469dac5001c987f6cbaa140e953f461eb6a2c153192dabc53",
-      "learned_at": "2026-10-17T20:59:23+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/",
-      "title": "Faces of Leadership: The Directors of JPL | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Faces of Leadership: The Directors of JPL | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/who-we-are/faces-of-leadership-the-directors-of-jpl/ Markdown Content: ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/Dave-Gallagher_thu.2e16d0ba.fill-430x430-c70.format-jpeg.jpg) ## Dave Gallagher JPL Director, 2025- Dave Gallagher was selected by Caltech to become the Jet Propulsion Laboratory’s 11th director, effective June 2, 2025. He was formerly Associate Director for Strategic Integration. ![Image 2](https://d2pn8kiwq2w21t.cloudfront.net/images/Dr.-Laurie-Leshin-.0af1b97b.fill-430x430-c70.format-jpeg.jpg) ## Dr. Laurie Leshin JPL Director, 2022-2025 Dr. Laurie Leshin, director of the Jet Propulsion Laboratory from May 2022 until June 2025, is a distinguished geochemist and space scientist with extensive leadership experience in academia and government**",
-      "keywords": [
-        "jpl",
-        "director",
-        "https",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-430x430-c70",
-        "format-jpeg",
-        "image",
-        "images",
-        "jpg",
-        "net",
-        "caltech",
-        "elachi",
-        "jet"
-      ],
-      "hash": "380fdef398fdfda62b0974a17d7d015b646b73c4fad709ceea5c0369cce63879",
-      "learned_at": "2026-10-17T20:59:26+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/wp-content/uploads/2023/10/exoplanets1.jpg?w=1024",
-      "title": "exoplanets1.jpg",
-      "summary": "Title: exoplanets1.jpg URL Source: https://science.nasa.gov/wp-content/uploads/2023/10/exoplanets1.jpg?w=1024 Published Time: Sat, 17 Oct 2026 20:59:28 GMT Markdown Content: Saturn-like planet with rings in space",
-      "keywords": [
-        "exoplanets1",
-        "jpg",
-        "1024",
-        "2023",
-        "2026",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "oct",
-        "planet",
-        "published"
-      ],
-      "hash": "5378a51cec6ccc67d92a60440b71c9246a7d557bccc29cf17f6156376af56269",
-      "learned_at": "2026-10-17T20:59:30+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "NASARoman.jpg",
-      "summary": "Title: NASARoman.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg?w=1280&h=720&fit=clip&crop=faces,focalpoint Markdown Content: telescope on a space walk",
-      "keywords": [
-        "assets",
-        "jpg",
-        "nasaroman",
-        "science",
-        "1280",
-        "2023",
-        "720",
-        "astro",
-        "clip",
-        "content",
-        "crop",
-        "dynamicimage",
-        "exo-explore",
-        "faces"
-      ],
-      "hash": "a71e35080bd076d00b862e9e243c091eaee67cca32300df00018e0a1ce54e6ea",
-      "learned_at": "2026-10-17T23:01:23+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/44477663304_a673c66226_o.jpg?w=1280&h=720&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "44477663304_a673c66226_o.jpg",
-      "summary": "Title: 44477663304_a673c66226_o.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/44477663304_a673c66226_o.jpg?w=1280&h=720&fit=clip&crop=faces,focalpoint Markdown Content: Trockene afsked på skjuler merket som APPA på et gammelt computersykkel",
-      "keywords": [
-        "44477663304_a673c66226_o",
-        "assets",
-        "jpg",
-        "science",
-        "1280",
-        "2023",
-        "720",
-        "afsked",
-        "appa",
-        "clip",
-        "computersykkel",
-        "content",
-        "crop",
-        "dynamicimage"
-      ],
-      "hash": "64a9efcf4f973ddec1c417bbbda0daa2bf3f34420eeea7a2bfa658a3038c1924",
-      "learned_at": "2026-10-17T23:01:27+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg?w=1024",
-      "title": "x59-first-supersonic-flight-m-1-077-clean-high.jpg",
-      "summary": "Title: x59-first-supersonic-flight-m-1-077-clean-high.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg?w=1024 Published Time: Sat, 17 Oct 2026 23:01:30 GMT Markdown Content: Graphical representation of a typical airplane course with event",
-      "keywords": [
-        "2026",
-        "jpg",
-        "x59-first-supersonic-flight-m-1-077-clean-high",
-        "1024",
-        "airplane",
-        "content",
-        "course",
-        "event",
-        "gmt",
-        "gov",
-        "graphical",
-        "https",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "e376e76555ee5a1dbd4ca746d25030db6b933a5ff0cda5e18fee24552b52d2bf",
-      "learned_at": "2026-10-17T23:01:32+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/08/afrc2026-0131-33orig.jpg?w=1024",
-      "title": "afrc2026-0131-33orig.jpg",
-      "summary": "Title: afrc2026-0131-33orig.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/08/afrc2026-0131-33orig.jpg?w=1024 Published Time: Sat, 17 Oct 2026 23:01:35 GMT Markdown Content: NASA X-59 airplane flying above orange land",
-      "keywords": [
-        "2026",
-        "afrc2026-0131-33orig",
-        "jpg",
-        "nasa",
-        "1024",
-        "above",
-        "airplane",
-        "content",
-        "flying",
-        "gmt",
-        "gov",
-        "https",
-        "land",
-        "markdown"
-      ],
-      "hash": "6e48830d14820baf39da17fceedb7679e3d15827aa99a55b124a4849cd0916ac",
-      "learned_at": "2026-10-17T23:01:37+00:00"
-    },
-    {
-      "url": "http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif",
-      "title": "as16-114-18388_young_alsep.gif",
-      "summary": "Title: as16-114-18388_young_alsep.gif URL Source: http://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_data/as16-114-18388_young_alsep.gif Published Time: Thu, 11 May 2006 19:55:42 GMT Markdown Content: This is a picture of a man who is outside the earth and he is wearing a coat, helmet and Gloves and here are his feet",
-      "keywords": [
-        "as16-114-18388_young_alsep",
-        "gif",
-        "2006",
-        "coat",
-        "content",
-        "earth",
-        "feet",
-        "gloves",
-        "gmt",
-        "gov",
-        "gsfc",
-        "helmet",
-        "here",
-        "his"
-      ],
-      "hash": "751bf07b32eaef4e8b9c7ba065982acdcd34dcdfa051c0204013e79190da1b4a",
-      "learned_at": "2026-10-17T23:01:42+00:00"
-    },
     {
       "url": "https://www.nature.com/info/cookies",
       "title": "Cookie Policy | Nature Info",
@@ -23601,6 +23473,190 @@
       ],
       "hash": "4aff74e19cb88533ba3d65dd8f352e3162757f65a36c843a6b3da23874358f24",
       "learned_at": "2026-11-02T18:12:30+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/science-news/citizenscience/become-a-dark-energy-explorer",
+      "title": "Become a Dark Energy Explorer! - NASA Science",
+      "summary": "Title: Become a Dark Energy Explorer! - NASA Science URL Source: https://science.nasa.gov/science-news/citizenscience/become-a-dark-energy-explorer Final URL: https://science.nasa.gov/get-involved/citizen-science/become-a-dark-energy-explorer/ Published Time: 2023-01-06T12:47:01-05:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](ht",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "f28abe574e62ed6eae85d0e530eab6d2d5f9b841e882b8eccd0bb290f5da3a9b",
+      "learned_at": "2026-11-03T01:02:08+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pexels-pixabay-104826_768px.jpg?w=768&h=576&fit=clip",
+      "title": "pexels-pixabay-104826_768px.jpg",
+      "summary": "Title: pexels-pixabay-104826_768px.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pexels-pixabay-104826_768px.jpg?w=768&h=576&fit=clip Markdown Content: The sky view of an airplane close to the sun",
+      "keywords": [
+        "assets",
+        "jpg",
+        "pexels-pixabay-104826_768px",
+        "science",
+        "2023",
+        "576",
+        "768",
+        "airplane",
+        "climate",
+        "clip",
+        "close",
+        "content",
+        "dynamicimage",
+        "esd"
+      ],
+      "hash": "1e9f4aefc1fe178b5939e804adb1e23bf4e766126b3a2f3dcfd33dc937d65616",
+      "learned_at": "2026-11-03T01:02:11+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/",
+      "title": "January 2024 - Spirit Knocked, Opportunity Rocked: 20 Years of Rovers on Mars | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: January 2024 - Spirit Knocked, Opportunity Rocked: 20 Years of Rovers on Mars | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/ Final URL: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/ Markdown Content: [](https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.n",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "opportunity",
+        "mars",
+        "rovers",
+        "spirit",
+        "camera",
+        "exploration",
+        "image",
+        "images",
+        "january-2024-spirit-knocked-opportunity-rocked-20-years-of-r"
+      ],
+      "hash": "08ef3bc0ed4ac5ae74fe637bb02a84fb2430dd55dbfc2f87bb88b69e9fe8fa76",
+      "learned_at": "2026-11-03T01:02:16+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/",
+      "title": "March 2024 - Mavericks of Mars: The Ingenuity Helicopter Team’s Favorite Flights",
+      "summary": "Title: March 2024 - Mavericks of Mars: The Ingenuity Helicopter Team’s Favorite Flights URL Source: https://jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/ Final URL: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/ Markdown Content: Mar. 21 **Time:** 5 p.m. PST (8 p.m. EST; 0300 UTC) The Ingenuity Helicopter first took to the Martian skies on April 19, 2021, proving for the first time that powered, controlled flight was possible on another world. Designed as a technology demonstration that would perform up to five experimental test flights over a span of 30 days, the Mars helicopter surpassed expectations – rep",
+      "keywords": [
+        "flights",
+        "jpl",
+        "nasa",
+        "control",
+        "helicopter",
+        "https",
+        "ingenuity",
+        "live",
+        "mars",
+        "pilot",
+        "chief",
+        "first",
+        "flight",
+        "gov"
+      ],
+      "hash": "100975baeb4bfca4b6b942a7b9401a63d6bf4989372119bbc9b82b9245e29912",
+      "learned_at": "2026-11-03T01:02:19+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/universe/overview/building-blocks/",
+      "title": "Building Blocks - NASA Science",
+      "summary": "Title: Building Blocks - NASA Science URL Source: https://science.nasa.gov/universe/overview/building-blocks/ Published Time: 2024-02-23T13:18:59-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nas",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "universe"
+      ],
+      "hash": "ada74c854493d0c7466165cd1f0918b707ddd43c9e43a61721468291c8aa7148",
+      "learned_at": "2026-11-03T01:02:21+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions/euclid",
+      "title": "Euclid is a European Space Agency mission with important contributions from NASA, including infrared detectors for one instrument and science and data analysis. It is designed to give us important new insights into the",
+      "summary": "Title: Euclid is a European Space Agency mission with important contributions from NASA, including infrared detectors for one instrument and science and data analysis. It is designed to give us important new insights into the URL Source: https://www.jpl.nasa.gov/missions/euclid Final URL: https://www.jpl.nasa.gov/missions/euclid/ Markdown Content: [](https://www.jpl.nasa.gov/missions/euclid/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JP",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "euclid",
+        "https",
+        "gov",
+        "www",
+        "mission",
+        "science",
+        "dark",
+        "detectors",
+        "important",
+        "infrared",
+        "analysis",
+        "missions"
+      ],
+      "hash": "97b663c3b3a15981812aa4e42bfc86046812c5a97d69cf7f666fde6c2646c84f",
+      "learned_at": "2026-11-03T01:02:24+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/missions/spherex",
+      "title": "Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer",
+      "summary": "Title: Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer URL Source: https://www.jpl.nasa.gov/missions/spherex Final URL: https://www.jpl.nasa.gov/missions/spherex/ Markdown Content: [](https://www.jpl.nasa.gov/missions/spherex/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/im",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "spherex",
+        "mission",
+        "stars",
+        "galaxies",
+        "million",
+        "missions",
+        "survey",
+        "universe",
+        "epoch"
+      ],
+      "hash": "1ee6598c375470ded3c5b1d4febcb1dbdb30a18e316347e92505b70ff4c6c1aa",
+      "learned_at": "2026-11-03T01:02:27+00:00"
+    },
+    {
+      "url": "https://roman.gsfc.nasa.gov/Type_Ia_Supernovae.html",
+      "title": "Type Ia Supernovae - NASA Science",
+      "summary": "Title: Type Ia Supernovae - NASA Science URL Source: https://roman.gsfc.nasa.gov/Type_Ia_Supernovae.html Final URL: https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/ Published Time: 2023-10-24T17:33:12-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](htt",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "roman"
+      ],
+      "hash": "0d4d370bcc4af5738e0aa8d87c901b18f6c4f0f8ca7a11cd9e7e3ac60d7b2aee",
+      "learned_at": "2026-11-03T01:02:31+00:00"
     }
   ],
   "failures": [
@@ -23713,9 +23769,29 @@
       "at": "2026-10-31T21:00:51+00:00",
       "url": "https://datacenter.iers.org/data/16/bulletinc-072.txt",
       "error": "URLError: <urlopen error timed out>"
+    },
+    {
+      "at": "2026-11-03T01:02:11+00:00",
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/mollweide_cycle.gif?w=720&h=360&fit=clip",
+      "error": "HTTPError: HTTP Error 404: Not Found"
     }
   ],
   "events": [
+    {
+      "at": "2026-11-03T01:02:31+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-03T01:02:31+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 15,
+      "frontier": 2149
+    },
     {
       "at": "2026-11-02T18:12:31+00:00",
       "kind": "core_promoted",
@@ -24637,29 +24713,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 20,
       "frontier": 1588
-    },
-    {
-      "at": "2026-10-24T05:46:52+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-24T05:46:52+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 1567
     }
   ],
   "metrics": {
-    "successful_fetches": 1265,
-    "failed_fetches": 22,
+    "successful_fetches": 1273,
+    "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 55,
-    "candidate_rejections": 148
+    "candidate_rejections": 149
   },
   "core_genome": {
     "query_weight": 3.0,
