@@ -1,20 +1,19 @@
 {
   "schema": 2,
-  "generation": 209,
+  "generation": 210,
   "core_version": 57,
-  "runs": 208,
-  "pages_learned": 1295,
-  "last_run": "2026-11-03T21:16:02+00:00",
+  "runs": 209,
+  "pages_learned": 1303,
+  "last_run": "2026-11-04T01:28:33+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://partnerships.nature.com/",
-    "https://partnerships.nature.com/media-kits/",
-    "https://partnerships.nature.com/product/branded-content-native-advertising/",
-    "https://conferences.nature.com/",
-    "https://www.nasa.gov/wp-content/uploads/2025/12/access-template-final.pdf?emrc=28c386",
-    "https://www.nasa.gov/wp-content/uploads/2025/12/consent-for-disclosure-template-final.pdf?emrc=d170b4",
-    "https://www.nasa.gov/controlled-unclassified-information-cui-and-why-it-matters/",
-    "http://www.nasa.gov/dawn",
+    "https://info.arxiv.org/about/people/science_advisory_council.html",
+    "https://info.arxiv.org/about/people/editorial_advisory_council.html",
+    "https://info.arxiv.org/about/people/institutions_advisory_council.html",
+    "https://info.arxiv.org/about/membership.html",
+    "https://info.arxiv.org/about/funding.html",
+    "https://info.arxiv.org/about/reports/index.html",
+    "https://arxiv.org/IgnoreMe",
     "https://www.gstatic.com/android/market_images/web/play_prism_hlock_v2_1x.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-still-shot-clocks.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/visions-promo.2e16d0ba.fill-400x400-c50.jpg",
@@ -37,9 +36,9 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/rollocopter-offset-websafe.22895f4b.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/puffer-offset-websafe.3880eed4.fill-400x400-c50.jpg",
     "https://twitter.com/NASAAstrobio",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesjpl20180629jpl_vista-16.2e16d0ba.fill-1024x441-c10.jpg",
     "https://www.bcg.com/x/bcg-x-ai-science-institute",
     "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/imagesjpl20180629jpl_vista-16.2e16d0ba.fill-1024x441-c10.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Caltech_SFP.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
@@ -136,10 +135,6 @@
     "https://www.jpl.jobs/students-and-postdocs",
     "https://www.jpl.jobs/students",
     "https://www.conicet.gov.ar/?lan=en",
-    "https://www.esa.int/Science_Exploration/Space_Science/Planck",
-    "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
-    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
-    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://www.state.gov/state-sponsors-of-terrorism/",
     "https://app.icontact.com/icp/core/signup/tracking.gif?id=5&cid=1389932&lid=11365",
     "https://news.ycombinator.com/",
@@ -192,10 +187,13 @@
     "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
     "https://tools.google.com/dlpage/gaoptout?hl=en",
     "https://www.dhs.gov/topic/privacy",
-    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.naturechina.com/",
+    "https://www.esa.int/Science_Exploration/Space_Science/Planck",
+    "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
+    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
+    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
@@ -262,6 +260,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_August_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_July_2025.pdf",
+    "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -295,18 +294,6 @@
     "http://www.nineplanets.org/luna.html",
     "http://www.agu.org/reference/gephys.html",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://jpl.nasa.gov/social/",
-    "https://info.arxiv.org/about/governance/operational_guidelines.html",
-    "https://info.arxiv.org/about/people/arxiv_advisory_board.html",
-    "https://info.arxiv.org/about/people/science_advisory_council.html",
-    "https://info.arxiv.org/about/people/editorial_advisory_council.html",
-    "https://info.arxiv.org/about/people/institutions_advisory_council.html",
-    "https://info.arxiv.org/about/membership.html",
-    "https://info.arxiv.org/about/funding.html",
-    "https://info.arxiv.org/about/reports/index.html",
-    "https://arxiv.org/IgnoreMe",
-    "https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg",
-    "http://svs.gsfc.nasa.gov/5633/",
     "http://svs.gsfc.nasa.gov/5502/",
     "http://svs.gsfc.nasa.gov/5425",
     "http://svs.gsfc.nasa.gov/5196/",
@@ -2193,7 +2180,39 @@
     "https://ssd.jpl.nasa.gov/sats/phys_par/",
     "https://ssd.jpl.nasa.gov/sats/discovery.html",
     "https://jpl.nasa.gov/asteroid-watch/",
-    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=5dcd2759-11d7-4728-b502-e593a4c86fdf&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2F"
+    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=5dcd2759-11d7-4728-b502-e593a4c86fdf&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2F",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/x-logo.2e16d0ba.fill-640x360-c100.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/youtube-logo_9ScR7Oh.2e16d0ba.fill-640x360-c100.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/x-logo.2e16d0ba.fill-640x360-c100.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/youtube-logo_9ScR7Oh.2e16d0ba.fill-640x360-c100.jpg",
+    "https://www.nasa.gov/social-media/fewer-feeds-more-focus-nasas-social-media-overhaul/",
+    "https://conferences.nature.com/assets/logo.svg",
+    "https://conferences.nature.com/assets/logo.svg",
+    "https://conferences.nature.com/about-us/",
+    "https://conferences.nature.com/assets/logo.svg",
+    "https://conferences.nature.com/assets/logo.svg",
+    "https://www.sensor-systems.conferences.nature.com/",
+    "https://marketing-preferences.springernature.com/",
+    "https://natureconferences.streamgo.live/the-human-mind-and-society-in-the-ai-era/lobby",
+    "https://natureconferences.streamgo.live/the-human-mind-and-society-in-the-ai-era/lobby",
+    "https://natureconferences.streamgo.live/ai-for-sustainable-materials/lobby",
+    "https://natureconferences.streamgo.live/the-human-mind-and-society-in-the-ai-era/lobby",
+    "https://www.nasa.gov/controlled-unclassified-information-cui-and-why-it-matters/",
+    "https://info.arxiv.org/help/policies/code_of_conduct.html",
+    "http://www.nasa.gov/dawn",
+    "http://svs.gsfc.nasa.gov/search?nasa_science_categories=Planets+",
+    "http://svs.gsfc.nasa.gov/search/?people=Ernie+Wright",
+    "http://svs.gsfc.nasa.gov/static/detailspage/images/ORCID-iD_icon_vector.svg",
+    "http://svs.gsfc.nasa.gov/search/?datasets=1015",
+    "http://wms.lroc.asu.edu/lroc/view_rdr/WAC_HAPKE_NORMALIZED",
+    "https://info.arxiv.org/about/accessibility.html",
+    "https://info.arxiv.org/help/index.html",
+    "https://info.arxiv.org/help/submit_tex.html",
+    "https://info.arxiv.org/help/submit_pdf.html",
+    "https://info.arxiv.org/help/submit_legacy_differences.html",
+    "https://info.arxiv.org/help/faq/index.html",
+    "https://info.arxiv.org/help/submit_status.html",
+    "https://info.arxiv.org/help/ancillary_files.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -10007,193 +10026,61 @@
       "at": "2026-11-03T21:16:32+00:00",
       "status": "ok",
       "hash": "3c33754cf8561c82c12013d0858fa211bc681a6807d6075f0e044c3c9b55d457"
+    },
+    "https://jpl.nasa.gov/social/": {
+      "at": "2026-11-04T01:28:37+00:00",
+      "status": "ok",
+      "hash": "fd3336017dbafd5daf2391a66748c92aba8f9f24c2f5fbdbacc01c09f5ad05e7"
+    },
+    "https://partnerships.nature.com/": {
+      "at": "2026-11-04T01:28:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://partnerships.nature.com/media-kits/": {
+      "at": "2026-11-04T01:28:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://partnerships.nature.com/product/branded-content-native-advertising/": {
+      "at": "2026-11-04T01:28:38+00:00",
+      "status": "robots_disallow"
+    },
+    "https://conferences.nature.com/": {
+      "at": "2026-11-04T01:28:40+00:00",
+      "status": "ok",
+      "hash": "6604a7e29309f7a55bd9542bab65235f5dd0e76fd233f820f9a438d54cfbbba8"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2025/12/access-template-final.pdf?emrc=28c386": {
+      "at": "2026-11-04T01:28:41+00:00",
+      "status": "ok",
+      "hash": "dea674db3d9df9f5eb08b79983a5a4c398212f5325c0cca5fbbb90748bbbc3e1"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2025/12/consent-for-disclosure-template-final.pdf?emrc=d170b4": {
+      "at": "2026-11-04T01:28:42+00:00",
+      "status": "ok",
+      "hash": "f7bf5bb157a826e52ba600a380a995f33ab9cd7e008ba3411d624f89bc7d6ea7"
+    },
+    "https://info.arxiv.org/about/governance/operational_guidelines.html": {
+      "at": "2026-11-04T01:28:44+00:00",
+      "status": "ok",
+      "hash": "ff7ce92e5cdd94dc352df6d5f2d15a76658e0995e4e9338a79fe59158aae75ce"
+    },
+    "https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg": {
+      "at": "2026-11-04T01:28:48+00:00",
+      "status": "ok",
+      "hash": "32789b00e999f95b818e7d2df4b9559c592d4f29b1c045014d034c086f1d6659"
+    },
+    "http://svs.gsfc.nasa.gov/5633/": {
+      "at": "2026-11-04T01:28:50+00:00",
+      "status": "ok",
+      "hash": "4a4fa8383aed21c42c44471c6e9e26ddeda921bf6e09d18a2f79195cb414b7a4"
+    },
+    "https://info.arxiv.org/about/people/arxiv_advisory_board.html": {
+      "at": "2026-11-04T01:28:52+00:00",
+      "status": "ok",
+      "hash": "39dd97b62dce9f09da836c68eb4f217f57b9161012c8592471e3bf1641121dae"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nature.com/authors/index.html",
-      "title": "For Authors | Nature Portfolio",
-      "summary": "Title: For Authors | Nature Portfolio URL Source: https://www.nature.com/authors/index.html Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [Skip to main content](https",
-      "keywords": [
-        "nature",
-        "com",
-        "https",
-        "www",
-        "authors",
-        "nature-portfolio",
-        "search",
-        "cookies",
-        "content",
-        "portfolio",
-        "use",
-        "data",
-        "for-authors",
-        "html"
-      ],
-      "hash": "c1e6e6ab1fab0caf1a3b2b432309aea77cbece1927d9431de8a7533536e8f625",
-      "learned_at": "2026-10-18T09:52:08+00:00"
-    },
-    {
-      "url": "https://www.nature.com/immersive/natureawards/index.html",
-      "title": "Nature Awards",
-      "summary": "Title: Nature Awards URL Source: https://www.nature.com/immersive/natureawards/index.html Markdown Content: _Nature_ champions the transformational power of outstanding science and its potential to make positive change in the world. Our Nature Awards drive the goals and values that matter most to us and to you: **research excellence, integrity and transparency, impact, inclusivity, engagement, sustainability,****and the importance of evidence in public life**. We recognize, reward, connect and celebrate researchers from all over the world who share our values and chase those goals. ## Applications are now open The MDx Impact Grants aim to unlock the potential of PCR to democratise access to accurate diagnostic tests that improve patient outcomes, supported by Seegene and Springer Nature. The yearly programme provides researchers with access to Seegene’s syndromic PCR technology and devel",
-      "keywords": [
-        "applications",
-        "nature",
-        "open",
-        "research",
-        "_in",
-        "_nature_",
-        "partnership",
-        "researchers",
-        "science",
-        "awards",
-        "prize",
-        "public",
-        "000",
-        "access"
-      ],
-      "hash": "45dfa83d93229cef6a66c0c744d947058b3c48d33ae796abd4448b3e914004bd",
-      "learned_at": "2026-10-18T09:52:12+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/",
-      "title": "Hubble Gravity Waves - NASA Science",
-      "summary": "Title: Hubble Gravity Waves - NASA Science URL Source: https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravity-waves/ Published Time: 2024-09-05T13:04:05-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "ea5280d768b07a79d3f6489cc0118be9a0d1e04cd6b4dd4e70879f30608f6c03",
-      "learned_at": "2026-10-18T13:42:57+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/",
-      "title": "Hubble Uncovers ‘Heavy Metal’ Exoplanet Shaped Like Football - NASA Science",
-      "summary": "Title: Hubble Uncovers ‘Heavy Metal’ Exoplanet Shaped Like Football - NASA Science URL Source: https://science.nasa.gov/missions/hubble/hubble-uncovers-a-a-heavy-metal-exoplanet-shaped-like-a-football/ Published Time: 2019-08-01T10:00:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics",
-        "apps"
-      ],
-      "hash": "6322bcf4166ce8fb2be16ce20fa44a0724781b0511be1c0d2188df80c2b763e5",
-      "learned_at": "2026-10-18T13:43:02+00:00"
-    },
-    {
-      "url": "http://ssd.jpl.nasa.gov/images/ssd_banner.png",
-      "title": "ssd_banner.png",
-      "summary": "Title: ssd_banner.png URL Source: http://ssd.jpl.nasa.gov/images/ssd_banner.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: Horizontally symmetrical nebula images in image morphology",
-      "keywords": [
-        "images",
-        "png",
-        "ssd_banner",
-        "2023",
-        "content",
-        "gmt",
-        "gov",
-        "horizontally",
-        "http",
-        "image",
-        "jpl",
-        "markdown",
-        "mon",
-        "morphology"
-      ],
-      "hash": "1c118e42a688f22dbe1085fde49cb83480e8560218949ccd3d88e00050828ec0",
-      "learned_at": "2026-10-18T13:45:22+00:00"
-    },
-    {
-      "url": "http://ssd.jpl.nasa.gov/images/ssd_banner_small.png",
-      "title": "ssd_banner_small.png",
-      "summary": "Title: ssd_banner_small.png URL Source: http://ssd.jpl.nasa.gov/images/ssd_banner_small.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: A VPN client with multiple simultaneously active user accounts",
-      "keywords": [
-        "png",
-        "ssd_banner_small",
-        "2023",
-        "accounts",
-        "active",
-        "client",
-        "content",
-        "gmt",
-        "gov",
-        "http",
-        "images",
-        "jpl",
-        "markdown",
-        "mon"
-      ],
-      "hash": "e55088df169eaa2e8df932068a5ff71b56486938e97d168919d8da89471be14e",
-      "learned_at": "2026-10-18T13:45:40+00:00"
-    },
-    {
-      "url": "https://www.nature.com/authors/editorial_policies/",
-      "title": "Editorial policies | Nature Portfolio",
-      "summary": "Title: Editorial policies | Nature Portfolio URL Source: https://www.nature.com/authors/editorial_policies/ Markdown Content: The Nature Portfolio journals' editorial policies for primary scientific research can be found on the pages listed below. The Nature Portfolio includes all journals with Nature in their name, the Communications journals, the npj series, Scientific Reports and Scientific Data. A list of these journals and a description of the relationship between them can be found [here](https://www.nature.com/nature-research/for-authors/nature-research-journals). In August 2015, the Nature Portfolio journals became members of the [Committee on Publication Ethics](https://publicationethics.org/)(COPE). We will be guided by COPE guidelines, however the Nature Portfolio journals will continue to make independent decisions based on our existing policies and principles. For details on ",
-      "keywords": [
-        "nature",
-        "journals",
-        "portfolio",
-        "com",
-        "https",
-        "www",
-        "policies",
-        "editorial-policies",
-        "nature-research",
-        "authorship",
-        "editorial",
-        "research",
-        "data",
-        "ethics"
-      ],
-      "hash": "a837b5a8ebacce54e58405ff5f34bda4a9af811eae74401cabd5030d6e042b1e",
-      "learned_at": "2026-10-18T13:45:45+00:00"
-    },
-    {
-      "url": "https://bsky.app/profile/nature.com",
-      "title": "@nature.com on Bluesky",
-      "summary": "Title: @nature.com on Bluesky URL Source: https://bsky.app/profile/nature.com Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout. Markdown Content: Profile Nature nature.com did:plc:vrsppvjc5fysqnm2zshiirey Research, news, and commentary from Nature, the international science journal. For daily science news, get Nature Briefing: https://go.nature.com/get-Nature-Briefing Enable JavaScript to use Bluesky. Learn more about Bluesky at bsky.social and atproto.com.",
-      "keywords": [
-        "nature",
-        "com",
-        "bluesky",
-        "bsky",
-        "https",
-        "news",
-        "profile",
-        "science",
-        "app",
-        "atproto",
-        "briefing",
-        "commentary",
-        "consider",
-        "content"
-      ],
-      "hash": "a633d76c353bf5f12101119f248f859948ebaac9328bdc615ce126bc7d6e73bc",
-      "learned_at": "2026-10-18T13:46:01+00:00"
-    },
     {
       "url": "https://journal-alerts.springernature.com/subscribe?journal_id=41586",
       "title": "Springer Nature account - log in or register",
@@ -23809,6 +23696,190 @@
       ],
       "hash": "3c33754cf8561c82c12013d0858fa211bc681a6807d6075f0e044c3c9b55d457",
       "learned_at": "2026-11-03T21:16:32+00:00"
+    },
+    {
+      "url": "https://jpl.nasa.gov/social/",
+      "title": "Social | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Social | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/social/ Final URL: https://www.jpl.nasa.gov/social/ Markdown Content: [](https://www.jpl.nasa.gov/social/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Social JPL’s social media brings the cosmos to the palm of your hand, showcasing the engineering, science, and ingenuity that po",
+      "keywords": [
+        "https",
+        "nasa",
+        "jpl",
+        "www",
+        "gov",
+        "image",
+        "jet",
+        "laboratory",
+        "propulsion",
+        "logo",
+        "nasajpl",
+        "2e16d0ba",
+        "cloudfront",
+        "d2pn8kiwq2w21t"
+      ],
+      "hash": "fd3336017dbafd5daf2391a66748c92aba8f9f24c2f5fbdbacc01c09f5ad05e7",
+      "learned_at": "2026-11-04T01:28:37+00:00"
+    },
+    {
+      "url": "https://conferences.nature.com/",
+      "title": "Nature Conferences",
+      "summary": "Title: Nature Conferences URL Source: https://conferences.nature.com/ Markdown Content: [Skip to main content](https://conferences.nature.com/#article) [![Image 1: Nature Awards logo, link to the awards index page on nature.com](https://conferences.nature.com/assets/logo.svg)![Image 2: Nature Awards logo, link to the awards index page on nature.com](https://conferences.nature.com/assets/logo.svg)](https://www.nature.com/nature/awards) [![Image 3](https://conferences.nature.com/)![Image 4](https://conferences.nature.com/)](https://conferences.nature.com/)![Image 5](https://conferences.nature.com/)![Image 6](https://conferences.nature.com/) Search stories on this website [![Image 7](https://conferences.nature.com/)](https://conferences.nature.com/) **Sensing Technologies: Biosensors**- [Registration is now open](https://www.sensor-systems.conferences.nature.com/). # Meet. Learn. Share [Vie",
+      "keywords": [
+        "nature",
+        "https",
+        "com",
+        "conferences",
+        "image",
+        "awards",
+        "live",
+        "lobby",
+        "natureconferences",
+        "streamgo",
+        "logo",
+        "november",
+        "2026",
+        "date"
+      ],
+      "hash": "6604a7e29309f7a55bd9542bab65235f5dd0e76fd233f820f9a438d54cfbbba8",
+      "learned_at": "2026-11-04T01:28:40+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/12/access-template-final.pdf?emrc=28c386",
+      "title": "access-template-final.pdf",
+      "summary": "Title: access-template-final.pdf URL Source: https://www.nasa.gov/wp-content/uploads/2025/12/access-template-final.pdf?emrc=28c386 Published Time: Thu, 18 Dec 2025 19:09:26 GMT Number of Pages: 2 Markdown Content: Cybersecurity and Privacy Division (CSPD) of NASA’s Office of the Chief ## Information Officer (CIO) ## Request for Individual Access to Records Protected under the Privacy Act If you are seeking access to your records, please provide the information below. If you are acting in a representative capacity and are seeking access to another individual’s records, you must have the represented individual complete a Consent for Disclosure of Records Protected under the Privacy Act form located at ( Consent for Disclosure of Records Protected under the Privacy Act ). ## Legal Name First Name: Middle Name: Last Name: Suffix (if any): > I can confirm that I have already submitted a Priva",
+      "keywords": [
+        "under",
+        "act",
+        "privacy",
+        "records",
+        "information",
+        "request",
+        "access",
+        "any",
+        "name",
+        "nasa",
+        "statement",
+        "address",
+        "electronic",
+        "foia"
+      ],
+      "hash": "dea674db3d9df9f5eb08b79983a5a4c398212f5325c0cca5fbbb90748bbbc3e1",
+      "learned_at": "2026-11-04T01:28:41+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/12/consent-for-disclosure-template-final.pdf?emrc=d170b4",
+      "title": "consent-for-disclosure-template-final.pdf",
+      "summary": "Title: consent-for-disclosure-template-final.pdf URL Source: https://www.nasa.gov/wp-content/uploads/2025/12/consent-for-disclosure-template-final.pdf?emrc=d170b4 Published Time: Thu, 18 Dec 2025 19:09:35 GMT Number of Pages: 2 Markdown Content: Cybersecurity and Privacy Division (CSPD) of NASA’s Office of the Chief ## Information Officer (CIO) ## Consent for Disclosure of Records Protected under the Privacy Act If you are providing consent and authorizing the agency to disclose your records to another person or entity, please provide the information below. ## 1. Legal Name First Name: Middle Name: Last Name: Suffix (if any): > I can confirm that I have already submitted a Privacy Act request to NASA Public Access Link-Register )and received an acknowledgement email or letter from NASA containing my assigned Request Number * (Note: Request numbers must be entered exactly as provided. Exa",
+      "keywords": [
+        "information",
+        "records",
+        "under",
+        "act",
+        "nasa",
+        "name",
+        "privacy",
+        "address",
+        "any",
+        "statement",
+        "foia",
+        "person",
+        "recipient",
+        "request"
+      ],
+      "hash": "f7bf5bb157a826e52ba600a380a995f33ab9cd7e008ba3411d624f89bc7d6ea7",
+      "learned_at": "2026-11-04T01:28:42+00:00"
+    },
+    {
+      "url": "https://info.arxiv.org/about/governance/operational_guidelines.html",
+      "title": "Operational Guidelines - arXiv info",
+      "summary": "Title: Operational Guidelines - arXiv info URL Source: https://info.arxiv.org/about/governance/operational_guidelines.html Markdown Content: [](https://github.com/arXiv/arxiv-docs/blob/develop/source/about/governance/operational_guidelines.md \"Edit this page\") _effective July 1, 2026_ ## 0. arXiv Organizational Structure - Definitions The **Board of Directors** is the governing body of arXiv with final authority and responsibility. The business and affairs of arXiv will be managed by, or under the direction of, the Board of Directors. **arXiv Chief Executive Officer** The arXiv Chief Executive Officer is appointed by and reports to the Board of Directors, who may consult broadly with arXiv stakeholders (e.g., advisory council members) on matters related to the Chief Executive Officer's appointment, reappointment, and performance. The Chief Executive Officer has general supervision over a",
+      "keywords": [
+        "arxiv",
+        "executive",
+        "advisory",
+        "chief",
+        "officer",
+        "board",
+        "committee",
+        "councils",
+        "council",
+        "directors",
+        "within",
+        "aab",
+        "between",
+        "body"
+      ],
+      "hash": "ff7ce92e5cdd94dc352df6d5f2d15a76658e0995e4e9338a79fe59158aae75ce",
+      "learned_at": "2026-11-04T01:28:44+00:00"
+    },
+    {
+      "url": "https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg",
+      "title": "arxiv-logo.svg",
+      "summary": "Title: arxiv-logo.svg URL Source: https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg Published Time: Wed, 21 Oct 2026 18:22:20 GMT Markdown Content: arXiv logo consists of the letters ar in gray and the letters iv in a darker shade of gray, with a red X intersecting the i and v",
+      "keywords": [
+        "arxiv",
+        "arxiv-logo",
+        "gray",
+        "letters",
+        "static",
+        "svg",
+        "2026",
+        "consists",
+        "content",
+        "darker",
+        "design-system",
+        "gmt",
+        "https",
+        "intersecting"
+      ],
+      "hash": "32789b00e999f95b818e7d2df4b9559c592d4f29b1c045014d034c086f1d6659",
+      "learned_at": "2026-11-04T01:28:48+00:00"
+    },
+    {
+      "url": "http://svs.gsfc.nasa.gov/5633/",
+      "title": "Simulating the Artemis II Lunar Flyby on April 6, 2026",
+      "summary": "Title: Simulating the Artemis II Lunar Flyby on April 6, 2026 URL Source: http://svs.gsfc.nasa.gov/5633/ Published Time: 2026-04-06T10:30:00-04:00 Markdown Content: * **Released** Monday, April 6, 2026 * ID: 5633 * [](http://svs.gsfc.nasa.gov/api/5633 \"View this page in our API\") * [](https://twitter.com/intent/tweet \"Share this page on Twitter\") * [](https://www.facebook.com/share.php?u=http%3A//svs.gsfc.nasa.gov/5633/%3F \"Share this page on Facebook\") * * * This visualization simulates what the crew of Artemis II will see out the window on the day of their closest approach to the Moon on April 6, 2026. It flies the virtual camera on the actual post-TLI trajectory around the Moon's far side over nearly eight hours beginning at 18:00 UTC, covering the entire period of the crew's scheduled science observations that start 45 minutes later. This simulated view was used by the Artemis II Lun",
+      "keywords": [
+        "nasa",
+        "gov",
+        "gsfc",
+        "http",
+        "moon",
+        "svs",
+        "miles",
+        "5633",
+        "april",
+        "artemis",
+        "crew",
+        "kilometers",
+        "spacecraft",
+        "2026"
+      ],
+      "hash": "4a4fa8383aed21c42c44471c6e9e26ddeda921bf6e09d18a2f79195cb414b7a4",
+      "learned_at": "2026-11-04T01:28:50+00:00"
+    },
+    {
+      "url": "https://info.arxiv.org/about/people/arxiv_advisory_board.html",
+      "title": "arXiv Advisory Board - arXiv info",
+      "summary": "Title: arXiv Advisory Board - arXiv info URL Source: https://info.arxiv.org/about/people/arxiv_advisory_board.html Markdown Content: - [x] - [x] [Skip to content](https://info.arxiv.org/about/people/arxiv_advisory_board.html#arxiv-advisory-board) [](https://arxiv.org/IgnoreMe)[![Image 1: archive](https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg)](https://arxiv.org/)[![Image 2: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info arXiv Advisory Board Initializing search [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") [![Image 3: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") * [Home](https://info.arxiv.org/index.html) * - [x] [About](https://info.arxiv.org/abo",
+      "keywords": [
+        "arxiv",
+        "https",
+        "org",
+        "info",
+        "html",
+        "advisory",
+        "people",
+        "board",
+        "help",
+        "index",
+        "arxiv_advisory_board",
+        "governance",
+        "submit",
+        "github"
+      ],
+      "hash": "39dd97b62dce9f09da836c68eb4f217f57b9161012c8592471e3bf1641121dae",
+      "learned_at": "2026-11-04T01:28:52+00:00"
     }
   ],
   "failures": [
@@ -23929,6 +24000,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-04T01:28:52+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-04T01:28:52+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 13,
+      "frontier": 2206
+    },
     {
       "at": "2026-11-03T21:16:32+00:00",
       "kind": "core_unchanged",
@@ -24839,40 +24925,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 17,
       "frontier": 1645
-    },
-    {
-      "at": "2026-10-24T19:27:06+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v41",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-24T19:27:06+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 18,
-      "frontier": 1630
     }
   ],
   "metrics": {
-    "successful_fetches": 1295,
+    "successful_fetches": 1303,
     "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 56,
-    "candidate_rejections": 151
+    "candidate_rejections": 152
   },
   "core_genome": {
     "query_weight": 3.0,
