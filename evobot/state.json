@@ -1,13 +1,12 @@
 {
   "schema": 2,
-  "generation": 214,
+  "generation": 215,
   "core_version": 59,
-  "runs": 213,
-  "pages_learned": 1328,
-  "last_run": "2026-11-05T01:59:19+00:00",
+  "runs": 214,
+  "pages_learned": 1335,
+  "last_run": "2026-11-05T09:21:36+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.bcg.com/x/bcg-x-ai-science-institute",
     "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Caltech_SFP.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26071.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -173,11 +172,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E7_FLYING_W_INGENUITY-01.33d00db3.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/OnAMission_thumb.2e16d0ba.fill-400x400-c50.jpg",
     "https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge",
-    "https://curl.haxx.se/download.html",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
     "http://www.naturechina.com/",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
+    "https://curl.haxx.se/download.html",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
@@ -250,6 +249,7 @@
     "https://about.downthemall.org/4.0/",
     "https://en.wikipedia.org/wiki/Right_ascension",
     "https://en.wikipedia.org/wiki/Declination",
+    "https://www.sfi.org.bm/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
@@ -283,30 +283,6 @@
     "http://www.nineplanets.org/luna.html",
     "http://www.agu.org/reference/gephys.html",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://info.arxiv.org/people/editorial_advisory_council.html",
-    "https://info.arxiv.org/people/institutions_advisory_council.html",
-    "https://info.arxiv.org/people/science_advisory_council.html",
-    "https://info.arxiv.org/ourmembers.html",
-    "https://info.arxiv.org/help/submit/index.html",
-    "https://info.arxiv.org/help/moderation/index.html",
-    "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-    "https://www.sfi.org.bm/",
-    "https://info.arxiv.org/about/people/staff.html",
-    "https://info.arxiv.org/about/ourmembers.html",
-    "https://info.arxiv.org/about/index.html",
-    "https://info.arxiv.org/about/people/index.html",
-    "https://blog.arxiv.org/wp-content/uploads/2026/08/bg-solid-warm-wash-og.png",
-    "https://blog.arxiv.org/2026/10/21/scheduled-database-maintenance/",
-    "https://blog.arxiv.org/wp-content/uploads/2026/08/bg-solid-open-blue-og.png",
-    "https://blog.arxiv.org/2026/10/17/modernizing-arxiv-technology-updates-on-the-arxiv-ce-project/",
-    "https://blog.arxiv.org/wp-content/uploads/2026/08/abstract-illust-paper-airplane.png",
-    "https://blog.arxiv.org/2026/10/08/announcement_schedule_holiday_change/",
-    "https://blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png",
-    "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-    "https://www.nasa.gov/wp-content/uploads/2023/02/schlieren_knife_edge_thumbnail.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045orig.jpg?w=1024",
-    "https://www.nasa.gov/careers/pathways",
     "https://www.nasa.gov/social-media/",
     "https://support.nature.com/en/support/solutions/6000138332",
     "https://support.nature.com/en/support/solutions/6000138293",
@@ -2259,7 +2235,42 @@
     "https://info.arxiv.org/help/versions.html",
     "https://info.arxiv.org/help/faq/whytex.html",
     "https://info.arxiv.org/help/withdraw.html",
-    "http://svs.gsfc.nasa.gov/search"
+    "http://svs.gsfc.nasa.gov/search",
+    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045orig.jpg?w=1024",
+    "https://info.arxiv.org/help/find/index.html",
+    "https://info.arxiv.org/help/find.html",
+    "https://info.arxiv.org/help/view.html",
+    "https://info.arxiv.org/help/subscribe.html",
+    "https://info.arxiv.org/help/arxiv_identifier.html",
+    "https://info.arxiv.org/help/config_browser.html",
+    "https://info.arxiv.org/help/rss.html",
+    "https://info.arxiv.org/help/license/reuse.html",
+    "https://blog.arxiv.org/wp-content/uploads/2026/08/bg-solid-open-blue-og.png",
+    "https://blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png",
+    "https://www.nasa.gov/careers/pathways",
+    "https://info.arxiv.org/help/mathjax.html",
+    "https://info.arxiv.org/help/accounts/index.html",
+    "https://info.arxiv.org/help/registerhelp.html",
+    "https://info.arxiv.org/help/author_identifiers.html",
+    "https://info.arxiv.org/help/orcid.html",
+    "https://info.arxiv.org/help/authority.html",
+    "https://info.arxiv.org/help/not-registered.html",
+    "https://info.arxiv.org/help/bulk_data/index.html",
+    "https://info.arxiv.org/people/science_advisory_council.html",
+    "https://info.arxiv.org/ourmembers.html",
+    "https://info.arxiv.org/help/submit/index.html",
+    "https://info.arxiv.org/help/moderation/index.html",
+    "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "https://info.arxiv.org/about/people/staff.html",
+    "https://info.arxiv.org/about/ourmembers.html",
+    "https://info.arxiv.org/about/index.html",
+    "https://info.arxiv.org/about/people/index.html",
+    "https://blog.arxiv.org/2026/10/21/scheduled-database-maintenance/",
+    "https://blog.arxiv.org/2026/10/17/modernizing-arxiv-technology-updates-on-the-arxiv-ce-project/",
+    "https://blog.arxiv.org/2026/10/08/announcement_schedule_holiday_change/",
+    "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "http://www.bcg.com/x/bcg-x-ai-science-institute",
+    "https://errors.edgesuite.net/18.e618d017.1793870513.5076cf0"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -10358,170 +10369,44 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/puffer-offset-websafe.3880eed4.fill-400x400-c50.jpg": {
       "at": "2026-11-05T02:01:45+00:00",
       "status": "robots_disallow"
+    },
+    "https://blog.arxiv.org/wp-content/uploads/2026/08/abstract-illust-paper-airplane.png": {
+      "at": "2026-11-05T09:21:37+00:00",
+      "status": "ok",
+      "hash": "59cd7caa6a48e8241e7e651cf0045887a9fd6f6a43178deb7ad8126b2216ca83"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/02/schlieren_knife_edge_thumbnail.jpg?w=1024": {
+      "at": "2026-11-05T09:21:41+00:00",
+      "status": "ok",
+      "hash": "e7b3061ac2eb2a35f26e128e1a60284482b9850e9392be26194c5d5174259197"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045.jpg?w=1024": {
+      "at": "2026-11-05T09:21:46+00:00",
+      "status": "ok",
+      "hash": "eb6d561e2f7c26585cf3de5956e08e609e051372b091aead6bc1b45ff9492172"
+    },
+    "https://info.arxiv.org/people/editorial_advisory_council.html": {
+      "at": "2026-11-05T09:21:49+00:00",
+      "status": "ok",
+      "hash": "d6dd4a623d118f73059f88156bd7c8974b281c477a1de24277d45546bf97b098"
+    },
+    "https://blog.arxiv.org/wp-content/uploads/2026/08/bg-solid-warm-wash-og.png": {
+      "at": "2026-11-05T09:21:51+00:00",
+      "status": "ok",
+      "hash": "97d80fefbbb2525189de333fc1f575bca7dc9bb32ef8a58e110577765a195f2c"
+    },
+    "https://info.arxiv.org/people/institutions_advisory_council.html": {
+      "at": "2026-11-05T09:21:52+00:00",
+      "status": "ok",
+      "hash": "574996e8752dc2004ad72b074b8f436ca4fda288376ba9dd70cc52d47ad9cce9"
+    },
+    "https://www.bcg.com/x/bcg-x-ai-science-institute": {
+      "at": "2026-11-05T09:21:54+00:00",
+      "status": "ok",
+      "hash": "923fa6775e5afc420df85b66073318451df8a2b756ea443cdd0e1c8018242860"
     }
   },
   "memory": [
-    {
-      "url": "https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/",
-      "title": "67P/Churyumov-Gerasimenko - NASA Science",
-      "summary": "Title: 67P/Churyumov-Gerasimenko - NASA Science URL Source: https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/ Published Time: 2017-12-09T17:46:46-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "e6e0ecf4c7ddd886d1278f936a9f918c65ad34eca3f5538f12b61088def97c8f",
-      "learned_at": "2026-10-18T23:40:40+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/image-of-the-day/page/2/",
-      "title": "Image of the Day - NASA",
-      "summary": "Title: Image of the Day - NASA URL Source: https://www.nasa.gov/image-of-the-day/page/2/ Published Time: 2023-09-07T13:29:24-04:00 Markdown Content: [About 12 billion years ago, a dwarf galaxy known as LKH collided with a young Milky Way and merged with... ![Image 1: An illustration of two galaxies in the midst of a collision against a dark, star-filled background. The collision takes up the middle third of the illustration. On the right, a larger galaxy is viewed at an angle from 11 o’clock to 4 o’clock, with a white-yellow core surrounded by mottled brown dust lanes and faint bluish spiral arms. To the left, a smaller, bright blue-white galaxy is stretched into a curved, hook-like shape as gravity distorts it. A broad, glowing bridge of pale blue gas and stars extends off the galaxy at the left, while wispy streams extend above and below the larger galaxy at the right. The words “Artis",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "image",
-        "www",
-        "galaxy",
-        "stars",
-        "2026",
-        "gas",
-        "image-article",
-        "left",
-        "new",
-        "shows",
-        "uploads"
-      ],
-      "hash": "5513ba1f91d4fc08cf9cbf4169b097788a10ebad2023fc1ff3f7c8b409a803a2",
-      "learned_at": "2026-10-18T23:40:49+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/2017-solar-eclipse-news-and-articles/",
-      "title": "2017 Solar Eclipse News and Articles - NASA",
-      "summary": "Title: 2017 Solar Eclipse News and Articles - NASA URL Source: https://www.nasa.gov/2017-solar-eclipse-news-and-articles/ Published Time: 2023-09-07T13:27:10Z Markdown Content: [![Image 19: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 20: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-medi",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "apps"
-      ],
-      "hash": "2240f5034c275e372a2c17d7b46b054cf136f34240f390bc4423877cd9497311",
-      "learned_at": "2026-10-18T23:40:52+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/",
-      "title": "2024 Total Eclipse - NASA Science",
-      "summary": "Title: 2024 Total Eclipse - NASA Science URL Source: https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ Published Time: 2022-10-17T19:07:29-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/n",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "1dd76338eb58e16b314ba32801c3ac15afdb98b9e52bf04dd4fe665ee838b7cc",
-      "learned_at": "2026-10-18T23:40:56+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/ace",
-      "title": "ACE - NASA Science",
-      "summary": "Title: ACE - NASA Science URL Source: https://science.nasa.gov/mission/ace Published Time: 2017-11-30T19:48:28-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ###",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "ace"
-      ],
-      "hash": "e5bfbe88426635869eb498a18392d204eed61167ccd0b7770cc7996706522308",
-      "learned_at": "2026-10-18T23:41:01+00:00"
-    },
-    {
-      "url": "https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg",
-      "title": "nasa-meatball.svg",
-      "summary": "Title: nasa-meatball.svg URL Source: https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg Published Time: Fri, 09 Jun 2023 17:34:25 GMT Markdown Content: A 2D version of the NASA logo with a striped elliptical motion",
-      "keywords": [
-        "nasa",
-        "nasa-meatball",
-        "svg",
-        "svs",
-        "2023",
-        "content",
-        "elliptical",
-        "fri",
-        "gmt",
-        "gov",
-        "gsfc",
-        "https",
-        "images",
-        "jun"
-      ],
-      "hash": "1812c892a3e3abbb1cfac432c6285e95b07409e5888766c0eb3cae2004ecf48b",
-      "learned_at": "2026-10-19T01:45:42+00:00"
-    },
-    {
-      "url": "https://svs.gsfc.nasa.gov/static/svs/images/USAgov_logo.svg",
-      "title": "USAgov_logo.svg",
-      "summary": "Title: USAgov_logo.svg URL Source: https://svs.gsfc.nasa.gov/static/svs/images/USAgov_logo.svg Published Time: Thu, 12 Oct 2023 14:18:23 GMT Markdown Content: Logo for usago",
-      "keywords": [
-        "svg",
-        "svs",
-        "usagov_logo",
-        "2023",
-        "content",
-        "gmt",
-        "gov",
-        "gsfc",
-        "https",
-        "images",
-        "logo",
-        "markdown",
-        "nasa",
-        "oct"
-      ],
-      "hash": "3ccbee1e7bd5b600c15e99cbeba7c868515e9c67730fbf09ba367bf9607774ce",
-      "learned_at": "2026-10-19T01:45:44+00:00"
-    },
     {
       "url": "https://www.nasa.gov/humans-in-space/why-go-to-space/",
       "title": "Why Go to Space - NASA",
@@ -24160,6 +24045,167 @@
       ],
       "hash": "d15bfc9efe1e7a7bbd289b9c9cf8a54a9df223e4d45955c3e086bf2aef5949c8",
       "learned_at": "2026-11-05T02:01:45+00:00"
+    },
+    {
+      "url": "https://blog.arxiv.org/wp-content/uploads/2026/08/abstract-illust-paper-airplane.png",
+      "title": "abstract-illust-paper-airplane.png",
+      "summary": "Title: abstract-illust-paper-airplane.png URL Source: https://blog.arxiv.org/wp-content/uploads/2026/08/abstract-illust-paper-airplane.png Published Time: Wed, 26 Aug 2026 14:11:00 GMT Markdown Content: A drawing of a blue and white paper airplane",
+      "keywords": [
+        "2026",
+        "abstract-illust-paper-airplane",
+        "png",
+        "airplane",
+        "arxiv",
+        "aug",
+        "blog",
+        "blue",
+        "content",
+        "drawing",
+        "gmt",
+        "https",
+        "markdown",
+        "org"
+      ],
+      "hash": "59cd7caa6a48e8241e7e651cf0045887a9fd6f6a43178deb7ad8126b2216ca83",
+      "learned_at": "2026-11-05T09:21:37+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/02/schlieren_knife_edge_thumbnail.jpg?w=1024",
+      "title": "schlieren_knife_edge_thumbnail.jpg",
+      "summary": "Title: schlieren_knife_edge_thumbnail.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/02/schlieren_knife_edge_thumbnail.jpg?w=1024 Published Time: Thu, 05 Nov 2026 09:21:40 GMT Markdown Content: a jet thundering along the sky with the words eaf written on the back",
+      "keywords": [
+        "jpg",
+        "schlieren_knife_edge_thumbnail",
+        "1024",
+        "2023",
+        "2026",
+        "along",
+        "back",
+        "content",
+        "eaf",
+        "gmt",
+        "gov",
+        "https",
+        "jet",
+        "markdown"
+      ],
+      "hash": "e7b3061ac2eb2a35f26e128e1a60284482b9850e9392be26194c5d5174259197",
+      "learned_at": "2026-11-05T09:21:41+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045.jpg?w=1024",
+      "title": "afrc2025-0168-045.jpg",
+      "summary": "Title: afrc2025-0168-045.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0168-045.jpg?w=1024 Published Time: Thu, 05 Nov 2026 09:21:44 GMT Markdown Content: A plane with a Nasa logo is flying through the sky with what looks like a desert landscape below",
+      "keywords": [
+        "afrc2025-0168-045",
+        "jpg",
+        "nasa",
+        "1024",
+        "2025",
+        "2026",
+        "below",
+        "content",
+        "desert",
+        "flying",
+        "gmt",
+        "gov",
+        "https",
+        "landscape"
+      ],
+      "hash": "eb6d561e2f7c26585cf3de5956e08e609e051372b091aead6bc1b45ff9492172",
+      "learned_at": "2026-11-05T09:21:46+00:00"
+    },
+    {
+      "url": "https://info.arxiv.org/people/editorial_advisory_council.html",
+      "title": "arXiv info",
+      "summary": "Title: arXiv info URL Source: https://info.arxiv.org/people/editorial_advisory_council.html Warning: Target URL returned error 404: Not Found Markdown Content: - [x] - [x] [](https://arxiv.org/IgnoreMe)[![Image 1: archive](https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg)](https://arxiv.org/)[![Image 2: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info Initializing search [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") [![Image 3: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") * [Home](https://info.arxiv.org/index.html) * - [x] [About](https://info.arxiv.org/about/index.html) About * [Who we are](https://info.arxiv.org/about/people/index.html) * - [x] [Gov",
+      "keywords": [
+        "arxiv",
+        "https",
+        "org",
+        "info",
+        "html",
+        "help",
+        "index",
+        "people",
+        "governance",
+        "submit",
+        "advisory",
+        "github",
+        "council",
+        "image"
+      ],
+      "hash": "d6dd4a623d118f73059f88156bd7c8974b281c477a1de24277d45546bf97b098",
+      "learned_at": "2026-11-05T09:21:49+00:00"
+    },
+    {
+      "url": "https://blog.arxiv.org/wp-content/uploads/2026/08/bg-solid-warm-wash-og.png",
+      "title": "bg-solid-warm-wash-og.png",
+      "summary": "Title: bg-solid-warm-wash-og.png URL Source: https://blog.arxiv.org/wp-content/uploads/2026/08/bg-solid-warm-wash-og.png Published Time: Wed, 26 Aug 2026 14:00:13 GMT Markdown Content: a logo for a secondary education celebration event is pure white",
+      "keywords": [
+        "2026",
+        "bg-solid-warm-wash-og",
+        "png",
+        "arxiv",
+        "aug",
+        "blog",
+        "celebration",
+        "content",
+        "education",
+        "event",
+        "gmt",
+        "https",
+        "logo",
+        "markdown"
+      ],
+      "hash": "97d80fefbbb2525189de333fc1f575bca7dc9bb32ef8a58e110577765a195f2c",
+      "learned_at": "2026-11-05T09:21:51+00:00"
+    },
+    {
+      "url": "https://info.arxiv.org/people/institutions_advisory_council.html",
+      "title": "arXiv info",
+      "summary": "Title: arXiv info URL Source: https://info.arxiv.org/people/institutions_advisory_council.html Warning: Target URL returned error 404: Not Found Markdown Content: - [x] - [x] [](https://arxiv.org/IgnoreMe)[![Image 1: archive](https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg)](https://arxiv.org/)[![Image 2: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info Initializing search [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") [![Image 3: logo](https://info.arxiv.org/assets/arxiv-logo-one-color-white.svg)](https://arxiv.org/ \"arXiv info\") arXiv info [GitHub](https://github.com/arXiv/arxiv-docs \"Go to repository\") * [Home](https://info.arxiv.org/index.html) * - [x] [About](https://info.arxiv.org/about/index.html) About * [Who we are](https://info.arxiv.org/about/people/index.html) * - [x] [",
+      "keywords": [
+        "arxiv",
+        "https",
+        "info",
+        "org",
+        "html",
+        "help",
+        "index",
+        "people",
+        "governance",
+        "submit",
+        "advisory",
+        "github",
+        "council",
+        "image"
+      ],
+      "hash": "574996e8752dc2004ad72b074b8f436ca4fda288376ba9dd70cc52d47ad9cce9",
+      "learned_at": "2026-11-05T09:21:52+00:00"
+    },
+    {
+      "url": "https://www.bcg.com/x/bcg-x-ai-science-institute",
+      "title": "Access Denied",
+      "summary": "Title: Access Denied URL Source: https://www.bcg.com/x/bcg-x-ai-science-institute Warning: Target URL returned error 403: Forbidden Markdown Content: You don't have permission to access \"http://www.bcg.com/x/bcg-x-ai-science-institute\" on this server. Reference #18.e618d017.1793870513.5076cf0 https://errors.edgesuite.net/18.e618d017.1793870513.5076cf0",
+      "keywords": [
+        "1793870513",
+        "5076cf0",
+        "access",
+        "bcg",
+        "bcg-x-ai-science-institute",
+        "com",
+        "e618d017",
+        "https",
+        "url",
+        "www",
+        "403",
+        "content",
+        "denied",
+        "don"
+      ],
+      "hash": "923fa6775e5afc420df85b66073318451df8a2b756ea443cdd0e1c8018242860",
+      "learned_at": "2026-11-05T09:21:54+00:00"
     }
   ],
   "failures": [
@@ -24280,6 +24326,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-05T09:21:54+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-05T09:21:54+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2264
+    },
     {
       "at": "2026-11-05T02:01:46+00:00",
       "kind": "core_promoted",
@@ -25201,29 +25262,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 1787
-    },
-    {
-      "at": "2026-10-25T12:32:01+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-25T12:32:01+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 1740
     }
   ],
   "metrics": {
-    "successful_fetches": 1328,
+    "successful_fetches": 1335,
     "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 58,
-    "candidate_rejections": 154
+    "candidate_rejections": 155
   },
   "core_genome": {
     "query_weight": 3.0,
