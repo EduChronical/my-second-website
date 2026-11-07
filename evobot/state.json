@@ -1,25 +1,12 @@
 {
   "schema": 2,
-  "generation": 224,
+  "generation": 225,
   "core_version": 62,
-  "runs": 223,
-  "pages_learned": 1400,
-  "last_run": "2026-11-07T15:17:37+00:00",
+  "runs": 224,
+  "pages_learned": 1408,
+  "last_run": "2026-11-07T19:29:37+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://i.ytimg.com/vi/tWQxZswXWEM/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNcG5T4GJHq3_Gb_2BZAKsfH0TGA",
-    "https://i.ytimg.com/vi/TklEG_49Scs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXtxwhWch3FKCMbnm7h_I6z0Q65Q",
-    "https://thejplstore.com/cdn/shop/files/Image_1_180x.jpg?v=1772831935+180w",
-    "https://thejplstore.com/cdn/shop/files/086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg?v=1775755512+180w",
-    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt&media=%2F%2Fthejplstore.com%2Fcdn%2Fshop%2Ffiles%2FAretemisTee_1024x1024.jpg%3Fv%3D1775248687&description=Artemis+Unisex+Adult+Tshirt",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627626/data/v8",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627630/data/v6",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627628/data/v8",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627632/data/v6",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627634/data/v12",
-    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
-    "https://yt3.googleusercontent.com/QRrfh33xYMCR_LogC8CES4BsaGwPziG72eNzsaHxWodO9p4ExGZMN0-OyEyT__e3Rhenkwo0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
-    "https://yt3.googleusercontent.com/yCnNULtebBBkFFh69rpeRoAqcRjz7Ej0kdKDqceFia3nufbwwbhUdZjkClWZe5AIwVSShEZpGCE=s160-c-k-c0x00ffffff-no-rj",
     "https://youtube.com/live/sZ71zKj0MvA",
     "https://youtube.com/live/fVtiOhf17tg",
     "https://thejplstore.com/collections/space-humor-series",
@@ -31,10 +18,12 @@
     "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
     "https://twitter.com/share?text=Artemis+Unisex+Adult+Tshirt&url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
     "https://www.natureasia.com/ja-jp",
-    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us",
-    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us](https://support.springer.com/en/support/solutions/articles/6000206179-contact-us)",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
+    "https://youtube.com/live/r0lUcm-h9UE",
+    "https://nasa-external-ocomm.box.com/s/gqxrs7trs7uyfmt9ging7s8dsuy7demv",
+    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us",
+    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us](https://support.springer.com/en/support/solutions/articles/6000206179-contact-us)",
     "https://www.conicet.gov.ar/?lan=en",
     "https://www.state.gov/state-sponsors-of-terrorism/",
     "https://www.dhs.gov/topic/privacy",
@@ -151,7 +140,6 @@
     "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
     "https://tools.google.com/dlpage/gaoptout?hl=en",
     "https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge",
-    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://publicationethics.org/",
     "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
     "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
@@ -165,11 +153,14 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
-    "http://polac.obspm.fr/llrdatae.html",
-    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
-    "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/ceres.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/ceres.jpg",
+    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "http://www.naturechina.com/",
+    "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
     "https://www.caltech.edu/",
@@ -257,7 +248,9 @@
     "https://webbtelescope.org/glossary.html",
     "https://doi.org/10.3847/1538-3881/abd414",
     "https://doi.org/10.3847/1538-3881/abd414",
-    "http://www.naturechina.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sulfur_Crystals_Wi.width-1024.png",
+    "https://sdgs.un.org/goals",
+    "http://polac.obspm.fr/llrdatae.html",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.ftc.gov/ogc/coppa1.htm",
@@ -291,22 +284,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627636/data/v7",
-    "https://www.jpl.nasa.gov/images/pia26309-curiosity-views-sulfur-crystals-within-a-crushed-rock/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sulfur_Crystals_Wi.width-1024.png",
-    "https://youtube.com/live/r0lUcm-h9UE",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/ceres.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/ceres.jpg",
-    "https://nasa-external-ocomm.box.com/s/gqxrs7trs7uyfmt9ging7s8dsuy7demv",
-    "https://www.jpl.nasa.gov/images/europa-jpl-travel-poster",
-    "https://www.jpl.nasa.gov/jpl-image-use-policy",
-    "https://www.jpl.nasa.gov/thestudio",
-    "https://press.nature.com/terms-and-conditions/15705880",
-    "https://press.nature.com/privacy-cookies/15589134",
-    "https://sdgs.un.org/goals",
-    "https://press.nature.com/free-journals-access/15634856",
-    "https://press.nature.com/contact-us/15634858",
-    "https://press.nature.com/faqs/15634820",
     "https://press.nature.com/registered-media-faqs/15634824",
     "https://press.nature.com/authors/15634694",
     "https://press.nature.com/press-officers/16760472",
@@ -2503,7 +2480,14 @@
     "https://www.nature.com/documents/Press_release_archive_2008.zip",
     "https://www.nature.com/documents/Press_release_archive_2009.zip",
     "https://www.nature.com/documents/Press_release_archive_2010.zip",
-    "https://www.nature.com/documents/Press_release_archive_2011.zip"
+    "https://www.nature.com/documents/Press_release_archive_2011.zip",
+    "https://science.nasa.gov/mission/msl-curiosity",
+    "https://science.nasa.gov/mission/msl-curiosity](https://science.nasa.gov/mission/msl-curiosity).",
+    "https://www.jpl.nasa.gov/images/europa-jpl-travel-poster/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/europa.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/europa.jpg",
+    "https://www.jpl.nasa.gov/jpl-image-use-policy",
+    "https://www.jpl.nasa.gov/thestudio"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11038,193 +11022,101 @@
       "at": "2026-11-07T15:18:14+00:00",
       "status": "ok",
       "hash": "b36826c29eb2f9ced395d6eba8c317acd0be772de17ca53bf809d37b81321363"
+    },
+    "https://www.jpl.nasa.gov/images/pia26309-curiosity-views-sulfur-crystals-within-a-crushed-rock/": {
+      "at": "2026-11-07T19:29:41+00:00",
+      "status": "ok",
+      "hash": "223913a65f0747c5991047e71f76094bea0b44a917a3d0867192e5addae1f8c8"
+    },
+    "https://www.jpl.nasa.gov/images/europa-jpl-travel-poster": {
+      "at": "2026-11-07T19:29:44+00:00",
+      "status": "ok",
+      "hash": "7e68f9d94a0296caa7817f23e2cfb4f0dd5e83dc39edd9b11b07e734800fdd52"
+    },
+    "https://press.nature.com/free-journals-access/15634856": {
+      "at": "2026-11-07T19:29:44+00:00",
+      "status": "robots_disallow"
+    },
+    "https://press.nature.com/terms-and-conditions/15705880": {
+      "at": "2026-11-07T19:29:44+00:00",
+      "status": "robots_disallow"
+    },
+    "https://press.nature.com/privacy-cookies/15589134": {
+      "at": "2026-11-07T19:29:44+00:00",
+      "status": "robots_disallow"
+    },
+    "https://press.nature.com/contact-us/15634858": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://press.nature.com/faqs/15634820": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627626/data/v8": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627630/data/v6": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627628/data/v8": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627632/data/v6": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627634/data/v12": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27627636/data/v7": {
+      "at": "2026-11-07T19:29:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://i.ytimg.com/vi/tWQxZswXWEM/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNcG5T4GJHq3_Gb_2BZAKsfH0TGA": {
+      "at": "2026-11-07T19:29:47+00:00",
+      "status": "ok",
+      "hash": "4f8bee52647c0de1ee7b024157c70c3a32a962c880b70f0061a35da7bb8f4bac"
+    },
+    "https://i.ytimg.com/vi/TklEG_49Scs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXtxwhWch3FKCMbnm7h_I6z0Q65Q": {
+      "at": "2026-11-07T19:29:49+00:00",
+      "status": "ok",
+      "hash": "c576f1e2c9b968fb528696568bec8f3f8d778488ef39de0d189461d6b98b5274"
+    },
+    "https://thejplstore.com/cdn/shop/files/Image_1_180x.jpg?v=1772831935+180w": {
+      "at": "2026-11-07T19:29:52+00:00",
+      "status": "ok",
+      "hash": "e3a5173651c17f1ce0d5fb4a7d501f725f9a2bd591404ccb5ad096bd6f57798a"
+    },
+    "https://thejplstore.com/cdn/shop/files/086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg?v=1775755512+180w": {
+      "at": "2026-11-07T19:29:54+00:00",
+      "status": "ok",
+      "hash": "f9bede4659dd7d668e3ae2189f87d7d504b14db30ade9ca122b2f2ec3ba51ffa"
+    },
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt&media=%2F%2Fthejplstore.com%2Fcdn%2Fshop%2Ffiles%2FAretemisTee_1024x1024.jpg%3Fv%3D1775248687&description=Artemis+Unisex+Adult+Tshirt": {
+      "at": "2026-11-07T19:29:54+00:00",
+      "status": "robots_disallow"
+    },
+    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf": {
+      "at": "2026-11-07T19:29:55+00:00",
+      "status": "robots_disallow"
+    },
+    "https://yt3.googleusercontent.com/QRrfh33xYMCR_LogC8CES4BsaGwPziG72eNzsaHxWodO9p4ExGZMN0-OyEyT__e3Rhenkwo0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj": {
+      "at": "2026-11-07T19:29:56+00:00",
+      "status": "ok",
+      "hash": "e6dfb98f2cbdf04a55ffb0f6cd171a41024e6d38123bfd30174f73d14067735c"
+    },
+    "https://yt3.googleusercontent.com/yCnNULtebBBkFFh69rpeRoAqcRjz7Ej0kdKDqceFia3nufbwwbhUdZjkClWZe5AIwVSShEZpGCE=s160-c-k-c0x00ffffff-no-rj": {
+      "at": "2026-11-07T19:29:57+00:00",
+      "status": "ok",
+      "hash": "b10006004c10d0fc65fd8590a5aa2e85c0ab0ba41fc7b1f9e518dbaff3cb41c9"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/sb/radar.html",
-      "title": "Small-Body Radar Astrometry",
-      "summary": "Title: Small-Body Radar Astrometry URL Source: https://ssd.jpl.nasa.gov/sb/radar.html Markdown Content: ![Image 1: DSS 14 at Goldstone](https://ssd.jpl.nasa.gov/images/goldstone.jpg) DSS-14 70-m radio telelscope at Goldstone Radar [astrometry](https://ssd.jpl.nasa.gov/glossary/astrometry.html) refers to measurements of an object’s position and and velocity normally made in a portion of the microwave frequency spectrum between 0.4 and 13.9 GHz. A radar “delay” measurement is the elapsed time for a signal to travel from transmitter to receiver after reflecting off the target. “Doppler” is the frequency-change measured between receiver and transmitter after reflecting off the object, and is related to the net up and down-leg relative velocity of the object. Inclusion of radar astrometry adds out-of-plane information orthogonal to optical RA/DEC plane-of-sky astrometry. It has high fractiona",
-      "keywords": [
-        "---",
-        "radar",
-        "jpl",
-        "gov",
-        "https",
-        "nasa",
-        "astrometry",
-        "measurement",
-        "units",
-        "html",
-        "ssd",
-        "data",
-        "object",
-        "column"
-      ],
-      "hash": "fcf8395e7a756a7d713eba876fe3f771263083e2b3e5d04f61064ff8fa8b5502",
-      "learned_at": "2026-10-20T23:58:38+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/diagrams/",
-      "title": "Diagrams and Charts",
-      "summary": "Title: Diagrams and Charts URL Source: https://ssd.jpl.nasa.gov/diagrams/ Published Time: Tue, 06 Oct 2026 15:47:33 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/diagrams/#main_content) ![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 4: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 5: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 7: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/diagrams/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://s",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "diagrams",
-        "planets",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "1d2b8b9e9df13faf6227eb0f3f5905410970a611d3dd3b9ea1a755b4f379ee94",
-      "learned_at": "2026-10-20T23:58:39+00:00"
-    },
-    {
-      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2",
-      "title": "SEBI | Orders",
-      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=2 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
-      "keywords": [
-        "sebi",
-        "https",
-        "gov",
-        "www",
-        "sebiweb",
-        "font",
-        "yes",
-        "dolisting",
-        "home",
-        "homeaction",
-        "sid",
-        "smid",
-        "ssid",
-        "html"
-      ],
-      "hash": "0f1bbb8e46725f92fa01048e0851bb7adda01a4d8d06bfb89d4a5674461d1346",
-      "learned_at": "2026-10-20T23:58:48+00:00"
-    },
-    {
-      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3",
-      "title": "SEBI | Orders",
-      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=3 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
-      "keywords": [
-        "sebi",
-        "https",
-        "gov",
-        "www",
-        "sebiweb",
-        "font",
-        "yes",
-        "dolisting",
-        "home",
-        "homeaction",
-        "sid",
-        "smid",
-        "ssid",
-        "html"
-      ],
-      "hash": "54b9a83931e16b238990ca3e5896e90965eb9be0ebe78607a802a0f578c28fa7",
-      "learned_at": "2026-10-20T23:58:57+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/pioneer-1-able-2/",
-      "title": "Able 2 (Pioneer 1) - NASA Science",
-      "summary": "Title: Able 2 (Pioneer 1) - NASA Science URL Source: https://science.nasa.gov/mission/pioneer-1-able-2/ Published Time: 2017-12-21T23:09:55-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-medi",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "27a1a0de92942894e62bca07a07835d24289598324ad61a19b251647b1022993",
-      "learned_at": "2026-10-20T23:58:59+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/pioneer-p-3-able-4b/",
-      "title": "Able 4B (Pioneer P-3) - NASA Science",
-      "summary": "Title: Able 4B (Pioneer P-3) - NASA Science URL Source: https://science.nasa.gov/mission/pioneer-p-3-able-4b/ Published Time: 2017-11-14T23:22:54-05:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nas",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "8dc24f53a536677b9a5e6b1486d3708873db338605f32638ee05c2073cbb5cc3",
-      "learned_at": "2026-10-20T23:59:02+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/",
-      "title": "AirSTAR: For the Sake of Pilots and Passengers - NASA",
-      "summary": "Title: AirSTAR: For the Sake of Pilots and Passengers - NASA URL Source: https://www.nasa.gov/aeronautics/airstar-for-the-sake-of-pilots-and-passengers/ Published Time: 2013-07-23T16:17:00Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](htt",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "apps"
-      ],
-      "hash": "fc3f937b8a21f1593acd2519859c81c2f243d4ce2c13d5994577a4522525f282",
-      "learned_at": "2026-10-20T23:59:07+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/analog-missions/",
-      "title": "Analog Missions - NASA",
-      "summary": "Title: Analog Missions - NASA URL Source: https://www.nasa.gov/analog-missions/ Published Time: 2023-04-25T13:07:40Z Markdown Content: [![Image 14: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 15: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.g",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics"
-      ],
-      "hash": "8ec2284b445ad7cf1fd2cfed33bfa5f056733f30cac62f02bd705290467805ca",
-      "learned_at": "2026-10-20T23:59:13+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/glossary/albedo.html",
       "title": "Albedo",
@@ -24840,6 +24732,190 @@
       ],
       "hash": "b36826c29eb2f9ced395d6eba8c317acd0be772de17ca53bf809d37b81321363",
       "learned_at": "2026-11-07T15:18:14+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/images/pia26309-curiosity-views-sulfur-crystals-within-a-crushed-rock/",
+      "title": "Curiosity Views Sulfur Crystals Within a Crushed Rock | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Curiosity Views Sulfur Crystals Within a Crushed Rock | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/images/pia26309-curiosity-views-sulfur-crystals-within-a-crushed-rock/ Markdown Content: NASA's Curiosity Mars rover viewed these yellow crystals of elemental sulfur using its Mast Camera, or Mastcam, on June 7, 2024, the 4,208th Martian day, or sol, of the mission. The discovery marks the first time this mineral has ever been found in a pure form on Mars. Nicknamed \"Convict Lake\" after a location in California's Sierra Nevada, this collection of fragments is about 5 inches (13 centimeters) across from left to right. The color has been adjusted to match lighting conditions as the human eye would see them on Earth. These crystals were found after Curiosity happened to drive over and crush the rock several days before, on May 30. The rover later used an i",
+      "keywords": [
+        "sulfur",
+        "curiosity",
+        "nasa",
+        "mission",
+        "elemental",
+        "found",
+        "rock",
+        "science",
+        "crystals",
+        "gov",
+        "https",
+        "jpl",
+        "mars",
+        "rover"
+      ],
+      "hash": "223913a65f0747c5991047e71f76094bea0b44a917a3d0867192e5addae1f8c8",
+      "learned_at": "2026-11-07T19:29:41+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/images/europa-jpl-travel-poster",
+      "title": "Europa - JPL Travel Poster",
+      "summary": "Title: Europa - JPL Travel Poster URL Source: https://www.jpl.nasa.gov/images/europa-jpl-travel-poster Final URL: https://www.jpl.nasa.gov/images/europa-jpl-travel-poster/ Markdown Content: [](https://www.jpl.nasa.gov/images/europa-jpl-travel-poster/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # Europa - JPL Travel Poster ",
+      "keywords": [
+        "jpl",
+        "https",
+        "nasa",
+        "www",
+        "gov",
+        "europa",
+        "who-we-are",
+        "images",
+        "image",
+        "jpg",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "europa-jpl-travel-poster",
+        "find"
+      ],
+      "hash": "7e68f9d94a0296caa7817f23e2cfb4f0dd5e83dc39edd9b11b07e734800fdd52",
+      "learned_at": "2026-11-07T19:29:44+00:00"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/tWQxZswXWEM/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNcG5T4GJHq3_Gb_2BZAKsfH0TGA",
+      "title": "hq720.jpg",
+      "summary": "Title: hq720.jpg URL Source: https://i.ytimg.com/vi/tWQxZswXWEM/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNcG5T4GJHq3_Gb_2BZAKsfH0TGA Markdown Content: Mars Rover is shown in a desertlands desert landscape",
+      "keywords": [
+        "hq720",
+        "jpg",
+        "-oaymwencogcemobsfryq4qpaxkiaruaaihcgahyaqhiaqoigbacgay4auab",
+        "aon4cldncg5t4gjhq3_gb_2bzaksfh0tga",
+        "com",
+        "content",
+        "desert",
+        "desertlands",
+        "https",
+        "landscape",
+        "markdown",
+        "mars",
+        "rover",
+        "shown"
+      ],
+      "hash": "4f8bee52647c0de1ee7b024157c70c3a32a962c880b70f0061a35da7bb8f4bac",
+      "learned_at": "2026-11-07T19:29:47+00:00"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/TklEG_49Scs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXtxwhWch3FKCMbnm7h_I6z0Q65Q",
+      "title": "hq720.jpg",
+      "summary": "Title: hq720.jpg URL Source: https://i.ytimg.com/vi/TklEG_49Scs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXtxwhWch3FKCMbnm7h_I6z0Q65Q Markdown Content: A sphere of space to earth type proportions humbles the things pulling at its concern",
+      "keywords": [
+        "hq720",
+        "jpg",
+        "-oaymwencogcemobsfryq4qpaxkiaruaaihcgahyaqhiaqoigbacgay4auab",
+        "aon4claxtxwhwch3fkcmbnm7h_i6z0q65q",
+        "com",
+        "concern",
+        "content",
+        "earth",
+        "https",
+        "humbles",
+        "markdown",
+        "proportions",
+        "pulling",
+        "source"
+      ],
+      "hash": "c576f1e2c9b968fb528696568bec8f3f8d778488ef39de0d189461d6b98b5274",
+      "learned_at": "2026-11-07T19:29:49+00:00"
+    },
+    {
+      "url": "https://thejplstore.com/cdn/shop/files/Image_1_180x.jpg?v=1772831935+180w",
+      "title": "Image_1_180x.jpg",
+      "summary": "Title: Image_1_180x.jpg URL Source: https://thejplstore.com/cdn/shop/files/Image_1_180x.jpg?v=1772831935+180w Published Time: Sat, 07 Nov 2026 19:29:50 GMT Markdown Content: Red ceramic mug with the quote somediver cannot measure awesome appears to be on the mug",
+      "keywords": [
+        "image_1_180x",
+        "jpg",
+        "mug",
+        "1772831935",
+        "180w",
+        "2026",
+        "appears",
+        "awesome",
+        "cannot",
+        "cdn",
+        "ceramic",
+        "com",
+        "content",
+        "files"
+      ],
+      "hash": "e3a5173651c17f1ce0d5fb4a7d501f725f9a2bd591404ccb5ad096bd6f57798a",
+      "learned_at": "2026-11-07T19:29:52+00:00"
+    },
+    {
+      "url": "https://thejplstore.com/cdn/shop/files/086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg?v=1775755512+180w",
+      "title": "086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg",
+      "summary": "Title: 086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg URL Source: https://thejplstore.com/cdn/shop/files/086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg?v=1775755512+180w Published Time: Sat, 07 Nov 2026 19:29:53 GMT Markdown Content: a red shield with inspire on it",
+      "keywords": [
+        "086608ac-f28f-4caf-bf28-553882dd8f99_180x",
+        "jpg",
+        "1775755512",
+        "180w",
+        "2026",
+        "cdn",
+        "com",
+        "content",
+        "files",
+        "gmt",
+        "https",
+        "inspire",
+        "markdown",
+        "nov"
+      ],
+      "hash": "f9bede4659dd7d668e3ae2189f87d7d504b14db30ade9ca122b2f2ec3ba51ffa",
+      "learned_at": "2026-11-07T19:29:54+00:00"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/QRrfh33xYMCR_LogC8CES4BsaGwPziG72eNzsaHxWodO9p4ExGZMN0-OyEyT__e3Rhenkwo0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "title": "channels4_banner.jpg",
+      "summary": "Title: channels4_banner.jpg URL Source: https://yt3.googleusercontent.com/QRrfh33xYMCR_LogC8CES4BsaGwPziG72eNzsaHxWodO9p4ExGZMN0-OyEyT__e3Rhenkwo0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj Markdown Content: A table of art supplies and decorations",
+      "keywords": [
+        "00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "art",
+        "channels4_banner",
+        "com",
+        "content",
+        "decorations",
+        "googleusercontent",
+        "https",
+        "jpg",
+        "markdown",
+        "qrrfh33xymcr_logc8ces4bsagwpzig72enzsahxwodo9p4exgzmn0-oyeyt",
+        "source",
+        "supplies",
+        "table"
+      ],
+      "hash": "e6dfb98f2cbdf04a55ffb0f6cd171a41024e6d38123bfd30174f73d14067735c",
+      "learned_at": "2026-11-07T19:29:56+00:00"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/yCnNULtebBBkFFh69rpeRoAqcRjz7Ej0kdKDqceFia3nufbwwbhUdZjkClWZe5AIwVSShEZpGCE=s160-c-k-c0x00ffffff-no-rj",
+      "title": "channels4_profile.jpg",
+      "summary": "Title: channels4_profile.jpg URL Source: https://yt3.googleusercontent.com/yCnNULtebBBkFFh69rpeRoAqcRjz7Ej0kdKDqceFia3nufbwwbhUdZjkClWZe5AIwVSShEZpGCE=s160-c-k-c0x00ffffff-no-rj Markdown Content: Screening on an iphone with an apple planet ring toast",
+      "keywords": [
+        "apple",
+        "channels4_profile",
+        "com",
+        "content",
+        "googleusercontent",
+        "https",
+        "iphone",
+        "jpg",
+        "markdown",
+        "planet",
+        "ring",
+        "s160-c-k-c0x00ffffff-no-rj",
+        "screening",
+        "source"
+      ],
+      "hash": "b10006004c10d0fc65fd8590a5aa2e85c0ab0ba41fc7b1f9e518dbaff3cb41c9",
+      "learned_at": "2026-11-07T19:29:57+00:00"
     }
   ],
   "failures": [
@@ -24960,6 +25036,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-07T19:29:58+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-07T19:29:58+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 23,
+      "frontier": 2481
+    },
     {
       "at": "2026-11-07T15:18:14+00:00",
       "kind": "core_unchanged",
@@ -25870,40 +25961,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 1955
-    },
-    {
-      "at": "2026-10-27T05:46:07+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v46",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-27T05:46:07+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 21,
-      "frontier": 1907
     }
   ],
   "metrics": {
-    "successful_fetches": 1400,
+    "successful_fetches": 1408,
     "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 61,
-    "candidate_rejections": 161
+    "candidate_rejections": 162
   },
   "core_genome": {
     "query_weight": 3.0,
