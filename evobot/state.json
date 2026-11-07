@@ -1,42 +1,30 @@
 {
   "schema": 2,
-  "generation": 222,
-  "core_version": 61,
-  "runs": 221,
-  "pages_learned": 1384,
-  "last_run": "2026-11-07T02:12:04+00:00",
+  "generation": 223,
+  "core_version": 62,
+  "runs": 222,
+  "pages_learned": 1392,
+  "last_run": "2026-11-07T08:51:09+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/",
-    "https://history.nasa.gov/SP-424/sp424.htm",
-    "https://history.nasa.gov/SP-423/sp423.htm",
-    "https://www.nasa.gov/live",
-    "http://history.nasa.gov/JPL-93-24/jpl_93-24.htm",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266706/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266700/data/v8",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266694/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266702/data/v4",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266692/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266690/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/53111766/data/v1",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/52695762/data/v1",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/53064194/data/v1",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27773646/data/v2",
-    "https://www.youtube.com/watch?v=5qqsMjy8Rx0",
-    "https://www.natureasia.com/ja-jp",
-    "https://i.ytimg.com/vi/OmKGvMp8rjs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCK8DsgVgdtBnd0YxkgifPWlQrX3Q",
-    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us",
-    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us](https://support.springer.com/en/support/solutions/articles/6000206179-contact-us)",
     "https://i.ytimg.com/vi/tWQxZswXWEM/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNcG5T4GJHq3_Gb_2BZAKsfH0TGA",
     "https://i.ytimg.com/vi/TklEG_49Scs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXtxwhWch3FKCMbnm7h_I6z0Q65Q",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
     "https://thejplstore.com/cdn/shop/files/Image_1_180x.jpg?v=1772831935+180w",
     "https://thejplstore.com/cdn/shop/files/086608ac-f28f-4caf-bf28-553882dd8f99_180x.jpg?v=1775755512+180w",
+    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
+    "https://yt3.googleusercontent.com/QRrfh33xYMCR_LogC8CES4BsaGwPziG72eNzsaHxWodO9p4ExGZMN0-OyEyT__e3Rhenkwo0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+    "https://yt3.googleusercontent.com/yCnNULtebBBkFFh69rpeRoAqcRjz7Ej0kdKDqceFia3nufbwwbhUdZjkClWZe5AIwVSShEZpGCE=s160-c-k-c0x00ffffff-no-rj",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt&media=%2F%2Fthejplstore.com%2Fcdn%2Fshop%2Ffiles%2FAretemisTee_1024x1024.jpg%3Fv%3D1775248687&description=Artemis+Unisex+Adult+Tshirt",
+    "https://youtube.com/live/sZ71zKj0MvA",
+    "https://youtube.com/live/fVtiOhf17tg",
+    "https://www.natureasia.com/ja-jp",
+    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us",
+    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us](https://support.springer.com/en/support/solutions/articles/6000206179-contact-us)",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
     "https://www.conicet.gov.ar/?lan=en",
     "https://www.state.gov/state-sponsors-of-terrorism/",
     "https://www.dhs.gov/topic/privacy",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
     "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
     "https://www.facebook.com/business/ads/lead-ads",
     "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
@@ -46,7 +34,6 @@
     "https://www.twilio.com/en-us/legal/privacy",
     "https://www.braze.com/",
     "https://www.twitter.com/astromaterials",
-    "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
     "https://www.re3data.org/repository/r3d100010168",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -148,12 +135,9 @@
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://rubriq.com/",
     "https://github.com/autoplot/documentation/wiki/help",
-    "https://navyseals.com/wp-content/uploads/2012/12/special-operations-nutrition-guide.pdf",
     "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
     "https://tools.google.com/dlpage/gaoptout?hl=en",
     "https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge",
-    "https://yt3.googleusercontent.com/QRrfh33xYMCR_LogC8CES4BsaGwPziG72eNzsaHxWodO9p4ExGZMN0-OyEyT__e3Rhenkwo0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
-    "https://yt3.googleusercontent.com/yCnNULtebBBkFFh69rpeRoAqcRjz7Ej0kdKDqceFia3nufbwwbhUdZjkClWZe5AIwVSShEZpGCE=s160-c-k-c0x00ffffff-no-rj",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://publicationethics.org/",
     "https://thejplstore.com/collections/space-humor-series",
@@ -163,9 +147,16 @@
     "https://thejplstore.com/collections/jpls-90th-anniversary",
     "https://thejplstore.com/collections/jpls-90th-anniversary",
     "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
+    "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
+    "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
+    "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
+    "https://twitter.com/share?text=Artemis+Unisex+Adult+Tshirt&url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
+    "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Sol322B_DeckPan_crop-PIA07372.width-1024.jpg",
     "http://www.youtube.com/user/JPLnews?sub_confirmation=1",
-    "http://www.naturechina.com/",
     "http://polac.obspm.fr/llrdatae.html",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
+    "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/",
     "https://www.jpl.jobs/students-and-postdocs",
@@ -256,14 +247,12 @@
     "https://en.wikipedia.org/wiki/Declination",
     "https://ec.europa.eu/consumers/odr/",
     "https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)",
-    "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
-    "https://webbtelescope.org/glossary.html",
-    "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
     "https://webbtelescope.org/glossary.html",
     "https://webbtelescope.org/glossary.html",
-    "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
+    "https://webbtelescope.org/glossary.html",
     "https://doi.org/10.3847/1538-3881/abd414",
     "https://doi.org/10.3847/1538-3881/abd414",
+    "http://www.naturechina.com/",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.ftc.gov/ogc/coppa1.htm",
@@ -298,15 +287,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://twitter.com/share?text=Artemis+Unisex+Adult+Tshirt&url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt",
-    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthejplstore.com%2Fproducts%2Faretmis-unisex-adult-tshirt&media=%2F%2Fthejplstore.com%2Fcdn%2Fshop%2Ffiles%2FAretemisTee_1024x1024.jpg%3Fv%3D1775248687&description=Artemis+Unisex+Adult+Tshirt",
-    "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Sol322B_DeckPan_crop-PIA07372.width-1024.jpg",
-    "https://youtube.com/live/sZ71zKj0MvA",
-    "https://youtube.com/live/fVtiOhf17tg",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
-    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/may-2024-shake-bake-how-spacecraft-are-tested-to-handle-the-harsh-environment-of-space/",
     "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/june-2024-nasa-in-your-home-how-space-based-technology-improves-our-daily-lives/",
     "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/july-2024-how-nasas-team-of-autonomous-mini-rovers-will-explore-the-moon/",
     "https://www.nasa.gov/apps/",
@@ -2504,7 +2484,28 @@
     "https://www.chorusaccess.org/",
     "https://sti.nasa.gov/sti-contact-form/?RequestType=PublicAccess",
     "https://sti.nasa.gov/submit-to-pubspace/",
-    "https://sti.nasa.gov/contact-us/"
+    "https://sti.nasa.gov/contact-us/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/SPHEREx_March2022_Update_Still01_R08_SpaceBac.width-1024.jpg",
+    "https://youtube.com/live/XdnIAmDwkhc",
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/may-2024-shake-bake-how-spacecraft-are-tested-to-handle-the-harsh-environment-of-space/",
+    "https://www.nasa.gov/budgets-plans-and-reports/agency-financial-reports/",
+    "https://www.nasa.gov/budgets-plans-and-reports/agency-financial-reports/",
+    "https://www.nasa.gov/history/history-publications-and-resources/",
+    "https://www.nasa.gov/history/history-publications-and-resources/",
+    "https://www.nasa.gov/live/",
+    "https://www.nasa.gov/live/",
+    "http://history.nasa.gov/JPL-93-24/jpl_93-24.htm",
+    "https://www.youtube.com/watch?v=7zpojhD4hpI",
+    "https://www.youtube.com/watch?v=JIB3JbIIbPU",
+    "https://www.youtube.com/watch?v=3PEo4AaOHvg",
+    "https://www.youtube.com/watch?v=qaUhLXolGaI",
+    "https://www.youtube.com/watch?v=Ty6ZMyFagsU",
+    "https://www.youtube.com/watch?v=4S77hsVN26U",
+    "https://www.youtube.com/watch?v=7zpojhD4hpI",
+    "https://www.youtube.com/watch?v=Z7AECr2EeYg",
+    "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D5qqsMjy8Rx0&hl=en&ec=65620",
+    "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253D5qqsMjy8Rx0&hl=en",
+    "https://yt3.ggpht.com/cXXTYtG_g7iREW3lzLuv9MGSly3g8yHt5VKcUsxK8bTnvXmVWv1NX5QMy1BS4-DJ-2Kz92Z4_Rg=s88-c-k-c0x00ffffff-no-rj"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -10919,193 +10920,89 @@
       "at": "2026-11-07T02:12:35+00:00",
       "status": "ok",
       "hash": "0a9c3615b883ccb59f2b662097a969d4da7003ae978c8f47bc4d4f4be016b87b"
+    },
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/": {
+      "at": "2026-11-07T08:51:12+00:00",
+      "status": "ok",
+      "hash": "e006721ae68d95d576282ea738e8009d51c2f34936c713b68e8eab13555f4d39"
+    },
+    "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/": {
+      "at": "2026-11-07T08:51:18+00:00",
+      "status": "ok",
+      "hash": "45d1777d1bdae70a7ba708436ade886e3b54fd2b2cffacaaf31c2d05b9fe0842"
+    },
+    "https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/": {
+      "at": "2026-11-07T08:51:19+00:00",
+      "status": "ok",
+      "hash": "08421a1b5f59de715b0182800519fc2391a42ffa4cac6a1bb8487eb8b08d8b1c"
+    },
+    "https://history.nasa.gov/SP-424/sp424.htm": {
+      "at": "2026-11-07T08:51:24+00:00",
+      "status": "ok",
+      "hash": "23e5581355ba37605a300153800fc19d00798204274171b18a6d79a0048af2fb"
+    },
+    "https://history.nasa.gov/SP-423/sp423.htm": {
+      "at": "2026-11-07T08:51:28+00:00",
+      "status": "ok",
+      "hash": "e6a38832a628ba1dac1a06ed1a6d85bf7e819d95604ca66254cc58d2c707edf3"
+    },
+    "https://www.nasa.gov/live": {
+      "at": "2026-11-07T08:51:29+00:00",
+      "status": "ok",
+      "hash": "75dad0d41dc7e052e6453578f0a7d57996b2c11dab6dd91b1753537da1da8e09"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266706/data/v2": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266700/data/v8": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266694/data/v2": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266702/data/v4": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266692/data/v2": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266690/data/v2": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/53111766/data/v1": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/52695762/data/v1": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/53064194/data/v1": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27773646/data/v2": {
+      "at": "2026-11-07T08:51:30+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.youtube.com/watch?v=5qqsMjy8Rx0": {
+      "at": "2026-11-07T08:51:39+00:00",
+      "status": "ok",
+      "hash": "382feb75210a63f6cc4705fa175e6952ca45e0c789a0b57d5504182b3c1ee35f"
+    },
+    "https://i.ytimg.com/vi/OmKGvMp8rjs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCK8DsgVgdtBnd0YxkgifPWlQrX3Q": {
+      "at": "2026-11-07T08:51:40+00:00",
+      "status": "ok",
+      "hash": "4c672e45b1fa4c69f848651852d63377d77d5d0b6c9967af3ea476219cb5eff3"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/nhats.api?des=2000+SG344&dv=6&dur=360&stay=8&launch=2020-2045%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/nhats.api?des=2000+SG344&dv=6&dur=360&stay=8&launch=2020-2045`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/nhats.api?des=2000+SG344&dv=6&dur=360&stay=8&launch=2020-2045` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"code\":\"400\",\"message\":\"invalid value specified for query parameter 'launch': \",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/nhats.html\"}",
-      "keywords": [
-        "400",
-        "gov",
-        "https",
-        "jpl",
-        "launch",
-        "nasa",
-        "nhats",
-        "ssd-api",
-        "url",
-        "2000",
-        "2020-2045",
-        "360",
-        "api",
-        "bad"
-      ],
-      "hash": "c268d527ab1b003f19a98e7f34dbe1915ed94dedb3158f37770657e5bf06d328",
-      "learned_at": "2026-10-20T12:57:50+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/nhats.api?des=99942%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/nhats.api?des=99942`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/nhats.api?des=99942` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"message\":\"invalid character in designation\",\"code\":\"400\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/nhats.html\"}",
-      "keywords": [
-        "400",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "nhats",
-        "ssd-api",
-        "url",
-        "99942",
-        "api",
-        "bad",
-        "character",
-        "code",
-        "content"
-      ],
-      "hash": "fab223080bc782dae0c94090f0a5022df72a0fd4a325de3dc56cf66264a5074e",
-      "learned_at": "2026-10-20T12:57:51+00:00"
-    },
-    {
-      "url": "https://cneos.jpl.nasa.gov/about/search_program.html",
-      "title": "NEO Search Program",
-      "summary": "Title: NEO Search Program URL Source: https://cneos.jpl.nasa.gov/about/search_program.html Published Time: Fri, 09 Oct 2026 16:26:44 GMT Markdown Content: ![Image 1: Catalina Sky Survey, University of Arizona](https://cneos.jpl.nasa.gov/images/SchmidtB1.jpg) Catalina Sky Survey, University of Arizona There are a number of NASA supported Near-Earth Object (NEO) discovery teams currently in operation. The early efforts to discover NEOs relied upon the comparison of photographic films of the same region of the sky taken several minutes apart. The vast majority of the objects recorded upon these films were stars and galaxies and their images were located in the same relative position on these films. Early discovery techniques included blink comparators and stereomicroscopes to examine the photographic images. Because a moving NEO would be in a slightly different position on each photograph a",
-      "keywords": [
-        "images",
-        "ccd",
-        "image",
-        "neo",
-        "discovery",
-        "object",
-        "photographic",
-        "sky",
-        "these",
-        "different",
-        "films",
-        "nasa",
-        "neos",
-        "next"
-      ],
-      "hash": "b9a9a584af312d6318a8ecebcd0e08b14ad9c4e0573a60e40a6fd141e2ac2356",
-      "learned_at": "2026-10-20T12:57:53+00:00"
-    },
-    {
-      "url": "https://cneos.jpl.nasa.gov/orbits/",
-      "title": "Orbits",
-      "summary": "Title: Orbits URL Source: https://cneos.jpl.nasa.gov/orbits/ Markdown Content: | Page | Description | | --- | --- | | [Introduction](https://cneos.jpl.nasa.gov/orbits/intro.html) | Introduction to NEO orbits | | [NEO Lookup](https://ssd.jpl.nasa.gov/sbdb.cgi) | Use this tool to lookup a specified NEO in our database and display known orbital and physical parameters and optionally display an orbit diagram | | [NEO DB Query](https://ssd.jpl.nasa.gov/sbdb_query.cgi) | Use this tool to find NEOs matching various user-specified orbital and physical constraints | | [Horizons](https://ssd.jpl.nasa.gov/horizons.cgi) | Use this JPL tool to compute accurate ephemeries of NEOs and other objects in our Solar System | | [Orbit Elements](https://cneos.jpl.nasa.gov/orbits/elements.html) | Access to NEO orbital elements and related information | | [Accessible NEAs](https://cneos.jpl.nasa.gov/nhats/) | O",
-      "keywords": [
-        "jpl",
-        "gov",
-        "https",
-        "nasa",
-        "neo",
-        "orbits",
-        "cneos",
-        "tool",
-        "use",
-        "cgi",
-        "elements",
-        "neos",
-        "orbital",
-        "ssd"
-      ],
-      "hash": "6c5ae531c147a8b08e22b7e6c9bc2bb6ebb0b7168c947db7e8eeb639ee1b4542",
-      "learned_at": "2026-10-20T12:57:54+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TP6",
-      "title": "Small-Body Database Lookup",
-      "summary": "Title: Small-Body Database Lookup URL Source: https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TP6 Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TP6#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TP6#) * [What does SSD do?](https:/",
-      "keywords": [
-        "https",
-        "nasa",
-        "ssd",
-        "gov",
-        "jpl",
-        "html",
-        "orbits",
-        "planets",
-        "2026",
-        "cgi",
-        "sbdb",
-        "sstr",
-        "tp6",
-        "sats"
-      ],
-      "hash": "cdc30d05f453bfb3a5015420dde51bc35a7f1a67799931d2d7f1edd0b7b0929e",
-      "learned_at": "2026-10-20T12:57:59+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TF4",
-      "title": "Small-Body Database Lookup",
-      "summary": "Title: Small-Body Database Lookup URL Source: https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TF4 Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TF4#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2026+TF4#) * [What does SSD do?](https:/",
-      "keywords": [
-        "https",
-        "nasa",
-        "ssd",
-        "gov",
-        "jpl",
-        "html",
-        "orbits",
-        "planets",
-        "2026",
-        "cgi",
-        "sbdb",
-        "sstr",
-        "tf4",
-        "sats"
-      ],
-      "hash": "eca7f3307058d22bcc94f3d57b46e3017c374e18770216ef1079d34c278ede87",
-      "learned_at": "2026-10-20T12:58:03+00:00"
-    },
-    {
-      "url": "https://naif.jpl.nasa.gov/naif/images/skip.gif%20alt=",
-      "title": "404 Not Found",
-      "summary": "Title: 404 Not Found URL Source: https://naif.jpl.nasa.gov/naif/images/skip.gif%20alt= Warning: Target URL returned error 404: Not Found Markdown Content: # Not Found The requested URL was not found on this server.",
-      "keywords": [
-        "found",
-        "url",
-        "404",
-        "naif",
-        "20alt",
-        "content",
-        "error",
-        "gif",
-        "gov",
-        "https",
-        "images",
-        "jpl",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "29d37e998dc993fa9393676468381a82f901ca097ce42a40e6fd11ed58fae0df",
-      "learned_at": "2026-10-20T12:58:06+00:00"
-    },
-    {
-      "url": "https://naif.jpl.nasa.gov/naif/images/home_banner3.jpg",
-      "title": "home_banner3.jpg",
-      "summary": "Title: home_banner3.jpg URL Source: https://naif.jpl.nasa.gov/naif/images/home_banner3.jpg Published Time: Thu, 06 Jan 2005 00:08:19 GMT Markdown Content: The image is a banner with text that indicates it is related to the NAIF (Navigation and Astrodynamics International Facility) Data System",
-      "keywords": [
-        "naif",
-        "home_banner3",
-        "jpg",
-        "2005",
-        "astrodynamics",
-        "banner",
-        "content",
-        "data",
-        "facility",
-        "gmt",
-        "gov",
-        "https",
-        "image",
-        "images"
-      ],
-      "hash": "9e0c2940005b7d93158b7bf1ae5a8ffb88e0f53e9ab6e0465ccae86f2fb802f6",
-      "learned_at": "2026-10-20T12:58:09+00:00"
-    },
     {
       "url": "https://naif.jpl.nasa.gov/naif/training.html",
       "title": "SPICE Training",
@@ -24721,6 +24618,190 @@
       ],
       "hash": "0a9c3615b883ccb59f2b662097a969d4da7003ae978c8f47bc4d4f4be016b87b",
       "learned_at": "2026-11-07T02:12:35+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/",
+      "title": "April 2024 - Seeing Earth’s Coastlines: SWOT Satellite Provides Higher-Resolution Data than Ever | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: April 2024 - Seeing Earth’s Coastlines: SWOT Satellite Provides Higher-Resolution Data than Ever | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/april-2024-seeing-earths-coastlines-swot-satellite-provides-higher-resolution-data-than-ever/ Markdown Content: Apr. 18 **Time:** 5 p.m. PDT (8 p.m. EDT; 0100 UTC) NASA has monitored Earth’s water from space for decades, but there’s always been one stubborn observational gap: coastal sea level. This data, while critical to coastal communities as they plan for the potentially devastating effects of rising seas, has been difficult to measure because of its variability – but the Surface Water and Ocean Topography mission, also known as SWOT, is giving scientists higher-resolution data than ever before. SWOT measures the height of nearly all wa",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "space",
+        "swot",
+        "earth",
+        "level",
+        "sea",
+        "water",
+        "agency",
+        "coastal",
+        "data",
+        "live",
+        "been",
+        "ben"
+      ],
+      "hash": "e006721ae68d95d576282ea738e8009d51c2f34936c713b68e8eab13555f4d39",
+      "learned_at": "2026-11-07T08:51:12+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/",
+      "title": "February 2024 - SPHEREx: Zooming Out to See the Big Picture | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: February 2024 - SPHEREx: Zooming Out to See the Big Picture | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/ Markdown Content: [](https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/february-2024-spherex-zooming-out-to-see-the-big-picture/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") ",
+      "keywords": [
+        "jpl",
+        "nasa",
+        "https",
+        "www",
+        "gov",
+        "spherex",
+        "universe",
+        "2024",
+        "big",
+        "image",
+        "picture",
+        "see",
+        "zooming",
+        "_nuxt"
+      ],
+      "hash": "45d1777d1bdae70a7ba708436ade886e3b54fd2b2cffacaaf31c2d05b9fe0842",
+      "learned_at": "2026-11-07T08:51:18+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/",
+      "title": "Agency Financial Reports - NASA",
+      "summary": "Title: Agency Financial Reports - NASA URL Source: https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/ Final URL: https://www.nasa.gov/budgets-plans-and-reports/agency-financial-reports/ Published Time: 2023-11-13T17:01:33Z Markdown Content: This archived content may contain outdated information or references that may not reflect current policy or programs. [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/seri",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "agency-financial-reports",
+        "apps"
+      ],
+      "hash": "08421a1b5f59de715b0182800519fc2391a42ffa4cac6a1bb8487eb8b08d8b1c",
+      "learned_at": "2026-11-07T08:51:19+00:00"
+    },
+    {
+      "url": "https://history.nasa.gov/SP-424/sp424.htm",
+      "title": "History Publications and Resources - NASA",
+      "summary": "Title: History Publications and Resources - NASA URL Source: https://history.nasa.gov/SP-424/sp424.htm Final URL: https://www.nasa.gov/history/history-publications-and-resources/ Published Time: 2023-01-20T15:50:08Z Markdown Content: [![Image 10: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 11: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsle",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "science",
+        "history",
+        "image",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "23e5581355ba37605a300153800fc19d00798204274171b18a6d79a0048af2fb",
+      "learned_at": "2026-11-07T08:51:24+00:00"
+    },
+    {
+      "url": "https://history.nasa.gov/SP-423/sp423.htm",
+      "title": "History Publications and Resources - NASA",
+      "summary": "Title: History Publications and Resources - NASA URL Source: https://history.nasa.gov/SP-423/sp423.htm Final URL: https://www.nasa.gov/history/history-publications-and-resources/ Published Time: 2023-01-20T15:50:08Z Markdown Content: [![Image 10: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 11: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsle",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "science",
+        "history",
+        "image",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "e6a38832a628ba1dac1a06ed1a6d85bf7e819d95604ca66254cc58d2c707edf3",
+      "learned_at": "2026-11-07T08:51:28+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/live",
+      "title": "NASA Live - NASA",
+      "summary": "Title: NASA Live - NASA URL Source: https://www.nasa.gov/live Final URL: https://www.nasa.gov/live/ Published Time: 2022-12-07T13:25:24-05:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resour",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "www",
+        "search",
+        "news",
+        "science",
+        "live",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts"
+      ],
+      "hash": "75dad0d41dc7e052e6453578f0a7d57996b2c11dab6dd91b1753537da1da8e09",
+      "learned_at": "2026-11-07T08:51:29+00:00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5qqsMjy8Rx0",
+      "title": "Mission Overview: NASA's Perseverance Mars Rover",
+      "summary": "Title: Mission Overview: NASA's Perseverance Mars Rover URL Source: https://www.youtube.com/watch?v=5qqsMjy8Rx0 Warning: Target URL returned error 401: Unauthorized Markdown Content: Back [![Image 1](https://www.youtube.com/watch?v=5qqsMjy8Rx0)](https://www.youtube.com/ \"YouTube Home\") Skip navigation Search Search with your voice [](https://www.youtube.com/watch?v=5qqsMjy8Rx0) [Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D5qqsMjy8Rx0&hl=en&ec=65620) [![Image 2](https://www.youtube.com/watch?v=5qqsMjy8Rx0)](https://www.youtube.com/ \"YouTube Home\") [](https://www.youtube.com/watch?v=5qqsMjy8Rx0) [](https://www.youtube.com/watch?v=5qqsMjy8Rx0) [Video 2](https://www.youtube.com/watch",
+      "keywords": [
+        "youtube",
+        "com",
+        "https",
+        "watch",
+        "www",
+        "5qqsmjy8rx0",
+        "image",
+        "nasa",
+        "mars",
+        "perseverance",
+        "rover",
+        "ago",
+        "live",
+        "mission"
+      ],
+      "hash": "382feb75210a63f6cc4705fa175e6952ca45e0c789a0b57d5504182b3c1ee35f",
+      "learned_at": "2026-11-07T08:51:39+00:00"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/OmKGvMp8rjs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCK8DsgVgdtBnd0YxkgifPWlQrX3Q",
+      "title": "hq720.jpg",
+      "summary": "Title: hq720.jpg URL Source: https://i.ytimg.com/vi/OmKGvMp8rjs/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCK8DsgVgdtBnd0YxkgifPWlQrX3Q Markdown Content: This image depicts a person sitting on a blue couch",
+      "keywords": [
+        "hq720",
+        "jpg",
+        "-oaymwencogcemobsfryq4qpaxkiaruaaihcgahyaqhiaqoigbacgay4auab",
+        "aon4clck8dsgvgdtbnd0yxkgifpwlqrx3q",
+        "blue",
+        "com",
+        "content",
+        "couch",
+        "depicts",
+        "https",
+        "image",
+        "markdown",
+        "omkgvmp8rjs",
+        "person"
+      ],
+      "hash": "4c672e45b1fa4c69f848651852d63377d77d5d0b6c9967af3ea476219cb5eff3",
+      "learned_at": "2026-11-07T08:51:40+00:00"
     }
   ],
   "failures": [
@@ -24841,6 +24922,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-07T08:51:40+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v62",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-07T08:51:40+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 20,
+      "frontier": 2499
+    },
     {
       "at": "2026-11-07T02:12:35+00:00",
       "kind": "core_unchanged",
@@ -25751,28 +25858,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 17,
       "frontier": 1876
-    },
-    {
-      "at": "2026-10-26T21:32:46+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-26T21:32:46+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 1849
     }
   ],
   "metrics": {
-    "successful_fetches": 1384,
+    "successful_fetches": 1392,
     "failed_fetches": 23,
     "duplicate_pages": 2,
-    "candidate_promotions": 60,
+    "candidate_promotions": 61,
     "candidate_rejections": 160
   },
   "core_genome": {
@@ -25806,10 +25898,10 @@
     "science.nasa.gov",
     "www.sebi.gov.in",
     "jpl.nasa.gov",
-    "svs.gsfc.nasa.gov",
     "info.arxiv.org",
     "cdaweb.gsfc.nasa.gov",
-    "cneos.jpl.nasa.gov",
-    "spaceplace.nasa.gov"
+    "naif.jpl.nasa.gov",
+    "svs.gsfc.nasa.gov",
+    "www.youtube.com"
   ]
 }
