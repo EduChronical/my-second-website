@@ -1,12 +1,15 @@
 {
   "schema": 2,
-  "generation": 230,
+  "generation": 231,
   "core_version": 64,
-  "runs": 229,
-  "pages_learned": 1446,
-  "last_run": "2026-11-08T20:22:49+00:00",
+  "runs": 230,
+  "pages_learned": 1454,
+  "last_run": "2026-11-08T23:52:12+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "http://www.nature.com/nature-research/editorial-policies/ethics-and-biosecurity",
+    "https://apps.apple.com/assets/artwork/1x1.gif",
+    "https://apps.apple.com/assets/artwork/1x1.gif",
     "https://www.linkedin.com/company/jet-propulsion-laboratory/",
     "https://www.iaucom4.org/",
     "https://www.twilio.com/en-us/legal/privacy",
@@ -30,6 +33,16 @@
     "https://www.aggo-conicet.gob.ar/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
+    "https://apps.apple.com/us/iphone/today",
+    "https://apps.apple.com/us/ipad/today",
+    "https://apps.apple.com/us/mac/discover",
+    "https://apps.apple.com/us/vision/apps-and-games",
+    "https://apps.apple.com/us/watch/apps-and-games",
+    "https://apps.apple.com/us/tv/discover",
+    "https://apps.apple.com/us/iphone/today",
+    "https://apps.apple.com/us/iphone/games",
+    "https://apps.apple.com/us/iphone/apps",
+    "https://apps.apple.com/us/iphone/arcade",
     "http://www.naturechina.com/",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
@@ -143,7 +156,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ceres.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/ceres.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
@@ -178,7 +190,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_voyager_nov_2024.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_october_dsoc.189927c3.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Sept_von_Karman.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA25667-CADRE-rock-still-fo.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Explore_Banner_6.5.26_V4.orig.2e16d0ba.fill-1024x441-c10.jpg",
     "http://www.icontact.com/",
@@ -193,6 +204,8 @@
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.google.com/intl/en/policies/privacy/",
     "http://www.google.com/policies/technologies/ads/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
     "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
     "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
     "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
@@ -283,34 +296,7 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://www.nature.com/nature-portfolio/editorial-policies/ai",
-    "https://www.nature.com/nature-research/editorial-policies/reporting-standards",
-    "https://www.nature.com/nature-research/editorial-policies/image-integrity",
-    "https://go.nature.com/briefing/assets/site/images/nature_briefing_device_image.png",
-    "https://go.nature.com/nature/articles?type=nature-briefing",
-    "https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)",
-    "http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)",
-    "http://www.nature.com/nature-research/editorial-policies/ethics-and-biosecurity",
-    "https://apps.apple.com/us/iphone/today",
-    "https://apps.apple.com/us/ipad/today",
-    "https://apps.apple.com/us/mac/discover",
-    "https://apps.apple.com/us/vision/apps-and-games",
-    "https://apps.apple.com/us/watch/apps-and-games",
-    "https://apps.apple.com/us/tv/discover",
-    "https://apps.apple.com/us/iphone/today",
-    "https://apps.apple.com/us/iphone/games",
-    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
-    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
-    "http://www.jpl.nasa.gov/apps/spaceimages",
-    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
-    "https://apps.apple.com/us/iphone/apps",
-    "https://apps.apple.com/us/iphone/arcade",
-    "https://apps.apple.com/assets/artwork/1x1.gif",
-    "https://apps.apple.com/assets/artwork/1x1.gif",
-    "https://apps.apple.com/assets/artwork/1x1.gif",
     "https://apps.apple.com/us/developer/jet-propulsion-laboratory/id347075767?platform=iphone",
-    "https://apps.apple.com/assets/artwork/1x1.gif",
-    "https://apps.apple.com/assets/artwork/1x1.gif",
     "https://nssdc.gsfc.nasa.gov/planetary/thumbnail/noachis_gullies.gif",
     "https://nssdc.gsfc.nasa.gov/planetary/news/thumbnail/mars_water_20000622.gif",
     "http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1998-073A",
@@ -2502,7 +2488,23 @@
     "https://www.nature.com/nature-research/editorial-policies/competing-interests",
     "https://www.dhs.gov/topics/privacy",
     "https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/us_flag_small.png",
-    "https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/icon-dot-gov.svg"
+    "https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/icon-dot-gov.svg",
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users/",
+    "https://www.jpl.nasa.gov/contact_JPL.php](https://www.jpl.nasa.gov/contact_JPL.php).",
+    "http://networkadvertising.org/",
+    "http://www.aboutads.info/",
+    "https://www.springernature.com/gp/policies/editorial-policies/using-ai-in-research",
+    "https://www.springernature.com/gp/policies/editorial-policies/ai-manuscript-preparation",
+    "https://www.springernature.com/gp/policies/editorial-policies/using-ai-in-peer-review",
+    "https://www.springernature.com/gp/policies/editorial-policies/ai-editor-guidance",
+    "https://www.springernature.com/gp/policies/editorial-policies/using-ai-in-peer-review",
+    "http://group.springernature.com/gp/group/ai",
+    "https://www.nature.com/nature-portfolio/editorial-policies/reporting-standards",
+    "https://www.nature.com/nature-portfolio/editorial-policies/reporting-standards",
+    "https://www.nature.com/nature-research/editorial-policies/image-integrity",
+    "https://www.nature.com/nature/current-issue",
+    "https://eyes.nasa.gov/apps/earth/",
+    "https://www.nature.com/nature/browse-issues"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11395,193 +11397,49 @@
     "https://www.cookiebot.com/": {
       "at": "2026-11-08T20:23:29+00:00",
       "status": "robots_disallow"
+    },
+    "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users": {
+      "at": "2026-11-08T23:52:18+00:00",
+      "status": "ok",
+      "hash": "3e4cbb53163a03a0d74e725cf615f7338956a99ff88125680f98ff2ddac81fdd"
+    },
+    "https://www.nature.com/nature-portfolio/editorial-policies/ai": {
+      "at": "2026-11-08T23:52:23+00:00",
+      "status": "ok",
+      "hash": "292a9c1b4df621387d6025d41a66dab1356e4a40277e2428f3fa55c47d226bce"
+    },
+    "https://www.nature.com/nature-research/editorial-policies/reporting-standards": {
+      "at": "2026-11-08T23:52:27+00:00",
+      "status": "ok",
+      "hash": "edca0b3ed4303f3e7e4567ae5171f7b373161dcce460d2c1752100284250c322"
+    },
+    "https://go.nature.com/nature/articles?type=nature-briefing": {
+      "at": "2026-11-08T23:52:41+00:00",
+      "status": "ok",
+      "hash": "7c19ae9a610059be35692d519d9cc86eff8172d6ae09823f7174699f00e80de8"
+    },
+    "http://www.jpl.nasa.gov/apps/spaceimages": {
+      "at": "2026-11-08T23:52:57+00:00",
+      "status": "ok",
+      "hash": "8ebbe5e89806e0a70721f28a7af52bcedd7714ad82c9201fffda859c5e5c03ad"
+    },
+    "https://go.nature.com/briefing/assets/site/images/nature_briefing_device_image.png": {
+      "at": "2026-11-08T23:53:05+00:00",
+      "status": "ok",
+      "hash": "026de3204c4ffc41349fa626c3d69a68bdc439be15d0c5a8b15ad5a0a36c1101"
+    },
+    "https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)": {
+      "at": "2026-11-08T23:53:06+00:00",
+      "status": "ok",
+      "hash": "9732a7e39e8fb2bed25bdc9264a55685fe282bad2a4f1da611d48fa7b72e70de"
+    },
+    "http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)": {
+      "at": "2026-11-08T23:53:09+00:00",
+      "status": "ok",
+      "hash": "246f66c1615bef70082ecfb91a5c37f9ad0a41b15d5b431f09ecaeabcbf7c698"
     }
   },
   "memory": [
-    {
-      "url": "https://therbimuseum.rbi.org.in/",
-      "title": "The RBI Museum",
-      "summary": "Title: The RBI Museum URL Source: https://therbimuseum.rbi.org.in/ Markdown Content: ![Image 1: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4659.jpg) ![Image 2: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4679.jpg) ![Image 3: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4660.jpg) ![Image 4: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4666.jpg) ![Image 5: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4671.jpg) ![Image 6: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4675.jpg) ![Image 7: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4681.jpg) ![Image 8: banner](https://therbimuseum.rbi.org.in/images/carousel/DSC_4706.jpg) About Us Welcome to the The Reserve Bank of India Museum. The Museum will immerse you in a one-of-a-kind experience that explains the money, its role in the economy an",
-      "keywords": [
-        "rbi",
-        "https",
-        "org",
-        "therbimuseum",
-        "banner",
-        "carousel",
-        "image",
-        "images",
-        "jpg",
-        "museum",
-        "shop",
-        "through",
-        "interactive",
-        "15th"
-      ],
-      "hash": "880dd3e2622933b274e49a3b04bb8c921f7a245c5f911d5cf3a62ce8e87f4355",
-      "learned_at": "2026-10-22T00:43:28+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/internships/apply/nasa-science-mission-design-schools",
-      "title": "NASA Science Mission Design Schools – Explore Programs & Apply | NASA JPL Education",
-      "summary": "Title: NASA Science Mission Design Schools – Explore Programs & Apply | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/nasa-science-mission-design-schools Markdown Content: [](https://www.jpl.nasa.gov/edu/internships/apply/nasa-science-mission-design-schools) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "science",
-        "design",
-        "edu",
-        "mission",
-        "internships",
-        "apply",
-        "_nuxt",
-        "education",
-        "image"
-      ],
-      "hash": "ba4df29a3379ef5bc45aebca021fc0a61a368b01573fafd283dac903a1802b70",
-      "learned_at": "2026-10-22T05:26:18+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/internships/apply/nasa-community-college-aerospace-scholars",
-      "title": "NASA Community College Aerospace Scholars – Explore Programs & Apply | NASA JPL Education",
-      "summary": "Title: NASA Community College Aerospace Scholars – Explore Programs & Apply | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/internships/apply/nasa-community-college-aerospace-scholars Markdown Content: The NASA Community College Aerospace Scholars, or NCAS, program is an educational experience for 2-year community college students seeking a STEM degree. The program is designed to build a diverse future STEM workforce by engaging students in authentic learning experiences with NASA. Scholars get a closer look at NASA’s unique missions and research and learn how to develop their talents, interests, and passion to become future STEM professionals by participating in one or more of three experiences: * **Mission 1: Discover** – Discover NASA’s research and missions through a five-week online experience during which scholars will attend lectures with NASA scientists and engineer",
-      "keywords": [
-        "nasa",
-        "mission",
-        "scholars",
-        "missions",
-        "stem",
-        "college",
-        "community",
-        "receive",
-        "aerospace",
-        "apply",
-        "complete",
-        "discover",
-        "during",
-        "education"
-      ],
-      "hash": "99bb7d3bbdc8f1656156282fdf9f3f6b4a55408089037174594750bda748b5ee",
-      "learned_at": "2026-10-22T05:26:22+00:00"
-    },
-    {
-      "url": "https://www.rbi.org.in/images/font-increase.gif",
-      "title": "font-increase.gif",
-      "summary": "Title: font-increase.gif URL Source: https://www.rbi.org.in/images/font-increase.gif Published Time: Sun, 09 Aug 2026 10:15:45 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "font-increase",
-        "gif",
-        "2026",
-        "20x20",
-        "aug",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely",
-        "logo"
-      ],
-      "hash": "f4c0f40ba84946a965c1a26025d77f4fadf6d5ca6e0b549fa99d7a1775077675",
-      "learned_at": "2026-10-22T05:26:25+00:00"
-    },
-    {
-      "url": "https://www.rbi.org.in/images/font-reset.gif",
-      "title": "font-reset.gif",
-      "summary": "Title: font-reset.gif URL Source: https://www.rbi.org.in/images/font-reset.gif Published Time: Sun, 09 Aug 2026 10:15:45 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "font-reset",
-        "gif",
-        "2026",
-        "20x20",
-        "aug",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely",
-        "logo"
-      ],
-      "hash": "c908bcf6b329a90efc0d36c370d45174c1f76190fbb825e6a4cf2f57e07e8932",
-      "learned_at": "2026-10-22T05:26:26+00:00"
-    },
-    {
-      "url": "https://rbi.org.in/home.aspx",
-      "title": "Official website of Reserve Bank of India",
-      "summary": "Title: Official website of Reserve Bank of India URL Source: https://rbi.org.in/home.aspx Markdown Content: [Skip to main content](https://rbi.org.in/home.aspx#mainsection) | 10:56:30 AM Thursday, October 22, 2026 * [![Image 1: Increase Letter Spacing](https://rbi.org.in/images/letspace.png)Not pressed](javascript:__doPostBack('UsrFontCntr$LinkBtnSpace','') \"Increase Letter Spacing\") * [![Image 2: Increase Font Size](https://rbi.org.in/images/font-increase.gif)](javascript:__doPostBack('UsrFontCntr$LinkBtnFontIncrease','') \"Increase Font Size\") * [![Image 3: Regular Font Size](https://rbi.org.in/images/font-reset.gif)](javascript:__doPostBack('UsrFontCntr$LinkBtnFontRegular','') \"Regular Font Size\") * [![Image 4: Decrease Font Size](https://rbi.org.in/images/font-decrease.gif)](javascript:__doPostBack('UsrFontCntr$LinkBtnFontDecrease','') \"Decrease Font Size\") * [![Image 5: Apply Dark Th",
-      "keywords": [
-        "rbi",
-        "https",
-        "org",
-        "aspx",
-        "home",
-        "image",
-        "images",
-        "__dopostback",
-        "javascript",
-        "usrfontcntr",
-        "apply",
-        "font",
-        "gif",
-        "scripts"
-      ],
-      "hash": "750e13615af70cef8fd28156497e716bcf4aadc0369c5df7b7c5c5394ac20d48",
-      "learned_at": "2026-10-22T05:26:32+00:00"
-    },
-    {
-      "url": "https://cab.rbi.org.in/",
-      "title": "College of Agricultural Banking",
-      "summary": "Title: College of Agricultural Banking URL Source: https://cab.rbi.org.in/ Published Time: Thu, 22 Oct 2026 05:26:35 GMT Markdown Content: ![Image 1: banner](https://cab.rbi.org.in/images/mediagallery/Photograph_MCLDP_Sept_21_23_2026.jpg) #### Mid-career Leadership Development Programme (In Campus): September 21-23, 2026 ![Image 2: banner](https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_September_07_10_2026.jpg) #### Leadership Development Programme for Directors on Board of UCBs (In campus): September 07-10, 2026 ![Image 3: banner](https://cab.rbi.org.in/images/mediagallery/Photograph_OPs_Risk_September_07_09.jpg) #### Programme on Operational Resilience & Fraud Prevention for Scheduled Commercial Banks (SCBs): September 07-09, 2026 (in-campus) ![Image 4: banner](https://cab.rbi.org.in/images/mediagallery/Photograph_RBIA_NBFCs_August_24_25.jpg) #### Programme on Risk Based Int",
-      "keywords": [
-        "rbi",
-        "banner",
-        "cab",
-        "https",
-        "image",
-        "org",
-        "images",
-        "mediagallery",
-        "2026",
-        "jpg",
-        "programme",
-        "in-campus",
-        "august",
-        "campus"
-      ],
-      "hash": "f4c80fab3c83446db26388ecd3258ac06c71fb5ef3a42e1e176969070436d092",
-      "learned_at": "2026-10-22T05:26:36+00:00"
-    },
-    {
-      "url": "https://cos.rbi.org.in/",
-      "title": "College of Supervisors",
-      "summary": "Title: College of Supervisors URL Source: https://cos.rbi.org.in/ Markdown Content: Language : [![Image 2: College Of Supervisors Logo](https://cos.rbi.org.in/images/logo.png)](https://cos.rbi.org.in/Default.aspx) Keeping the Financial System Resilient, Future Ready and Crisis Immune * [Home](https://cos.rbi.org.in/default.aspx) * [About Us](https://cos.rbi.org.in/AboutUs.aspx) * [Annual Report](https://cos.rbi.org.in/Notifications.aspx) * [Our Programmes](https://cos.rbi.org.in/programs.aspx) * [Photo Gallery](https://cos.rbi.org.in/PhotoGallery.aspx) * [CoS-InSights](https://cos.rbi.org.in/Insights.aspx) * [Global Conference](https://cos.rbi.org.in/GlobalConference.aspx) * [Contact Us](https://cos.rbi.org.in/Contact.aspx) ![Image 3](https://cos.rbi.org.in/images/ShriSanjayMalhotra.png) Shri Sanjay Malhotra Governor - Reserve Bank of India ##### Message from the Governor – Reserve Bank ",
-      "keywords": [
-        "cos",
-        "https",
-        "org",
-        "rbi",
-        "aspx",
-        "supervisors",
-        "college",
-        "financial",
-        "bank",
-        "reserve",
-        "system",
-        "india",
-        "contact",
-        "continuous"
-      ],
-      "hash": "03f0a4555a5969248b21cfea8c16d46b2f95c8392c0583bdcfdceeaf3ae577f1",
-      "learned_at": "2026-10-22T05:26:42+00:00"
-    },
     {
       "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-large.jpg?w=1024",
       "title": "Roman_BeautyPass2026-large.jpg",
@@ -25197,6 +25055,190 @@
       ],
       "hash": "d89f30bde394cb1c203c909cb3eb7fa0d34ec946f42211413322f758a5fd23c9",
       "learned_at": "2026-11-08T20:23:29+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users",
+      "title": "Privacy Notice for JPL Mobile Application Users | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Privacy Notice for JPL Mobile Application Users | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users Final URL: https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/privacy-notice-for-jpl-mobile-application-users/ Markdown Content: This Privacy Notice describes the personal information the Jet Propulsion Laboratory (JPL) processes to support the functionality of its mobile applications (\"Applications\"). ### What Kinds of Information do We Collect? To provide you with the Applications, we collect information to ensure the Applications' functionality. The types of information we collect depend on the specific Applications that you use. ### Information You Choose to Provide to Us For certain activities, such as when you contact us directly, yo",
+      "keywords": [
+        "information",
+        "applications",
+        "device",
+        "such",
+        "provide",
+        "use",
+        "jpl",
+        "collect",
+        "may",
+        "settings",
+        "content",
+        "cookies",
+        "ids",
+        "including"
+      ],
+      "hash": "3e4cbb53163a03a0d74e725cf615f7338956a99ff88125680f98ff2ddac81fdd",
+      "learned_at": "2026-11-08T23:52:18+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio/editorial-policies/ai",
+      "title": "Artificial Intelligence (AI) | Nature Portfolio",
+      "summary": "Title: Artificial Intelligence (AI) | Nature Portfolio URL Source: https://www.nature.com/nature-portfolio/editorial-policies/ai Markdown Content: **A risk‑assessment framework for responsible AI use in research publishing** Springer Nature supports the responsible and transparent use of artificial intelligence where it strengthens research quality, upholds editorial independence, and preserves the integrity of the scientific and scholarly record. These policies set out a risk‑assessment framework governing how AI may be used across the research and publishing lifecycle, applied consistently to authors, peer reviewers, and editors, while recognising their distinct roles and responsibilities. AI is treated as a supporting technology. Scholarly judgement, accountability, and responsibility always remain human. **Core expectations** Across all editorial roles and activities: * Human account",
+      "keywords": [
+        "use",
+        "framework",
+        "com",
+        "editorial-policies",
+        "https",
+        "policies",
+        "risk",
+        "scholarly",
+        "www",
+        "peer",
+        "research",
+        "reviewers",
+        "roles",
+        "springernature"
+      ],
+      "hash": "292a9c1b4df621387d6025d41a66dab1356e4a40277e2428f3fa55c47d226bce",
+      "learned_at": "2026-11-08T23:52:23+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-research/editorial-policies/reporting-standards",
+      "title": "Reporting standards and availability of data, materials, code and protocols",
+      "summary": "Title: Reporting standards and availability of data, materials, code and protocols URL Source: https://www.nature.com/nature-research/editorial-policies/reporting-standards Final URL: https://www.nature.com/nature-portfolio/editorial-policies/reporting-standards Markdown Content: An inherent principle of publication is that others should be able to replicate and build upon the authors' published claims. A condition of publication in a Nature Portfolio journal is that **authors are required to make materials, data, code, and associated protocols promptly available to readers without undue qualifications.** Any restrictions on the availability of materials or information must be disclosed to the editors at the time of submission. Any restrictions must also be disclosed in the submitted manuscript. After publication, readers who encounter refusal by the authors to comply with these policies",
+      "keywords": [
+        "nature",
+        "com",
+        "editorial-policies",
+        "https",
+        "reporting-standards",
+        "www",
+        "nature-portfolio",
+        "availability",
+        "materials",
+        "authors",
+        "publication",
+        "reporting",
+        "code",
+        "data"
+      ],
+      "hash": "edca0b3ed4303f3e7e4567ae5171f7b373161dcce460d2c1752100284250c322",
+      "learned_at": "2026-11-08T23:52:27+00:00"
+    },
+    {
+      "url": "https://go.nature.com/nature/articles?type=nature-briefing",
+      "title": "Nature",
+      "summary": "Title: Nature URL Source: https://go.nature.com/nature/articles?type=nature-briefing Final URL: https://www.nature.com/ Published Time: Fri, 23 Oct 2026 01:48:49 GMT Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choice",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "content",
+        "search",
+        "cookies",
+        "articles",
+        "use",
+        "authors",
+        "data",
+        "explore",
+        "information",
+        "javascript"
+      ],
+      "hash": "7c19ae9a610059be35692d519d9cc86eff8172d6ae09823f7174699f00e80de8",
+      "learned_at": "2026-11-08T23:52:41+00:00"
+    },
+    {
+      "url": "http://www.jpl.nasa.gov/apps/spaceimages",
+      "title": "JPL Apps | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: JPL Apps | NASA Jet Propulsion Laboratory (JPL) URL Source: http://www.jpl.nasa.gov/apps/spaceimages Final URL: https://www.jpl.nasa.gov/apps/ Markdown Content: ## Mobile Apps ### Space Images [![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/si-app-mockup-rounded-17-adj.width-1024.jpg)](https://d2pn8kiwq2w21t.cloudfront.net/original_images/si-app-mockup-rounded-17-adj.jpg) Discover, share and explore stunning images and videos of space from NASA's Jet Propulsion Laboratory -- now available for iPhone, iPod Touch, iPad and Android devices. * [Download for iPhone](https://apps.apple.com/us/app/space-images/id347075764?platform=iphone) * [Download for iPad](https://apps.apple.com/us/app/space-images/id347075764) ### Satellite Insight [![Image 2: Satellite Insight](https://d2pn8kiwq2w21t.cloudfront.net/images/insight.width-1024.jpg)](https://d2pn8kiwq2w21t.cloudfront.net/origi",
+      "keywords": [
+        "https",
+        "nasa",
+        "apps",
+        "cloudfront",
+        "d2pn8kiwq2w21t",
+        "jpg",
+        "net",
+        "images",
+        "jpl",
+        "app",
+        "com",
+        "devices",
+        "download",
+        "earth"
+      ],
+      "hash": "8ebbe5e89806e0a70721f28a7af52bcedd7714ad82c9201fffda859c5e5c03ad",
+      "learned_at": "2026-11-08T23:52:57+00:00"
+    },
+    {
+      "url": "https://go.nature.com/briefing/assets/site/images/nature_briefing_device_image.png",
+      "title": "Nature",
+      "summary": "Title: Nature URL Source: https://go.nature.com/briefing/assets/site/images/nature_briefing_device_image.png Final URL: https://www.nature.com/ Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies ",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "content",
+        "search",
+        "cookies",
+        "use",
+        "articles",
+        "authors",
+        "data",
+        "explore",
+        "information",
+        "javascript"
+      ],
+      "hash": "026de3204c4ffc41349fa626c3d69a68bdc439be15d0c5a8b15ad5a0a36c1101",
+      "learned_at": "2026-11-08T23:53:05+00:00"
+    },
+    {
+      "url": "https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)",
+      "title": "Error 400 Illegal Path Character",
+      "summary": "Title: Error 400 Illegal Path Character URL Source: https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) Warning: Target URL returned error 400: Bad Request Markdown Content: ## HTTP ERROR 400 Illegal Path Character | URI: | http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) | | --- | | STATUS: | 400 | | MESSAGE: | Illegal Path Character |",
+      "keywords": [
+        "400",
+        "com",
+        "linked-accounts",
+        "my-profile",
+        "springernature",
+        "character",
+        "error",
+        "https",
+        "illegal",
+        "path",
+        "http",
+        "url",
+        "---",
+        "bad"
+      ],
+      "hash": "9732a7e39e8fb2bed25bdc9264a55685fe282bad2a4f1da611d48fa7b72e70de",
+      "learned_at": "2026-11-08T23:53:06+00:00"
+    },
+    {
+      "url": "http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts)",
+      "title": "Error 400 Illegal Path Character",
+      "summary": "Title: Error 400 Illegal Path Character URL Source: http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) Final URL: https://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) Warning: Target URL returned error 400: Bad Request Markdown Content: ## HTTP ERROR 400 Illegal Path Character | URI: | http://my-profile.springernature.com/linked-accounts.](https:/my-profile.springernature.com/linked-accounts) | | --- | | STATUS: | 400 | | MESSAGE: | Illegal Path Character |",
+      "keywords": [
+        "com",
+        "linked-accounts",
+        "my-profile",
+        "springernature",
+        "400",
+        "https",
+        "character",
+        "error",
+        "http",
+        "illegal",
+        "path",
+        "url",
+        "---",
+        "bad"
+      ],
+      "hash": "246f66c1615bef70082ecfb91a5c37f9ad0a41b15d5b431f09ecaeabcbf7c698",
+      "learned_at": "2026-11-08T23:53:09+00:00"
     }
   ],
   "failures": [
@@ -25317,6 +25359,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-08T23:53:09+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-08T23:53:09+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 11,
+      "frontier": 2498
+    },
     {
       "at": "2026-11-08T20:23:29+00:00",
       "kind": "core_unchanged",
@@ -26227,40 +26284,14 @@
       "message": "Crawl cycle learned 3 new pages",
       "attempted": 24,
       "frontier": 1990
-    },
-    {
-      "at": "2026-10-28T12:41:30+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v48",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-28T12:41:30+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 16,
-      "frontier": 2000
     }
   ],
   "metrics": {
-    "successful_fetches": 1446,
+    "successful_fetches": 1454,
     "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 63,
-    "candidate_rejections": 165
+    "candidate_rejections": 166
   },
   "core_genome": {
     "query_weight": 3.0,
