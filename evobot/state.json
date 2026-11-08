@@ -1,17 +1,12 @@
 {
   "schema": 2,
-  "generation": 227,
+  "generation": 228,
   "core_version": 63,
-  "runs": 226,
-  "pages_learned": 1424,
-  "last_run": "2026-11-08T02:14:10+00:00",
+  "runs": 227,
+  "pages_learned": 1432,
+  "last_run": "2026-11-08T09:09:13+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.natureindex.com/nature-index/country-outputs/generate/all/global",
-    "https://www.natureindex.com/nature-index/topics",
-    "https://youtube.com/live/r0lUcm-h9UE",
-    "https://nasa-external-ocomm.box.com/s/gqxrs7trs7uyfmt9ging7s8dsuy7demv",
-    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us",
     "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us](https://support.springer.com/en/support/solutions/articles/6000206179-contact-us)",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E12_art.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E10_art.2e16d0ba.fill-400x400-c50.jpg",
@@ -145,9 +140,6 @@
     "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
     "https://tools.google.com/dlpage/gaoptout?hl=en",
     "https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge",
-    "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
-    "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
-    "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
     "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Sol322B_DeckPan_crop-PIA07372.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
@@ -194,6 +186,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jupiter.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_voyager_nov_2024.2e16d0ba.fill-400x400-c50.jpg",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.ftc.gov/ogc/coppa1.htm",
@@ -206,6 +199,9 @@
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.google.com/intl/en/policies/privacy/",
     "http://www.google.com/policies/technologies/ads/",
+    "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
+    "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
+    "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
     "https://publicationethics.org/",
     "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
@@ -292,21 +288,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://www.nature.com/nature-portfolio/for-authors/write",
-    "https://www.nature.com/nature-portfolio/for-authors/publish",
-    "https://www.nature.com/nature-portfolio/for-authors/transfer",
-    "https://www.nature.com/nature-portfolio/for-authors/communication-and-media-benefits",
-    "https://www.nature.com/nature-portfolio/for-authors/indexing-abstracting",
-    "https://www.nature.com/nature-portfolio/for-authors/in-review",
-    "https://www.springernature.com/gp/librarians/products/journals",
-    "https://www.springernature.com/gp/librarians/products/journals/springer-journals",
-    "https://www.springernature.com/gp/librarians/products/journals/nature-research-journals",
-    "https://www.springernature.com/gp/librarians/products/journals/adis-journals",
-    "https://www.springernature.com/gp/librarians/products/journals/academic-journals-on-nature-com",
-    "https://www.springernature.com/gp/librarians/products/journals/palgrave-journals",
-    "https://www.springernature.com/gp/librarians/products/journals/journal-archives",
-    "https://www.springernature.com/gp/librarians/products/journals/open-access-journals",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_voyager_nov_2024.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_october_dsoc.189927c3.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Sept_von_Karman.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
@@ -2506,7 +2487,26 @@
     "https://www.nature.com/nature-portfolio/about/diversity-commitment",
     "https://www.nature.com/nature-index/nature-index/dist/img/header-logo.f428d335.svg",
     "https://www.nature.com/nature-index/nature-index/dist/img/header-logo.f428d335.svg",
-    "https://www.nature.com/nature-index/nature-index/"
+    "https://www.nature.com/nature-index/nature-index/",
+    "https://www.springernature.com/gp/librarians/products/ebooks",
+    "https://www.springernature.com/gp/researchers/sharedit",
+    "https://www.springernature.com/gp/librarians/products/journals/nature-research-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/adis-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/academic-journals-on-nature-com",
+    "https://www.springernature.com/gp/librarians/products/journals/palgrave-journals",
+    "https://www.springernature.com/gp/librarians/products/journals/journal-archives",
+    "https://www.springernature.com/gp/librarians/products/journals/open-access-journals",
+    "https://www.aje.com/grammar-check/",
+    "https://www.nature.com/nature-portfolio/editorial-policies/preprints-conference-proceedings",
+    "https://www.nature.com/nature-portfolio/for-authors/transfer",
+    "https://www.nature.com/nature-portfolio/for-authors/communication-and-media-benefits",
+    "https://www.nature.com/nature-portfolio/for-authors/indexing-abstracting",
+    "https://www.nature.com/nature-portfolio/for-authors/in-review",
+    "https://www.nature.com/nature-index/nature-index/country-outputs/generate/all/global",
+    "https://www.nature.com/nature-index/nature-index/topics",
+    "https://www.youtube.com/live/r0lUcm-h9UE",
+    "https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us",
+    "https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11241,193 +11241,53 @@
       "at": "2026-11-08T02:14:49+00:00",
       "status": "ok",
       "hash": "4464dd9d7b4c37e344e23b56a3ccb38255be0d2912a21d44a0cf4a9808b91185"
+    },
+    "https://www.springernature.com/gp/librarians/products/journals": {
+      "at": "2026-11-08T09:09:16+00:00",
+      "status": "ok",
+      "hash": "62bcb0d3aa6c286cfcbb399f6b3081d53ccd0f5b3a56417e915da5cd99344093"
+    },
+    "https://www.springernature.com/gp/librarians/products/journals/springer-journals": {
+      "at": "2026-11-08T09:09:19+00:00",
+      "status": "ok",
+      "hash": "98ba2722383545348891b8f075213adcf8ac402140e98db0e29aa5f21d30436d"
+    },
+    "https://www.nature.com/nature-portfolio/for-authors/write": {
+      "at": "2026-11-08T09:09:23+00:00",
+      "status": "ok",
+      "hash": "e3c81ffcf512805caea0f26bffac54f85afa03d761d7726279dbda5bb7d510f2"
+    },
+    "https://www.nature.com/nature-portfolio/for-authors/publish": {
+      "at": "2026-11-08T09:09:27+00:00",
+      "status": "ok",
+      "hash": "27269f48929e7abee522cefcfe9c935b13a89c1144a19c0b2c260582867d3094"
+    },
+    "https://www.natureindex.com/nature-index/country-outputs/generate/all/global": {
+      "at": "2026-11-08T09:09:34+00:00",
+      "status": "ok",
+      "hash": "b8727c8bd1a1a58e3ee03c9ae1bc11af9c014e359497395f76550eb8a46abdd2"
+    },
+    "https://www.natureindex.com/nature-index/topics": {
+      "at": "2026-11-08T09:09:40+00:00",
+      "status": "ok",
+      "hash": "b7fe5075d91f488256fe6f4b62a809a5de86ff0e66731c3fb0649a42248d5773"
+    },
+    "https://youtube.com/live/r0lUcm-h9UE": {
+      "at": "2026-11-08T09:09:49+00:00",
+      "status": "ok",
+      "hash": "e9d2d0b135f32652c94cd0aa2ef5ceb4edb6c82d6d16c239e7567ea3edd84b70"
+    },
+    "https://nasa-external-ocomm.box.com/s/gqxrs7trs7uyfmt9ging7s8dsuy7demv": {
+      "at": "2026-11-08T09:09:49+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us": {
+      "at": "2026-11-08T09:09:53+00:00",
+      "status": "ok",
+      "hash": "c5f49bd7ab70f36da10d61caf90136c85c686057c6f28568c519214ccf66130c"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
-      "title": "ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS/README",
-      "summary": "NOTE: Scripting the terminal interface for automation is a deprecated approach. Instead, use the API documented here: https://ssd-api.jpl.nasa.gov/doc/horizons.html The terminal interfaces are primarily for NON-AUTOMATED interaction: those who prefer to type, do quick look-ups, or be actively prompted through request set-up. However, it does demand fewer resources from the server and client. The scripts here were demonstrations of one way to automate prior to the API, mostly a collection of informal responses to inquiries on how to automate one thing or another. They are now updated as transitional support for users who may have embedded prior versions in their automation and for whom immediate redevelopment to use the API isn't an option. Keyboard warriors may also use them as macros. Scripts for automating some of the Horizons terminal interface functions are listed below. They are ava",
-      "keywords": [
-        "jdg",
-        "expect",
-        "scripts",
-        "updated",
-        "https",
-        "support",
-        "tcl",
-        "terminal",
-        "use",
-        "api",
-        "automation",
-        "ftp",
-        "horizons",
-        "new"
-      ],
-      "hash": "d42f7788701b7042180bc0d6ec049a85d49282b4f277059ca93e6c5cb5861029",
-      "learned_at": "2026-10-21T14:38:38+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets",
-      "title": "NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: NASA JPL Missions – Current, Past & Future | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/missions/?mission_target=Asteroids+and+Comets Markdown Content: ## Search Missions Sort by Showing 1–12 of 12 results 1. [Category: Mission.Category: current. Category: Mission.Category: current. ## Psyche The Psyche mission is a journey to a unique metal-rich asteroid orbiting the Sun between Mars and Jupiter. . Launch date: Oct. 13, 2023 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/missionswebPIA21499-20170523-1.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/missions/psyche/) 2. [Category: Mission.Category: past. Category: Mission.Category: past. ## Near Earth Asteroid Scout The Near-Earth Asteroid Scout was a CubeSat that launched as a secondary payload on Artemis I. . Launch date: September 2022 ![Image 2](https://d2pn8kiwq2w21t.cloudfront",
-      "keywords": [
-        "category",
-        "mission",
-        "https",
-        "nasa",
-        "jpl",
-        "missions",
-        "asteroid",
-        "past",
-        "gov",
-        "www",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-400x400-c50"
-      ],
-      "hash": "e700377aa7f53addea9c7ebec0637ef4aba6fa597b3c1d12f347a4665dcf2986",
-      "learned_at": "2026-10-21T14:38:41+00:00"
-    },
-    {
-      "url": "https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif",
-      "title": "Photojournal - NASA Science",
-      "summary": "Title: Photojournal - NASA Science URL Source: https://photojournal.jpl.nasa.gov/tiff/PIA23554.tif Published Time: 2025-09-29T10:19:25-04:00 Markdown Content: [![Image 10: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 11: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-c",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "69f5336239ddcb42ccfffecbfa84372797c498d3d536dac88417c2f96f7ecfe1",
-      "learned_at": "2026-10-21T14:38:45+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/asteroid-watch/fast-facts/",
-      "title": "Fast Facts | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Fast Facts | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/asteroid-watch/fast-facts/ Markdown Content: What are the differences between an asteroid, comet, meteoroid, meteor, and meteorite? **Asteroid** A relatively small, inactive body orbiting the Sun. Asteroids are typically composed of rocky, dusty, and metallic materials. Most orbit within the main asteroid belt, between the orbits of Mars and Jupiter, but some follow paths that circulate into the inner solar system (including near-Earth asteroids), while others remain outside the orbit of Neptune. **Comet** A relatively small Sun-orbiting body that contains ices that vaporize when it gets close to the Sun and heats up, forming a large visible atmosphere (coma) around the object and, sometimes, a diffuse tail that can be millions of miles long. Comets typically follow long elliptical orbits in whi",
-      "keywords": [
-        "asteroid",
-        "atmosphere",
-        "meteoroid",
-        "small",
-        "earth",
-        "meteor",
-        "sun",
-        "asteroids",
-        "between",
-        "body",
-        "comet",
-        "follow",
-        "jpl",
-        "long"
-      ],
-      "hash": "faf197b43c344447688504b5ac5de48e93f09ebc007084b6ee7fc801b4a216ff",
-      "learned_at": "2026-10-21T14:38:48+00:00"
-    },
-    {
-      "url": "https://eyes.nasa.gov/apps/asteroids/",
-      "title": "Eyes on Asteroids - NASA/JPL",
-      "summary": "Title: Eyes on Asteroids - NASA/JPL URL Source: https://eyes.nasa.gov/apps/asteroids/ Markdown Content: Sun Earth Milky way Observable universe Bennu Apophis Donaldjohanson Eurybates Polymele Leucus Orus Patroclus barycenter Dinkinesh Mars 16 Psyche Tempel 1 Hartley 2 Braille Borrelly Mathilde Eros Patroclus OSIRIS-APEX Lucy Psyche Annefrank Wild 2 Jupiter Menoetius Vesta Ceres 67P/Churyumov-Gerasimenko Venus Mercury Didymos Saturn Uranus Neptune Dactyl Ida Dysnomia Eris Hi'iaka Haumea Namaka Gaspra Lutetia Itokawa Ryugu Moon Callisto Europa Ganymede Deimos Triton 73P/Schwassmann-Wachmann 3 Iapetus Rhea Tethys Titan Ariel Oberon Titania Umbriel Dimorphos Io Phobos Dione Enceladus Mimas Miranda ## Welcome to Eyes on Asteroids! You are looking at a real-time visualization of every known asteroid or comet that is classified as a Near-Earth Object (NEO). With asteroids represented as blue po",
-      "keywords": [
-        "asteroids",
-        "nasa",
-        "time",
-        "asteroid",
-        "select",
-        "comets",
-        "earth",
-        "eyes",
-        "just",
-        "see",
-        "always",
-        "button",
-        "comet",
-        "don"
-      ],
-      "hash": "be816f8424a0f1cdf6b9f4c4bbb5d3cb550a65889a7963e0f72ae7de0f661cba",
-      "learned_at": "2026-10-21T14:38:54+00:00"
-    },
-    {
-      "url": "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620%2C254_subsampling-2.jpg",
-      "title": "magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg",
-      "summary": "Title: magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg URL Source: https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/3d/10/3d10d4d3-3d3d-41db-83d0-da9252f04dbf/magnetotactic.png__1240x510_q85_crop_subject_location-620,254_subsampling-2.jpg Published Time: Thu, 01 May 2025 18:09:37 GMT Markdown Content: A nucleus cluster contain highly textured and varied Cheng cell colonies stained by different fluorophores",
-      "keywords": [
-        "254_subsampling-2",
-        "jpg",
-        "magnetotactic",
-        "png__1240x510_q85_crop_subject_location-620",
-        "2025",
-        "3d10d4d3-3d3d-41db-83d0-da9252f04dbf",
-        "astrobiology",
-        "cell",
-        "cheng",
-        "cluster",
-        "colonies",
-        "contain",
-        "content",
-        "different"
-      ],
-      "hash": "97ac3d18550edc262616b3daf8b62ca465f290e790a34ac740087bdcb70e572e",
-      "learned_at": "2026-10-21T14:38:59+00:00"
-    },
-    {
-      "url": "https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/",
-      "title": "Astrobiology Science Conference 2026",
-      "summary": "Title: Astrobiology Science Conference 2026 URL Source: https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/ Markdown Content: This website is currently being migrated. For the most up-to-date astrobiology news, resources, and community announcements, please visit our new home at [science.nasa.gov/astrobiology](https://science.nasa.gov/astrobiology/) [![Image 1: NASA Astrobiology Logo](https://astrobiology.nasa.gov/static/assets/images/global/nasa-astro-logo@2x.47739212d6ef.png)![Image 2: NASA Astrobiology Mobile Logo](https://astrobiology.nasa.gov/static/assets/images/global/nasa-astro-logo-mobile@2x.c45d61a99d34.png)](https://astrobiology.nasa.gov/) * [About Astrobiology](https://astrobiology.nasa.gov/news/astrobiology-science-conference-2026/) * [Research](https://astrobiology.nasa.gov/research/) * [Missions](https://astrobiology.nasa.gov/news/astrobiology-science-",
-      "keywords": [
-        "astrobiology",
-        "nasa",
-        "gov",
-        "https",
-        "news",
-        "abscicon",
-        "2026",
-        "science",
-        "conference",
-        "image",
-        "astrobiology-science-conference-2026",
-        "logo",
-        "new",
-        "community"
-      ],
-      "hash": "00edf8dc98dccd8e7c192cbbda67a487df0384341418c3f15020b7a7988892b3",
-      "learned_at": "2026-10-21T14:39:00+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/",
-      "title": "Public FTP File Browser",
-      "summary": "Title: Public FTP File Browser URL Source: https://ssd.jpl.nasa.gov/ftp/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) [Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov/faq.html) * [Sitemap](https://ssd.jpl.nasa.gov/sitemap.htm",
-      "keywords": [
-        "https",
-        "jpl",
-        "nasa",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "ftp",
-        "planets",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "ad41626ab87a19b6ca03268dd2cbbc1d825248d538d22cec10b74409bb7e4def",
-      "learned_at": "2026-10-21T18:56:01+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/",
       "title": "ssd.jpl.nasa.gov/ftp/eph/planets/",
@@ -25043,6 +24903,190 @@
       ],
       "hash": "4464dd9d7b4c37e344e23b56a3ccb38255be0d2912a21d44a0cf4a9808b91185",
       "learned_at": "2026-11-08T02:14:49+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/librarians/products/journals",
+      "title": "Journals | For Librarians | Springer Nature",
+      "summary": "Title: Journals | For Librarians | Springer Nature URL Source: https://www.springernature.com/gp/librarians/products/journals Markdown Content: [![Image 9: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 10: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Librarians](https://www.springernature.com/gp/librarians/products/journals#/gp/librarians) * * [Home](https://www.springernature.com/gp) * [Produ",
+      "keywords": [
+        "https",
+        "com",
+        "springernature",
+        "www",
+        "librarians",
+        "journals",
+        "products",
+        "springer",
+        "nature",
+        "group",
+        "reviewers",
+        "support",
+        "app-sn",
+        "authors"
+      ],
+      "hash": "62bcb0d3aa6c286cfcbb399f6b3081d53ccd0f5b3a56417e915da5cd99344093",
+      "learned_at": "2026-11-08T09:09:16+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/librarians/products/journals/springer-journals",
+      "title": "Springer Journals | For Librarians",
+      "summary": "Title: Springer Journals | For Librarians URL Source: https://www.springernature.com/gp/librarians/products/journals/springer-journals Markdown Content: Spearhead of quality, cross discipline content since 1842 Accumulating over 2,900 journals, spanning all subject areas, Springer continues to be the leading research source that is read, referenced and written by experts in the field. Springer is committed to advancing the conversation among researchers and professionals around the world and is also home to the largest portfolio of open access titles from BioMed Central and SpringerOpen. ![Image 1: Download the Springer Journals brochure](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/19055440/data/v2) ## Content that leads the conversation ![Image 2: People and Partners © David Copeman](https://cms-resources.apps.public.k8s.springernature.io/springe",
+      "keywords": [
+        "https",
+        "journals",
+        "springer",
+        "content",
+        "springernature",
+        "image",
+        "com",
+        "research",
+        "apps",
+        "cms-resources",
+        "data",
+        "k8s",
+        "public",
+        "rest"
+      ],
+      "hash": "98ba2722383545348891b8f075213adcf8ac402140e98db0e29aa5f21d30436d",
+      "learned_at": "2026-11-08T09:09:19+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio/for-authors/write",
+      "title": "How to write your paper",
+      "summary": "Title: How to write your paper URL Source: https://www.nature.com/nature-portfolio/for-authors/write Markdown Content: Before you start writing for a Nature Portfolio journal, choose the journal you plan to submit to and read its author instructions (see all [Nature Portfolio journals here](https://www.nature.com/nature-portfolio/about-journals)). Each journal has its own scope, article types,length guidance, figure requirements and submission details. Following the guidelines outlined by the journal you have decided to submit your paper to can help ensure a smoother submission process and will make your paper easier to assess by the editors and also the reviewers should it be selected for external peer review. If you can't find the information you need in the journal's author guidance or the resources below, please contact the journal's editorial office before submitting. Contact detail",
+      "keywords": [
+        "journal",
+        "paper",
+        "information",
+        "make",
+        "nature",
+        "should",
+        "use",
+        "author",
+        "clear",
+        "each",
+        "figure",
+        "guidance",
+        "main",
+        "submit"
+      ],
+      "hash": "e3c81ffcf512805caea0f26bffac54f85afa03d761d7726279dbda5bb7d510f2",
+      "learned_at": "2026-11-08T09:09:23+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio/for-authors/publish",
+      "title": "How to publish your paper",
+      "summary": "Title: How to publish your paper URL Source: https://www.nature.com/nature-portfolio/for-authors/publish Markdown Content: The publication process differs between journals, so always start with the author instructions for the journal you want to submit to. The steps below describe the usual path from preparation to publication in a Nature Portfolio journal. ### How the process works 1. **Choose the right journal.**Check the journal scope, article types, publishing model, fees where relevant, and recent papers. If you are unsure, use the [Springer Nature journal finder](https://link.springer.com/journals) or browse the list of journal on [nature.com](https://www.nature.com/siteindex). 2. **Prepare your manuscript.**Follow the journal instructions. Make sure the manuscript is complete,clear and ready for editorial assessment.For more information, see: [How to write your paper](https://www.",
+      "keywords": [
+        "journal",
+        "nature",
+        "com",
+        "https",
+        "paper",
+        "editor",
+        "information",
+        "manuscript",
+        "www",
+        "agreement",
+        "may",
+        "nature-portfolio",
+        "publishing",
+        "reviewers"
+      ],
+      "hash": "27269f48929e7abee522cefcfe9c935b13a89c1144a19c0b2c260582867d3094",
+      "learned_at": "2026-11-08T09:09:27+00:00"
+    },
+    {
+      "url": "https://www.natureindex.com/nature-index/country-outputs/generate/all/global",
+      "title": "Page not found | Nature Index",
+      "summary": "Title: Page not found | Nature Index URL Source: https://www.natureindex.com/nature-index/country-outputs/generate/all/global Final URL: https://www.nature.com/nature-index/nature-index/country-outputs/generate/all/global Published Time: Fri, 23 Oct 2026 01:48:49 GMT Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information ",
+      "keywords": [
+        "nature-index",
+        "nature",
+        "com",
+        "https",
+        "www",
+        "news",
+        "generate",
+        "global",
+        "news-section",
+        "cookies",
+        "country-outputs",
+        "data",
+        "index",
+        "content"
+      ],
+      "hash": "b8727c8bd1a1a58e3ee03c9ae1bc11af9c014e359497395f76550eb8a46abdd2",
+      "learned_at": "2026-11-08T09:09:34+00:00"
+    },
+    {
+      "url": "https://www.natureindex.com/nature-index/topics",
+      "title": "Page not found | Nature Index",
+      "summary": "Title: Page not found | Nature Index URL Source: https://www.natureindex.com/nature-index/topics Final URL: https://www.nature.com/nature-index/nature-index/topics Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices.",
+      "keywords": [
+        "nature-index",
+        "nature",
+        "com",
+        "https",
+        "www",
+        "news",
+        "news-section",
+        "cookies",
+        "data",
+        "index",
+        "topics",
+        "content",
+        "country",
+        "information"
+      ],
+      "hash": "b7fe5075d91f488256fe6f4b62a809a5de86ff0e66731c3fb0649a42248d5773",
+      "learned_at": "2026-11-08T09:09:40+00:00"
+    },
+    {
+      "url": "https://youtube.com/live/r0lUcm-h9UE",
+      "title": "Sulfur Crystals on Mars: Curiosity’s Happy Accident and Other Surprises (Live Public Talk)",
+      "summary": "Title: Sulfur Crystals on Mars: Curiosity’s Happy Accident and Other Surprises (Live Public Talk) URL Source: https://youtube.com/live/r0lUcm-h9UE Final URL: https://www.youtube.com/live/r0lUcm-h9UE Warning: Target URL returned error 401: Unauthorized Markdown Content: Back [![Image 1](https://www.youtube.com/live/r0lUcm-h9UE)](https://www.youtube.com/ \"YouTube Home\") Skip navigation Search Search with your voice [](https://www.youtube.com/live/r0lUcm-h9UE) [Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Flive%252Fr0lUcm-h9UE&hl=en&ec=65620) [![Image 2](https://www.youtube.com/live/r0lUcm-h9UE)](https://www.youtube.com/ \"YouTube Home\") [](https://www.youtube.com/live/r0lUcm-h9UE) [](https://www.yout",
+      "keywords": [
+        "youtube",
+        "com",
+        "https",
+        "live",
+        "www",
+        "r0lucm-h9ue",
+        "image",
+        "watch",
+        "mars",
+        "accident",
+        "crystals",
+        "curiosity",
+        "happy",
+        "other"
+      ],
+      "hash": "e9d2d0b135f32652c94cd0aa2ef5ceb4edb6c82d6d16c239e7567ea3edd84b70",
+      "learned_at": "2026-11-08T09:09:49+00:00"
+    },
+    {
+      "url": "https://support.springer.com/en/support/solutions/articles/6000206179-contact-us",
+      "title": "Contact Customer Support",
+      "summary": "Title: Contact Customer Support URL Source: https://support.springer.com/en/support/solutions/articles/6000206179-contact-us Final URL: https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us Markdown Content: Select the option most applicable to your query: * [**Journal Publishing Support**](https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us#Journal-Publishing-Support) * **[Authors and Readers](https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us#Authors-and-Readers)** * **[Editors and Peer Reviewers](https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us#Editors-and-Peer-Reviewers)** * **[Book Publishing Support](https://support.springernature.com/en/support/solutions/articles/6000206179-contact-us#Book-Publishing-Support)** * **[Institutional Support](ht",
+      "keywords": [
+        "support",
+        "https",
+        "com",
+        "solutions",
+        "articles",
+        "springernature",
+        "6000206179-contact-us",
+        "journal",
+        "contact",
+        "information",
+        "publishing",
+        "account",
+        "additional",
+        "additional-contact-information"
+      ],
+      "hash": "c5f49bd7ab70f36da10d61caf90136c85c686057c6f28568c519214ccf66130c",
+      "learned_at": "2026-11-08T09:09:53+00:00"
     }
   ],
   "failures": [
@@ -25163,6 +25207,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-08T09:09:53+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-08T09:09:53+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 19,
+      "frontier": 2500
+    },
     {
       "at": "2026-11-08T02:14:49+00:00",
       "kind": "core_unchanged",
@@ -26073,40 +26132,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 16,
       "frontier": 2005
-    },
-    {
-      "at": "2026-10-27T20:56:09+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v47",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-27T20:56:09+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 14,
-      "frontier": 1972
     }
   ],
   "metrics": {
-    "successful_fetches": 1424,
+    "successful_fetches": 1432,
     "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 62,
-    "candidate_rejections": 163
+    "candidate_rejections": 164
   },
   "core_genome": {
     "query_weight": 3.0,
