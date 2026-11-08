@@ -1,18 +1,12 @@
 {
   "schema": 2,
-  "generation": 229,
+  "generation": 230,
   "core_version": 64,
-  "runs": 228,
-  "pages_learned": 1440,
-  "last_run": "2026-11-08T15:58:07+00:00",
+  "runs": 229,
+  "pages_learned": 1446,
+  "last_run": "2026-11-08T20:22:49+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.state.gov/state-sponsors-of-terrorism/",
-    "https://www.dhs.gov/topic/privacy",
-    "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1",
-    "https://www.facebook.com/business/ads/lead-ads",
-    "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/",
-    "https://www.cookiebot.com/",
     "https://www.linkedin.com/company/jet-propulsion-laboratory/",
     "https://www.iaucom4.org/",
     "https://www.twilio.com/en-us/legal/privacy",
@@ -32,6 +26,10 @@
     "https://nasa-external-ocomm.box.com/s/c5uqb8cf2echl9u908up39tuux91iqya",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_financialsupport_01.2026.pdf",
     "https://support.google.com/analytics/answer/6004245?hl=de",
+    "https://www.aggo-conicet.gob.ar/",
+    "https://www.aggo-conicet.gob.ar/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
     "http://www.naturechina.com/",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
@@ -171,16 +169,12 @@
     "https://www.iers.org/",
     "https://www.agu.org/abscicon",
     "https://www.agu.org/abscicon",
-    "https://www.aggo-conicet.gob.ar/",
-    "https://www.aggo-conicet.gob.ar/",
     "https://www.sfi.org.bm/",
     "https://www.nobelprize.org/prizes/physics/2011/summary/",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/jupiter.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jupiter.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_voyager_nov_2024.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_october_dsoc.189927c3.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Sept_von_Karman.2e16d0ba.fill-400x400-c50.jpg",
@@ -289,24 +283,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://www.nature.com/biopharmdeal/",
-    "https://www.nature.com/bjcreports/",
-    "https://www.nature.com/bcj/",
-    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsiteindex",
-    "https://www.nature.com/subjects",
-    "https://www.nature.com/naturecareers",
-    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
-    "https://www.nature.com/nature-portfolio/editorial-policies",
-    "https://www.nature.com/nature-portfolio/editorial-policies",
-    "https://www.nature.com/nature-portfolio/editorial-policies/act-with-integrity",
-    "https://www.nature.com/nature-portfolio/editorial-policies/appealsandcomplaints",
-    "https://www.nature.com/nature-portfolio/editorial-policies/authorship",
-    "https://www.nature.com/nature-portfolio/editorial-policies/clinical-research",
-    "https://www.nature.com/nature-portfolio/editorial-policies/collections-guesteditedcollections-specialissues",
-    "https://www.nature.com/nature-portfolio/editorial-policies/competing-interests",
-    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Feditorial-policies%2Fcommunicate-with-respect",
-    "https://www.nature.com/nature-research/editorial-policies/authorship",
-    "https://www.nature.com/nature-research/editorial-policies/competing-interests",
     "https://www.nature.com/nature-portfolio/editorial-policies/ai",
     "https://www.nature.com/nature-research/editorial-policies/reporting-standards",
     "https://www.nature.com/nature-research/editorial-policies/image-integrity",
@@ -2506,7 +2482,27 @@
     "https://www.conicet.gov.ar/about-the-conicet/?lan=en",
     "https://www.conicet.gov.ar/authorities/?lan=en",
     "https://www.conicet.gov.ar/administrative-structure/?lan=en",
-    "https://www.conicet.gov.ar/institutional-network/?lan=en"
+    "https://www.conicet.gov.ar/institutional-network/?lan=en",
+    "https://www.nature.com/biopharmdeal",
+    "https://www.nature.com/bjcreports.rss",
+    "https://www.nature.com/bcj/",
+    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=c35dbbc8-d784-488f-bb8e-ee41d9337049&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsiteindex",
+    "https://www.nature.com/subjects",
+    "https://www.nature.com/naturecareers",
+    "https://www.nature.com/nature-portfolio/editorial-policies",
+    "https://www.nature.com/nature-portfolio/editorial-policies",
+    "https://www.nature.com/nature-portfolio/editorial-policies/act-with-integrity",
+    "https://www.nature.com/nature-portfolio/editorial-policies/appealsandcomplaints",
+    "https://www.nature.com/nature-portfolio/editorial-policies/authorship",
+    "https://www.nature.com/nature-portfolio/editorial-policies/clinical-research",
+    "https://www.nature.com/nature-portfolio/editorial-policies/collections-guesteditedcollections-specialissues",
+    "https://www.nature.com/nature-portfolio/editorial-policies/competing-interests",
+    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=dfb99018-d5c3-495a-adab-624901080eb4&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Feditorial-policies%2Fcommunicate-with-respect",
+    "https://www.nature.com/nature-research/editorial-policies/authorship",
+    "https://www.nature.com/nature-research/editorial-policies/competing-interests",
+    "https://www.dhs.gov/topics/privacy",
+    "https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/us_flag_small.png",
+    "https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/icon-dot-gov.svg"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11349,147 +11345,59 @@
       "at": "2026-11-08T15:58:58+00:00",
       "status": "ok",
       "hash": "36b74da922a71ff4875616b3b79cc983b3302298aecbf885b53a2d7a4fb22c57"
+    },
+    "https://www.nature.com/biopharmdeal/": {
+      "at": "2026-11-08T20:22:56+00:00",
+      "status": "ok",
+      "hash": "1c0acecbce77b3059419f72f59c9a954086957d26e699c433c43746ebaa4e29f"
+    },
+    "https://www.nature.com/bjcreports/": {
+      "at": "2026-11-08T20:23:00+00:00",
+      "status": "ok",
+      "hash": "754f08a83914ff6cce07c5aa70ddb18a348029f1c9b889be904b59e7a2489d02"
+    },
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsiteindex": {
+      "at": "2026-11-08T20:23:10+00:00",
+      "status": "ok",
+      "hash": "a696ee44a459f211bf8a8a02f7e74ca9151c0a6b535e183d0267fb13155633fe"
+    },
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Feditorial-policies%2Fcommunicate-with-respect": {
+      "at": "2026-11-08T20:23:18+00:00",
+      "status": "ok",
+      "hash": "2f085a2fed569bb81354ce565cb6a81a4e59da504f60c1fcc032a0d56f827dd7"
+    },
+    "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/": {
+      "at": "2026-11-08T20:23:25+00:00",
+      "status": "ok",
+      "hash": "14dcc3010ed7a90e7677ec8c64737d671d4902aaa91481a8ba35d98dfa76068d"
+    },
+    "https://www.state.gov/state-sponsors-of-terrorism/": {
+      "at": "2026-11-08T20:23:25+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.dhs.gov/topic/privacy": {
+      "at": "2026-11-08T20:23:29+00:00",
+      "status": "ok",
+      "hash": "d89f30bde394cb1c203c909cb3eb7fa0d34ec946f42211413322f758a5fd23c9"
+    },
+    "https://www.webofscience.com/wos/woscc/summary/1e384aef-c075-41c4-8c69-d925e16bedb7-025bcd1c/relevance/1": {
+      "at": "2026-11-08T20:23:29+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.facebook.com/business/ads/lead-ads": {
+      "at": "2026-11-08T20:23:29+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/": {
+      "at": "2026-11-08T20:23:29+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.cookiebot.com/": {
+      "at": "2026-11-08T20:23:29+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp",
-      "title": "Sorry: Page not Found",
-      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/eph/planets/de102.bsp#) * [What does SSD d",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "planets",
-        "orbits",
-        "bsp",
-        "de102",
-        "eph",
-        "ftp",
-        "sats",
-        "ephemerides"
-      ],
-      "hash": "a84526d11baf6162f02c3cb4d9fb39ceabaac0b7f0eb9f1d288a7d037357a8d5",
-      "learned_at": "2026-10-22T00:42:52+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/topics/technology/",
-      "title": "Technology at JPL | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Technology at JPL | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/topics/technology/ Markdown Content: JPL's technology development program produces dramatic space and Earth exploration breakthroughs. New technology makes spacecraft more capable, independent, and able to maneuver, solve problems, and decide which intriguing targets to explore, without having to phone home and wait for a reply. Advanced space imaging techniques continue to evolve and reap benefits for those of us on Earth, while we search for life in the universe and on nearby planets, and even on icy Moons of our outer solar system. Our robotics teams fast-forward humanity's quest to study distant locales that may be icy, rocky, steep, and challenging. Caves on the moon and Mars are waiting to be explored. While we dare mighty things, we often have to think small to produce miniaturized spa",
-      "keywords": [
-        "jpl",
-        "technology",
-        "space",
-        "spacecraft",
-        "earth",
-        "mars",
-        "breakthroughs",
-        "developed",
-        "during",
-        "exploration",
-        "explore",
-        "home",
-        "icy",
-        "imaging"
-      ],
-      "hash": "deb44a35d713338d0099f497652234b2cbfb8a47c694b9999b6fb8feac8bb3b5",
-      "learned_at": "2026-10-22T00:42:53+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/intern/resources/",
-      "title": "Internships FAQ – JPL Internships | NASA JPL Education",
-      "summary": "Title: Internships FAQ – JPL Internships | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/intern/resources/ Markdown Content: [](https://www.jpl.nasa.gov/edu/intern/resources/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 6: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 7: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 8: JPL Logo](https://www.jpl.nasa",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "internships",
-        "edu",
-        "image",
-        "students",
-        "_nuxt",
-        "education",
-        "faq",
-        "logo",
-        "svg"
-      ],
-      "hash": "91a7e34f8811ca6ec4f14d14496e0383d58c9e38151a5dd7e2492543f32b4238",
-      "learned_at": "2026-10-22T00:42:58+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/",
-      "title": "Caltech/JPL Privacy Policies and Important Notices | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Caltech/JPL Privacy Policies and Important Notices | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices/ Markdown Content: Unless otherwise noted, Web sites in the domain **jpl.nasa.gov** are managed by the California Institute of Technology in support of the missions and research programs that its Jet Propulsion Laboratory conducts for NASA. This document describes Caltech/JPL's policies on privacy, security, accessibility, linking and copyright. ### **Privacy Policy** This notice provides Caltech/JPL's policy regarding the nature, purpose, use and sharing of any information collected via Web sites in the jpl.nasa.gov domain. NASA's privacy policy is located [here](http://www.nasa.gov/about/highlights/HP_Privacy.html). The information you provide on a Caltech/JPL Web site will be used only for its intended p",
-      "keywords": [
-        "information",
-        "jpl",
-        "caltech",
-        "nasa",
-        "privacy",
-        "act",
-        "collected",
-        "gov",
-        "provide",
-        "email",
-        "may",
-        "notice",
-        "policy",
-        "purpose"
-      ],
-      "hash": "de766d5b1c4c4a9d3d9df3cc3fec1eedc8b3691b207aa2dcb29258f1c53a4e92",
-      "learned_at": "2026-10-22T00:43:04+00:00"
-    },
-    {
-      "url": "http://ilrs.gsfc.nasa.gov/index.html",
-      "title": "ILRS Home Page",
-      "summary": "Title: ILRS Home Page URL Source: http://ilrs.gsfc.nasa.gov/index.html Markdown Content: [![Image 1: photoalt](http://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg)](http://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html) LAGEOS (LAser GEOdynamics Satellite-1), tracked by SLR since May 10, 1976. (Credit: NASA) ![Image 2: 24th International ILRS Workshop on Laser Ranging Announcement, Buenos Aires Argentina, Nov 1-6, 2026.](http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png)24th International ILRS Workshop on Laser Ranging Announcement, Buenos Aires Argentina, Nov 1-6, 2026 Release Date: 08/05/2026 [![Image 3: 24th International ILRS Workshop on Laser Ranging Announcement, Buenos Aires Argentina, Nov 1-6, 2026.](http://ilrs.gsfc.nasa.gov/about/news/ILRS_workshop_2026.png)](http://ilrs.gsfc.nasa.gov/about/news//about/news/ILRS_workshop_2026.png",
-      "keywords": [
-        "ilrs",
-        "workshop",
-        "gov",
-        "nasa",
-        "2026",
-        "gsfc",
-        "http",
-        "https",
-        "laser",
-        "24th",
-        "bkg",
-        "international",
-        "ranging",
-        "1-6"
-      ],
-      "hash": "6ffce775bf8c2c4ac0ac572662cb8df08507709dbdd01527bef14b1957c96589",
-      "learned_at": "2026-10-22T00:43:08+00:00"
-    },
-    {
-      "url": "https://pib.gov.in/headsofpibh.aspx",
-      "title": "शीर्ष विवरण: पत्र सूचना कार्यालय",
-      "summary": "Title: शीर्ष विवरण: पत्र सूचना कार्यालय URL Source: https://pib.gov.in/headsofpibh.aspx Markdown Content: **पीआईबीके****वर्तमान****और****पूर्व प्रमुख** **वर्तमान प्रधान****महानिदेशक****(****पीआरडीजी)** **क्रम****संख्या****नाम****अवधि****तस्वीर** **कब****से****कब****तक** **1.****श्री****धीरेंद्र ओझा****जुलाई, 2024****वर्तमान**![Image 1: श्री धीरेंद्र ओझा](https://static.pib.gov.in/WriteReadData/specificdocs/photo/2025/mar/ph202534512401.jpeg) **पूर्व****प्रधान****महानिदेशक** **क्रम****संख्या****नाम****अवधि****तस्वीर** **कब****से****कब****तक** **1.****श्रीमती****शेफाली बी. शरण****अप्रैल, 2024****जुलाई, 2024**![Image 2: श्रीमती शेफाली बी. शरण](https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg) **2.****श्री****मनीष देसाई****सितम्बर, 2023****मार्च, 2024**![Image 3: श्री मनीष देसाई](https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph20239",
-      "keywords": [
-        "image",
-        "gov",
-        "https",
-        "pib",
-        "static",
-        "writereaddata",
-        "jpg",
-        "userfiles",
-        "2023",
-        "2024",
-        "अगस",
-        "photo",
-        "specificdocs",
-        "फरवर"
-      ],
-      "hash": "7376056b2e43b048715321a826754d13aad15b9bed7831a8c3051e68e7f265a0",
-      "learned_at": "2026-10-22T00:43:22+00:00"
-    },
     {
       "url": "https://therbimuseum.rbi.org.in/",
       "title": "The RBI Museum",
@@ -25151,6 +25059,144 @@
       ],
       "hash": "36b74da922a71ff4875616b3b79cc983b3302298aecbf885b53a2d7a4fb22c57",
       "learned_at": "2026-11-08T15:58:58+00:00"
+    },
+    {
+      "url": "https://www.nature.com/biopharmdeal/",
+      "title": "Biopharma Dealmakers",
+      "summary": "Title: Biopharma Dealmakers URL Source: https://www.nature.com/biopharmdeal/ Final URL: https://www.nature.com/biopharmdeal Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cook",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "www",
+        "biopharmdeal",
+        "content",
+        "search",
+        "cookies",
+        "use",
+        "authors",
+        "data",
+        "explore",
+        "information",
+        "javascript"
+      ],
+      "hash": "1c0acecbce77b3059419f72f59c9a954086957d26e699c433c43746ebaa4e29f",
+      "learned_at": "2026-11-08T20:22:56+00:00"
+    },
+    {
+      "url": "https://www.nature.com/bjcreports/",
+      "title": "BJC Reports",
+      "summary": "Title: BJC Reports URL Source: https://www.nature.com/bjcreports/ Markdown Content: [Skip to main content](https://www.nature.com/bjcreports/#content) Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement # [![Image 2: BJC Reports](https://media.springernature.com/full/nature-cms/uploads/product/bjcreports/header-bcd6dd089fcb614f8ea28021381f2e22.svg)](https://www.nature.com/bjcreports) * [View all journals](https://www.nature.com/siteindex) * [Saved research](https://www.nature.com/saved-research) * [Search](https://www.nature.com/bjcreports/#search-menu) * [Log in](https://idp.nature.com/auth/perso",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "www",
+        "bjcreports",
+        "image",
+        "springernature",
+        "content",
+        "journal",
+        "media",
+        "bjc",
+        "reports",
+        "1038",
+        "3a10"
+      ],
+      "hash": "754f08a83914ff6cce07c5aa70ddb18a348029f1c9b889be904b59e7a2489d02",
+      "learned_at": "2026-11-08T20:23:00+00:00"
+    },
+    {
+      "url": "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsiteindex",
+      "title": "Springer Nature account - log in or register",
+      "summary": "Title: Springer Nature account - log in or register URL Source: https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/siteindex Final URL: https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=c35dbbc8-d784-488f-bb8e-ee41d9337049&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2Fsiteindex Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "springernature",
+        "cookies",
+        "data",
+        "information",
+        "personal",
+        "use",
+        "content",
+        "optional",
+        "parties",
+        "privacy",
+        "redirect_uri"
+      ],
+      "hash": "a696ee44a459f211bf8a8a02f7e74ca9151c0a6b535e183d0267fb13155633fe",
+      "learned_at": "2026-11-08T20:23:10+00:00"
+    },
+    {
+      "url": "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Feditorial-policies%2Fcommunicate-with-respect",
+      "title": "Springer Nature account - log in or register",
+      "summary": "Title: Springer Nature account - log in or register URL Source: https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/nature-portfolio/editorial-policies/communicate-with-respect Final URL: https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=dfb99018-d5c3-495a-adab-624901080eb4&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Feditorial-policies%2Fcommunicate-with-respect Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the ",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "springernature",
+        "cookies",
+        "data",
+        "information",
+        "personal",
+        "use",
+        "content",
+        "optional",
+        "parties",
+        "privacy",
+        "redirect_uri"
+      ],
+      "hash": "2f085a2fed569bb81354ce565cb6a81a4e59da504f60c1fcc032a0d56f827dd7",
+      "learned_at": "2026-11-08T20:23:18+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/",
+      "title": "Advanced Camera for Surveys - NASA Science",
+      "summary": "Title: Advanced Camera for Surveys - NASA Science URL Source: https://science.nasa.gov/mission/hubble/observatory/design/advanced-camera-for-surveys/ Published Time: 2023-01-25T23:16:53-05:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media ",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "14dcc3010ed7a90e7677ec8c64737d671d4902aaa91481a8ba35d98dfa76068d",
+      "learned_at": "2026-11-08T20:23:25+00:00"
+    },
+    {
+      "url": "https://www.dhs.gov/topic/privacy",
+      "title": "Privacy | Homeland Security",
+      "summary": "Title: Privacy | Homeland Security URL Source: https://www.dhs.gov/topic/privacy Final URL: https://www.dhs.gov/topics/privacy Markdown Content: [Skip to main content](https://www.dhs.gov/topics/privacy#main-content) ![Image 1: U.S. flag](https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/us_flag_small.png) An official website of the United States government Here’s how you know Here’s how you know ![Image 2: Government Website](https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/icon-dot-gov.svg) **Official websites use .gov** A **.gov** website belongs to an official government organization in the United States. ![Image 3: Safely connect using HTTPS](https://www.dhs.gov/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/assets/img/icon-https.svg) **Secure .gov websites use HTTPS** A **lock** () or **https://** means you’ve ",
+      "keywords": [
+        "gov",
+        "https",
+        "dhs",
+        "www",
+        "topics",
+        "security",
+        "custom",
+        "dhs_uswds_subtheme",
+        "dhsd8_gov",
+        "image",
+        "news",
+        "official",
+        "privacy",
+        "profiles"
+      ],
+      "hash": "d89f30bde394cb1c203c909cb3eb7fa0d34ec946f42211413322f758a5fd23c9",
+      "learned_at": "2026-11-08T20:23:29+00:00"
     }
   ],
   "failures": [
@@ -25271,6 +25317,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-08T20:23:29+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-08T20:23:29+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 2496
+    },
     {
       "at": "2026-11-08T15:58:58+00:00",
       "kind": "core_promoted",
@@ -26192,29 +26253,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 16,
       "frontier": 2000
-    },
-    {
-      "at": "2026-10-28T05:59:23+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-28T05:59:23+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 15,
-      "frontier": 1998
     }
   ],
   "metrics": {
-    "successful_fetches": 1440,
+    "successful_fetches": 1446,
     "failed_fetches": 23,
     "duplicate_pages": 2,
     "candidate_promotions": 63,
-    "candidate_rejections": 164
+    "candidate_rejections": 165
   },
   "core_genome": {
     "query_weight": 3.0,
