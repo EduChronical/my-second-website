@@ -1,12 +1,14 @@
 {
   "schema": 2,
-  "generation": 233,
+  "generation": 234,
   "core_version": 65,
-  "runs": 232,
-  "pages_learned": 1470,
-  "last_run": "2026-11-09T12:58:16+00:00",
+  "runs": 233,
+  "pages_learned": 1475,
+  "last_run": "2026-11-09T22:56:50+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://link.springer.com/oscar-static/images/brand-hubs/nature-books/tasmine-o-riordan-782bd676aa.jpg",
+    "http://www.google.com/intl/en/policies/privacy/",
     "https://www.aggo-conicet.gob.ar/",
     "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
     "https://apps.apple.com/assets/artwork/1x1.gif",
@@ -14,10 +16,22 @@
     "https://bird.com/en-fr/legal/privacy",
     "https://permutive.com/privacy/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://link.springer.com/privacystatement",
-    "https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
+    "https://www.re3data.org/repository/r3d100010168",
+    "https://cloud.google.com/",
+    "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
+    "https://tools.google.com/dlpage/gaoptout?hl=en",
+    "https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge",
+    "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109",
+    "https://www.google.co.uk/ads/preferences",
+    "https://www.google.co.uk/settings/ads/plugin",
+    "https://link.springer.com/journals/",
+    "https://link.springer.com/saved-research",
+    "https://link.springer.com/journals/",
+    "https://order.springer.com/public/cart",
     "http://www.naturechina.com/",
-    "http://www.google.com/intl/en/policies/privacy/",
+    "http://www.google.com/policies/technologies/ads/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mission_psyche_square.2e16d0ba.fill-400x400-c50.jpg",
@@ -45,23 +59,15 @@
     "https://apps.apple.com/us/iphone/games",
     "https://apps.apple.com/us/iphone/apps",
     "https://apps.apple.com/us/iphone/arcade",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
-    "https://www.re3data.org/repository/r3d100010168",
     "https://astrogeology.usgs.gov/tools/map-a-planet-2",
     "https://news.ycombinator.com/",
     "https://unsplash.com/@thisisengineering",
     "https://github.com/trending",
     "https://cdn.parsely.com/",
     "https://retool.com/",
-    "https://cloud.google.com/",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
     "https://rubriq.com/",
     "https://github.com/autoplot/documentation/wiki/help",
-    "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
-    "https://tools.google.com/dlpage/gaoptout?hl=en",
-    "https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge",
-    "https://maps.google.com/?daddr=4800+Oak+Grove+Drive%2C+MS+114-104Pasadena%2C+CA+91109",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
@@ -90,22 +96,12 @@
     "https://www.agu.org/abscicon",
     "https://www.sfi.org.bm/",
     "https://www.nobelprize.org/prizes/physics/2011/summary/",
-    "https://www.google.co.uk/ads/preferences",
-    "https://www.google.co.uk/settings/ads/plugin",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/von_Karman_June_2024.2e16d0ba.fill-400x400-c50.png",
     "https://apps.apple.com/us/developer/jet-propulsion-laboratory/id347075767?platform=iphone",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://info.orcid.org/privacy-policy/",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12250412/data/v1",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12247642/data/v5",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12247648/data/v3",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12324014/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12324016/data/v1",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12241596/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266704/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266696/data/v2",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.ftc.gov/ogc/coppa1.htm",
@@ -116,7 +112,6 @@
     "http://www.youronlinechoices.com/uk/opt-out-help](http://www.youronlinechoices.com/uk/opt-out-help)",
     "http://www.biomedcentral.com/",
     "http://www.adobe.com/products/acrobat/alternate.html",
-    "http://www.google.com/policies/technologies/ads/",
     "http://www.palgrave.com/",
     "http://www.scientificamerican.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -288,25 +283,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://link.springer.com/journals/",
-    "https://link.springer.com/saved-research",
-    "https://link.springer.com/journals/",
-    "https://link.springer.com/oscar-static/images/brand-hubs/nature-books/nature-books-hero-bf03adc8f5.jpg",
-    "https://link.springer.com/oscar-static/images/brand-hubs/nature-books/harsh-jegadeesan-767aa33973.jpg",
-    "https://link.springer.com/oscar-static/images/brand-hubs/nature-books/tasmine-o-riordan-782bd676aa.jpg",
-    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fnature-books",
-    "https://link.springernature.com/home/",
-    "https://order.springer.com/public/cart",
-    "https://link.springernature.com/home/",
-    "https://authorservices.springernature.com/go/sn/",
-    "https://www.springernature.com/gp/legal/ccpa",
-    "https://group.springernature.com/app-sn/public/images/logo-springernature-group-new.svg",
-    "https://group.springernature.com/app-sn/public/images/logo-springernature-group-new-mobile.svg",
-    "https://group.springernature.com/de/group/about-us/executive-team",
-    "https://group.springernature.com/de/group/about-us/supervisory-board",
-    "https://group.springernature.com/de/group/about-us/corporate-governance",
-    "https://group.springernature.com/de/group/about-us/research-business",
-    "https://group.springernature.com/de/group/about-us/education-business",
     "https://group.springernature.com/de/group/about-us/health-business",
     "https://www.springernature.com/investors-live-de",
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/17511502/data/v3",
@@ -2506,7 +2482,14 @@
     "https://support.google.com/analytics/?hl=de",
     "https://support.google.com/analytics/announcements/10707884",
     "https://support.google.com/analytics/gethelp",
-    "https://www.aggo-conicet.gob.ar/images/menuMobileIzq.png"
+    "https://www.aggo-conicet.gob.ar/images/menuMobileIzq.png",
+    "https://group.springernature.com/de/group/about-us/locations-contact",
+    "https://group.springernature.com/app-sn/public/images/logo-springernature-group-new-mobile.svg",
+    "https://group.springernature.com/de/group/about-us/executive-team",
+    "https://group.springernature.com/de/group/about-us/supervisory-board",
+    "https://group.springernature.com/de/group/about-us/research-business",
+    "https://group.springernature.com/de/group/about-us/education-business",
+    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=5edcb874-f845-4102-9aa5-af59de32d0d9&target_redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fnature-books"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11560,124 +11543,86 @@
       "at": "2026-11-09T12:58:54+00:00",
       "status": "ok",
       "hash": "5138ffea3a03156e091c7ff08959d93834214320e3439bd9473902fe1a2f9ee2"
+    },
+    "https://group.springernature.com/de/group/about-us/corporate-governance": {
+      "at": "2026-11-09T22:56:57+00:00",
+      "status": "ok",
+      "hash": "fcef3cc8f1232a89ec50a391154e834ed2e06fd8c54b3867c945b194e76aee10"
+    },
+    "https://www.springernature.com/gp/legal/ccpa": {
+      "at": "2026-11-09T22:57:00+00:00",
+      "status": "ok",
+      "hash": "cfa93ad136302d78631c6b3814e13b876af86c43aac29adad3b0ce33a0fa21bd"
+    },
+    "https://group.springernature.com/app-sn/public/images/logo-springernature-group-new.svg": {
+      "at": "2026-11-09T22:57:00+00:00",
+      "status": "ok",
+      "hash": "0d46da34c5ac2606274e080fcfd69c0f73aaa58994bfbb5f670fa6adcb896d5a"
+    },
+    "https://link.springernature.com/home/": {
+      "at": "2026-11-09T22:57:01+00:00",
+      "status": "robots_disallow"
+    },
+    "https://authorservices.springernature.com/go/sn/": {
+      "at": "2026-11-09T22:57:04+00:00",
+      "status": "ok",
+      "hash": "b5d2c942d7a2a28dde93a826935ac9f61cb3568b9622eb1397a0a337e6932770"
+    },
+    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fnature-books": {
+      "at": "2026-11-09T22:57:14+00:00",
+      "status": "ok",
+      "hash": "9be1440d5cf5ef1bde74812208005ff581f5047439996357a261700d35f8613c"
+    },
+    "https://link.springer.com/privacystatement": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12250412/data/v1": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12247642/data/v5": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12247648/data/v3": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12324014/data/v2": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12324016/data/v1": {
+      "at": "2026-11-09T22:57:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12241596/data/v2": {
+      "at": "2026-11-09T22:57:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266704/data/v2": {
+      "at": "2026-11-09T22:57:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12266696/data/v2": {
+      "at": "2026-11-09T22:57:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/brand-hubs/nature-books/nature-books-hero-bf03adc8f5.jpg": {
+      "at": "2026-11-09T22:57:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/brand-hubs/nature-books/harsh-jegadeesan-767aa33973.jpg": {
+      "at": "2026-11-09T22:57:16+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
-      "title": "www.nature.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2",
-      "summary": "wOF2\u0000\u0001\u0000\u0000\u0000\u00012@\u0000\u0011\u0000\u0000\u0000\u0002��\u0000\u00011�\u0000\u0003\u0004�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001a�K\u001b��V �P?HVAR� \u0006`?STAT�F\u0000�|/�\u0010 ��P�� 0��\u0002\u00016\u0002$\u0003�L �(\u0000\u0004 \u0005�\u0004\u0007 [���D�\u0004�}�J�c\u001b��)R��;��J?ҍh��CN)�S�(��a�?S��iS�[ %h�/�����I�\u0018c��\u0000@�f�Y5�mN�Y�)��z U�S��N:Š��ψ\u0018Z]J\u0002���ʪ�7���\u001b�m�- [�\u0018\u0017\u0015�0b#�9��\\v\u001b�� 3B�\u0012�����C��d�w��\"��\u0015�]��c�a\\\u0002\u0002\u0016�RĄ�%G�kEq\u0018�A�\b\u000enos�G�_�=0\u0016 ��\u0011\u001ab �J#���&��]�\u0003\u001aE�h��\u0015\u0001C� (�TU\u0017�2UW�� �\u0004gM������y�Nzxv�cyn\"�w�\u0010\u0011�E\u0004ϚR-�����ҘD�Ϻ��/oZt��z{1w8?����2]�v\u001a�JJ~�}��'� ��f�F\\������\"\u0002e뛠8:Up`��7{�K��k�J�Eo0���\u0001+�\u0018�)(�{�.�v}\b���*\u0011-�:�z�����[����\"���� �YI�\u0018�\u0015E��Ǧ���h�a\u0006?���\u0018���982\u0005��ڬ�U]\b�� ��݃{�����9Lf3��׾��U��Ɣ��0ƞ��F�h��%�$]U�L�\u000f��P��D71��F�>t\u0019\"����<���ϝy�Bj�#��D� \u0001f��+�?�S�;��h$F�H����A\\�A b\u0010\u0003 0� #!���-cl�\u0018c�\u0010ۛة��=�ԉ\u0019F��.mݖ$���ǻ�����κ}nׯϯ���K�l�}�ې�\u000eq\u0014G&2 `\b�VcZ�ORaZ٦Y����� *)�? \" *(�(�\u000f>�ⓠ���憩%[n�eIeϖ]Vn�V��^O9���7:@\u0012��\u0018_\u001bv˛�����4\u0012�8��[� �� ����H 0HB ��\u0001\u0004\b\u0010X�\u0001\u0004V@6��8ؖ �(\u000eI��x����9��L���$��(F$\"�A%�T� � � .��\u00017�\u0016Ӧ��\u0006p� �`�I�Ԁ\u0001\u0003\u0006�%;�e���n��",
-      "keywords": [
-        "-cl",
-        "0hb",
-        "0is",
-        "0nqfi",
-        "1mxl",
-        "1w8",
-        "2uw",
-        "2ȶl",
-        "982",
-        "9lf3",
-        "9ȉ3",
-        "aeo",
-        "cyn",
-        "cա6"
-      ],
-      "hash": "9e618e67f07d32064a887e47c2f47c9748ab87f9f1f7391f3131263cd20829c1",
-      "learned_at": "2026-10-22T19:29:29+00:00"
-    },
-    {
-      "url": "https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true%60",
-      "title": "URL Source: https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true`",
-      "summary": "Title: URL Source: https://ssd-api.jpl.nasa.gov/sbwobs.api?sb-kind=a&sb-group=neo&mpc-code=F51&obs-time=2020-06-24&elev-min=30&time-min=10&vmag-max=25&helio-min=0.5&optical=true&fmt-ra-dec=true&mag-required=true` Warning: Target URL returned error 400: Bad Request Markdown Content: {\"code\":\"400\",\"message\":\"boolean value must be 'true', 'false', 'Y', 'N', '1', or '0'\",\"moreInfo\":\"https://ssd-api.jpl.nasa.gov/doc/sbwobs.html\"}",
-      "keywords": [
-        "true",
-        "400",
-        "gov",
-        "https",
-        "jpl",
-        "nasa",
-        "sbwobs",
-        "ssd-api",
-        "url",
-        "2020-06-24",
-        "api",
-        "bad",
-        "boolean",
-        "code"
-      ],
-      "hash": "5f80c9584b59759b45eeafb7e01247081361057fc3ed7d5a3558d4b4cb0674be",
-      "learned_at": "2026-10-22T22:40:53+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/signup/",
-      "title": "NASA JPL Newsletter – Get Space News by Email",
-      "summary": "Title: NASA JPL Newsletter – Get Space News by Email URL Source: https://www.jpl.nasa.gov/signup/ Markdown Content: [](https://www.jpl.nasa.gov/signup/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) JPL NEWS. # JPL Newsletter Sign Up [![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png)](https://d2pn8kiwq2w21t.cloudfron",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "news",
-        "email",
-        "missions",
-        "who-we-are",
-        "image",
-        "summary",
-        "mission_status",
-        "review",
-        "signup"
-      ],
-      "hash": "8130885de674aaf07837169b900aab1b862c1b3071282def74a8344d7db2eea9",
-      "learned_at": "2026-10-22T22:40:59+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/videos/",
-      "title": "Video Gallery",
-      "summary": "Title: Video Gallery URL Source: https://www.jpl.nasa.gov/videos/ Markdown Content: ## Search Video Gallery Sort by Showing 1–12 of 1,352 results Topic Solar System (882) Stars and Galaxies (148) Earth (141) Mars (65) Technology (57) JPL Life (45) Exoplanets (3) Asteroids and Comets (2) Robotics (2) Climate Change (1) Date 2026 (17) 2025 (18) 2024 (53) 2023 (61) 1. [Category: Video.Category: Solar System. Category: Video.Category: Solar System. ## What's Up: October 2026 Skywatching Tips from NASA See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. . Oct. 1, 2026 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/Orionid_Meteor_Shower_2017_Ben.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/videos/whats-up-october-2026-skywatching-tips-from-nasa/) 2. [Category: Video.Category: Solar Syste",
-      "keywords": [
-        "category",
-        "video",
-        "2026",
-        "https",
-        "nasa",
-        "solar",
-        "system",
-        "jpl",
-        "skywatching",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-400x400-c50",
-        "gov"
-      ],
-      "hash": "afbd160a32a43f8ffd877040b9eab84e0552d0c489c2489fb75dbc5e6f431625",
-      "learned_at": "2026-10-22T22:41:02+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2024/10/ntv-spacex-crs-31-falcon9-dragon-overview.png?w=1024",
-      "title": "ntv-spacex-crs-31-falcon9-dragon-overview.png",
-      "summary": "Title: ntv-spacex-crs-31-falcon9-dragon-overview.png URL Source: https://www.nasa.gov/wp-content/uploads/2024/10/ntv-spacex-crs-31-falcon9-dragon-overview.png?w=1024 Published Time: Thu, 22 Oct 2026 22:41:04 GMT Markdown Content: An zoomed in picture about a Falcon 9 rocket and a dragon spacecraft",
-      "keywords": [
-        "ntv-spacex-crs-31-falcon9-dragon-overview",
-        "png",
-        "1024",
-        "2024",
-        "2026",
-        "content",
-        "dragon",
-        "falcon",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "oct"
-      ],
-      "hash": "fdb59e008af17cd22ee9f1264137d4588efa7d30bce0f22db2229e3aeae3c8ee",
-      "learned_at": "2026-10-22T22:41:06+00:00"
-    },
     {
       "url": "https://www.nasa.gov/wp-content/uploads/2015/12/19142591558_21b856821d_o.jpg?w=1024",
       "title": "19142591558_21b856821d_o.jpg",
@@ -25362,6 +25307,121 @@
       ],
       "hash": "5138ffea3a03156e091c7ff08959d93834214320e3439bd9473902fe1a2f9ee2",
       "learned_at": "2026-11-09T12:58:54+00:00"
+    },
+    {
+      "url": "https://group.springernature.com/de/group/about-us/corporate-governance",
+      "title": "Corporate Governance | Springer Nature | Springer Nature Group",
+      "summary": "Title: Corporate Governance | Springer Nature | Springer Nature Group URL Source: https://group.springernature.com/de/group/about-us/corporate-governance Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-statement/11033522) for more information on the use of your personal data. Manage preferences for further information and to",
+      "keywords": [
+        "group",
+        "https",
+        "springernature",
+        "com",
+        "about-us",
+        "nature",
+        "springer",
+        "cookies",
+        "corporate-governance",
+        "data",
+        "geschäftsbereich",
+        "information",
+        "optional",
+        "use"
+      ],
+      "hash": "fcef3cc8f1232a89ec50a391154e834ed2e06fd8c54b3867c945b194e76aee10",
+      "learned_at": "2026-11-09T22:56:57+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/legal/ccpa",
+      "title": "US State Privacy Rights | Springer Nature | Legal information",
+      "summary": "Title: US State Privacy Rights | Springer Nature | Legal information URL Source: https://www.springernature.com/gp/legal/ccpa Final URL: https://www.springernature.com/gp/legal/us-state-privacy-rights Markdown Content: ### 1. NOTICE OF COLLECTION AND USE OF PERSONAL INFORMATION We may collect (and may have collected during the 12-month period prior to the Last Updated date of this US Notice) the following categories of personal information about you: * **Identifiers:** identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; customer number, proprietary ID, unique pseudonym, or user alias; and other forms of persistent or probabilistic identifiers), online identifier, internet protocol address, email address, telephone number, account name, classifications u",
+      "keywords": [
+        "information",
+        "identifiers",
+        "other",
+        "including",
+        "may",
+        "number",
+        "personal",
+        "address",
+        "customer",
+        "identifier",
+        "legal",
+        "notice",
+        "privacy",
+        "purposes"
+      ],
+      "hash": "cfa93ad136302d78631c6b3814e13b876af86c43aac29adad3b0ce33a0fa21bd",
+      "learned_at": "2026-11-09T22:57:00+00:00"
+    },
+    {
+      "url": "https://group.springernature.com/app-sn/public/images/logo-springernature-group-new.svg",
+      "title": "logo-springernature-group-new.svg",
+      "summary": "Title: logo-springernature-group-new.svg URL Source: https://group.springernature.com/app-sn/public/images/logo-springernature-group-new.svg Published Time: Tue, 15 Sep 2026 15:01:14 GMT Markdown Content: A 567x54 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "logo-springernature-group-new",
+        "svg",
+        "2026",
+        "567x54",
+        "app-sn",
+        "avatar",
+        "com",
+        "content",
+        "gmt",
+        "group",
+        "https",
+        "icon",
+        "image",
+        "images"
+      ],
+      "hash": "0d46da34c5ac2606274e080fcfd69c0f73aaa58994bfbb5f670fa6adcb896d5a",
+      "learned_at": "2026-11-09T22:57:00+00:00"
+    },
+    {
+      "url": "https://authorservices.springernature.com/go/sn/",
+      "title": "Manuscript Editing Services: Save 15% | SN Author Services",
+      "summary": "Title: Manuscript Editing Services: Save 15% | SN Author Services URL Source: https://authorservices.springernature.com/go/sn/ Published Time: Thu, 22 Oct 2026 07:40:58 GMT Markdown Content: ![Image 6: logo](blob:http://localhost/4eb6460ab93a7ae1978320dda45af1eb) [](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2) * [Consent](https://authorservices.springernature.com/go/sn/#) * [Details](https://authorservices.springernature.com/go/sn/#) * [[#IABV2SETTINGS#]](https://authorservices.springernature.com/go/sn/#) * [About](https://authorservices.springernature.com/go/sn/#) This website uses cookies We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who m",
+      "keywords": [
+        "https",
+        "com",
+        "authorservices",
+        "springernature",
+        "provider",
+        "cookies",
+        "use",
+        "http",
+        "learn",
+        "new",
+        "opens",
+        "privacy",
+        "website",
+        "window"
+      ],
+      "hash": "b5d2c942d7a2a28dde93a826935ac9f61cb3568b9622eb1397a0a337e6932770",
+      "learned_at": "2026-11-09T22:57:04+00:00"
+    },
+    {
+      "url": "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fnature-books",
+      "title": "Springer Nature account - log in or register",
+      "summary": "Title: Springer Nature account - log in or register URL Source: https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/brands/nature-books Final URL: https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=5edcb874-f845-4102-9aa5-af59de32d0d9&target_redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fnature-books Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Som",
+      "keywords": [
+        "com",
+        "https",
+        "springer",
+        "springernature",
+        "cookies",
+        "data",
+        "information",
+        "personal",
+        "use",
+        "content",
+        "optional",
+        "parties",
+        "privacy",
+        "redirect_uri"
+      ],
+      "hash": "9be1440d5cf5ef1bde74812208005ff581f5047439996357a261700d35f8613c",
+      "learned_at": "2026-11-09T22:57:14+00:00"
     }
   ],
   "failures": [
@@ -25487,6 +25547,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-09T22:57:16+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-09T22:57:16+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 2483
+    },
     {
       "at": "2026-11-09T12:58:54+00:00",
       "kind": "core_unchanged",
@@ -26397,40 +26472,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 2012
-    },
-    {
-      "at": "2026-10-29T01:58:43+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v49",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-10-29T01:58:43+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 21,
-      "frontier": 2010
     }
   ],
   "metrics": {
-    "successful_fetches": 1470,
+    "successful_fetches": 1475,
     "failed_fetches": 24,
     "duplicate_pages": 2,
     "candidate_promotions": 64,
-    "candidate_rejections": 167
+    "candidate_rejections": 168
   },
   "core_genome": {
     "query_weight": 3.0,
