@@ -1,12 +1,14 @@
 {
   "schema": 2,
-  "generation": 235,
+  "generation": 236,
   "core_version": 66,
-  "runs": 234,
-  "pages_learned": 1478,
-  "last_run": "2026-11-10T04:33:40+00:00",
+  "runs": 235,
+  "pages_learned": 1482,
+  "last_run": "2026-11-10T12:56:53+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
     "https://www.aggo-conicet.gob.ar/",
     "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
     "https://apps.apple.com/assets/artwork/1x1.gif",
@@ -14,8 +16,6 @@
     "https://bird.com/en-fr/legal/privacy",
     "https://permutive.com/privacy/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
     "https://www.re3data.org/repository/r3d100010168",
     "https://cloud.google.com/",
     "https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage",
@@ -67,7 +67,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
@@ -113,6 +112,7 @@
     "http://www.adobe.com/products/acrobat/alternate.html",
     "http://www.palgrave.com/",
     "http://www.scientificamerican.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -283,30 +283,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12215948/data/v3",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12215956/data/v2",
-    "https://www.springernature.com/cn/librarians",
-    "https://www.springernature.com/cn/partners",
-    "https://www.springernature.com/cn/societies",
-    "https://www.springernature.com/gp/legal/privacy-statement/11033522",
-    "https://www.springernature.com/de/products",
-    "https://www.springernature.com/de/open-science",
-    "https://www.springernature.com/de/authors",
-    "https://www.springernature.com/de/editors",
-    "https://www.springernature.com/de/reviewers",
-    "https://www.springernature.com/de/policies",
-    "https://www.springernature.com/de/librarians",
-    "https://support.springernature.com/de/support/tickets/new",
-    "https://support.springernature.com/de/support/login",
-    "https://breezythemes.s3-us-west-2.amazonaws.com/springernature/SN_logo.png",
-    "http://www.nature.com/saved-research",
-    "http://www.nature.com/nature/subscribe",
-    "https://www.nature.com/nature.rss",
-    "https://www.nature.com/articles/d41586-026-03383-7",
-    "http://www.nature.com/articles/d41586-026-03416-1",
-    "http://www.nature.com/articles/d41586-026-03417-0",
-    "http://www.nature.com/articles/s41586-026-11175-2",
-    "http://www.nature.com/articles/d41586-026-03438-9",
     "https://media.springernature.com/w290h158/magazine-assets/d41586-026-03416-1/d41586-026-03416-1_53891590.jpg",
     "https://media.springernature.com/w290h158/magazine-assets/d41586-026-03417-0/d41586-026-03417-0_53894962.jpg",
     "https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-11175-2/MediaObjects/41586_2026_11175_Fig1_HTML.png",
@@ -2492,7 +2468,42 @@
     "https://www.springernature.com/cn/open-science/open-access-agreement",
     "https://www.springernature.com/cn/open-science/about",
     "https://www.springernature.com/cn/products/journals",
-    "https://www.springernature.com/cn/products/books"
+    "https://www.springernature.com/cn/products/books",
+    "https://cloud.google.com/terms/data-processing-addendum",
+    "https://cloud.google.com/security/products/recaptcha",
+    "https://www.facebook.com/business/ads/lead-ads](https://www.facebook.com/business/ads/lead-ads).",
+    "https://www.google.co.uk/ads/preferences](https://www.google.co.uk/ads/preferences),",
+    "https://www.google.co.uk/settings/ads/plugin](https://www.google.co.uk/settings/ads/plugin)",
+    "https://support.google.com/analytics/answer/6004245?hl=de%5D%28https%3A%2F%2Fsupport.google.com%2Fanalytics%2Fanswer%2F6004245%3Fhl%3Dde%29",
+    "https://www.springernature.com/cn/rd",
+    "https://www.springernature.com/cn/reviewers",
+    "https://www.springernature.com/cn/book-reviewers",
+    "https://www.springernature.com/cn/booksellers",
+    "https://www.springernature.com/cn/group/careers",
+    "https://www.springernature.com/cn/group/media",
+    "https://www.springernature.com/cn/group",
+    "https://www.springernature.com/cn/librarians/products/journals",
+    "https://www.springernature.com/cn/partners",
+    "https://www.springernature.com/cn/societies",
+    "https://www.springernature.com/de/products",
+    "https://www.springernature.com/de/open-science",
+    "https://www.springernature.com/de/authors",
+    "https://www.springernature.com/de/editors",
+    "https://www.springernature.com/de/reviewers",
+    "https://www.springernature.com/de/policies",
+    "https://www.springernature.com/de/librarians",
+    "https://www.nature.com/nature/collections",
+    "https://www.nature.com/nature/browse-subjects",
+    "https://www.nature.com/nature/journal-staff",
+    "https://www.nature.com/nature/research-cross-journal-editorial-team",
+    "https://www.nature.com/nature/editors",
+    "https://www.nature.com/uploads/product/nature/rss.png",
+    "http://www.nature.com/articles/d41586-026-03416-1",
+    "http://www.nature.com/articles/d41586-026-03417-0",
+    "http://www.nature.com/articles/s41586-026-11175-2",
+    "http://www.nature.com/articles/d41586-026-03438-9",
+    "http://www.nature.com/saved-research",
+    "http://www.nature.com/nature/subscribe"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11694,101 +11705,49 @@
     "http://www.google.com/intl/en/policies/privacy/": {
       "at": "2026-11-10T04:34:07+00:00",
       "status": "robots_disallow"
+    },
+    "https://www.springernature.com/gp/legal/privacy-statement/11033522": {
+      "at": "2026-11-10T12:56:57+00:00",
+      "status": "ok",
+      "hash": "ff55c587e2f525787e6b542e4b0a2685c6800c843362db8ee558025f3256cfe2"
+    },
+    "https://www.springernature.com/cn/librarians": {
+      "at": "2026-11-10T12:57:01+00:00",
+      "status": "ok",
+      "hash": "34c916f42bc9d4270da15433eb4d11e4f05a44120e168627f1b626b54efd964a"
+    },
+    "https://support.springernature.com/de/support/tickets/new": {
+      "at": "2026-11-10T12:57:01+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springernature.com/de/support/login": {
+      "at": "2026-11-10T12:57:01+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.nature.com/articles/d41586-026-03383-7": {
+      "at": "2026-11-10T12:57:07+00:00",
+      "status": "ok",
+      "hash": "67bb760849dd6e08d6d92057ef4a8238ccf6b7e130d8d30bac4bb2f5f6244332"
+    },
+    "https://www.nature.com/nature.rss": {
+      "at": "2026-11-10T12:57:08+00:00",
+      "status": "ok",
+      "hash": "c269d3a7c568a704171006b68938245117d0cfd0b32cd0e7f78bd26d736d822e"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12215948/data/v3": {
+      "at": "2026-11-10T12:57:09+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12215956/data/v2": {
+      "at": "2026-11-10T12:57:09+00:00",
+      "status": "robots_disallow"
+    },
+    "https://breezythemes.s3-us-west-2.amazonaws.com/springernature/SN_logo.png": {
+      "at": "2026-11-10T12:57:09+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg",
-      "title": "Not Found | nature.com",
-      "summary": "Title: Not Found | nature.com URL Source: https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg Warning: Target URL returned error 404: Not Found Markdown Content: [Skip to main content](https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg#content) Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. [![Image 1: Nature](https://www.nature.com/static/images/logos/nature-logo.svg)](https://www.nature.com/) * [View all journals](https://www.nature.com/siteindex) * [Search](https://www.nature.com/app-sn/public/images/logo-springernature-mobile.svg#search-menu) * [Log in](ht",
-      "keywords": [
-        "nature",
-        "com",
-        "https",
-        "www",
-        "search",
-        "authors",
-        "content",
-        "images",
-        "support",
-        "svg",
-        "app-sn",
-        "articles",
-        "found",
-        "html"
-      ],
-      "hash": "4acfbe22927da7a9303f26369d16669cf7f71ab9b34917da4982d68ce99d2100",
-      "learned_at": "2026-10-22T22:41:17+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/robotics-at-jpl/",
-      "title": "Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Robotics Technology at JPL | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/robotics-at-jpl/ Markdown Content: ## Search Robotics at JPL Sort by Showing 1–11 of 11 results 1. [Category: Robot.Category: Robotics. Category: Robot.Category: Robotics. ## EELS (Exobiology Extant Life Surveyor) A versatile, snake-like robot designed for exploration of previously inaccessible terrain . July 24, 2023 ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/2-EELS_in_Mars_Yard_curled.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/robotics-at-jpl/eels/) 2. [Category: Robot.Category: Robotics. Category: Robot.Category: Robotics. ## BRUIE An under-surface rover designed to explore alien oceans . Dec. 22, 2020 ![Image 2](https://d2pn8kiwq2w21t.cloudfront.net/images/BRUIE-new-thumb.2e16d0ba.fill-400x400-c50.jpg)](https://www.jpl.nasa.gov/robotics-at-jpl/bruie/) 3",
-      "keywords": [
-        "category",
-        "robot",
-        "robotics",
-        "https",
-        "jpl",
-        "nasa",
-        "gov",
-        "robotics-at-jpl",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "fill-400x400-c50",
-        "image",
-        "images",
-        "jpg"
-      ],
-      "hash": "5f00dc7a8f81edc1e20c42894720443c64c695cc821049e9fc568c00002ae2c1",
-      "learned_at": "2026-10-23T00:58:53+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/ochmo/food-in-space",
-      "title": "Food in Space - NASA",
-      "summary": "Title: Food in Space - NASA URL Source: https://www.nasa.gov/ochmo/food-in-space Published Time: 2024-07-30T14:51:19Z Markdown Content: ## Yummy Yummy! Food is an essential requirement to sustaining life on and off Earth. However the development and supply of food for spaceflight is necessary for NASA crew for low-earth orbit, but also for as we go beyond and onto Mars. It is necessary to consider all aspects of the food processing, development, packaging, distribution and consumption for provisions provided to crew in spaceflight. Below are some (but not all) helpful resources to consider for development of spaceflight food. ## PDF Downloads ## NASA Space Food Formulations: Rehydratable Foods ## NASA Space Food Formulations: Thermostabilized Foods ## International Space Station Food System (October 2000) ## Space Food Packaging Facts ## NASA, We Have a Challenge and It’s Food Packaging ",
-      "keywords": [
-        "food",
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "space",
-        "image",
-        "uploads",
-        "wp-content",
-        "2015",
-        "jpg",
-        "spaceflight",
-        "view",
-        "1024"
-      ],
-      "hash": "656285e8c7454e16667fb6825cfe62f12bb6628fc066751bc8882b7d292733ca",
-      "learned_at": "2026-10-23T00:59:00+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25",
-      "title": "Small Steps, Giant Leaps Archives - Page 25 of 46 - NASA",
-      "summary": "Title: Small Steps, Giant Leaps Archives - Page 25 of 46 - NASA URL Source: https://www.nasa.gov/podcasts/small-steps-giant-leaps/page/25 Markdown Content: [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources]",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "podcasts",
-        "image",
-        "plus",
-        "apps"
-      ],
-      "hash": "320a8804e44e91d745a1c3b7f1194f5d20ba5fd4a099d401ffcdfc13294633dd",
-      "learned_at": "2026-10-23T00:59:06+00:00"
-    },
     {
       "url": "https://science.nasa.gov/dark-energy",
       "title": "What is Dark Energy? Inside Our Accelerating, Expanding Universe - NASA Science",
@@ -25496,6 +25455,98 @@
       ],
       "hash": "decc8f223f04e2390e1093a624bc66e972226e6ae43f288085a6173ccae7a1d7",
       "learned_at": "2026-11-10T04:34:05+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/legal/privacy-statement/11033522",
+      "title": "Privacy policy - Springer Nature | Legal information",
+      "summary": "Title: Privacy policy - Springer Nature | Legal information URL Source: https://www.springernature.com/gp/legal/privacy-statement/11033522 Final URL: https://www.springernature.com/gp/legal/privacy-statement Markdown Content: This policy was last updated on 21/10/2026. This is the privacy policy (“policy”) for springernature.com which is run and provided Springer-Verlag GmbH, Heidelberg, Zweigniederlassung der Springer-Verlag GmbH Berlin, Europaplatz 3, D-69115 Heidelberg, Germany (**we, us** and **our**). We can also be contacted at[customerservice@springernature.com](mailto:customerservice@springernature.com). We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have ##",
+      "keywords": [
+        "data",
+        "personal",
+        "see",
+        "website",
+        "com",
+        "information",
+        "policy",
+        "springernature",
+        "may",
+        "only",
+        "legal",
+        "processing",
+        "provide",
+        "services"
+      ],
+      "hash": "ff55c587e2f525787e6b542e4b0a2685c6800c843362db8ee558025f3256cfe2",
+      "learned_at": "2026-11-10T12:56:57+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/cn/librarians",
+      "title": "For Librarians China | Springer Nature | For Librarians China",
+      "summary": "Title: For Librarians China | Springer Nature | For Librarians China URL Source: https://www.springernature.com/cn/librarians Markdown Content: [![Image 10: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/cn \"Springer Nature\") [![Image 11: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/cn \"Springer Nature\") * [Librarians](https://www.springernature.com/cn/librarians#/cn/librarians) * * [Home](https://www.springernature.com/cn) * [Products](https://www.springernature.com/cn/products) * [Open science](https://www.springernature.com/cn/open-science) * [What we do](https://www.springernature.com/cn/advancing-discovery) * [Policies](https://www.springernature.com/cn/policies) * [Librarians](https://www.springernature.com/cn/librari",
+      "keywords": [
+        "com",
+        "https",
+        "springernature",
+        "www",
+        "librarians",
+        "journals",
+        "products",
+        "nature",
+        "springer",
+        "group",
+        "reviewers",
+        "support",
+        "app-sn",
+        "authors"
+      ],
+      "hash": "34c916f42bc9d4270da15433eb4d11e4f05a44120e168627f1b626b54efd964a",
+      "learned_at": "2026-11-10T12:57:01+00:00"
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-03383-7",
+      "title": "Elizabeth Holmes film enthrals — but her legacy haunts science",
+      "summary": "Title: Elizabeth Holmes film enthrals — but her legacy haunts science URL Source: https://www.nature.com/articles/d41586-026-03383-7 Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject opti",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "content",
+        "articles",
+        "search",
+        "cookies",
+        "use",
+        "authors",
+        "d41586-026-03383-7",
+        "data",
+        "explore",
+        "information"
+      ],
+      "hash": "67bb760849dd6e08d6d92057ef4a8238ccf6b7e130d8d30bac4bb2f5f6244332",
+      "learned_at": "2026-11-10T12:57:07+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature.rss",
+      "title": "rdf:RDF",
+      "summary": "Title: rdf:RDF URL Source: https://www.nature.com/nature.rss Markdown Content: Nature Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community.http://feeds.nature.com/nature/rss/current Nature Publishing Group en© 2026 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.Nature© 2026 Macmillan Publishers Limited, par",
+      "keywords": [
+        "nature",
+        "com",
+        "1038",
+        "https",
+        "www",
+        "articles",
+        "2026-11-10",
+        "doi",
+        "cdata",
+        "d41586-026-03623-w",
+        "d41586-026-03643-6",
+        "d41586-026-03644-5",
+        "d41586-026-03645-4",
+        "online"
+      ],
+      "hash": "c269d3a7c568a704171006b68938245117d0cfd0b32cd0e7f78bd26d736d822e",
+      "learned_at": "2026-11-10T12:57:08+00:00"
     }
   ],
   "failures": [
@@ -25621,6 +25672,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-10T12:57:09+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-10T12:57:09+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 2497
+    },
     {
       "at": "2026-11-10T04:34:07+00:00",
       "kind": "core_promoted",
@@ -26542,29 +26608,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 1998
-    },
-    {
-      "at": "2026-10-29T15:20:50+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-29T15:20:50+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 0 new pages",
-      "attempted": 24,
-      "frontier": 1988
     }
   ],
   "metrics": {
-    "successful_fetches": 1478,
+    "successful_fetches": 1482,
     "failed_fetches": 24,
     "duplicate_pages": 2,
     "candidate_promotions": 65,
-    "candidate_rejections": 168
+    "candidate_rejections": 169
   },
   "core_genome": {
     "query_weight": 3.0,
