@@ -1,15 +1,12 @@
 {
   "schema": 2,
-  "generation": 238,
+  "generation": 239,
   "core_version": 67,
-  "runs": 237,
-  "pages_learned": 1490,
-  "last_run": "2026-11-11T00:46:30+00:00",
+  "runs": 238,
+  "pages_learned": 1498,
+  "last_run": "2026-11-11T07:15:46+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320",
-    "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
-    "https://apps.apple.com/assets/artwork/1x1.gif",
     "https://apps.apple.com/assets/artwork/1x1.gif",
     "https://bird.com/en-fr/legal/privacy",
     "https://permutive.com/privacy/",
@@ -45,8 +42,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dave-Gallagher_thumb.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dave-Gallagher_thumb.2e16d0ba.fill-640x360-c100.jpg",
     "https://docs.google.com/forms/d/e/1FAIpQLSc2LypsSJUsJ_vnIqqH2JiScOLajz1lyjK4mTiqSAs5GuQobA/viewform",
+    "https://www.fullstory.com/optout/",
+    "https://segment.com/legal/privacy/",
     "http://www.naturechina.com/",
     "http://www.google.com/policies/technologies/ads/",
+    "http://authorservices.springernature.cn/",
     "https://www.aggo-conicet.gob.ar/",
     "https://apps.apple.com/us/iphone/today",
     "https://apps.apple.com/us/ipad/today",
@@ -95,7 +95,6 @@
     "https://www.sfi.org.bm/",
     "https://www.nobelprize.org/prizes/physics/2011/summary/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/von_Karman_June_2024.2e16d0ba.fill-400x400-c50.png",
     "https://apps.apple.com/us/developer/jet-propulsion-laboratory/id347075767?platform=iphone",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
@@ -184,6 +183,10 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jupiter.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Explore_Banner_6.5.26_V4.orig.2e16d0ba.fill-1024x441-c10.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
+    "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
+    "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
+    "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
+    "https://ec.europa.eu/info/law/law-topic/data-protection_en",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.ftc.gov/ogc/coppa1.htm",
@@ -201,13 +204,12 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
+    "http://tools.google.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
-    "https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW",
-    "https://webbtelescope.org/contents/media/images/01H9K3F02AXWNJPRPAPBRSN53P",
-    "https://hubblesite.org/contents/news-releases/2019/news-2019-25.html",
     "https://publicationethics.org/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
@@ -283,30 +285,6 @@
     "http://pds-rings.seti.org/galleries.html",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/26732248/data/v2",
-    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/25984894/data/v3",
-    "https://www.springernature.com/jp",
-    "https://www.springernature.com/gp",
-    "http://authorservices.springernature.com/",
-    "http://authorservices.springernature.cn/",
-    "http://www.google.com/policies/privacy/partners/",
-    "http://tools.google.com/",
-    "https://www.fullstory.com/optout/",
-    "https://segment.com/legal/privacy/",
-    "https://ec.europa.eu/info/law/law-topic/data-protection_en",
-    "https://authorservices.springernature.com/wp-content/uploads/2024/02/2d5a41fa79b4e3467eece45514cff7d11.svg",
-    "https://authorservices.springernature.com/wp-content/uploads/2024/02/32d056a094e0e0f6690fb8ae4aa804931.svg",
-    "https://authorservices.springernature.com/featured-articles/how-to-create-an-effective-graphical-abstract-for-your-research-paper-2/",
-    "https://authorservices.springernature.com/featured-articles/graphical-abstracts-a-visual-way-to-expand-the-reach-of-your-research/",
-    "https://authorservices.springernature.com/featured-articles/five-types-of-research-collaboration-and-how-they-work/",
-    "https://authorservices.springernature.com/featured-articles/getting-the-language-right/",
-    "https://authorservices.springernature.com/featured-articles/preparing-your-manuscript-how-editing-services-improve-your-chances-of-acceptance/",
-    "https://authorservices.springernature.com/featured-articles/scientific-editing-webinar/",
-    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/02/0e9586f1c4c517dd9113d45fc3a79b011-1.jpg?resize=1200%2C450&ssl=1",
-    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/12/SN_Editing_Service_RGB.png?resize=300%2C74&ssl=1",
-    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/03/AJELogo-300x300-1.png?resize=300%2C300&ssl=1",
-    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2015/01/5e1b5acc0b2da933dec92fd58821ecf3.jpg?resize=1024%2C385&ssl=1",
-    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2026/05/How-to-create-an-effective-graphical-abstract-for-your-research-paper-new.jpg?fit=2000%2C637&ssl=1",
     "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2026/05/Graphical-Abstracts_-A-Visual-Way-to-Expand-the-Reach-of-Your-Research-banner.jpg?fit=1440%2C460&ssl=1",
     "https://authorservices.springernature.com/wp-content/uploads/2024/12/cropped-SN_Author_Services_RGB-250x49.png",
     "https://authorservices.springernature.com/english-language-editing/",
@@ -2502,7 +2480,32 @@
     "https://search.springernature.com/web/public/images/logo-snshowcase.svg",
     "https://search.springernature.com/gp/legal/general-terms-of-use/11033520",
     "https://search.springernature.com/gp/legal/privacy-statement/11033522",
-    "https://search.springernature.com/gp/legal/ccpa"
+    "https://search.springernature.com/gp/legal/ccpa",
+    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2015/01/5e1b5acc0b2da933dec92fd58821ecf3.jpg?resize=1024%2C385&ssl=1",
+    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2026/05/How-to-create-an-effective-graphical-abstract-for-your-research-paper-new.jpg?fit=2000%2C637&ssl=1",
+    "https://www.springernature.com/jp/authors",
+    "https://www.springernature.com/jp/editors",
+    "https://www.springernature.com/jp/open-science",
+    "https://www.springernature.com/jp/librarians",
+    "https://www.springernature.com/jp/rd",
+    "https://www.springernature.com/jp/partners",
+    "https://www.springernature.com/jp/products",
+    "https://www.springernature.com/jp/advancing-discovery",
+    "https://group.springernature.com/gp/group/careers",
+    "https://www.springernature.com/gp/advancing-discovery/springboard",
+    "https://authorservices.springernature.com/featured-articles/how-to-create-an-effective-graphical-abstract-for-your-research-paper-2/",
+    "https://authorservices.springernature.com/featured-articles/graphical-abstracts-a-visual-way-to-expand-the-reach-of-your-research/",
+    "https://authorservices.springernature.com/featured-articles/five-types-of-research-collaboration-and-how-they-work/",
+    "https://authorservices.springernature.com/featured-articles/getting-the-language-right/",
+    "https://authorservices.springernature.com/featured-articles/preparing-your-manuscript-how-editing-services-improve-your-chances-of-acceptance/",
+    "https://authorservices.springernature.com/featured-articles/scientific-editing-webinar/",
+    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/12/SN_Editing_Service_RGB.png?resize=300%2C74&ssl=1",
+    "http://authorservices.springernature.com/",
+    "https://www.stsci.edu/files/live/sites/www/files/home/_images/stsci-logo-small-test.png?t=thumbnail",
+    "https://www.stsci.edu/search-results/advanced-search-syntax",
+    "https://www.stsci.edu/home",
+    "https://www.stsci.edu/who-we-are",
+    "https://www.stsci.edu/who-we-are/stsci-annual-reports"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -11824,193 +11827,65 @@
     "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/27838880/v1/height/320": {
       "at": "2026-11-11T00:46:46+00:00",
       "status": "robots_disallow"
+    },
+    "https://authorservices.springernature.com/wp-content/uploads/2024/02/2d5a41fa79b4e3467eece45514cff7d11.svg": {
+      "at": "2026-11-11T07:15:48+00:00",
+      "status": "ok",
+      "hash": "62bcee34add5b03e5bfc08ff9180bbcca7a46caf789dabe05385e4e9d8075684"
+    },
+    "https://authorservices.springernature.com/wp-content/uploads/2024/02/32d056a094e0e0f6690fb8ae4aa804931.svg": {
+      "at": "2026-11-11T07:15:49+00:00",
+      "status": "ok",
+      "hash": "7a34b16ab48b5df73a43df8a226fa382efbcdda6b9553fc888aafe3f311a7b60"
+    },
+    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/02/0e9586f1c4c517dd9113d45fc3a79b011-1.jpg?resize=1200%2C450&ssl=1": {
+      "at": "2026-11-11T07:15:52+00:00",
+      "status": "ok",
+      "hash": "94f643132362aa8e8f39fbe9f3e7d87206e38e1ab119324f2ea9804d17bc9386"
+    },
+    "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/03/AJELogo-300x300-1.png?resize=300%2C300&ssl=1": {
+      "at": "2026-11-11T07:15:54+00:00",
+      "status": "ok",
+      "hash": "063c6eb32017ff9254fa165852618463fa8fec2af7d210dd55e0078b322fddf8"
+    },
+    "https://www.springernature.com/jp": {
+      "at": "2026-11-11T07:15:55+00:00",
+      "status": "ok",
+      "hash": "34f3c354f20357d864ad0f91df55092b3a473efdad6100ac4e6d85a5d69e5221"
+    },
+    "https://www.springernature.com/gp": {
+      "at": "2026-11-11T07:15:55+00:00",
+      "status": "ok",
+      "hash": "cab90551d95796229e3aa58b2e6c138163f37998277ab1d86e5176003bce080d"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/26732248/data/v2": {
+      "at": "2026-11-11T07:15:56+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/25984894/data/v3": {
+      "at": "2026-11-11T07:15:56+00:00",
+      "status": "robots_disallow"
+    },
+    "https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/img/53111766/v1/height/320": {
+      "at": "2026-11-11T07:15:56+00:00",
+      "status": "robots_disallow"
+    },
+    "http://www.google.com/policies/privacy/partners/": {
+      "at": "2026-11-11T07:15:56+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.stsci.edu/jwst/science-execution/program-information?id=1685": {
+      "at": "2026-11-11T07:16:12+00:00",
+      "status": "ok",
+      "hash": "0a673be4f0b37867cf3f36e8ad6a8393aae57ab2df20fcb98e99a30f6304ba93"
+    },
+    "https://apps.apple.com/assets/artwork/1x1.gif": {
+      "at": "2026-11-11T07:16:13+00:00",
+      "status": "ok",
+      "hash": "110c14ba82015349594ba4763049102144800ccc60fa0e6d465c2b0eeb5b46eb"
     }
   },
   "memory": [
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip",
-      "title": "pliocene-co2-l.jpg",
-      "summary": "Title: pliocene-co2-l.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/pliocene-co2-l.jpg?w=800&h=986&fit=clip Markdown Content: Graph that is showing carbon dioxide concentration soaring at a steep rate",
-      "keywords": [
-        "assets",
-        "jpg",
-        "pliocene-co2-l",
-        "science",
-        "2023",
-        "800",
-        "986",
-        "carbon",
-        "climate",
-        "clip",
-        "concentration",
-        "content",
-        "dioxide",
-        "dynamicimage"
-      ],
-      "hash": "f4b52d089245f80666611836064cd65d2f07950e9c653027019659bbdc64ef0e",
-      "learned_at": "2026-10-23T11:18:10+00:00"
-    },
-    {
-      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip",
-      "title": "WildfireBurden4-768px.jpg",
-      "summary": "Title: WildfireBurden4-768px.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/11/WildfireBurden4-768px.jpg?w=768&h=512&fit=clip Markdown Content: The scene shows a beautiful skyline with large trees and a bridge",
-      "keywords": [
-        "assets",
-        "jpg",
-        "science",
-        "wildfireburden4-768px",
-        "2023",
-        "512",
-        "768",
-        "beautiful",
-        "bridge",
-        "climate",
-        "clip",
-        "content",
-        "dynamicimage",
-        "esd"
-      ],
-      "hash": "822d86db792f3ceb1c8c4d11bebcd1100e0741c9b42f9cf90ccc549a8e6f1502",
-      "learned_at": "2026-10-23T11:18:12+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/?search=ISS",
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "summary": "Title: NASA JPL Looks to Next 90 Years of Innovation, Exploration URL Source: https://www.nasa.gov/?search=ISS Markdown Content: Filter Results ### Content Type * Articles * Press Release * Gallery * Topic * People * Mission * Blog ### Categories * Apollo (2444) * ISS Research (2390) * APOD (1733) * Earth Observatory (725) * Humans in Space (566) * Commercial Resupply (545) ### Changed * Last Year (8840) * Last Month (571) * Last Week (31) ### Language * English * Español * We're working continuously to improve our search results. If you aren't finding what you expect, please use our [feedback form](https://touchpoints.app.cloud.gov/touchpoints/5d5606f0/submit) to share the search query and expected result with us so we can improve. * [![Image 1: ISS Virtual Tour - NASA ](https://www.nasa.gov/wp-content/uploads/2023/06/iss-virtual-tour-screenshot.jpg?w=1024) 1 Min Read #### ISS Virtual T",
-      "keywords": [
-        "nasa",
-        "gov",
-        "www",
-        "https",
-        "space",
-        "station",
-        "international",
-        "2023",
-        "iss",
-        "1024",
-        "_https",
-        "image",
-        "jpg",
-        "uploads"
-      ],
-      "hash": "ddfb9e95c6df307a48a4e1df1243576199e1251a22ed581616c649f529bcde14",
-      "learned_at": "2026-10-23T11:18:16+00:00"
-    },
-    {
-      "url": "http://dawn.jpl.nasa.gov/",
-      "title": "Dawn - NASA Science",
-      "summary": "Title: Dawn - NASA Science URL Source: http://dawn.jpl.nasa.gov/ Published Time: 2023-06-16T08:43:19-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ### [Multimed",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "28942c0882992beded45325f9fc691149e33fca5d0662dadb30cb3a0314988e9",
-      "learned_at": "2026-10-23T11:18:22+00:00"
-    },
-    {
-      "url": "http://www.nasa.gov/about/highlights/HP_Privacy.html",
-      "title": "NASA Web Privacy Policy and Important Notices - NASA",
-      "summary": "Title: NASA Web Privacy Policy and Important Notices - NASA URL Source: http://www.nasa.gov/about/highlights/HP_Privacy.html Published Time: 2023-05-03T17:13:40Z Markdown Content: Thank you for visiting NASA and reviewing our policy notices. ## Privacy Policy This notice provides NASA’s policy regarding the nature, purpose, use and sharing of any information collected via this Web site. The information you provide on a NASA Web site will be used only for its intended purpose. We will protect your information consistent with the principles of the Privacy Act, the e-Government act of 2002, the Federal Records Act, and as applicable, the Freedom of Information Act. Submitting information is strictly voluntary. By doing so, you are giving NASA your permission to use the information for the intended purpose. If you do not want to give NASA permission to use your information, simply do not pro",
-      "keywords": [
-        "information",
-        "nasa",
-        "google",
-        "gov",
-        "www",
-        "highlights",
-        "hp_privacy",
-        "html",
-        "https",
-        "privacy",
-        "act",
-        "policy",
-        "analytics",
-        "collected"
-      ],
-      "hash": "9cdbbb1a7cdcddf470425870d830ee728c845d47f074f0117ca48ba96a64e2b7",
-      "learned_at": "2026-10-23T11:18:27+00:00"
-    },
-    {
-      "url": "http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg",
-      "title": "nasa-meatball.svg",
-      "summary": "Title: nasa-meatball.svg URL Source: http://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg Published Time: Fri, 09 Jun 2023 17:34:25 GMT Markdown Content: Lykke bubbels logo",
-      "keywords": [
-        "nasa-meatball",
-        "svg",
-        "svs",
-        "2023",
-        "bubbels",
-        "content",
-        "fri",
-        "gmt",
-        "gov",
-        "gsfc",
-        "http",
-        "images",
-        "jun",
-        "logo"
-      ],
-      "hash": "b9e0181942cfc705c8e20f73e0e6b49bdc572b203b4c7026972e1f9fb9aea4a5",
-      "learned_at": "2026-10-23T11:18:30+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/images/dss-14.jpg",
-      "title": "dss-14.jpg",
-      "summary": "Title: dss-14.jpg URL Source: https://ssd.jpl.nasa.gov/images/dss-14.jpg Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: A large dish is lit up at a night sky",
-      "keywords": [
-        "dss-14",
-        "jpg",
-        "2023",
-        "content",
-        "dish",
-        "gmt",
-        "gov",
-        "https",
-        "images",
-        "jpl",
-        "large",
-        "lit",
-        "markdown",
-        "mon"
-      ],
-      "hash": "f6035a3ed3140b8bdd710af8fd21167a5792f1f5b24f74f45e56871dc55ad05c",
-      "learned_at": "2026-10-23T15:47:24+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/who-we-are/universe/",
-      "title": "Universe Newsletter | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Universe Newsletter | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/who-we-are/universe/ Markdown Content: [](https://jpl.nasa.gov/who-we-are/universe/) Skip to main content [JPL](https://jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesjpl20180629jpl_vista-16.2e16d0ba.fill-1024x441-c10.jpg) Photo of NASA's Jet Propulsion Laboratory",
-      "keywords": [
-        "https",
-        "jpl",
-        "nasa",
-        "gov",
-        "2025",
-        "www",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "net",
-        "documents",
-        "pdf",
-        "who-we-are",
-        "universe",
-        "image"
-      ],
-      "hash": "17bf1a9d0e0cf61400703063a55da742d33ec5765cba3e19437fd3a37677af13",
-      "learned_at": "2026-10-23T15:47:27+00:00"
-    },
     {
       "url": "https://jpl.nasa.gov/who-we-are/media-information/jpl-media-contacts/",
       "title": "JPL Media Contacts | NASA Jet Propulsion Laboratory (JPL)",
@@ -25626,6 +25501,190 @@
       ],
       "hash": "858ec421c31115b57e0d6ad38cf4321b72dc0266147a3b24107e8db73b58b744",
       "learned_at": "2026-11-11T00:46:46+00:00"
+    },
+    {
+      "url": "https://authorservices.springernature.com/wp-content/uploads/2024/02/2d5a41fa79b4e3467eece45514cff7d11.svg",
+      "title": "2d5a41fa79b4e3467eece45514cff7d11.svg",
+      "summary": "Title: 2d5a41fa79b4e3467eece45514cff7d11.svg URL Source: https://authorservices.springernature.com/wp-content/uploads/2024/02/2d5a41fa79b4e3467eece45514cff7d11.svg Published Time: Wed, 21 Feb 2024 19:34:43 GMT Markdown Content: Netherlin County, Oklahoma District Court provided feedback",
+      "keywords": [
+        "2024",
+        "2d5a41fa79b4e3467eece45514cff7d11",
+        "svg",
+        "authorservices",
+        "com",
+        "content",
+        "county",
+        "court",
+        "district",
+        "feb",
+        "feedback",
+        "gmt",
+        "https",
+        "markdown"
+      ],
+      "hash": "62bcee34add5b03e5bfc08ff9180bbcca7a46caf789dabe05385e4e9d8075684",
+      "learned_at": "2026-11-11T07:15:48+00:00"
+    },
+    {
+      "url": "https://authorservices.springernature.com/wp-content/uploads/2024/02/32d056a094e0e0f6690fb8ae4aa804931.svg",
+      "title": "32d056a094e0e0f6690fb8ae4aa804931.svg",
+      "summary": "Title: 32d056a094e0e0f6690fb8ae4aa804931.svg URL Source: https://authorservices.springernature.com/wp-content/uploads/2024/02/32d056a094e0e0f6690fb8ae4aa804931.svg Published Time: Wed, 21 Feb 2024 19:35:18 GMT Markdown Content: A checkmark on top of an oxidized material",
+      "keywords": [
+        "2024",
+        "32d056a094e0e0f6690fb8ae4aa804931",
+        "svg",
+        "authorservices",
+        "checkmark",
+        "com",
+        "content",
+        "feb",
+        "gmt",
+        "https",
+        "markdown",
+        "material",
+        "oxidized",
+        "published"
+      ],
+      "hash": "7a34b16ab48b5df73a43df8a226fa382efbcdda6b9553fc888aafe3f311a7b60",
+      "learned_at": "2026-11-11T07:15:49+00:00"
+    },
+    {
+      "url": "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/02/0e9586f1c4c517dd9113d45fc3a79b011-1.jpg?resize=1200%2C450&ssl=1",
+      "title": "0e9586f1c4c517dd9113d45fc3a79b011-1.jpg",
+      "summary": "Title: 0e9586f1c4c517dd9113d45fc3a79b011-1.jpg URL Source: https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/02/0e9586f1c4c517dd9113d45fc3a79b011-1.jpg?resize=1200,450&ssl=1 Published Time: Wed, 11 Nov 2026 07:15:50 GMT Markdown Content: A man holding one hand touching his glasses smiling very much",
+      "keywords": [
+        "0e9586f1c4c517dd9113d45fc3a79b011-1",
+        "com",
+        "jpg",
+        "1200",
+        "2024",
+        "2026",
+        "450",
+        "authorservices",
+        "content",
+        "glasses",
+        "gmt",
+        "hand",
+        "his",
+        "holding"
+      ],
+      "hash": "94f643132362aa8e8f39fbe9f3e7d87206e38e1ab119324f2ea9804d17bc9386",
+      "learned_at": "2026-11-11T07:15:52+00:00"
+    },
+    {
+      "url": "https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/03/AJELogo-300x300-1.png?resize=300%2C300&ssl=1",
+      "title": "AJELogo-300x300-1.png",
+      "summary": "Title: AJELogo-300x300-1.png URL Source: https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/03/AJELogo-300x300-1.png?resize=300,300&ssl=1 Published Time: Wed, 11 Nov 2026 07:15:52 GMT Markdown Content: An exceptional logo includes a bold book graphic opening up next to the initials AJE",
+      "keywords": [
+        "300",
+        "ajelogo-300x300-1",
+        "com",
+        "png",
+        "2024",
+        "2026",
+        "aje",
+        "authorservices",
+        "bold",
+        "book",
+        "content",
+        "exceptional",
+        "gmt",
+        "graphic"
+      ],
+      "hash": "063c6eb32017ff9254fa165852618463fa8fec2af7d210dd55e0078b322fddf8",
+      "learned_at": "2026-11-11T07:15:54+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/jp",
+      "title": "Springer Nature Japan",
+      "summary": "Title: Springer Nature Japan URL Source: https://www.springernature.com/jp Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-statement/11033522) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [![Image 1: Sp",
+      "keywords": [
+        "com",
+        "https",
+        "springernature",
+        "www",
+        "springer",
+        "cookies",
+        "nature",
+        "data",
+        "information",
+        "optional",
+        "use",
+        "advancing-discovery",
+        "app-sn",
+        "content"
+      ],
+      "hash": "34f3c354f20357d864ad0f91df55092b3a473efdad6100ac4e6d85a5d69e5221",
+      "learned_at": "2026-11-11T07:15:55+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp",
+      "title": "Springer Nature",
+      "summary": "Title: Springer Nature URL Source: https://www.springernature.com/gp Markdown Content: [![Image 1: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 2: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Menu](https://www.springernature.com/gp#) * * [Home](https://www.springernature.com/gp) * [Products](https://www.springernature.com/gp/products) * [Open science](https://www.springernature.com/gp/open-sc",
+      "keywords": [
+        "com",
+        "https",
+        "springernature",
+        "www",
+        "springer",
+        "nature",
+        "search",
+        "group",
+        "products",
+        "reviewers",
+        "support",
+        "advancing-discovery",
+        "app-sn",
+        "authors"
+      ],
+      "hash": "cab90551d95796229e3aa58b2e6c138163f37998277ab1d86e5176003bce080d",
+      "learned_at": "2026-11-11T07:15:55+00:00"
+    },
+    {
+      "url": "https://www.stsci.edu/jwst/science-execution/program-information?id=1685",
+      "title": "Program Information",
+      "summary": "Title: Program Information URL Source: https://www.stsci.edu/jwst/science-execution/program-information?id=1685 Markdown Content: [Skip to main content](https://www.stsci.edu/jwst/science-execution/program-information?id=1685#main-content) [![Image 2: STScI: Space Telescope Science Institute](https://www.stsci.edu/files/live/sites/www/files/home/_images/stsci-logo-small-test.png?t=thumbnail)](https://www.stsci.edu/home) Search Search for news, events, etc. Do not include words like a, and, for, the, etc. [Advanced Query Syntax](https://www.stsci.edu/search-results/advanced-search-syntax) Search Method Content Type Sort By This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply. Menu Menu ## Main Navigation [STScI Home](https://www.stsci.edu/home) * [Who We Are](https://www.sts",
+      "keywords": [
+        "stsci",
+        "https",
+        "www",
+        "edu",
+        "hst",
+        "key-science-themes",
+        "who-we-are",
+        "home",
+        "space-telescope-users-committee",
+        "content",
+        "google",
+        "leadership",
+        "search",
+        "space"
+      ],
+      "hash": "0a673be4f0b37867cf3f36e8ad6a8393aae57ab2df20fcb98e99a30f6304ba93",
+      "learned_at": "2026-11-11T07:16:12+00:00"
+    },
+    {
+      "url": "https://apps.apple.com/assets/artwork/1x1.gif",
+      "title": "1x1.gif",
+      "summary": "Title: 1x1.gif URL Source: https://apps.apple.com/assets/artwork/1x1.gif Published Time: Mon, 19 Oct 2026 20:08:48 GMT Markdown Content: A 1x1 image, likely be a tacker probe",
+      "keywords": [
+        "1x1",
+        "gif",
+        "2026",
+        "apple",
+        "apps",
+        "artwork",
+        "assets",
+        "com",
+        "content",
+        "gmt",
+        "https",
+        "image",
+        "likely",
+        "markdown"
+      ],
+      "hash": "110c14ba82015349594ba4763049102144800ccc60fa0e6d465c2b0eeb5b46eb",
+      "learned_at": "2026-11-11T07:16:13+00:00"
     }
   ],
   "failures": [
@@ -25751,6 +25810,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-11T07:16:13+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-11T07:16:13+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 22,
+      "frontier": 2499
+    },
     {
       "at": "2026-11-11T00:46:46+00:00",
       "kind": "core_promoted",
@@ -26672,29 +26746,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 2009
-    },
-    {
-      "at": "2026-10-30T05:40:37+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-30T05:40:37+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 15,
-      "frontier": 1994
     }
   ],
   "metrics": {
-    "successful_fetches": 1490,
+    "successful_fetches": 1498,
     "failed_fetches": 24,
     "duplicate_pages": 2,
     "candidate_promotions": 66,
-    "candidate_rejections": 170
+    "candidate_rejections": 171
   },
   "core_genome": {
     "query_weight": 3.0,
