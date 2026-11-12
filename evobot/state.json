@@ -1,16 +1,12 @@
 {
   "schema": 2,
-  "generation": 243,
-  "core_version": 68,
-  "runs": 242,
-  "pages_learned": 1530,
-  "last_run": "2026-11-12T10:53:33+00:00",
+  "generation": 244,
+  "core_version": 69,
+  "runs": 243,
+  "pages_learned": 1538,
+  "last_run": "2026-11-12T18:41:01+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.jpl.nasa.gov/news/nasas-next-generation-asteroid-impact-monitoring-system-goes-online",
-    "https://gssr.jpl.nasa.gov/",
-    "https://www.nasa.gov/planetarydefense/neoo",
-    "https://cneos.jpl.nasa.gov/](https://cneos.jpl.nasa.gov/)",
     "https://www.nasa.gov/planetarydefense/overview](https://www.nasa.gov/planetarydefense/overview)",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/mission_psyche_square.2e16d0ba.fill-400x400-c50.jpg",
@@ -25,9 +21,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E7_FLYING_W_INGENUITY-01.33d00db3.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/OnAMission_thumb.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_october_dsoc.189927c3.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Sept_von_Karman.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA25667-CADRE-rock-still-fo.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/von_Karman_June_2024.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
@@ -49,7 +43,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Thwaites.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25439.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
@@ -116,7 +109,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/earthminute_fever-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_quakes-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://esahubble.org/images/heic1215a/",
@@ -128,7 +120,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Who_we_are_montage_2.width-1024.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
+    "https://creativecommons.org/",
+    "https://creativecommons.org/licenses/",
     "http://authorservices.springernature.cn/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
     "https://www.fullstory.com/optout/",
@@ -208,7 +204,6 @@
     "https://usabilla.com/privacy/",
     "https://twitter.com/en/privacy",
     "https://en-gb.facebook.com/policy.php",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
@@ -226,13 +221,10 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_July_2025.pdf",
     "https://www.communicatemagazine.com/article/employer-brand-management-awards-2025-winners-announced/",
     "https://roarmap.eprints.org/",
+    "https://jpl.jobs/",
+    "https://jpl.jobs/university-recruiting",
     "http://www.naturechina.com/",
     "http://www.google.com/policies/technologies/ads/",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
     "http://tools.google.com/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "https://www.aggo-conicet.gob.ar/",
@@ -245,8 +237,6 @@
     "https://www.rutschle.net/tech/sslh/README.html",
     "https://www.protocols.io/",
     "https://astrogeology.usgs.gov/tools/map-a-planet-2",
-    "https://jpl.jobs/",
-    "https://jpl.jobs/university-recruiting",
     "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "https://curl.haxx.se/download.html",
     "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
@@ -259,6 +249,11 @@
     "https://rubriq.cn/",
     "https://ec.europa.eu/consumers/odr/",
     "https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
     "http://www.icontact.com/",
     "http://www.icontact.com/](http://www.icontact.com/)",
     "http://www.expita.com/nomime.html",
@@ -275,6 +270,7 @@
     "http://polac.obspm.fr/llrdatae.html",
     "http://aa.usno.navy.mil/data/index.php",
     "http://pds-rings.seti.org/galleries.html",
+    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://sherpa.ac.uk/juliet/index.php",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
@@ -282,7 +278,6 @@
     "http://www.caltech.edu/",
     "http://www.housing.caltech.edu/",
     "http://www.nap.edu/books/0309060419/html/",
-    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -290,24 +285,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "http://preview.springernature.com/gp/open-research/funding/faqs",
-    "https://creativecommons.org/",
-    "https://creativecommons.org/licenses/",
-    "https://www.springernature.com/gp/open-science/about/benefits",
-    "http://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright",
-    "http://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright",
-    "https://www.nature.com/ncomms/",
-    "https://www.nature.com/static/images/logos/sn-logo-white-c8f7a9c061.svg",
-    "https://www.nature.com/nature-portfolio/about-journals/nature-communications)",
-    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Fabout-journals%2Fnature-communications",
-    "https://www.nature.com/natprogbrainhealth/",
-    "https://www.nature.com/natprogoncology/",
-    "https://www.nature.com/natprogoptphoton/",
-    "https://www.nature.com/natprogsuschem/",
-    "https://www.nature.com/immersive/content/natureprogress/index.html",
-    "https://www.nature.com/nature-portfolio/about-journals/communications-journals",
-    "https://www.nature.com/nature-portfolio/about-journals/npj-series",
-    "https://www.nature.com/nature-portfolio/about-journals/npj-series",
     "https://www.nature.com/nature-portfolio/about-journals/nature",
     "https://www.nature.com/nature-portfolio/about-journals/research-journals",
     "https://www.nature.com/nature-research/editorial-policies/plagiarism",
@@ -2506,7 +2483,28 @@
     "https://www.nature.com/info/legal_notice.html",
     "https://www.jpl.nasa.gov/missions/neowise/",
     "http://www.jpl.nasa.gov/missions/wide-field-infrared-survey-explorer-wise/",
-    "https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/"
+    "https://www.jpl.nasa.gov/missions/near-earth-object-surveyor/",
+    "https://www.springernature.com/gp/open-research/about/oa-effect-hybrid",
+    "https://www.nature.com/press_releases/ncomms-report2014.pdf",
+    "http://image.slidesharecdn.com/creativecommonsapetalkjan2015-150224043812-conversion-gate02/95/why-the-wellcome-trust-supports-the-ccby-licence-9-638.jpg?cb=1424774413",
+    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=1f9df1c9-54e1-4752-9835-d3d24e1ad32a&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Fabout-journals%2Fnature-communications",
+    "https://www.jpl.nasa.gov/news/nasa-analysis-earth-is-safe-from-asteroid-apophis-for-100-plus-years",
+    "https://www.jpl.nasa.gov/news/nasa-spacecraft-provides-insight-into-asteroid-bennus-future-orbit",
+    "https://www.jpl.nasa.gov/news/nasas-next-generation-asteroid-impact-monitoring-system-goes-online/",
+    "https://cneos.jpl.nasa.gov/doc/1950da/",
+    "https://cneos.jpl.nasa.gov/](https:/cneos.jpl.nasa.gov/)",
+    "https://www.nature.com/articles/s41467-026-76127-w",
+    "https://www.nature.com/articles/s41467-026-76456-w",
+    "https://www.nature.com/nature-portfolio/about-journals/nature-communications)",
+    "https://www.nature.com/natprogbrainhealth/",
+    "https://www.nature.com/natprogoncology/",
+    "https://www.nature.com/natprogoptphoton/",
+    "https://www.nature.com/natprogsuschem/",
+    "https://www.nature.com/immersive/content/natureprogress/index.html",
+    "https://www.nature.com/nature-portfolio/about-journals/communications-journals",
+    "https://www.nature.com/nature-portfolio/about-journals/npj-series",
+    "https://science.nasa.gov/planetary-defense-neoo/",
+    "https://science.nasa.gov/planetary-defense-neoo/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12088,193 +12086,69 @@
       "at": "2026-11-12T10:53:58+00:00",
       "status": "ok",
       "hash": "22084899f7ad8434cf62fcb8854317606646283a1eab6e51e0c9873981cafc67"
+    },
+    "https://www.nature.com/static/images/logos/sn-logo-white-c8f7a9c061.svg": {
+      "at": "2026-11-12T18:41:02+00:00",
+      "status": "ok",
+      "hash": "c24944aa51e800ee7d5dd9a8d73afed08af89e27f761a82b69238eec9673dc2b"
+    },
+    "https://www.springernature.com/gp/open-science/about/benefits": {
+      "at": "2026-11-12T18:41:05+00:00",
+      "status": "ok",
+      "hash": "ce6ffc5d0528d3e57a3a612ebffc5204588c17be624f0a88a2de12c059337de2"
+    },
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Fabout-journals%2Fnature-communications": {
+      "at": "2026-11-12T18:41:14+00:00",
+      "status": "ok",
+      "hash": "e3b34885eaf107a4820ce28d17eef939b1cbd97796abf242492b9e6a55fa2221"
+    },
+    "http://preview.springernature.com/gp/open-research/funding/faqs": {
+      "at": "2026-11-12T18:41:15+00:00",
+      "status": "robots_disallow"
+    },
+    "http://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright": {
+      "at": "2026-11-12T18:41:20+00:00",
+      "status": "ok",
+      "hash": "35be31f421678d83b417416e0fc46f9c1d9932e5774a2c5a551cc3190abbc949"
+    },
+    "https://www.jpl.nasa.gov/news/nasas-next-generation-asteroid-impact-monitoring-system-goes-online": {
+      "at": "2026-11-12T18:41:24+00:00",
+      "status": "ok",
+      "hash": "b6a02722ceef84b5c33f417684f16459ddaf3aa06d23139123d0f5d6238fbcc5"
+    },
+    "https://gssr.jpl.nasa.gov/": {
+      "at": "2026-11-12T18:41:24+00:00",
+      "status": "blocked_nonpublic"
+    },
+    "https://cneos.jpl.nasa.gov/](https://cneos.jpl.nasa.gov/)": {
+      "at": "2026-11-12T18:41:26+00:00",
+      "status": "ok",
+      "hash": "91e6c73e83678701db286fcb49a1f5b2a600ffcab055db897b0a9aba1eb15dc5"
+    },
+    "https://www.nature.com/ncomms/": {
+      "at": "2026-11-12T18:41:31+00:00",
+      "status": "ok",
+      "hash": "5e170d6d15dc34eb84a03e9f578dd0ab8b78816d86ddc7d1ba9dbb28391b0efd"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Sept_von_Karman.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T18:41:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/von_Karman_June_2024.2e16d0ba.fill-400x400-c50.png": {
+      "at": "2026-11-12T18:41:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Theodore_von_K.7821ac94.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-12T18:41:31+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.nasa.gov/planetarydefense/neoo": {
+      "at": "2026-11-12T18:41:35+00:00",
+      "status": "ok",
+      "hash": "c5a2e4b7db43c75fd10cbde8337851a11cbaeb67f3038e83cc62860fdc2d52da"
     }
   },
   "memory": [
-    {
-      "url": "https://www.springernature.com/gp/open-science",
-      "title": "Open science and open access",
-      "summary": "Title: Open science and open access URL Source: https://www.springernature.com/gp/open-science Markdown Content: [![Image 1: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 2: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Open science](https://www.springernature.com/gp/open-science#/gp/open-science) * * [Home](https://www.springernature.com/gp) * [Products](https://www.springernature.com/gp/produ",
-      "keywords": [
-        "https",
-        "com",
-        "springernature",
-        "www",
-        "open-science",
-        "open",
-        "science",
-        "springer",
-        "nature",
-        "group",
-        "reviewers",
-        "support",
-        "app-sn",
-        "authors"
-      ],
-      "hash": "402e485af2c504e2a1a30d554d48f8f6db7dd55622231d9db7d8dbd23ed310e3",
-      "learned_at": "2026-10-24T05:46:47+00:00"
-    },
-    {
-      "url": "https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997",
-      "title": "Checking your browser...",
-      "summary": "Title: Checking your browser... URL Source: https://nasa.tumblr.com/post/166574134169/why-webb-needs-to-chill?linkId=43755997 Warning: Target URL returned error 403: Forbidden Markdown Content: # Checking your browser This will only take a few seconds...",
-      "keywords": [
-        "browser",
-        "checking",
-        "url",
-        "166574134169",
-        "403",
-        "43755997",
-        "com",
-        "content",
-        "error",
-        "few",
-        "forbidden",
-        "https",
-        "linkid",
-        "markdown"
-      ],
-      "hash": "dff211e76e09803b4e9f7a3cefadbf51fba11a928cef6d6b2a7c28a3c7c8c323",
-      "learned_at": "2026-10-24T05:46:50+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/planets/approx_pos.html",
-      "title": "Approximate Positions of the Planets",
-      "summary": "Title: Approximate Positions of the Planets URL Source: https://ssd.jpl.nasa.gov/planets/approx_pos.html Markdown Content: ### Introduction Lower accuracy formulae for planetary positions have a number of important applications when one doesn’t need the full accuracy of an integrated ephemeris. They are often used in observation scheduling, telescope pointing, and prediction of certain phenomena as well as in the planning and design of spacecraft missions. Approximate positions of the planets may be found by using Keplerian formulae with their associated elements and rates. Such elements are not intended to represent any sort of mean; they are simply the result of being adjusted for a best fit. As such, it must be noted that the elements are not valid outside the given time-interval over which they were fit. High precision ephemerides for the planets are available via the [Horizons syste",
-      "keywords": [
-        "degrees",
-        "cdot",
-        "elements",
-        "overset",
-        "planets",
-        "1000",
-        "century",
-        "arcsec",
-        "longitude",
-        "mean",
-        "positions",
-        "100",
-        "600",
-        "accuracy"
-      ],
-      "hash": "3ee3bccbd79ac8dfe15dbcaf8aa2ef78c78d7bc4038e8ef1df7685fe407880d3",
-      "learned_at": "2026-10-24T09:51:34+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/planets/eph_export.html",
-      "title": "JPL Planetary and Lunar Ephemerides",
-      "summary": "Title: JPL Planetary and Lunar Ephemerides URL Source: https://ssd.jpl.nasa.gov/planets/eph_export.html Markdown Content: ******************************************************************************* JPL PLANETARY AND LUNAR EPHEMERIDES : Export Information [21 December 2020] ******************************************************************************* INTRODUCTION JPL planetary ephemerides are generally created to support spacecraft missions to the planets. Selected ephemerides are recommended for more general use. The latest JPL ephemeris with fully consistent treatment of planetary and lunar laser ranging data is DE440 (Park et al., 2021). The dynamical model for DE440 includes a frictional damping between the fluid core and the elastic mantle. This damping term is not suitable for extrapolation more than several centuries into the past. In order to cover a longer time span, the ep",
-      "keywords": [
-        "jpl",
-        "planetary",
-        "positions",
-        "de440",
-        "ephemerides",
-        "ephemeris",
-        "lunar",
-        "planets",
-        "astronomical",
-        "damping",
-        "de441",
-        "files",
-        "time",
-        "units"
-      ],
-      "hash": "5f6648790e23597e29847a3d558e49021f6d385cdfecb2150e409608db54a42a",
-      "learned_at": "2026-10-24T09:51:36+00:00"
-    },
-    {
-      "url": "https://eyes.nasa.gov/dsn/images/intro/images/intro/deep-space-network-logo@2x.png",
-      "title": "Deep Space Network Now",
-      "summary": "Title: Deep Space Network Now URL Source: https://eyes.nasa.gov/dsn/images/intro/images/intro/deep-space-network-logo@2x.png Markdown Content: [![Image 1: NASA](https://eyes.nasa.gov/dsn/images/intro/images/intro/images/intro/deep-space-network-logo@2x.png)](https://eyes.nasa.gov/dsn/images/intro/images/intro/dsn.html) ## The real time status of communications with our deep space explorers ### Welcome to \"Deep Space Network Now\" At three sites around the globe NASA's Jet Propulsion Laboratory operates a network of large radio antennas called the DSN. The DSN is used to keep in contact with the spacecraft exploring our solar system and the universe beyond. This online tool will let you see what the DSN is up to right now. Which antennas are currently in use? Which spacecraft are talking to us? How quickly is data being received? How long does a signal take to get there, and back? The grid",
-      "keywords": [
-        "dsn",
-        "images",
-        "intro",
-        "nasa",
-        "spacecraft",
-        "network",
-        "antennas",
-        "deep",
-        "eyes",
-        "gov",
-        "https",
-        "now",
-        "space",
-        "time"
-      ],
-      "hash": "4c08a159356cd5b6f220953b6baf71c74ded51c13417cd309266346bf3784dac",
-      "learned_at": "2026-10-24T09:51:38+00:00"
-    },
-    {
-      "url": "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/",
-      "title": "Coordinated Data Analysis Web (CDAWeb)",
-      "summary": "Title: Coordinated Data Analysis Web (CDAWeb) URL Source: http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/ Published Time: Fri, 23 Oct 2026 13:08:34 GMT Markdown Content: ![Image 1](http://cdaweb.gsfc.nasa.gov/images/us_flag_small.png) An official website of the United States government Here’s how you know Here’s how you know ![Image 2](http://cdaweb.gsfc.nasa.gov/images/icon-dot-gov.svg) **Official websites use .gov** A **.gov** website belongs to an official government organization in the United States. ![Image 3](http://cdaweb.gsfc.nasa.gov/images/icon-https.svg) **Secure .gov websites use HTTPS** A **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Menu![Image 4: Close](http://cdaweb.gsfc.nasa.gov/images/close.svg) [![Image 5: NASA Logo](http://cdaweb.gsfc.nasa.gov/images/NASA_Insignia-RGB-2023.png)]",
-      "keywords": [
-        "gov",
-        "cdaweb",
-        "nasa",
-        "gsfc",
-        "http",
-        "https",
-        "data",
-        "html",
-        "spdf",
-        "image",
-        "images",
-        "official",
-        "svg",
-        "missions"
-      ],
-      "hash": "352456adbad3eb2135165a815eeb7f5e5985d866091e3d4aa30b00ce3888f471",
-      "learned_at": "2026-10-24T09:51:54+00:00"
-    },
-    {
-      "url": "http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/)",
-      "title": "404 Not Found",
-      "summary": "Title: 404 Not Found URL Source: http://cdaweb.gsfc.nasa.gov/cdaweb/lunar/](http:/cdaweb.gsfc.nasa.gov/cdaweb/lunar/) Warning: Target URL returned error 404: Not Found Markdown Content: # Not Found The requested URL was not found on this server.",
-      "keywords": [
-        "cdaweb",
-        "found",
-        "url",
-        "404",
-        "gov",
-        "gsfc",
-        "http",
-        "lunar",
-        "nasa",
-        "content",
-        "error",
-        "markdown",
-        "requested",
-        "returned"
-      ],
-      "hash": "a68faed8e32608a02e9271f5e2f7e461555ba33c925d174e240cd5688dc3574d",
-      "learned_at": "2026-10-24T09:51:55+00:00"
-    },
-    {
-      "url": "http://naif.jpl.nasa.gov/naif/toolkit.html",
-      "title": "SPICE Toolkit",
-      "summary": "Title: SPICE Toolkit URL Source: http://naif.jpl.nasa.gov/naif/toolkit.html Markdown Content: The current SPICE Toolkit version is **N0067**, released January 3, 2022. The Toolkit license and other important considerations are contained within [these rules](https://naif.jpl.nasa.gov/naif/rules.html). The SPICE Toolkit is comprised of several items. 1. A large collection of user-level application program interfaces (APIs) and underlying subroutines and functions, provided as source code with extensive user-focused documentation (code headers). 2. A ready-to-use library made from the APIs, subroutines and functions described in 1. 3. A small set of ready-built utility (application) programs, along with their associated User Guides. These are programs thought to be of use to many SPICE users. (Additional utility programs are available from the [Utilities link](https://naif.jpl.nasa.gov/naif",
-      "keywords": [
-        "naif",
-        "gov",
-        "jpl",
-        "nasa",
-        "toolkit",
-        "html",
-        "spice",
-        "http",
-        "https",
-        "toolkits",
-        "programs",
-        "pdf",
-        "utility",
-        "apis"
-      ],
-      "hash": "0f6b646a1d7a0c898a1392fa327d11c48264fd108e1ea0ff485b5f88b9f538be",
-      "learned_at": "2026-10-24T09:51:58+00:00"
-    },
     {
       "url": "http://naif.jpl.nasa.gov/",
       "title": "An Observation",
@@ -25890,6 +25764,190 @@
       ],
       "hash": "22084899f7ad8434cf62fcb8854317606646283a1eab6e51e0c9873981cafc67",
       "learned_at": "2026-11-12T10:53:58+00:00"
+    },
+    {
+      "url": "https://www.nature.com/static/images/logos/sn-logo-white-c8f7a9c061.svg",
+      "title": "sn-logo-white-c8f7a9c061.svg",
+      "summary": "Title: sn-logo-white-c8f7a9c061.svg URL Source: https://www.nature.com/static/images/logos/sn-logo-white-c8f7a9c061.svg Markdown Content: A 140x13 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "sn-logo-white-c8f7a9c061",
+        "svg",
+        "140x13",
+        "avatar",
+        "com",
+        "content",
+        "https",
+        "icon",
+        "image",
+        "images",
+        "likely",
+        "logo",
+        "logos",
+        "markdown"
+      ],
+      "hash": "c24944aa51e800ee7d5dd9a8d73afed08af89e27f761a82b69238eec9673dc2b",
+      "learned_at": "2026-11-12T18:41:02+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/open-science/about/benefits",
+      "title": "Benefits of open research | Open science",
+      "summary": "Title: Benefits of open research | Open science URL Source: https://www.springernature.com/gp/open-science/about/benefits Markdown Content: ## Visibility Open science is free to read, copy, reuse and distribute. Studies have shown that open access content attracts more attention than non-open access content. Increased citation and usage A number of research papers have shown that open access articles are viewed more often than articles that are only available to subscribers, and are cited more often. Open access articles in hybrid journals attract more downloads, citations, and attention compared to those published behind a paywall.Our white paper, [_Assessing the open access effect for hybrid journals_,](https://www.springernature.com/gp/open-research/about/oa-effect-hybrid) examines the relationship between open access (OA) and impact, demonstrating the wider value hybrid journals brin",
+      "keywords": [
+        "access",
+        "open",
+        "content",
+        "articles",
+        "com",
+        "research",
+        "www",
+        "http",
+        "nature",
+        "public",
+        "https",
+        "hybrid",
+        "impact",
+        "often"
+      ],
+      "hash": "ce6ffc5d0528d3e57a3a612ebffc5204588c17be624f0a88a2de12c059337de2",
+      "learned_at": "2026-11-12T18:41:05+00:00"
+    },
+    {
+      "url": "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Fabout-journals%2Fnature-communications",
+      "title": "Springer Nature account - log in or register",
+      "summary": "Title: Springer Nature account - log in or register URL Source: https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/nature-portfolio/about-journals/nature-communications Final URL: https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=1f9df1c9-54e1-4752-9835-d3d24e1ad32a&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature-portfolio%2Fabout-journals%2Fnature-communications Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of ",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "springernature",
+        "cookies",
+        "data",
+        "information",
+        "personal",
+        "use",
+        "content",
+        "optional",
+        "parties",
+        "privacy",
+        "redirect_uri"
+      ],
+      "hash": "e3b34885eaf107a4820ce28d17eef939b1cbd97796abf242492b9e6a55fa2221",
+      "learned_at": "2026-11-12T18:41:14+00:00"
+    },
+    {
+      "url": "http://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright",
+      "title": "Page Not Found | Springer Nature",
+      "summary": "Title: Page Not Found | Springer Nature URL Source: http://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright Final URL: https://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright Warning: Target URL returned error 404: Not Found Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page. Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European ",
+      "keywords": [
+        "com",
+        "cookies",
+        "data",
+        "information",
+        "page",
+        "springernature",
+        "url",
+        "use",
+        "www",
+        "content",
+        "found",
+        "https",
+        "journal-policies",
+        "licensing-and-copyright"
+      ],
+      "hash": "35be31f421678d83b417416e0fc46f9c1d9932e5774a2c5a551cc3190abbc949",
+      "learned_at": "2026-11-12T18:41:20+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/news/nasas-next-generation-asteroid-impact-monitoring-system-goes-online",
+      "title": "NASA’s Next-Generation Asteroid Impact Monitoring System Goes Online | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: NASA’s Next-Generation Asteroid Impact Monitoring System Goes Online | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/news/nasas-next-generation-asteroid-impact-monitoring-system-goes-online Final URL: https://www.jpl.nasa.gov/news/nasas-next-generation-asteroid-impact-monitoring-system-goes-online/ Markdown Content: To date, nearly 28,000 near-Earth asteroids (NEAs) [have been found](https://cneos.jpl.nasa.gov/stats/totals.html) by survey telescopes that continually scan the night sky, adding new discoveries at a rate of about 3,000 per year. But as larger and more advanced survey telescopes turbocharge the search over the next few years, a rapid uptick in discoveries is expected. In anticipation of this increase, NASA astronomers have developed a next-generation impact monitoring algorithm called Sentry-II to better evaluate NEA impact probabilities. P",
+      "keywords": [
+        "nasa",
+        "impact",
+        "jpl",
+        "gov",
+        "https",
+        "asteroids",
+        "cneos",
+        "sentry-ii",
+        "earth",
+        "monitoring",
+        "neas",
+        "sentry",
+        "system",
+        "very"
+      ],
+      "hash": "b6a02722ceef84b5c33f417684f16459ddaf3aa06d23139123d0f5d6238fbcc5",
+      "learned_at": "2026-11-12T18:41:24+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/](https://cneos.jpl.nasa.gov/)",
+      "title": "The request could not be satisfied",
+      "summary": "Title: The request could not be satisfied URL Source: https://cneos.jpl.nasa.gov/](https:/cneos.jpl.nasa.gov/) Warning: Target URL returned error 502: Bad Gateway Markdown Content: ## 502 Bad Gateway ERROR * * * We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation. * * * Generated by cloudfront (CloudFront) HTTP3 Server Request ID: azjTdzIq0YWZESIttX7bwPhyyNbBkLj3CujUjV9PajoUavb8u1YW1A==",
+      "keywords": [
+        "cloudfront",
+        "error",
+        "502",
+        "app",
+        "bad",
+        "cneos",
+        "content",
+        "gateway",
+        "gov",
+        "https",
+        "jpl",
+        "nasa",
+        "request",
+        "server"
+      ],
+      "hash": "91e6c73e83678701db286fcb49a1f5b2a600ffcab055db897b0a9aba1eb15dc5",
+      "learned_at": "2026-11-12T18:41:26+00:00"
+    },
+    {
+      "url": "https://www.nature.com/ncomms/",
+      "title": "Nature Communications",
+      "summary": "Title: Nature Communications URL Source: https://www.nature.com/ncomms/ Markdown Content: ![Image 1: Colourful brain illustration featuring three leaping human silhouettes, symbolizing puberty, pregnancy and menopause.](https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/2321/top_item_image/26-025263B_MWO_Option2-7bc07a49a787e7dc1a89f7ea9fbad649.jpg) ## Featured * ![Image 2](https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41467-026-76127-w/MediaObjects/41467_2026_76127_Fig1_HTML.jpg) ### [How coastal resilience emerges](https://www.nature.com/articles/s41467-026-76127-w) As climate change accelerates and pressures on coastal systems intensify, understanding coastal resilience is becoming as important as understanding the hazards themselves. Editorial Open Access 26 Aug 2026 * ### [Push until it breaks: engineering is stronger when we kn",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "image",
+        "www",
+        "articles",
+        "outbreak",
+        "2026",
+        "access",
+        "coastal",
+        "concern",
+        "editorial",
+        "health",
+        "jpg"
+      ],
+      "hash": "5e170d6d15dc34eb84a03e9f578dd0ab8b78816d86ddc7d1ba9dbb28391b0efd",
+      "learned_at": "2026-11-12T18:41:31+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/planetarydefense/neoo",
+      "title": "Near-Earth Observations (NEO) Program - NASA Science",
+      "summary": "Title: Near-Earth Observations (NEO) Program - NASA Science URL Source: https://www.nasa.gov/planetarydefense/neoo Final URL: https://science.nasa.gov/planetary-defense-neoo/ Published Time: 2023-09-29T10:23:59-04:00 Markdown Content: [![Image 18: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 19: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "c5a2e4b7db43c75fd10cbde8337851a11cbaeb67f3038e83cc62860fdc2d52da",
+      "learned_at": "2026-11-12T18:41:35+00:00"
     }
   ],
   "failures": [
@@ -26015,6 +26073,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-12T18:41:35+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v69",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-12T18:41:35+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 22,
+      "frontier": 2498
+    },
     {
       "at": "2026-11-12T10:53:58+00:00",
       "kind": "core_unchanged",
@@ -26925,28 +27009,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 2117
-    },
-    {
-      "at": "2026-10-31T06:56:34+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-31T06:56:34+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 20,
-      "frontier": 2100
     }
   ],
   "metrics": {
-    "successful_fetches": 1530,
+    "successful_fetches": 1538,
     "failed_fetches": 24,
     "duplicate_pages": 2,
-    "candidate_promotions": 67,
+    "candidate_promotions": 68,
     "candidate_rejections": 174
   },
   "core_genome": {
@@ -26975,15 +27044,15 @@
     "nature.com",
     "science.org",
     "www.jpl.nasa.gov",
-    "www.nasa.gov",
     "www.nature.com",
     "www.springernature.com",
+    "www.nasa.gov",
     "jpl.nasa.gov",
     "nssdc.gsfc.nasa.gov",
     "info.arxiv.org",
     "www.youtube.com",
     "svs.gsfc.nasa.gov",
-    "history.nasa.gov",
-    "science.nasa.gov"
+    "group.springernature.com",
+    "history.nasa.gov"
   ]
 }
