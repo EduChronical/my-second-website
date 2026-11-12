@@ -1,29 +1,12 @@
 {
   "schema": 2,
-  "generation": 244,
+  "generation": 245,
   "core_version": 69,
-  "runs": 243,
-  "pages_learned": 1538,
-  "last_run": "2026-11-12T18:41:01+00:00",
+  "runs": 244,
+  "pages_learned": 1540,
+  "last_run": "2026-11-12T23:53:22+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/planetarydefense/overview](https://www.nasa.gov/planetarydefense/overview)",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/mission_psyche_square.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/mars_helicopters_square_AMQaHk.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/skywatching_square_L0OgECl.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/electric_thruster_square_Y3xXx.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/two_rovers_square.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/moonfall_square_wdQDU6t.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E11_Digging_In-01.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E9_First_Fly.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E7.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E7_FLYING_W_INGENUITY-01.33d00db3.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/OnAMission_thumb.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_october_dsoc.189927c3.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA25667-CADRE-rock-still-fo.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/original_images/grand_tour.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -104,16 +87,19 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Explore_Banner_6.5.26_V4.orig.2e16d0ba.fill-1024x441-c10.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_driveonmars-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_gettomars-640x350.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/earthminute_fever-640x350.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
+    "https://www.nasa.gov/planetarydefense/overview](https://www.nasa.gov/planetarydefense/overview)",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_phoning-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/earthminute_fever-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_quakes-640x350.2e16d0ba.fill-400x400-c50.gif",
-    "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
-    "https://esahubble.org/images/heic1215a/",
-    "https://addons.mozilla.org/en-US/firefox/addon/downthemall/",
-    "https://about.downthemall.org/4.0/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
@@ -121,10 +107,37 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/JKelly.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
+    "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
+    "https://esahubble.org/images/heic1215a/",
+    "https://addons.mozilla.org/en-US/firefox/addon/downthemall/",
+    "https://about.downthemall.org/4.0/",
     "https://creativecommons.org/",
     "https://creativecommons.org/licenses/",
-    "http://authorservices.springernature.cn/",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_August_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_July_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_June_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/May_2025_Monthly_PDF.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_April_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_March_2025.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
+    "http://authorservices.springernature.cn/",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
     "https://www.fullstory.com/optout/",
@@ -204,25 +217,11 @@
     "https://usabilla.com/privacy/",
     "https://twitter.com/en/privacy",
     "https://en-gb.facebook.com/policy.php",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_August_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_July_2025.pdf",
     "https://www.communicatemagazine.com/article/employer-brand-management-awards-2025-winners-announced/",
     "https://roarmap.eprints.org/",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
+    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "http://www.naturechina.com/",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
@@ -242,7 +241,6 @@
     "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
-    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://youtu.be/ZM3rnomT9iU",
     "https://minorplanetcenter.net/",
     "https://youtu.be/UA6voCyCW1g",
@@ -285,28 +283,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://www.nature.com/nature-portfolio/about-journals/nature",
-    "https://www.nature.com/nature-portfolio/about-journals/research-journals",
-    "https://www.nature.com/nature-research/editorial-policies/plagiarism",
-    "https://www.nature.com/nature-research/editorial-policies/peer-review",
-    "https://www.nature.com/nature-research/editorial-policies/confidentiality",
-    "https://www.nature.com/nature-portfolio/editorial-policies/acknowledgements",
-    "https://www.nature.com/nature-portfolio/editorial-policies/appealsandcomplaints/",
-    "https://www.nature.com/nature-research/editorial-policies/preprints-and-conference-proceedings",
-    "https://www.nature.com/nature-research/editorial-policies/press-and-embargo-policies",
-    "https://www.nature.com/reprints",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_June_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/May_2025_Monthly_PDF.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_April_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_March_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
     "http://www.nature.com/nature-research/editorial-policies/correction-and-retraction-policy",
     "https://media.springernature.com/lw485/springer-cms-alt/rest/v1/img/25284834/16by9?as=jpg",
     "https://www.nature.com/nature/research-articles",
@@ -2504,7 +2480,19 @@
     "https://www.nature.com/nature-portfolio/about-journals/communications-journals",
     "https://www.nature.com/nature-portfolio/about-journals/npj-series",
     "https://science.nasa.gov/planetary-defense-neoo/",
-    "https://science.nasa.gov/planetary-defense-neoo/"
+    "https://science.nasa.gov/planetary-defense-neoo/",
+    "https://www.nature.com/nataging",
+    "https://www.nature.com/natastron/",
+    "https://www.nature.com/natbiomedeng/",
+    "https://www.nature.com/nature-portfolio/editorial-policies/plagiarism",
+    "https://www.nature.com/nature-research/editorial-policies/peer-review",
+    "https://www.nature.com/nature-research/editorial-policies/confidentiality",
+    "https://www.nature.com/nature-research/editorial-policies/preprints-and-conference-proceedings",
+    "https://www.nature.com/nature-research/editorial-policies/press-and-embargo-policies",
+    "https://www.nature.com/nature-portfolio/about-journals/nature",
+    "https://www.nature.com/nature-portfolio/editorial-policies/acknowledgements",
+    "https://www.nature.com/nature-portfolio/editorial-policies/appealsandcomplaints/",
+    "https://www.nature.com/reprints"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12146,55 +12134,75 @@
       "at": "2026-11-12T18:41:35+00:00",
       "status": "ok",
       "hash": "c5a2e4b7db43c75fd10cbde8337851a11cbaeb67f3038e83cc62860fdc2d52da"
+    },
+    "https://www.nature.com/nature-portfolio/about-journals/research-journals": {
+      "at": "2026-11-12T23:53:26+00:00",
+      "status": "ok",
+      "hash": "1e736c805641c88866030d179911dbe99436a277ccecc8cd62b0ed894d7995ab"
+    },
+    "https://www.nature.com/nature-research/editorial-policies/plagiarism": {
+      "at": "2026-11-12T23:53:35+00:00",
+      "status": "ok",
+      "hash": "fdb7a87d7c72511751c381449ca730f080b251b4a35215327b890a7200b44d21"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/mission_psyche_square.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/mars_helicopters_square_AMQaHk.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/skywatching_square_L0OgECl.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/electric_thruster_square_Y3xXx.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/two_rovers_square.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/moonfall_square_wdQDU6t.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E11_Digging_In-01.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E9_First_Fly.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E7.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E7_FLYING_W_INGENUITY-01.33d00db3.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/OnAMission_thumb.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/vk_october_dsoc.189927c3.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA25667-CADRE-rock-still-fo.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/grand_tour.width-1024.jpg": {
+      "at": "2026-11-12T23:53:36+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "http://naif.jpl.nasa.gov/",
-      "title": "An Observation",
-      "summary": "Title: An Observation Geometry System for Space Science Missions URL Source: http://naif.jpl.nasa.gov/ Markdown Content: SPICE Click here for [announcements](https://naif.jpl.nasa.gov/naif/announcements.html) regarding SPICE data, software, tutorials and training; last updated July 18, 2026. ### If you are unfamiliar with SPICE, click here after reading the text below. NASA's Navigation and Ancillary Information Facility (NAIF) offers NASA flight projects and NASA funded researchers the \"SPICE\" (Spacecraft, Planet, Instrument, C-matrix, Events) observation geometry information system to assist scientists in planning and interpreting scientific observations from space-based instruments aboard robotic planetary spacecraft. SPICE is also used in support of engineering tasks associated with these missions. While planetary missions were the original focus, today SPICE is also used on some hel",
-      "keywords": [
-        "naif",
-        "spice",
-        "nasa",
-        "gov",
-        "jpl",
-        "data",
-        "https",
-        "system",
-        "missions",
-        "html",
-        "planetary",
-        "software",
-        "support",
-        "ancillary"
-      ],
-      "hash": "fed94187809c1c5d6d298d5c3891efeea9561e8ba3cf1bd2fbdaae9f903679b0",
-      "learned_at": "2026-10-24T09:52:00+00:00"
-    },
-    {
-      "url": "http://history.nasa.gov/SP-467/sp467.htm",
-      "title": "Planetary geology in the 1980s",
-      "summary": "Title: Planetary geology in the 1980s URL Source: http://history.nasa.gov/SP-467/sp467.htm Markdown Content: ![Image 1: NASA Logo](http://history.nasa.gov/assets/NASA_logo.svg) ## NTRS ## NTRS - NASA Technical Reports Server Press Enter or click the Search button to begin your search. [Back to Results](http://history.nasa.gov/) Planetary geology in the 1980s The geologic aspects of solar system studies are defined and the goals of planetary geology are discussed. Planetary geology is the study of the origin, evolution, and distribution of matter condensed in the form of planets, satellites, asteroids, and comets. It is a multidisciplinary effort involving investigators with backgrounds in geology, chemistry, physics, astronomy, geodesy, cartography, and other disciplines concerned with the solid planets. The report is primarily restricted to the kinds of experiments and observations made",
-      "keywords": [
-        "nasa",
-        "gov",
-        "history",
-        "http",
-        "19850015146",
-        "geology",
-        "planetary",
-        "document",
-        "downloads",
-        "number",
-        "pdf",
-        "1980s",
-        "api",
-        "available"
-      ],
-      "hash": "ff6aad4ea1de717b7e8d59ee7696ccec2a9cedbdac48df72fd410027d9d6cdfc",
-      "learned_at": "2026-10-24T09:52:04+00:00"
-    },
     {
       "url": "https://nssdc.gsfc.nasa.gov/Images/nasa-logo-sm.ea68afd.webp",
       "title": "nasa-logo-sm.ea68afd.webp",
@@ -25948,6 +25956,52 @@
       ],
       "hash": "c5a2e4b7db43c75fd10cbde8337851a11cbaeb67f3038e83cc62860fdc2d52da",
       "learned_at": "2026-11-12T18:41:35+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-portfolio/about-journals/research-journals",
+      "title": "Nature Research Journals | Nature Portfolio",
+      "summary": "Title: Nature Research Journals | Nature Portfolio URL Source: https://www.nature.com/nature-portfolio/about-journals/research-journals Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject o",
+      "keywords": [
+        "nature",
+        "com",
+        "https",
+        "www",
+        "nature-portfolio",
+        "journals",
+        "search",
+        "about-journals",
+        "cookies",
+        "content",
+        "use",
+        "authors",
+        "data",
+        "information"
+      ],
+      "hash": "1e736c805641c88866030d179911dbe99436a277ccecc8cd62b0ed894d7995ab",
+      "learned_at": "2026-11-12T23:53:26+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nature-research/editorial-policies/plagiarism",
+      "title": "Plagiarism and duplicate publication | Nature Portfolio",
+      "summary": "Title: Plagiarism and duplicate publication | Nature Portfolio URL Source: https://www.nature.com/nature-research/editorial-policies/plagiarism Final URL: https://www.nature.com/nature-portfolio/editorial-policies/plagiarism Markdown Content: ### On this page * [Plagiarism and fabrication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism#plagiarism-and-fabrication) * [Due credit for others' work](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism#due-credit) * [Nature Portfolio journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism#policy-on-duplicate-publication) * [Nature Portfolio journals' editorials](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism#editorials) ## Plagiarism and fabrication Plagiarism is unacknowledged copying or an attempt to misattribute original a",
+      "keywords": [
+        "plagiarism",
+        "nature",
+        "https",
+        "publication",
+        "com",
+        "editorial-policies",
+        "text",
+        "www",
+        "nature-portfolio",
+        "portfolio",
+        "appropriate",
+        "work",
+        "attribution",
+        "author"
+      ],
+      "hash": "fdb7a87d7c72511751c381449ca730f080b251b4a35215327b890a7200b44d21",
+      "learned_at": "2026-11-12T23:53:35+00:00"
     }
   ],
   "failures": [
@@ -26073,6 +26127,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-12T23:53:36+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-12T23:53:36+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 2 new pages",
+      "attempted": 24,
+      "frontier": 2486
+    },
     {
       "at": "2026-11-12T18:41:35+00:00",
       "kind": "core_promoted",
@@ -26994,29 +27063,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 19,
       "frontier": 2141
-    },
-    {
-      "at": "2026-10-31T13:28:42+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-31T13:28:42+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 23,
-      "frontier": 2117
     }
   ],
   "metrics": {
-    "successful_fetches": 1538,
+    "successful_fetches": 1540,
     "failed_fetches": 24,
     "duplicate_pages": 2,
     "candidate_promotions": 68,
-    "candidate_rejections": 174
+    "candidate_rejections": 175
   },
   "core_genome": {
     "query_weight": 3.0,
