@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 246,
-  "core_version": 69,
-  "runs": 245,
-  "pages_learned": 1544,
-  "last_run": "2026-11-13T05:03:44+00:00",
+  "generation": 247,
+  "core_version": 70,
+  "runs": 246,
+  "pages_learned": 1550,
+  "last_run": "2026-11-13T13:01:40+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-3791.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/D2004_0124_Tb109.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/P-45829.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
@@ -136,6 +134,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
     "https://scholar.google.co.uk/scholar?btnG=Search+Scholar&as_sauthors=%22Alexandra%2BWitze%22",
+    "https://recruiter.naturecareers.com/",
+    "https://recruiter.naturecareers.com/",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
     "https://www.fullstory.com/optout/",
@@ -283,30 +283,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://recruiter.naturecareers.com/",
-    "https://recruiter.naturecareers.com/",
-    "https://www.nature.com/natafrica",
-    "https://www.nature.com/nindia",
-    "https://www.nature.com/nmiddleeast",
-    "https://www.nature.com/gp",
-    "https://www.nature.com/gp/products",
-    "https://www.nature.com/gp/advancing-discovery",
-    "https://www.nature.com/gp/policies",
-    "https://www.nature.com/gp/librarians",
-    "https://masterclasses.nature.com/masterclasses/magdalena--skipper/19896664",
-    "https://masterclasses.nature.com/masterclasses/david--payne/19825788",
-    "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2026/05/art002e023710orig.jpg",
-    "https://www.nasa.gov/image-of-the-day/page/1/",
-    "https://www.nasa.gov/image-of-the-day/page/4/",
-    "https://www.nasa.gov/image-of-the-day/page/5/",
-    "https://www.nasa.gov/image-of-the-day/page/4/",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/209725main_GPN-2000-001832.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/178429main_image_feature_838_ys_full-a.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/163647main_image_feature_708_ys_full.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/163306main_image_feature_705_ys_full.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/163043main_image_feature_700_ys_full.jpg",
-    "https://www.nasa.gov/wp-content/uploads/2023/03/138990main_image_feature_462_ys_full.jpg",
     "https://www.nasa.gov/wp-content/uploads/2023/03/136229main_image_feature_429_ys_full.jpg",
     "https://www.nasa.gov/wp-content/uploads/2023/03/138899main_image_feature_461_ys_full.jpg",
     "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg",
@@ -2498,7 +2474,37 @@
     "https://www.nature.com/naturecareers/jobs/",
     "https://www.nature.com/naturecareers/newalert/",
     "https://www.nature.com/naturecareers/employers/",
-    "http://www.nature.com/nature-research/editorial-policies/correction-and-retraction-policy"
+    "http://www.nature.com/nature-research/editorial-policies/correction-and-retraction-policy",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/178429main_image_feature_838_ys_full-a.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/163647main_image_feature_708_ys_full.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/163306main_image_feature_705_ys_full.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/163043main_image_feature_700_ys_full.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/138990main_image_feature_462_ys_full.jpg",
+    "https://www.nature.com/natafrica/",
+    "https://www.nature.com/natafrica/news-and-comment",
+    "https://www.nature.com/natafrica/podcasts",
+    "https://www.nature.com/natafrica/collections",
+    "https://www.nature.com/natafrica.rss",
+    "https://www.nature.com/natafrica/aims",
+    "https://www.nature.com/natafrica/journal-information",
+    "https://www.nature.com/natafrica/editors",
+    "https://media.springernature.com/full/nature-cms/uploads/product/natafrica/header-956b950617b331ddd13b7d1a368b45fb.svg",
+    "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnatafrica%2F",
+    "https://www.facebook.com/NatureAfrica1",
+    "https://www.nature.com/natindia/",
+    "https://www.nature.com/nmiddleeast",
+    "https://www.nature.com/gp",
+    "https://www.nature.com/gp/products",
+    "https://www.nature.com/gp/advancing-discovery",
+    "https://www.nature.com/gp/policies",
+    "https://www.nature.com/gp/librarians",
+    "https://www.nature.com/masterclasses/masterclasses/magdalena--skipper/19896664",
+    "https://www.nature.com/masterclasses/masterclasses/david--payne/19825788",
+    "https://www.nasa.gov/image-of-the-day/page/1/",
+    "https://www.nasa.gov/image-of-the-day/page/4/",
+    "https://www.nasa.gov/image-of-the-day/page/5/",
+    "https://www.nasa.gov/image-of-the-day/page/4/",
+    "https://www.nasa.gov/wp-content/uploads/2023/03/209725main_GPN-2000-001832.jpg"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12246,147 +12252,47 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26389.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
       "at": "2026-11-13T05:04:05+00:00",
       "status": "robots_disallow"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg": {
+      "at": "2026-11-13T13:01:47+00:00",
+      "status": "ok",
+      "hash": "bfe75b619ec164ca85dece906f3ec3e32712b8e77984d8a4def2523df4e9acd7"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/05/art002e023710orig.jpg": {
+      "at": "2026-11-13T13:01:58+00:00",
+      "status": "ok",
+      "hash": "1ea66ed029e0654916a01ba25da6ba090928a26d175b9f71589a34fabe2ff14f"
+    },
+    "https://www.nature.com/natafrica": {
+      "at": "2026-11-13T13:02:02+00:00",
+      "status": "ok",
+      "hash": "ca7002af3c8a3ef6a35bd161ed7a816354bd8af5bcab93b88d371e1ece48fcd2"
+    },
+    "https://www.nature.com/nindia": {
+      "at": "2026-11-13T13:02:08+00:00",
+      "status": "ok",
+      "hash": "1d13b3f38c642d24bcc9234d31d09bb7082333c61d2167852f1aa83034e9bee6"
+    },
+    "https://masterclasses.nature.com/masterclasses/magdalena--skipper/19896664": {
+      "at": "2026-11-13T13:02:13+00:00",
+      "status": "ok",
+      "hash": "396c425b4baa0bf4a2750c183fd2534f30852a98b00962d6a7082b14d51b5fb1"
+    },
+    "https://masterclasses.nature.com/masterclasses/david--payne/19825788": {
+      "at": "2026-11-13T13:02:17+00:00",
+      "status": "ok",
+      "hash": "f9c2f06cc89160a0f96422d98c360e69e80211e206017f27300dd67751dd9964"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/E1__PIA26384_2011u.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-13T13:02:18+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/2_PIA26383-MAIN_20.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-13T13:02:18+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/event-type/launch-schedule/",
-      "title": "Launch Schedule Archives - NASA",
-      "summary": "Title: Launch Schedule Archives - NASA URL Source: https://www.nasa.gov/event-type/launch-schedule/ Markdown Content: [![Image 14: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 15: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.gov/news/media-con",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics"
-      ],
-      "hash": "cc4da0510863dfa38b88e37b8555bc1109b39a217ca3cfa30b5f6089cf0e670d",
-      "learned_at": "2026-10-24T13:46:07+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/nasa-virtual-guest-program/",
-      "title": "NASA Virtual Guest Program - NASA",
-      "summary": "Title: NASA Virtual Guest Program - NASA URL Source: https://www.nasa.gov/nasa-virtual-guest-program/ Published Time: 2023-08-02T20:07:42Z Markdown Content: [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 4: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "apps"
-      ],
-      "hash": "7082b4a8c01f9b9c1a0a42fe43fb8c66623f00b6fc391e447a247518f08f8294",
-      "learned_at": "2026-10-24T13:46:08+00:00"
-    },
-    {
-      "url": "https://thejplstore.com/",
-      "title": "JPL Gift Shop | Shop Official JPL, Caltech & NASA Gear",
-      "summary": "Title: JPL Gift Shop | Shop Official JPL, Caltech & NASA Gear URL Source: https://thejplstore.com/ Markdown Content: [](https://thejplstore.com/#) ## JPL Gift Guide ### [Space Humor Series Space puns and laughs on everyday items for the cosmic comedian.](https://thejplstore.com/collections/space-humor-series) ### [Mars Rover Gear up with rover-themed items for Mars mission admirers.](https://thejplstore.com/collections/mars-rover) ### [Vintage Space Voyage Retro JPL style meets modern-day space enthusiasm.](https://thejplstore.com/collections/vintage-space-voyage) ### [Office Orbit Perfect gifts for professionals.](https://thejplstore.com/collections/office-orbit) ## [JPL's 90th Anniversary Merchandise Exclusive](https://thejplstore.com/collections/jpls-90th-anniversary) [See all](https://thejplstore.com/collections/jpls-90th-anniversary) [![Image 1](https://thejplstore.com/cdn/shop/file",
-      "keywords": [
-        "https",
-        "com",
-        "thejplstore",
-        "jpl",
-        "shop",
-        "collections",
-        "image",
-        "products",
-        "cdn",
-        "jpg",
-        "20180w",
-        "90th",
-        "anniversary",
-        "files"
-      ],
-      "hash": "38581782fc0072e47e77060fb525c06c132d83d443da8e07419995eae5cf6b63",
-      "learned_at": "2026-10-24T13:46:18+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/",
-      "title": "January 2024 - Spirit Knocked, Opportunity Rocked: 20 Years of Rovers on Mars",
-      "summary": "Title: January 2024 - Spirit Knocked, Opportunity Rocked: 20 Years of Rovers on Mars URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/ Markdown Content: [](https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/january-2024-spirit-knocked-opportunity-rocked-20-years-of-rovers-on-mars/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "mars",
-        "opportunity",
-        "rovers",
-        "spirit",
-        "camera",
-        "exploration",
-        "image",
-        "images",
-        "knocked"
-      ],
-      "hash": "6421123929569f93217e1900d71cfed741085e5a284f4c3712512be602c3c761",
-      "learned_at": "2026-10-24T17:01:51+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/",
-      "title": "March 2024 - Mavericks of Mars: The Ingenuity Helicopter Team’s Favorite Flights | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: March 2024 - Mavericks of Mars: The Ingenuity Helicopter Team’s Favorite Flights | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/march-2024-the-mavericks-of-ingenuity-how-nasa-extended-the-mission-of-the-first-mars-helicopter/ Markdown Content: Mar. 21 **Time:** 5 p.m. PST (8 p.m. EST; 0300 UTC) The Ingenuity Helicopter first took to the Martian skies on April 19, 2021, proving for the first time that powered, controlled flight was possible on another world. Designed as a technology demonstration that would perform up to five experimental test flights over a span of 30 days, the Mars helicopter surpassed expectations – repeatedly – only recently completing its mission after having logged an incredible 72 flights over nearly three years. Join us for a live talk to learn how Ingenuity",
-      "keywords": [
-        "flights",
-        "jpl",
-        "nasa",
-        "control",
-        "helicopter",
-        "ingenuity",
-        "live",
-        "mars",
-        "pilot",
-        "chief",
-        "first",
-        "flight",
-        "guidance",
-        "https"
-      ],
-      "hash": "81b10b5edf1515e01532f29421bdc37ae37a997e4f9b3b75aa1567fefd5f192b",
-      "learned_at": "2026-10-24T17:01:54+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/podcasts-and-audio/",
-      "title": "Podcasts and Audio - NASA",
-      "summary": "Title: Podcasts and Audio - NASA URL Source: https://www.nasa.gov/podcasts-and-audio/ Published Time: 2025-06-03T18:40:39Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.na",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "podcasts",
-        "image",
-        "plus",
-        "aeronautics"
-      ],
-      "hash": "93941f036e47e88a81f10e726d7a9bb8ea5cdad234de1fdc53c6a408311083e2",
-      "learned_at": "2026-10-24T17:01:54+00:00"
-    },
     {
       "url": "https://www.nasa.gov/nasa-blogs/",
       "title": "Blogs - NASA",
@@ -26048,6 +25954,144 @@
       ],
       "hash": "f3678aa32a22abfcda27c3a78380eb0ba34162e988c0f99a14f5e5ec9edc0bbb",
       "learned_at": "2026-11-13T05:04:03+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg",
+      "title": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg",
+      "summary": "Title: https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg Published Time: Wed, 13 May 2026 17:44:54 GMT Markdown Content: Person wearing a blue shirt and smiling",
+      "keywords": [
+        "2026",
+        "gov",
+        "https",
+        "jpg",
+        "nasa",
+        "nhq202605120023orig",
+        "uploads",
+        "wp-content",
+        "www",
+        "blue",
+        "content",
+        "gmt",
+        "markdown",
+        "may"
+      ],
+      "hash": "bfe75b619ec164ca85dece906f3ec3e32712b8e77984d8a4def2523df4e9acd7",
+      "learned_at": "2026-11-13T13:01:47+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/05/art002e023710orig.jpg",
+      "title": "art002e023710orig.jpg",
+      "summary": "Title: art002e023710orig.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/05/art002e023710orig.jpg Published Time: Fri, 13 Nov 2026 13:01:48 GMT Markdown Content: An occultation being watched from space with the limb of the moon, in full crescent phase, diagonally grazing across the right side of the frame",
+      "keywords": [
+        "2026",
+        "art002e023710orig",
+        "jpg",
+        "across",
+        "being",
+        "content",
+        "crescent",
+        "diagonally",
+        "frame",
+        "fri",
+        "full",
+        "gmt",
+        "gov",
+        "grazing"
+      ],
+      "hash": "1ea66ed029e0654916a01ba25da6ba090928a26d175b9f71589a34fabe2ff14f",
+      "learned_at": "2026-11-13T13:01:58+00:00"
+    },
+    {
+      "url": "https://www.nature.com/natafrica",
+      "title": "Nature Africa",
+      "summary": "Title: Nature Africa URL Source: https://www.nature.com/natafrica Final URL: https://www.nature.com/natafrica/ Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [Skip to ",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "www",
+        "natafrica",
+        "content",
+        "search",
+        "cookies",
+        "use",
+        "authors",
+        "data",
+        "explore",
+        "information",
+        "javascript"
+      ],
+      "hash": "ca7002af3c8a3ef6a35bd161ed7a816354bd8af5bcab93b88d371e1ece48fcd2",
+      "learned_at": "2026-11-13T13:02:02+00:00"
+    },
+    {
+      "url": "https://www.nature.com/nindia",
+      "title": "Nature India",
+      "summary": "Title: Nature India URL Source: https://www.nature.com/nindia Final URL: https://www.nature.com/natindia/ Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [Skip to main ",
+      "keywords": [
+        "com",
+        "https",
+        "nature",
+        "www",
+        "natindia",
+        "content",
+        "search",
+        "cookies",
+        "use",
+        "authors",
+        "data",
+        "explore",
+        "information",
+        "javascript"
+      ],
+      "hash": "1d13b3f38c642d24bcc9234d31d09bb7082333c61d2167852f1aa83034e9bee6",
+      "learned_at": "2026-11-13T13:02:08+00:00"
+    },
+    {
+      "url": "https://masterclasses.nature.com/masterclasses/magdalena--skipper/19896664",
+      "title": "Internal Error",
+      "summary": "Title: Internal Error URL Source: https://masterclasses.nature.com/masterclasses/magdalena--skipper/19896664 Final URL: https://www.nature.com/masterclasses/masterclasses/magdalena--skipper/19896664 Warning: Target URL returned error 500: Internal Server Error Markdown Content: 500 # Internal Error",
+      "keywords": [
+        "error",
+        "masterclasses",
+        "internal",
+        "url",
+        "19896664",
+        "500",
+        "com",
+        "https",
+        "magdalena--skipper",
+        "nature",
+        "content",
+        "final",
+        "markdown",
+        "returned"
+      ],
+      "hash": "396c425b4baa0bf4a2750c183fd2534f30852a98b00962d6a7082b14d51b5fb1",
+      "learned_at": "2026-11-13T13:02:13+00:00"
+    },
+    {
+      "url": "https://masterclasses.nature.com/masterclasses/david--payne/19825788",
+      "title": "Internal Error",
+      "summary": "Title: Internal Error URL Source: https://masterclasses.nature.com/masterclasses/david--payne/19825788 Final URL: https://www.nature.com/masterclasses/masterclasses/david--payne/19825788 Warning: Target URL returned error 500: Internal Server Error Markdown Content: 500 # Internal Error",
+      "keywords": [
+        "error",
+        "masterclasses",
+        "internal",
+        "url",
+        "19825788",
+        "500",
+        "com",
+        "david--payne",
+        "https",
+        "nature",
+        "content",
+        "final",
+        "markdown",
+        "returned"
+      ],
+      "hash": "f9c2f06cc89160a0f96422d98c360e69e80211e206017f27300dd67751dd9964",
+      "learned_at": "2026-11-13T13:02:17+00:00"
     }
   ],
   "failures": [
@@ -26173,6 +26217,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-13T13:02:18+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v70",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-13T13:02:18+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 2498
+    },
     {
       "at": "2026-11-13T05:04:05+00:00",
       "kind": "core_unchanged",
@@ -27083,28 +27153,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 14,
       "frontier": 2137
-    },
-    {
-      "at": "2026-10-31T21:00:51+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-10-31T21:00:51+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 2136
     }
   ],
   "metrics": {
-    "successful_fetches": 1544,
+    "successful_fetches": 1550,
     "failed_fetches": 24,
     "duplicate_pages": 2,
-    "candidate_promotions": 68,
+    "candidate_promotions": 69,
     "candidate_rejections": 176
   },
   "core_genome": {
@@ -27132,14 +27187,14 @@
     "arxiv.org",
     "nature.com",
     "science.org",
-    "www.jpl.nasa.gov",
     "www.nature.com",
-    "www.springernature.com",
+    "www.jpl.nasa.gov",
     "www.nasa.gov",
+    "www.springernature.com",
     "jpl.nasa.gov",
-    "nssdc.gsfc.nasa.gov",
     "info.arxiv.org",
     "www.youtube.com",
+    "nssdc.gsfc.nasa.gov",
     "svs.gsfc.nasa.gov",
     "group.springernature.com",
     "history.nasa.gov"
