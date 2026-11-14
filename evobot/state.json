@@ -1,22 +1,12 @@
 {
   "schema": 2,
-  "generation": 251,
+  "generation": 252,
   "core_version": 71,
-  "runs": 250,
-  "pages_learned": 1573,
-  "last_run": "2026-11-14T14:26:45+00:00",
+  "runs": 251,
+  "pages_learned": 1576,
+  "last_run": "2026-11-14T19:24:46+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Thwaites.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25439.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-Kamchatka-st.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26815_-_Mas.2e16d0ba.fill-512x288-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -79,10 +69,16 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://recruiter.naturecareers.com/",
     "https://recruiter.naturecareers.com/",
     "https://x.com/NASAGoddard/status/2103563395068809583?s=20",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/curiosity_pia20602_IpMD49q.0accaac1.fill-548x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/marsgame_MEI.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/pasta_building.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/msl_parachute_test_PIA10208.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/phoenix_concept.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/marsthermos.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -159,8 +155,6 @@
     "https://twitter.com/en/privacy",
     "https://en-gb.facebook.com/policy.php",
     "https://www.communicatemagazine.com/article/employer-brand-management-awards-2025-winners-announced/",
-    "https://jpl.jobs/",
-    "https://jpl.jobs/university-recruiting",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://astrogeology.usgs.gov/tools/map-a-planet-2",
     "https://support.springer.com/en/support/tickets/new",
@@ -172,7 +166,10 @@
     "https://support.springer.com/en/support/solutions",
     "https://support.springer.com/en/support/solutions/folders/6000234424",
     "https://www.instagram.com/reels/Dd_zDPwR7b5/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
     "http://www.naturechina.com/",
+    "https://jpl.jobs/",
+    "https://jpl.jobs/university-recruiting",
     "https://scholar.google.co.uk/scholar?btnG=Search+Scholar&as_sauthors=%22Alexandra%2BWitze%22",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
@@ -242,6 +239,9 @@
     "https://ec.europa.eu/consumers/odr/",
     "https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)",
     "https://lnkd.in/p/e6RgmTDC",
+    "https://en.wikipedia.org/wiki/Subsolar_point",
+    "https://en.wikipedia.org/wiki/Libration",
+    "https://en.wikipedia.org/wiki/Phase_angle_(astronomy",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
@@ -262,13 +262,13 @@
     "http://www.scientificamerican.com/",
     "http://polac.obspm.fr/llrdatae.html",
     "http://aa.usno.navy.mil/data/index.php",
-    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
+    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://www.nineplanets.org/luna.html",
@@ -283,30 +283,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://science.nasa.gov/mission/stereo/](https://svs.gsfc.nasa.gov/vis/a010000/a012600/a012687/CME_Solar_System_Still_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/stereomission/",
-    "https://science.nasa.gov/mission/tracers/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014805/TRACERSbeauty_Iowa_4K_ProRes.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/tracers/",
-    "https://svs.gsfc.nasa.gov/search",
-    "https://svs.gsfc.nasa.gov/5101",
-    "https://svs.gsfc.nasa.gov/api/5101/",
-    "https://svs.gsfc.nasa.gov/api/5101/",
-    "https://svs.gsfc.nasa.gov/5048",
-    "https://svs.gsfc.nasa.gov/api/dialamoon/2023-01-02T03:00",
-    "https://svs.gsfc.nasa.gov/api/dialamoon/2023-07-12T15:37",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a003000/a003032/frames/1024x512/](https://svs.gsfc.nasa.gov/vis/a000000/a003000/a003032/frames/1024x512/)",
-    "https://en.wikipedia.org/wiki/Subsolar_point",
-    "https://en.wikipedia.org/wiki/Libration",
-    "https://en.wikipedia.org/wiki/Phase_angle_(astronomy",
-    "https://sfc.nasa.gov/vis/a000000/a003000/a003032/frames/1024x512/cld_f.[0060-0119].png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/curiosity_pia20602_IpMD49q.0accaac1.fill-548x400-c50.jpg",
-    "https://www.nasa.gov/stem",
-    "https://science.nasa.gov/engage/solar-system-ambassadors/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/marsgame_MEI.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/pasta_building.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/msl_parachute_test_PIA10208.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/phoenix_concept.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/marsthermos.2e16d0ba.fill-400x400-c50.jpg",
-    "https://www.jpl.nasa.gov/edu/resources/?page=1&content_types=edu_resources.EDUStudentProjectPage",
     "https://www.jpl.nasa.gov/edu/resources/?page=1&content_types=edu_resources.EDUTeachableMomentPage",
     "https://www.jpl.nasa.gov/edu/resources/?page=1&content_types=edu_resources.EDUCollectionsDetailPage",
     "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-114x114.png",
@@ -2503,7 +2479,23 @@
     "https://science.nasa.gov/mission/escapade/](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014666/01NG_RL_HighOrbit_1080.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/escapade/",
     "http://ozonewatch.gsfc.nasa.gov/.](https:/svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https:/svs.gsfc.nasa.gov/gallery/ozone-hole/",
     "https://ozonewatch.gsfc.nasa.gov/.](https:/svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https:/svs.gsfc.nasa.gov/gallery/ozone-hole/",
-    "https://www.youtube.com/watch?v=8mJj67V1CWI"
+    "https://www.youtube.com/watch?v=8mJj67V1CWI",
+    "https://svs.gsfc.nasa.gov/static/svs/css/bootstrap.min.css",
+    "https://svs.gsfc.nasa.gov/static/svs/css/bootstrap-icons.min.css",
+    "https://svs.gsfc.nasa.gov/static/svs/css/style.css",
+    "https://svs.gsfc.nasa.gov/static/search/css/style.css",
+    "https://svs.gsfc.nasa.gov/api/search/",
+    "https://svs.gsfc.nasa.gov/api/search/rss",
+    "https://svs.gsfc.nasa.gov/static/detailspage/css/detailspage.css",
+    "https://svs.gsfc.nasa.gov/api/5101/",
+    "https://svs.gsfc.nasa.gov/api/5101/",
+    "https://svs.gsfc.nasa.gov/5048",
+    "https://svs.gsfc.nasa.gov/api/dialamoon/2023-01-02T03:00",
+    "https://svs.gsfc.nasa.gov/api/dialamoon/2023-07-12T15:37",
+    "https://svs.gsfc.nasa.gov/vis/a000000/a003000/a003032/frames/1024x512/](https://svs.gsfc.nasa.gov/vis/a000000/a003000/a003032/frames/1024x512/)",
+    "https://www.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nasa.gov%2Flearning-resources%2F",
+    "https://www.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nasa.gov%2Flearning-resources%2F",
+    "https://science.nasa.gov/engage/solar-system-ambassadors/"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12444,78 +12436,83 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg": {
       "at": "2026-11-14T14:29:35+00:00",
       "status": "robots_disallow"
+    },
+    "https://science.nasa.gov/mission/stereo/](https://svs.gsfc.nasa.gov/vis/a010000/a012600/a012687/CME_Solar_System_Still_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/stereomission/": {
+      "at": "2026-11-14T19:24:48+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://science.nasa.gov/mission/tracers/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014805/TRACERSbeauty_Iowa_4K_ProRes.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/tracers/": {
+      "at": "2026-11-14T19:24:49+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://svs.gsfc.nasa.gov/search": {
+      "at": "2026-11-14T19:24:50+00:00",
+      "status": "ok",
+      "hash": "0c6abb521983fea94346191fda02ceea5bf8facd6bc09226478398b8544fb30c"
+    },
+    "https://svs.gsfc.nasa.gov/5101": {
+      "at": "2026-11-14T19:24:50+00:00",
+      "status": "ok",
+      "hash": "b1c8dbfb99c38efa3b24e19ea27b09ae82d145b42af2b00ef2e2cd15d40aa77d"
+    },
+    "https://sfc.nasa.gov/vis/a000000/a003000/a003032/frames/1024x512/cld_f.[0060-0119].png": {
+      "at": "2026-11-14T19:24:50+00:00",
+      "status": "blocked_nonpublic"
+    },
+    "https://www.nasa.gov/stem": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "ok",
+      "hash": "965d69e661711b8bfd5ec3ac2e56e7de3e7bb024a8c4db96da45fd2e31b13ff4"
+    },
+    "https://www.jpl.nasa.gov/edu/resources/?page=1&content_types=edu_resources.EDUStudentProjectPage": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Louis_G._Dunn_.5bf0475e.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Frank_J._Malin.df90473f.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1-Thwaites.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/07DC0740-B184-4059.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25439.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/NISAR-Kamchatka-st.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/1_-_PIA26815_-_Mas.2e16d0ba.fill-512x288-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T19:24:52+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
-      "title": "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
-      "summary": "Title: https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png URL Source: http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: a white page",
-      "keywords": [
-        "gov",
-        "images",
-        "jpl",
-        "nasa",
-        "png",
-        "ssd",
-        "ssd_title_overlay",
-        "2023",
-        "content",
-        "gmt",
-        "http",
-        "https",
-        "markdown",
-        "mon"
-      ],
-      "hash": "5e905951c0cc662ce9735145a839836e21921d927c11b8849be7b0868e19e440",
-      "learned_at": "2026-10-24T23:51:06+00:00"
-    },
-    {
-      "url": "https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
-      "title": "URL Source: https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce",
-      "summary": "Title: URL Source: https://www.nature.com/j47kkr60/search/d7517139-8898-3e93-b198-0363e24189ce Markdown Content: �PNG \u001a IHDR\u0001\u0001\b\u0004� \u0002 IDATx�c��\u0002\u0007\u0001\u0002� 1qIEND�B`�",
-      "keywords": [
-        "1qiend",
-        "com",
-        "content",
-        "d7517139-8898-3e93-b198-0363e24189ce",
-        "https",
-        "idatx",
-        "ihdr",
-        "j47kkr60",
-        "markdown",
-        "nature",
-        "png",
-        "search",
-        "source",
-        "title"
-      ],
-      "hash": "b1bc70d858d9ea150357062a841f9a270772547dcde93b4fc5388e9602bced50",
-      "learned_at": "2026-10-24T23:51:09+00:00"
-    },
-    {
-      "url": "https://www.nature.com/siteindex",
-      "title": "Nature.com",
-      "summary": "Title: Nature.com URL Source: https://www.nature.com/siteindex Markdown Content: [Skip to main content](https://www.nature.com/siteindex#content) Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Advertisement [![Image 2: Nature](https://www.nature.com/static/images/product-logos/naturecom-secondary-aba9cc0a61.svg)](https://www.nature.com/) * [View all journals](https://www.nature.com/siteindex) * [Saved research](https://www.nature.com/saved-research) * [Search](https://www.nature.com/siteindex#search-menu) * [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/sit",
-      "keywords": [
-        "nature",
-        "com",
-        "https",
-        "www",
-        "siteindex",
-        "bdj",
-        "journals",
-        "cancer",
-        "content",
-        "journal",
-        "a-z",
-        "bjc",
-        "bone",
-        "british"
-      ],
-      "hash": "cd07da59c01ab85c0f5b47595006d3834e0684d431fc1b09ffe449ac1b3699b8",
-      "learned_at": "2026-10-24T23:51:13+00:00"
-    },
     {
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-blistering-pitch-black-planet/",
       "title": "NASA's Hubble Captures Blistering Pitch-Black Planet - NASA Science",
@@ -26246,6 +26243,75 @@
       ],
       "hash": "90b67786d631fd1d71347c7e631d066c77cd134d72cc65894440682824bb0e37",
       "learned_at": "2026-11-14T14:29:35+00:00"
+    },
+    {
+      "url": "https://svs.gsfc.nasa.gov/search",
+      "title": "svs.gsfc.nasa.gov/search",
+      "summary": "NASA SVS | Search Scientific Visualization Studio Galleries Help Search Search Search Box Search Sort by: Release date Update date Popularity (last 10 days) Page ID (RSS) (Atom) Filters Filters Results Results No results. You've reached the edge of the universe! Back to top An error occurred. Please reload this page and try again. Back to top Privacy Policy and Important Notices Reproduction Guidelines NASA Official: Site Curator:",
+      "keywords": [
+        "search",
+        "results",
+        "back",
+        "date",
+        "filters",
+        "nasa",
+        "page",
+        "top",
+        "again",
+        "atom",
+        "box",
+        "curator",
+        "days",
+        "edge"
+      ],
+      "hash": "0c6abb521983fea94346191fda02ceea5bf8facd6bc09226478398b8544fb30c",
+      "learned_at": "2026-11-14T19:24:50+00:00"
+    },
+    {
+      "url": "https://svs.gsfc.nasa.gov/5101",
+      "title": "svs.gsfc.nasa.gov/5101",
+      "summary": "NASA SVS | Sea Surface Temperature (SST) - Near Real Time Scientific Visualization Studio Galleries Help Search 14344: Roman&#x27;s Primary Structure - B-Roll Footage 14345: A Sea of Data with PACE Sea Surface Temperature (SST) - Near Real Time Released Monday, May 8, 2023 Last updated Monday, October 26, 2026 at 2:29 PM EDT ID: 5101 Visualizations by: Kel Elkins View full credits An equirectangular view of sea surface temperature (SST) data for the past two and half years, updated daily to include the latest available data. Download Movies sst_30_sec_4096x2048_2x1_30p.mp4 (4096x2048) [78.0 MB] Frame sets sst_mur (4096x2048) [902 Item(s)] Images sst_mur_print.jpg (1024x512) [142.4 KB] sst_mur_searchweb.png (320x180) [78.8 KB] sst_mur_thm.png (80x40) [6.5 KB] Hyperwall shows slide-01.hwshow [504 bytes] An equirectangular view of sea surface temperature (SST) data for the past two and half",
+      "keywords": [
+        "data",
+        "sea",
+        "surface",
+        "temperature",
+        "sst",
+        "available",
+        "view",
+        "updated",
+        "4096x2048",
+        "daily",
+        "equirectangular",
+        "include",
+        "latest",
+        "download"
+      ],
+      "hash": "b1c8dbfb99c38efa3b24e19ea27b09ae82d145b42af2b00ef2e2cd15d40aa77d",
+      "learned_at": "2026-11-14T19:24:50+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/stem",
+      "title": "www.nasa.gov/stem",
+      "summary": "Learning Resources - NASA Explore Search News & Events News & Events News Releases Recently Published Video Series on NASA+ Podcasts & Audio Blogs Newsletters Social Media Media Resources Events Upcoming Launches & Landings Virtual Guest Program Multimedia Multimedia NASA+ Images NASA Live NASA Apps Podcasts Image of the Day e-Books 3D Resources Interactives STEM Multimedia NASA Brand & Usage Guidelines NASA+ Search Suggested Searches Artemis ISS Roman Webb Quesst Moon Base View All Topics A-Z Home Missions Humans in Space Earth The Solar System The Universe Science Aeronautics Technology Learning Resources About NASA Español News & Events Multimedia NASA+ Featured 3 min read NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities article 4 days ago 5 min read NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars article 5 days ago 4 min read What’s Up: Novem",
+      "keywords": [
+        "nasa",
+        "science",
+        "space",
+        "earth",
+        "missions",
+        "multimedia",
+        "resources",
+        "events",
+        "news",
+        "search",
+        "technology",
+        "aeronautics",
+        "ago",
+        "article"
+      ],
+      "hash": "965d69e661711b8bfd5ec3ac2e56e7de3e7bb024a8c4db96da45fd2e31b13ff4",
+      "learned_at": "2026-11-14T19:24:52+00:00"
     }
   ],
   "failures": [
@@ -26368,9 +26434,39 @@
       "at": "2026-11-09T04:15:54+00:00",
       "url": "https://www.iaucom4.org/",
       "error": "URLError: <urlopen error timed out>"
+    },
+    {
+      "at": "2026-11-14T19:24:48+00:00",
+      "url": "https://science.nasa.gov/mission/stereo/](https://svs.gsfc.nasa.gov/vis/a010000/a012600/a012687/CME_Solar_System_Still_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/stereomission/",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "at": "2026-11-14T19:24:49+00:00",
+      "url": "https://science.nasa.gov/mission/tracers/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014805/TRACERSbeauty_Iowa_4K_ProRes.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/tracers/",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "at": "2026-11-14T19:24:52+00:00",
+      "url": "https://www.jpl.nasa.gov/edu/resources/?page=1&content_types=edu_resources.EDUStudentProjectPage",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ],
   "events": [
+    {
+      "at": "2026-11-14T19:24:52+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-14T19:24:52+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 3 new pages",
+      "attempted": 24,
+      "frontier": 2489
+    },
     {
       "at": "2026-11-14T14:29:35+00:00",
       "kind": "core_unchanged",
@@ -27281,40 +27377,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 2147
-    },
-    {
-      "at": "2026-11-01T21:56:58+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v55",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-01T21:56:58+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 2155
     }
   ],
   "metrics": {
-    "successful_fetches": 1573,
-    "failed_fetches": 24,
+    "successful_fetches": 1576,
+    "failed_fetches": 27,
     "duplicate_pages": 2,
     "candidate_promotions": 70,
-    "candidate_rejections": 179
+    "candidate_rejections": 180
   },
   "core_genome": {
     "query_weight": 3.0,
