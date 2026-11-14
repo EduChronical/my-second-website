@@ -1,19 +1,12 @@
 {
   "schema": 2,
-  "generation": 250,
+  "generation": 251,
   "core_version": 71,
-  "runs": 249,
-  "pages_learned": 1566,
-  "last_run": "2026-11-14T07:31:24+00:00",
+  "runs": 250,
+  "pages_learned": 1573,
+  "last_run": "2026-11-14T14:26:45+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://svs.gsfc.nasa.gov/5502/",
-    "https://svs.gsfc.nasa.gov/5425",
-    "https://svs.gsfc.nasa.gov/5196/",
-    "https://svs.gsfc.nasa.gov/20381/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/watkins-lg.a0dd38af.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Edward_C._Ston.aa9be3b1.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Gen._Charles_H._Te.0f9fa257.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Bruce_C._Murra.3a9625bf.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._William_H._Pic.5b1a3959.fill-430x430-c70.format-jpeg.jpg",
@@ -89,6 +82,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://recruiter.naturecareers.com/",
     "https://recruiter.naturecareers.com/",
+    "https://x.com/NASAGoddard/status/2103563395068809583?s=20",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -128,9 +122,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
     "https://creativecommons.org/",
     "https://creativecommons.org/licenses/",
-    "https://scholar.google.co.uk/scholar?btnG=Search+Scholar&as_sauthors=%22Alexandra%2BWitze%22",
-    "https://www.google.co.uk/ads/preferences",
-    "https://www.google.co.uk/settings/ads/plugin",
     "https://www.fullstory.com/optout/",
     "https://www.criteo.com/privacy/",
     "https://link.springer.com/journals/",
@@ -180,9 +171,11 @@
     "https://support.springer.com/support/home",
     "https://support.springer.com/en/support/solutions",
     "https://support.springer.com/en/support/solutions/folders/6000234424",
+    "https://www.instagram.com/reels/Dd_zDPwR7b5/",
     "http://www.naturechina.com/",
-    "http://www.google.com/policies/technologies/ads/",
-    "http://tools.google.com/",
+    "https://scholar.google.co.uk/scholar?btnG=Search+Scholar&as_sauthors=%22Alexandra%2BWitze%22",
+    "https://www.google.co.uk/ads/preferences",
+    "https://www.google.co.uk/settings/ads/plugin",
     "https://esahubble.org/images/heic1215a/",
     "https://addons.mozilla.org/en-US/firefox/addon/downthemall/",
     "https://about.downthemall.org/4.0/",
@@ -248,6 +241,9 @@
     "https://rubriq.cn/",
     "https://ec.europa.eu/consumers/odr/",
     "https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)",
+    "https://lnkd.in/p/e6RgmTDC",
+    "http://www.google.com/policies/technologies/ads/",
+    "http://tools.google.com/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://authorservices.springernature.cn/",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -287,26 +283,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://svs.gsfc.nasa.gov/14217",
-    "https://svs.gsfc.nasa.gov/14202",
-    "https://www.youtube.com/watch?v=VUq3ClMyNUw",
-    "https://x.com/NASAGoddard/status/2103563395068809583?s=20",
-    "https://lnkd.in/p/e6RgmTDC",
-    "https://science.nasa.gov/mission/osiris-apex/",
-    "https://www.instagram.com/reels/Dd_zDPwR7b5/",
-    "https://science.nasa.gov/mission/osiris-apex/",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005002/sea_min_w_graph_2021.1349_searchweb.png",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003563/print2008SeaIceEarthGraphSequence.1933_web.png",
-    "https://svs.gsfc.nasa.gov/images/gallery/Landslides/IGARSS_GPM_Hyperwall.fcp-media_Landslide_Casita.png",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp.0000_searchweb.png",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a000200/a000219/a000219_pre_searchweb.jpg",
-    "https://svs.gsfc.nasa.gov/vis/a030000/a030400/a030496/current_earth_observing_fleet_searchweb.png",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004995/sea_ice_sidexside.0001_searchweb.png",
-    "https://svs.gsfc.nasa.gov/vis/a000000/a002200/a002232/mdi0001_web.jpg",
-    "https://www.nasa.gov/multimedia/guidelines/index.html](https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014367/0613_Ag_Water__Main_Screen__FInal_Export.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/nasaand-agriculture/",
-    "http://ozonewatch.gsfc.nasa.gov/.](https://svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https://svs.gsfc.nasa.gov/gallery/ozone-hole/",
-    "https://science.nasa.gov/mission/carruthers-geocorona-observatory/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014887/14887_Thumbnail_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/carruthers-geocorona-observatory/",
-    "https://science.nasa.gov/mission/escapade/](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014666/01NG_RL_HighOrbit_1080.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/escapade/",
     "https://science.nasa.gov/mission/stereo/](https://svs.gsfc.nasa.gov/vis/a010000/a012600/a012687/CME_Solar_System_Still_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/stereomission/",
     "https://science.nasa.gov/mission/tracers/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014805/TRACERSbeauty_Iowa_4K_ProRes.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/tracers/",
     "https://svs.gsfc.nasa.gov/search",
@@ -2506,7 +2482,28 @@
     "https://oig.nasa.gov/?s=Artemis",
     "https://oig.nasa.gov/?s=Cybersecurity",
     "https://svs.gsfc.nasa.gov/search/?people=Ernie+Wright",
-    "https://svs.gsfc.nasa.gov/static/detailspage/images/ORCID-iD_icon_vector.svg"
+    "https://svs.gsfc.nasa.gov/static/detailspage/images/ORCID-iD_icon_vector.svg",
+    "https://svs.gsfc.nasa.gov/vis/a000000/a002200/a002232/mdi0001_web.jpg",
+    "https://svs.gsfc.nasa.gov/5502/",
+    "https://svs.gsfc.nasa.gov/5425",
+    "https://svs.gsfc.nasa.gov/5196/",
+    "https://svs.gsfc.nasa.gov/20381/",
+    "https://svs.gsfc.nasa.gov/14217",
+    "https://svs.gsfc.nasa.gov/14202",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=150&h=150&crop=1",
+    "https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005002/sea_min_w_graph_2021.1349_searchweb.png",
+    "https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003563/print2008SeaIceEarthGraphSequence.1933_web.png",
+    "https://svs.gsfc.nasa.gov/images/gallery/Landslides/IGARSS_GPM_Hyperwall.fcp-media_Landslide_Casita.png",
+    "https://svs.gsfc.nasa.gov/vis/a030000/a030400/a030496/current_earth_observing_fleet_searchweb.png",
+    "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004995/sea_ice_sidexside.0001_searchweb.png",
+    "https://www.nasa.gov/multimedia/guidelines/index.html](https:/svs.gsfc.nasa.gov/vis/a010000/a014300/a014367/0613_Ag_Water__Main_Screen__FInal_Export.00001_searchweb.png",
+    "https://www.nasa.gov/multimedia/guidelines/index.html](https:/svs.gsfc.nasa.gov/vis/a010000/a014300/a014367/0613_Ag_Water__Main_Screen__FInal_Export.00001_searchweb.png",
+    "https://science.nasa.gov/mission/carruthers-geocorona-observatory/](https:/svs.gsfc.nasa.gov/vis/a010000/a014800/a014887/14887_Thumbnail_searchweb.png",
+    "https://science.nasa.gov/mission/carruthers-geocorona-observatory/](https:/svs.gsfc.nasa.gov/vis/a010000/a014800/a014887/14887_Thumbnail_searchweb.png",
+    "https://science.nasa.gov/mission/escapade/](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014666/01NG_RL_HighOrbit_1080.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/escapade/",
+    "http://ozonewatch.gsfc.nasa.gov/.](https:/svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https:/svs.gsfc.nasa.gov/gallery/ozone-hole/",
+    "https://ozonewatch.gsfc.nasa.gov/.](https:/svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https:/svs.gsfc.nasa.gov/gallery/ozone-hole/",
+    "https://www.youtube.com/watch?v=8mJj67V1CWI"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12400,170 +12397,56 @@
       "at": "2026-11-14T07:32:04+00:00",
       "status": "ok",
       "hash": "a0ba4f7a720cb5d11a787a9d3874cd48fd9f9e29ca667ba427702379696ed8c2"
+    },
+    "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp.0000_searchweb.png": {
+      "at": "2026-11-14T14:26:50+00:00",
+      "status": "ok",
+      "hash": "574ee1e36b965ee04b8d9b0203d4d04ed64dd4079d01ed1fbbc0aa4be7a3c911"
+    },
+    "https://svs.gsfc.nasa.gov/vis/a000000/a000200/a000219/a000219_pre_searchweb.jpg": {
+      "at": "2026-11-14T14:26:53+00:00",
+      "status": "ok",
+      "hash": "91ed98e5d654331daaf229f8e1f2adc9e59e363c51403518c31696d6c3e069e4"
+    },
+    "https://science.nasa.gov/mission/osiris-apex/": {
+      "at": "2026-11-14T14:26:55+00:00",
+      "status": "ok",
+      "hash": "0eef94ae7d57aca65738fbab37ca91f304d95447976837e1929d9e20ebc31769"
+    },
+    "https://www.nasa.gov/multimedia/guidelines/index.html](https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014367/0613_Ag_Water__Main_Screen__FInal_Export.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/nasaand-agriculture/": {
+      "at": "2026-11-14T14:26:58+00:00",
+      "status": "ok",
+      "hash": "931c59b63a44e5b52d9236f5481cc4406d196bba4b581554d105b2278a0d4f86"
+    },
+    "https://science.nasa.gov/mission/carruthers-geocorona-observatory/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014887/14887_Thumbnail_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/carruthers-geocorona-observatory/": {
+      "at": "2026-11-14T14:27:01+00:00",
+      "status": "ok",
+      "hash": "f06257418358bac837eda22e3ee6381b178f04b4320febb20acd1359092db514"
+    },
+    "http://ozonewatch.gsfc.nasa.gov/.](https://svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https://svs.gsfc.nasa.gov/gallery/ozone-hole/": {
+      "at": "2026-11-14T14:29:18+00:00",
+      "status": "ok",
+      "hash": "5b547b3a2168d7cf54ccb76e67d8b27d10f0d23aaf6ac8d07608fbd02f19b854"
+    },
+    "https://www.youtube.com/watch?v=VUq3ClMyNUw": {
+      "at": "2026-11-14T14:29:35+00:00",
+      "status": "ok",
+      "hash": "90b67786d631fd1d71347c7e631d066c77cd134d72cc65894440682824bb0e37"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/watkins-lg.a0dd38af.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T14:29:35+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Edward_C._Ston.aa9be3b1.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T14:29:35+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T14:29:35+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nature.com/nature-portfolio/for-authors/why-publish-with-nature-research",
-      "title": "Why publish with Nature Portfolio?",
-      "summary": "Title: Why publish with Nature Portfolio? URL Source: https://www.nature.com/nature-portfolio/for-authors/why-publish-with-nature-research Markdown Content: When you publish in a Nature Portfolio journal, your paper becomes part of a group of journals built around editorial selection, thorough peer review, clear presentation and global readership. Our journals cover the natural,clinical and social sciences, as well as engineering and related fields, so researchers can choose a journal that fits both the subject of their work and the audience they want to reach. A strong paper needs more than a place to appear online. It needs editors who understand the field, reviewers who can evaluate the work fairly, production teams who make the paper clearer, and publishing options that help readers find and use the results. Nature Portfolio brings these elements together for research that has someth",
-      "keywords": [
-        "nature",
-        "journal",
-        "portfolio",
-        "authors",
-        "journals",
-        "work",
-        "paper",
-        "publication",
-        "publishing",
-        "research",
-        "editors",
-        "needs",
-        "options",
-        "publish"
-      ],
-      "hash": "cb017d707151f194c4624fe6114158a2773ffa206a2b0ebe9daa8ffefa40f175",
-      "learned_at": "2026-10-24T21:48:31+00:00"
-    },
-    {
-      "url": "https://media.springernature.com/full/nature-cms/uploads/product/nature-portfolio/header-99de53da3f573b8da51c96b5fd69b5a7.svg",
-      "title": "header-99de53da3f573b8da51c96b5fd69b5a7.svg",
-      "summary": "Title: header-99de53da3f573b8da51c96b5fd69b5a7.svg URL Source: https://media.springernature.com/full/nature-cms/uploads/product/nature-portfolio/header-99de53da3f573b8da51c96b5fd69b5a7.svg Published Time: Tue, 30 Mar 2021 08:30:15 GMT Markdown Content: A 162x25 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "header-99de53da3f573b8da51c96b5fd69b5a7",
-        "svg",
-        "162x25",
-        "2021",
-        "avatar",
-        "com",
-        "content",
-        "full",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "likely",
-        "logo"
-      ],
-      "hash": "df83eeaf757b1af2d06e6a8a46e99a1885b3e31ebd6adcc5d2bca6430b55e59a",
-      "learned_at": "2026-10-24T21:48:32+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal",
-      "title": "Springer Nature Librarian Portal Resources | For Librarians | Springer Nature",
-      "summary": "Title: Springer Nature Librarian Portal Resources | For Librarians | Springer Nature URL Source: https://www.springernature.com/gp/librarians/manage-your-account/librarianportal Markdown Content: [![Image 4: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature.svg)](https://www.springernature.com/gp \"Springer Nature\") [![Image 5: Springer Nature](https://www.springernature.com/app-sn/public/images/logo-springernature-mobile.svg)](https://www.springernature.com/gp \"Springer Nature\") * Search Search EN * [CN (Chinese)](https://www.springernature.com/cn) * [DE (German)](https://www.springernature.com/de) * [ES (Spanish)](https://www.springernature.com/la) * [FR (Français)](https://www.springernature.com/fr) * [JP (Japanese)](https://www.springernature.com/jp) * [Librarians](https://www.springernature.com/gp/librarians/manage-your-account/librarianportal#/",
-      "keywords": [
-        "com",
-        "https",
-        "springernature",
-        "www",
-        "librarians",
-        "springer",
-        "nature",
-        "products",
-        "journals",
-        "group",
-        "librarianportal",
-        "manage-your-account",
-        "reviewers",
-        "support"
-      ],
-      "hash": "8f43acfb908aa594703d976cd171743db89641c4428f3b8f398c206a39730e47",
-      "learned_at": "2026-10-24T21:48:33+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/gp/librarians/recommend-to-your-library",
-      "title": "Page Not Found | Springer Nature",
-      "summary": "Title: Page Not Found | Springer Nature URL Source: https://www.springernature.com/gp/librarians/recommend-to-your-library Warning: Target URL returned error 404: Not Found Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page. Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-stat",
-      "keywords": [
-        "cookies",
-        "data",
-        "information",
-        "page",
-        "use",
-        "com",
-        "content",
-        "found",
-        "https",
-        "make",
-        "optional",
-        "parties",
-        "personal",
-        "privacy"
-      ],
-      "hash": "6801932e1b05f0741a1f17a91f7ddf0bf5e381e3c57e38853ba72952cf239926",
-      "learned_at": "2026-10-24T21:48:37+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/events/",
-      "title": "Events",
-      "summary": "Title: Events URL Source: https://www.jpl.nasa.gov/events/ Markdown Content: ## Search Events Sort by Showing 1–12 of 42 results Topic JPL Life (19) Solar System (16) Mars (9) Earth (3) Robotics (3) Technology (3) Asteroids and Comets (1) Climate Change (1) Exoplanets (1) Stars and Galaxies (1) Date Past events (42) 1. ## [Fixing Voyager: How NASA Restored Communications with Voyager 1 from Across the Solar System After more than four and a half decades exploring our solar system and beyond, Voyager 1 has had a challenging year. In November 2023, the spacecraft suddenly and unexpectedly stopped sending scientific and engineering data back to Earth, beginning a months-long process to diagnose and problem-solve with a spacecraft billions of miles away and built on systems designed in the 1970s. Nov. 22, 2024 1:00-2:00 am UTC Watch on YouTube ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net",
-      "keywords": [
-        "events",
-        "nasa",
-        "solar",
-        "system",
-        "https",
-        "jpl",
-        "2024",
-        "space",
-        "across",
-        "could",
-        "data",
-        "deep",
-        "gov",
-        "life"
-      ],
-      "hash": "38d18f9e82508fc6c8f676128e7f66ea7dab5ae9c73c6ad78a41d5367d07d4b2",
-      "learned_at": "2026-10-24T23:48:40+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/explore-jpl/",
-      "title": "Explore JPL | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Explore JPL | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/explore-jpl/ Markdown Content: [](https://www.jpl.nasa.gov/explore-jpl/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/Explore_Banner_6.5.26_V4.orig.2e16d0ba.fill-1024x441-c10.jpg) # Other Ways to Explore JPL There are",
-      "keywords": [
-        "jpl",
-        "https",
-        "www",
-        "nasa",
-        "gov",
-        "who-we-are",
-        "missions",
-        "com",
-        "explore",
-        "image",
-        "mission_status",
-        "nasajpl",
-        "news",
-        "_nuxt"
-      ],
-      "hash": "7bcae676e4bb5ec99573e7da58149f6762984133c9c140011299f768abc9544d",
-      "learned_at": "2026-10-24T23:48:42+00:00"
-    },
-    {
-      "url": "http://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
-      "title": "https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png",
-      "summary": "Title: https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png URL Source: http://ssd.jpl.nasa.gov/images/logo_nasa_trio.png Published Time: Mon, 30 Oct 2023 22:32:12 GMT Markdown Content: It is NASA logo in Blue,Red and White scheme",
-      "keywords": [
-        "nasa",
-        "gov",
-        "images",
-        "jpl",
-        "logo_nasa_trio",
-        "png",
-        "ssd",
-        "2023",
-        "blue",
-        "content",
-        "gmt",
-        "http",
-        "https",
-        "logo"
-      ],
-      "hash": "b763f3cb4694a8634682beec43e05c87be9231c7ba1b14d7c3941bff3f611ee2",
-      "learned_at": "2026-10-24T23:51:02+00:00"
-    },
     {
       "url": "http://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
       "title": "https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png",
@@ -26202,6 +26085,167 @@
       ],
       "hash": "a0ba4f7a720cb5d11a787a9d3874cd48fd9f9e29ca667ba427702379696ed8c2",
       "learned_at": "2026-11-14T07:32:04+00:00"
+    },
+    {
+      "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp.0000_searchweb.png",
+      "title": "daily_clim_black_comp.0000_searchweb.png",
+      "summary": "Title: daily_clim_black_comp.0000_searchweb.png URL Source: https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004759/daily_clim_black_comp.0000_searchweb.png Published Time: Thu, 17 Oct 2019 15:00:05 GMT Markdown Content: A heat graph of weather activity around the world in January",
+      "keywords": [
+        "0000_searchweb",
+        "daily_clim_black_comp",
+        "png",
+        "2019",
+        "a000000",
+        "a004700",
+        "a004759",
+        "activity",
+        "around",
+        "content",
+        "gmt",
+        "gov",
+        "graph",
+        "gsfc"
+      ],
+      "hash": "574ee1e36b965ee04b8d9b0203d4d04ed64dd4079d01ed1fbbc0aa4be7a3c911",
+      "learned_at": "2026-11-14T14:26:50+00:00"
+    },
+    {
+      "url": "https://svs.gsfc.nasa.gov/vis/a000000/a000200/a000219/a000219_pre_searchweb.jpg",
+      "title": "a000219_pre_searchweb.jpg",
+      "summary": "Title: a000219_pre_searchweb.jpg URL Source: https://svs.gsfc.nasa.gov/vis/a000000/a000200/a000219/a000219_pre_searchweb.jpg Published Time: Thu, 20 Mar 2014 20:14:00 GMT Markdown Content: The image depicts a close-up satellite view of a cyclone or hurricane on Earth",
+      "keywords": [
+        "a000219_pre_searchweb",
+        "jpg",
+        "2014",
+        "a000000",
+        "a000200",
+        "a000219",
+        "close-up",
+        "content",
+        "cyclone",
+        "depicts",
+        "earth",
+        "gmt",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "91ed98e5d654331daaf229f8e1f2adc9e59e363c51403518c31696d6c3e069e4",
+      "learned_at": "2026-11-14T14:26:53+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/osiris-apex/",
+      "title": "OSIRIS-APEX - NASA Science",
+      "summary": "Title: OSIRIS-APEX - NASA Science URL Source: https://science.nasa.gov/mission/osiris-apex/ Published Time: 2023-10-31T12:59:44-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/)",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "0eef94ae7d57aca65738fbab37ca91f304d95447976837e1929d9e20ebc31769",
+      "learned_at": "2026-11-14T14:26:55+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/multimedia/guidelines/index.html](https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014367/0613_Ag_Water__Main_Screen__FInal_Export.00001_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/nasaand-agriculture/",
+      "title": "Page Not Found - NASA",
+      "summary": "Title: Page Not Found - NASA URL Source: https://www.nasa.gov/multimedia/guidelines/index.html](https:/svs.gsfc.nasa.gov/vis/a010000/a014300/a014367/0613_Ag_Water__Main_Screen__FInal_Export.00001_searchweb.png)](https:/svs.gsfc.nasa.gov/gallery/nasaand-agriculture/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-a",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "multimedia",
+        "events",
+        "images",
+        "image",
+        "plus",
+        "png",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "931c59b63a44e5b52d9236f5481cc4406d196bba4b581554d105b2278a0d4f86",
+      "learned_at": "2026-11-14T14:26:58+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/carruthers-geocorona-observatory/](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014887/14887_Thumbnail_searchweb.png)](https://svs.gsfc.nasa.gov/gallery/carruthers-geocorona-observatory/",
+      "title": "Page not found - NASA Science",
+      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/mission/carruthers-geocorona-observatory/](https:/svs.gsfc.nasa.gov/vis/a010000/a014800/a014887/14887_Thumbnail_searchweb.png)](https:/svs.gsfc.nasa.gov/gallery/carruthers-geocorona-observatory/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.go",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "png",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "f06257418358bac837eda22e3ee6381b178f04b4320febb20acd1359092db514",
+      "learned_at": "2026-11-14T14:27:01+00:00"
+    },
+    {
+      "url": "http://ozonewatch.gsfc.nasa.gov/.](https://svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https://svs.gsfc.nasa.gov/gallery/ozone-hole/",
+      "title": "404 Not Found",
+      "summary": "Title: 404 Not Found URL Source: http://ozonewatch.gsfc.nasa.gov/.](https:/svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https:/svs.gsfc.nasa.gov/gallery/ozone-hole/ Final URL: https://ozonewatch.gsfc.nasa.gov/.](https:/svs.gsfc.nasa.gov/vis/a010000/a011600/a011648/Ozone_minimums_with_graph_nasaportal_web.png)](https:/svs.gsfc.nasa.gov/gallery/ozone-hole/ Warning: Target URL returned error 404: Not Found Markdown Content: # Not Found The requested URL was not found on this server.",
+      "keywords": [
+        "gov",
+        "gsfc",
+        "nasa",
+        "https",
+        "found",
+        "svs",
+        "url",
+        "404",
+        "a010000",
+        "a011600",
+        "a011648",
+        "gallery",
+        "ozone-hole",
+        "ozone_minimums_with_graph_nasaportal_web"
+      ],
+      "hash": "5b547b3a2168d7cf54ccb76e67d8b27d10f0d23aaf6ac8d07608fbd02f19b854",
+      "learned_at": "2026-11-14T14:29:18+00:00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VUq3ClMyNUw",
+      "title": "NASA Will Explore Asteroid Apophis - YouTube",
+      "summary": "Title: NASA Will Explore Asteroid Apophis - YouTube URL Source: https://www.youtube.com/watch?v=VUq3ClMyNUw Warning: Target URL returned error 401: Unauthorized Markdown Content: Back [![Image 1](https://www.youtube.com/watch?v=VUq3ClMyNUw)](https://www.youtube.com/ \"YouTube Home\") Skip navigation Search Search with your voice [](https://www.youtube.com/watch?v=VUq3ClMyNUw) [Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DVUq3ClMyNUw&hl=en&ec=65620) [![Image 2](https://www.youtube.com/watch?v=VUq3ClMyNUw)](https://www.youtube.com/ \"YouTube Home\") [](https://www.youtube.com/watch?v=VUq3ClMyNUw) [](https://www.youtube.com/watch?v=VUq3ClMyNUw) [Video 1](https://www.youtube.com/watch?v=V",
+      "keywords": [
+        "youtube",
+        "com",
+        "https",
+        "watch",
+        "www",
+        "vuq3clmynuw",
+        "image",
+        "nasa",
+        "ago",
+        "apophis",
+        "asteroid",
+        "explore",
+        "live",
+        "playlist"
+      ],
+      "hash": "90b67786d631fd1d71347c7e631d066c77cd134d72cc65894440682824bb0e37",
+      "learned_at": "2026-11-14T14:29:35+00:00"
     }
   ],
   "failures": [
@@ -26327,6 +26371,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-14T14:29:35+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-14T14:29:35+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2497
+    },
     {
       "at": "2026-11-14T07:32:04+00:00",
       "kind": "core_promoted",
@@ -27248,29 +27307,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 2155
-    },
-    {
-      "at": "2026-11-01T17:58:59+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-01T17:58:59+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 2157
     }
   ],
   "metrics": {
-    "successful_fetches": 1566,
+    "successful_fetches": 1573,
     "failed_fetches": 24,
     "duplicate_pages": 2,
     "candidate_promotions": 70,
-    "candidate_rejections": 178
+    "candidate_rejections": 179
   },
   "core_genome": {
     "query_weight": 3.0,
