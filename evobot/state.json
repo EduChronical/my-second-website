@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 248,
+  "generation": 249,
   "core_version": 70,
-  "runs": 247,
-  "pages_learned": 1553,
-  "last_run": "2026-11-13T20:26:56+00:00",
+  "runs": 248,
+  "pages_learned": 1558,
+  "last_run": "2026-11-14T00:59:00+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-25566Bc.2e16d0ba.fill-430x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr.-Laurie-Leshin-.0af1b97b.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/watkins-lg.a0dd38af.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Edward_C._Ston.aa9be3b1.fill-430x430-c70.format-jpeg.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr._Lew_Allen_Jr._.c960668d.fill-430x430-c70.format-jpeg.jpg",
@@ -98,6 +96,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
+    "https://recruiter.naturecareers.com/",
+    "https://recruiter.naturecareers.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
@@ -122,8 +122,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_March_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
-    "https://recruiter.naturecareers.com/",
-    "https://recruiter.naturecareers.com/",
     "https://esahubble.org/images/heic1215a/",
     "https://addons.mozilla.org/en-US/firefox/addon/downthemall/",
     "https://about.downthemall.org/4.0/",
@@ -179,7 +177,8 @@
     "https://support.springer.com/ja-JP/support/solutions/6000138386",
     "https://support.springer.com/en/support/login",
     "https://support.springer.com/support/home",
-    "http://authorservices.springernature.cn/",
+    "https://support.springer.com/en/support/solutions",
+    "https://support.springer.com/en/support/solutions/folders/6000234424",
     "http://www.naturechina.com/",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
@@ -246,6 +245,7 @@
     "https://rubriq.cn/",
     "https://ec.europa.eu/consumers/odr/",
     "https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)",
+    "http://authorservices.springernature.cn/",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -283,30 +283,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://support.springer.com/en/support/solutions",
-    "https://support.springer.com/en/support/solutions/folders/6000234424",
-    "https://www.springernature.com/gp/legal/privacy-statement",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_EET87720-0.jpg",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_GRO17063-0.jpg",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_GRO17063-3.jpg",
-    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_LON94102-37.jpg",
-    "https://www.nasa.gov/international-space-station/",
-    "https://www.nasa.gov/humans-in-space/destinations/",
-    "https://www.nasa.gov/humans-in-space/living-in-space/",
-    "https://www.nasa.gov/es/",
-    "https://www.nasa.gov/goddard",
-    "https://ares.jsc.nasa.gov/astromaterials3d/index.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/about-astromaterials-3d.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/project-technology.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/publications.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/project-team.htm",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=A11",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=A12",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=A14",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=moon",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=mars",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=vesta",
-    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=k-type",
     "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=m-type",
     "https://oig.nasa.gov/?s=Fraud",
     "https://oig.nasa.gov/?s=International+Space+Station",
@@ -2496,7 +2472,28 @@
     "https://www.nasa.gov/directorates/armd/aavp/aatt-project/",
     "https://www.nasa.gov/directorates/armd/aavp/",
     "https://www.nasa.gov/humans-in-space/",
-    "https://www.nasa.gov/aeronautics/"
+    "https://www.nasa.gov/aeronautics/",
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_GRO17063-3.jpg",
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_LON94102-37.jpg",
+    "http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/)",
+    "https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)",
+    "https://www.facebook.com/business/a/online-sales/custom-audiences-website](https://www.facebook.com/business/a/online-sales/custom-audiences-website).",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=1024",
+    "https://www.nasa.gov/humans-in-space/living-in-space/",
+    "https://www.nasa.gov/es/",
+    "https://www.nasa.gov/goddard",
+    "https://ares.jsc.nasa.gov/astromaterials3d/index.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/about-astromaterials-3d.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/project-technology.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/publications.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/project-team.htm",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=A11",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=A12",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=A14",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=moon",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=mars",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=vesta",
+    "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=k-type"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12317,124 +12314,42 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/170-615Ac-5mb.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
       "at": "2026-11-13T20:27:10+00:00",
       "status": "robots_disallow"
+    },
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_EET87720-0.jpg": {
+      "at": "2026-11-14T00:59:02+00:00",
+      "status": "ok",
+      "hash": "79fdb64de41ef3547f68862bd497304d8eb2dce15f00d36afe9c7c37e80f001d"
+    },
+    "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_GRO17063-0.jpg": {
+      "at": "2026-11-14T00:59:05+00:00",
+      "status": "ok",
+      "hash": "363c627fc695c814eba895c643187e18f3d9c8e09d276fb42b3ede2c6f71579f"
+    },
+    "https://www.springernature.com/gp/legal/privacy-statement": {
+      "at": "2026-11-14T00:59:09+00:00",
+      "status": "ok",
+      "hash": "ad5cd6a8bfb7689525c9cb3bf9ab9769b4d837a3a886dd4615a0bb2118ab3d66"
+    },
+    "https://www.nasa.gov/international-space-station/": {
+      "at": "2026-11-14T00:59:10+00:00",
+      "status": "ok",
+      "hash": "5936b39e7ca0221867b1d503a5430b46823fdfbf9f1799d801c9a21de4ffb80f"
+    },
+    "https://www.nasa.gov/humans-in-space/destinations/": {
+      "at": "2026-11-14T00:59:11+00:00",
+      "status": "ok",
+      "hash": "db1bdcf844d9c9644f3107f3e9e3f07395b02b2877179021725a8d1073cc4c5f"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/P-25566Bc.2e16d0ba.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T00:59:11+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/Dr.-Laurie-Leshin-.0af1b97b.fill-430x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-14T00:59:11+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://group.springernature.com/gp/group/media",
-      "title": "Media Center | Springer Nature Group",
-      "summary": "Title: Media Center | Springer Nature Group URL Source: https://group.springernature.com/gp/group/media Markdown Content: ## MEDIA CENTRE Resources for journalists The Media Centre provides information on Springer Nature to help you as a journalist. This includes press contacts, press releases, images, company reports and other relevant content. ## Latest Press Release ### Congratulations to the 2026 Nobel Prize Laureates London | Berlin | New York | 14th October 2026 Springer Nature extends its warmest congratulations to this year's Nobel Prizes winners, celebrating their exceptional research and contributions that have shaped knowledge and their respective fields. ## Press Releases[see all](https://group.springernature.com/gp/group/media/press-releases) ### Congratulations to the 2026 Nobel Prize Laureates London | Berlin | New York | 14th October 2026 Springer Nature extends its warme",
-      "keywords": [
-        "group",
-        "https",
-        "springernature",
-        "media",
-        "nature",
-        "press",
-        "springer",
-        "2026",
-        "com",
-        "content",
-        "new",
-        "apps",
-        "berlin",
-        "cms-resources"
-      ],
-      "hash": "a43a22be7b1495ebc5d97c1ffde32cf53e222af830690ae35f9d6e49b9bfc82f",
-      "learned_at": "2026-10-24T17:02:03+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/august-2024-sulfur-crystals-on-mars-curiositys-happy-accident/",
-      "title": "August 2024 - Sulfur Crystals on Mars: Curiosity’s Happy Accident | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: August 2024 - Sulfur Crystals on Mars: Curiosity’s Happy Accident | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/august-2024-sulfur-crystals-on-mars-curiositys-happy-accident/ Markdown Content: [](https://www.jpl.nasa.gov/jpl-and-the-community/lecture-series/the-von-karman-lecture-series-2024/august-2024-sulfur-crystals-on-mars-curiositys-happy-accident/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.na",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "crystals",
-        "curiosity",
-        "sulfur",
-        "mars",
-        "image",
-        "rock",
-        "accident",
-        "august",
-        "happy"
-      ],
-      "hash": "73c12456290d66654fd71871b0c4295d534d5b7fe5e6e18b2cfd14055a0a04fc",
-      "learned_at": "2026-10-24T19:26:39+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/images/ceres-jpl-travel-poster",
-      "title": "Ceres - JPL Travel Poster",
-      "summary": "Title: Ceres - JPL Travel Poster URL Source: https://www.jpl.nasa.gov/images/ceres-jpl-travel-poster Markdown Content: [](https://www.jpl.nasa.gov/images/ceres-jpl-travel-poster) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Image](https://www.jpl.nasa.gov/images/) # Ceres - JPL Travel Poster Jet Propulsion Laboratory https://www.jpl.nasa.gov/ Dec. 24, 2020 [![Image",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "ceres",
-        "who-we-are",
-        "image",
-        "images",
-        "jpg",
-        "missions",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "net"
-      ],
-      "hash": "e6aa0f8c235e21dcf4ae996299eee1172d04c054e4b46f184d4f6bb30fa80f94",
-      "learned_at": "2026-10-24T19:26:43+00:00"
-    },
-    {
-      "url": "https://press.nature.com/press-releases/15634836",
-      "title": "Client Challenge",
-      "summary": "Title: Client Challenge URL Source: https://press.nature.com/press-releases/15634836 Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout. Markdown Content:",
-      "keywords": [
-        "15634836",
-        "challenge",
-        "client",
-        "com",
-        "consider",
-        "content",
-        "explicitly",
-        "fully",
-        "https",
-        "loaded",
-        "markdown",
-        "maybe",
-        "nature",
-        "page"
-      ],
-      "hash": "e7ace89873548b327b095d6bf3775d2c58851dcdb92160a14f9a9510f4e3b673",
-      "learned_at": "2026-10-24T19:26:47+00:00"
-    },
-    {
-      "url": "https://press.nature.com/sdgs/24645444",
-      "title": "SDGs and Springer Nature press releases",
-      "summary": "Title: SDGs and Springer Nature press releases URL Source: https://press.nature.com/sdgs/24645444 Markdown Content: [SDGs | press.springernature.com](https://press.nature.com/sdgs/24645444#main)[Skip to main content](https://press.nature.com/sdgs/24645444#main) Menu **[Home](https://press.nature.com/)** **[Press releases](https://press.nature.com/press-releases/15634836)** **[SDGs](https://press.nature.com/sdgs/24645444)** **[Free journals access](https://press.nature.com/free-journals-access/15634856)** **[Contact us](https://press.nature.com/contact-us/15634858)** **FAQs** * [FAQs](https://press.nature.com/faqs/15634820) * [Registered Media FAQs](https://press.nature.com/registered-media-faqs/15634824) **[For authors](https://press.nature.com/authors/15634694)** **[For PIOs](https://press.nature.com/press-officers/16760472)** [![Image 1: springernaturepress](https://nemo-assets-live.pu",
-      "keywords": [
-        "press",
-        "nature",
-        "com",
-        "https",
-        "sdgs",
-        "releases",
-        "24645444",
-        "faqs",
-        "springer",
-        "contact",
-        "goals",
-        "information",
-        "main",
-        "springernature"
-      ],
-      "hash": "a6bfb44eba49ba08a0f27022e752bd8d47d8c925bc262c108a2185e0171afd75",
-      "learned_at": "2026-10-24T19:26:53+00:00"
-    },
     {
       "url": "https://press.springernature.com/login",
       "title": "Login | Springer Nature Press",
@@ -26119,6 +26034,121 @@
       ],
       "hash": "4658eb33b42a9858ca7a811c11e6f82bd95398d545b40de61b079488164cd454",
       "learned_at": "2026-11-13T20:27:10+00:00"
+    },
+    {
+      "url": "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_EET87720-0.jpg",
+      "title": "HRPP_EET87720-0.jpg",
+      "summary": "Title: HRPP_EET87720-0.jpg URL Source: https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_EET87720-0.jpg Published Time: Tue, 29 Mar 2022 13:47:59 GMT Markdown Content: Next to the white disk is a stone on top of it",
+      "keywords": [
+        "hrpp_eet87720-0",
+        "jpg",
+        "2022",
+        "_images",
+        "_samples",
+        "ares",
+        "astromaterials3d",
+        "content",
+        "disk",
+        "gmt",
+        "gov",
+        "https",
+        "jsc",
+        "mar"
+      ],
+      "hash": "79fdb64de41ef3547f68862bd497304d8eb2dce15f00d36afe9c7c37e80f001d",
+      "learned_at": "2026-11-14T00:59:02+00:00"
+    },
+    {
+      "url": "https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_GRO17063-0.jpg",
+      "title": "HRPP_GRO17063-0.jpg",
+      "summary": "Title: HRPP_GRO17063-0.jpg URL Source: https://ares.jsc.nasa.gov/astromaterials3d/_images/_samples/HRPP_GRO17063-0.jpg Published Time: Tue, 15 Dec 2020 14:59:52 GMT Markdown Content: Black stone piece on a white stand with beaded wheel in background that has the word METIZ drawn on it",
+      "keywords": [
+        "hrpp_gro17063-0",
+        "jpg",
+        "2020",
+        "_images",
+        "_samples",
+        "ares",
+        "astromaterials3d",
+        "background",
+        "beaded",
+        "black",
+        "content",
+        "dec",
+        "drawn",
+        "gmt"
+      ],
+      "hash": "363c627fc695c814eba895c643187e18f3d9c8e09d276fb42b3ede2c6f71579f",
+      "learned_at": "2026-11-14T00:59:05+00:00"
+    },
+    {
+      "url": "https://www.springernature.com/gp/legal/privacy-statement",
+      "title": "Privacy policy - Springer Nature | Legal information",
+      "summary": "Title: Privacy policy - Springer Nature | Legal information URL Source: https://www.springernature.com/gp/legal/privacy-statement Markdown Content: This policy was last updated on 21/10/2026. This is the privacy policy (“policy”) for springernature.com which is run and provided Springer-Verlag GmbH, Heidelberg, Zweigniederlassung der Springer-Verlag GmbH Berlin, Europaplatz 3, D-69115 Heidelberg, Germany (**we, us** and **our**). We can also be contacted at[customerservice@springernature.com](mailto:customerservice@springernature.com). We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have ## I. Summary of our processing activities We publish scholarly journals, books,",
+      "keywords": [
+        "data",
+        "personal",
+        "see",
+        "website",
+        "information",
+        "may",
+        "policy",
+        "com",
+        "only",
+        "springernature",
+        "processing",
+        "provide",
+        "services",
+        "use"
+      ],
+      "hash": "ad5cd6a8bfb7689525c9cb3bf9ab9769b4d837a3a886dd4615a0bb2118ab3d66",
+      "learned_at": "2026-11-14T00:59:09+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/international-space-station/",
+      "title": "International Space Station - NASA",
+      "summary": "Title: International Space Station - NASA URL Source: https://www.nasa.gov/international-space-station/ Published Time: 2023-02-27T22:43:55Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resourc",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "apps"
+      ],
+      "hash": "5936b39e7ca0221867b1d503a5430b46823fdfbf9f1799d801c9a21de4ffb80f",
+      "learned_at": "2026-11-14T00:59:10+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/humans-in-space/destinations/",
+      "title": "Destinations - NASA",
+      "summary": "Title: Destinations - NASA URL Source: https://www.nasa.gov/humans-in-space/destinations/ Published Time: 2022-12-05T17:02:55Z Markdown Content: [![Image 9: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 10: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://w",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "db1bdcf844d9c9644f3107f3e9e3f07395b02b2877179021725a8d1073cc4c5f",
+      "learned_at": "2026-11-14T00:59:11+00:00"
     }
   ],
   "failures": [
@@ -26244,6 +26274,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-14T00:59:11+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-14T00:59:11+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 5 new pages",
+      "attempted": 24,
+      "frontier": 2487
+    },
     {
       "at": "2026-11-13T20:27:10+00:00",
       "kind": "core_unchanged",
@@ -27154,40 +27199,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 14,
       "frontier": 2145
-    },
-    {
-      "at": "2026-11-01T05:50:40+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v54",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-01T05:50:40+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 2150
     }
   ],
   "metrics": {
-    "successful_fetches": 1553,
+    "successful_fetches": 1558,
     "failed_fetches": 24,
     "duplicate_pages": 2,
     "candidate_promotions": 69,
-    "candidate_rejections": 177
+    "candidate_rejections": 178
   },
   "core_genome": {
     "query_weight": 3.0,
