@@ -1,23 +1,13 @@
 {
   "schema": 2,
-  "generation": 255,
-  "core_version": 72,
-  "runs": 254,
-  "pages_learned": 1600,
-  "last_run": "2026-11-15T09:58:44+00:00",
+  "generation": 256,
+  "core_version": 73,
+  "runs": 255,
+  "pages_learned": 1604,
+  "last_run": "2026-11-15T16:57:31+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "http://coldatomlab.jpl.nasa.gov/",
-    "https://www.springer.com/saved-research",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fspringer",
-    "https://support.springer.com/en/support/tickets/new",
-    "https://support.springer.com/zh-CN/support/solutions/6000138386",
-    "https://support.springer.com/de/support/solutions/6000138386",
-    "https://support.springer.com/ja-JP/support/solutions/6000138386",
-    "https://support.springer.com/en/support/login",
-    "https://support.springer.com/support/home",
-    "https://support.springer.com/en/support/solutions",
-    "https://support.springer.com/en/support/solutions/folders/6000234424",
     "https://x.com/NASAGoddard/status/2103563395068809583?s=20",
     "https://scholar.google.co.uk/scholar?btnG=Search+Scholar&as_sauthors=%22Alexandra%2BWitze%22",
     "https://www.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg",
@@ -293,20 +283,6 @@
     "http://lroc.sese.asu.edu/",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://ssd.jpl.nasa.gov/dat/planets/nikolaev.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/miscastrom.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/pluto_refs.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/plutopre69.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/plutopost69.txt",
-    "http://ssd.jpl.nasa.gov/planets/",
-    "http://ssd.jpl.nasa.gov/planets/phys_par.html",
-    "http://ssd.jpl.nasa.gov/tools/gravity.html",
-    "http://ssd.jpl.nasa.gov/planets/discovery.html",
-    "http://ssd.jpl.nasa.gov/n",
-    "http://ssd.jpl.nasa.gov/n",
-    "http://ssd.jpl.nasa.gov/contact/",
-    "http://ssd.jpl.nasa.gov/n",
-    "http://ssd.jpl.nasa.gov/orbits.html",
     "http://ssd.jpl.nasa.gov/horizons/",
     "http://ssd.jpl.nasa.gov/planets/orbits.html",
     "https://support.google.com/chrome/answer/95414",
@@ -2506,7 +2482,23 @@
     "https://www.youtube.com/watch?v=Uddz-3RwA_Y",
     "https://www.youtube.com/watch?v=e6Faq1AmISI",
     "https://www.youtube.com/watch?v=3VoeRAR0YgE",
-    "https://www.youtube.com/watch?v=uIjNfZbUYu8"
+    "https://www.youtube.com/watch?v=uIjNfZbUYu8",
+    "https://ssd.jpl.nasa.gov/dat/planets/pluto_refs.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/plutopre69.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/plutopost69.txt",
+    "http://ssd.jpl.nasa.gov/planets/",
+    "http://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "http://ssd.jpl.nasa.gov/tools/gravity.html",
+    "http://ssd.jpl.nasa.gov/planets/discovery.html",
+    "http://ssd.jpl.nasa.gov/n",
+    "http://ssd.jpl.nasa.gov/n",
+    "http://ssd.jpl.nasa.gov/contact/",
+    "http://ssd.jpl.nasa.gov/n",
+    "http://ssd.jpl.nasa.gov/orbits.html",
+    "https://science.nasa.gov/mission/cold-atom-laboratory/",
+    "https://science.nasa.gov/mission/cold-atom-laboratory/",
+    "https://link.springer.com/brands/springer",
+    "https://link.springer.com/oscar-static/images/brand-hubs/springer_logo-33a769fac2.svg"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12641,101 +12633,61 @@
       "at": "2026-11-15T09:59:17+00:00",
       "status": "ok",
       "hash": "92156ba6c90a4c659cf99b91359c5cb8a4bdb8a1bbcef1783d166ae30447a1d2"
+    },
+    "https://ssd.jpl.nasa.gov/dat/planets/nikolaev.txt": {
+      "at": "2026-11-15T16:57:32+00:00",
+      "status": "ok",
+      "hash": "6619de3a3d3a3682b87680080e1cd764f9111bdc88d76bf61975b29ac21e2831"
+    },
+    "https://ssd.jpl.nasa.gov/dat/planets/miscastrom.txt": {
+      "at": "2026-11-15T16:57:33+00:00",
+      "status": "ok",
+      "hash": "6a517c0f23840c7da6caf658037f05d5a4e1ba47b7ea2b1ba527449b8544e335"
+    },
+    "http://coldatomlab.jpl.nasa.gov/": {
+      "at": "2026-11-15T16:59:52+00:00",
+      "status": "ok",
+      "hash": "b09858d7eca6dd47e057e66368395433874e8d27553afcd97c8f0de75a6d3f88"
+    },
+    "https://www.springer.com/saved-research": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "ok",
+      "hash": "2af47e65df4337b04bf989342aace08c8dac7957c86c0a6bdd705ad1e4196446"
+    },
+    "https://support.springer.com/en/support/tickets/new": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/zh-CN/support/solutions/6000138386": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/de/support/solutions/6000138386": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/ja-JP/support/solutions/6000138386": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/en/support/login": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/support/home": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/en/support/solutions": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
+    },
+    "https://support.springer.com/en/support/solutions/folders/6000234424": {
+      "at": "2026-11-15T16:59:57+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://authorservices.springernature.com/privacy-policy/",
-      "title": "Privacy policy | Springer Nature Author Services",
-      "summary": "Title: Privacy policy | Springer Nature Author Services URL Source: https://authorservices.springernature.com/privacy-policy/ Markdown Content: Last Updated: August 13, 2025 This is the privacy policy (“Policy”) for [http://authorservices.springernature.com](http://authorservices.springernature.com/) and [http://authorservices.springernature.cn](http://authorservices.springernature.cn/) (“the Websites”), which are operated on behalf of Springer Nature Limited and Macmillan Information Consulting Services (Shanghai) Co. Ltd (WOFE) respectively (together, “Springer Nature”), American Journal Experts, LLC (AJE), 941 West Morse Blvd, Ste 100, Winter Park, FL, 32789 USA (“AJE,” “we,” “us,” and “our”). The Policy provides information on the personal data we collect and how we collect it, the purposes for which we use your personal data, the circumstances under which we share your personal data",
-      "keywords": [
-        "websites",
-        "data",
-        "personal",
-        "information",
-        "may",
-        "policy",
-        "authorservices",
-        "nature",
-        "springer",
-        "springernature",
-        "aje",
-        "http",
-        "section",
-        "see"
-      ],
-      "hash": "ee705394eb54d18eb2bdebee471b824cf5bbb0a275e89113d88b822c7fd312d3",
-      "learned_at": "2026-10-25T16:47:19+00:00"
-    },
-    {
-      "url": "https://authorservices.springernature.com/",
-      "title": "Springer Nature Author Services | Editing, Translation & Support",
-      "summary": "Title: Springer Nature Author Services | Editing, Translation & Support URL Source: https://authorservices.springernature.com/ Markdown Content: ![Image 1](https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/02/0e9586f1c4c517dd9113d45fc3a79b011-1.jpg?resize=1200%2C450&ssl=1) ## Writing a paper, grant, or thesis? Try Springer Nature Editing Service. From the publisher of Nature. Also available, from AJE: Academic Translation, Manuscript & Table Formatting. ![Image 2: SPRINGER NATURE Editing Service logo](https://i0.wp.com/authorservices.springernature.com/wp-content/uploads/2024/12/SN_Editing_Service_RGB.png?resize=300%2C74&ssl=1) * * * ### English Language Editing * Our high-quality language editing meets the standards set by Springer Nature. * Editing is provided by professional editors with expertise in your subject area. * Each edited paper undergoes a quality ",
-      "keywords": [
-        "editing",
-        "nature",
-        "service",
-        "translation",
-        "com",
-        "language",
-        "springer",
-        "academic",
-        "english",
-        "paper",
-        "quality",
-        "authorservices",
-        "each",
-        "expertise"
-      ],
-      "hash": "5cee653f0f6f5cfe3806ecbb9747140891462c296540e1cbff22a7c49e9776e2",
-      "learned_at": "2026-10-25T16:47:21+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/about/maps/images/map_BUR_to_JPL.jpg",
-      "title": "map_BUR_to_JPL.jpg",
-      "summary": "Title: map_BUR_to_JPL.jpg URL Source: https://www.jpl.nasa.gov/about/maps/images/map_BUR_to_JPL.jpg Published Time: Wed, 18 Mar 2020 18:48:59 GMT Markdown Content: A screen shows a map from driving directions to Bob HopAirport",
-      "keywords": [
-        "jpg",
-        "map_bur_to_jpl",
-        "2020",
-        "bob",
-        "content",
-        "directions",
-        "driving",
-        "gmt",
-        "gov",
-        "hopairport",
-        "https",
-        "images",
-        "jpl",
-        "map"
-      ],
-      "hash": "b5588555add4f49e786b0d3d781b2f60181d429bd77e613802842972273f927c",
-      "learned_at": "2026-10-25T19:20:53+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/about/maps/images/map_SFV_to_JPL.jpg",
-      "title": "map_SFV_to_JPL.jpg",
-      "summary": "Title: map_SFV_to_JPL.jpg URL Source: https://www.jpl.nasa.gov/about/maps/images/map_SFV_to_JPL.jpg Published Time: Wed, 18 Mar 2020 18:48:59 GMT Markdown Content: A map of driving directions to 4800 Oak Groove Drive in Longview",
-      "keywords": [
-        "jpg",
-        "map_sfv_to_jpl",
-        "2020",
-        "4800",
-        "content",
-        "directions",
-        "drive",
-        "driving",
-        "gmt",
-        "gov",
-        "groove",
-        "https",
-        "images",
-        "jpl"
-      ],
-      "hash": "35e2372ca3002d23f268e40d792e87a06f33e6909e965cbe50d95de517b098bc",
-      "learned_at": "2026-10-25T19:20:56+00:00"
-    },
     {
       "url": "https://authorservices.springernature.com/formatting/",
       "title": "Manuscript Formatting Service For Journal Submission",
@@ -26443,6 +26395,98 @@
       ],
       "hash": "92156ba6c90a4c659cf99b91359c5cb8a4bdb8a1bbcef1783d166ae30447a1d2",
       "learned_at": "2026-11-15T09:59:17+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/dat/planets/nikolaev.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/dat/planets/nikolaev.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/dat/planets/nikolaev.txt Published Time: Wed, 26 Apr 2023 21:20:27 GMT Markdown Content: P5012437900449829 089 7006 2245193659 -092259449 1962NIKO P5022437900449829 089 7006 2245320279 -092136519 1962NIKO P5032437900449829 089 7006 2245152089 -092331949 1962NIKO P5012437903427139 089 7006 2244042789 -093041089 1962NIKO P5022437903427139 089 7006 2244095649 -093004419 1962NIKO P5032437903427139 089 7006 2243506809 -093203069 1962NIKO P5022437946298510 089 7006 2225589649 -111612729 1962NIKO P5032437946298510 089 7006 2225422489 -111750109 1962NIKO P5042437946298510 089 7006 2225556179 -111645099 1962NIKO P5012437956282290 089 7006 2223517209 -112647309 1962NIKO P5022437956282290 089 7006 2223550549 -112623009 1962NIKO P5032437956282290 089 7006 2224014309 -112553949 1962NIKO P5042437956282290 089 7006 2223596989 -112548509 1962NIKO P501243828947",
+      "keywords": [
+        "089",
+        "7006",
+        "1963niko",
+        "1962niko",
+        "-092136519",
+        "-092259449",
+        "-092331949",
+        "-093004419",
+        "-093041089",
+        "-093203069",
+        "-111612729",
+        "-111645099",
+        "-111750109",
+        "-112548509"
+      ],
+      "hash": "6619de3a3d3a3682b87680080e1cd764f9111bdc88d76bf61975b29ac21e2831",
+      "learned_at": "2026-11-15T16:57:32+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/dat/planets/miscastrom.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/dat/planets/miscastrom.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/dat/planets/miscastrom.txt Published Time: Wed, 26 Apr 2023 21:20:27 GMT Markdown Content: P7002437382391145 08908886 0941281689 143854649 1961 089 P7002437396280695 08908886 0940068509 144517289 1961 089 P7002437403311065 08908886 0939391749 144721809 1961 089 P7002437406255725 08908886 0939304809 144758709 1961 089 P7002437406273055 08908886 0939304409 144759049 1961 089 P7002437730389045 08908886 1002543769 124837129 1962 089 P7002437772259345 08908886 0958062409 131318649 1962 089 P7002437789256755 08908886 0957371999 131513169 1962 089 P7002437792276505 08908886 0957382519 131459979 1962 089 P7002438049502925 08908886 1028592849 102224439 1963 089 P7002438085428405 08908886 1023295009 105446459 1963 089 P7002438113330406 08908886 1019096229 111910589 1963 089 P7002438143260805 08908886 1016151849 113437909 1963 089 P7002438162275735 089088",
+      "keywords": [
+        "089",
+        "08908886",
+        "1965",
+        "1966",
+        "1968",
+        "1961",
+        "1963",
+        "1962",
+        "1967",
+        "1969",
+        "-001316549",
+        "-002736429",
+        "-024830289",
+        "000533229"
+      ],
+      "hash": "6a517c0f23840c7da6caf658037f05d5a4e1ba47b7ea2b1ba527449b8544e335",
+      "learned_at": "2026-11-15T16:57:33+00:00"
+    },
+    {
+      "url": "http://coldatomlab.jpl.nasa.gov/",
+      "title": "Cold Atom Laboratory - NASA Science",
+      "summary": "Title: Cold Atom Laboratory - NASA Science URL Source: http://coldatomlab.jpl.nasa.gov/ Final URL: https://science.nasa.gov/mission/cold-atom-laboratory/ Published Time: 2023-06-15T15:04:42-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Me",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "b09858d7eca6dd47e057e66368395433874e8d27553afcd97c8f0de75a6d3f88",
+      "learned_at": "2026-11-15T16:59:52+00:00"
+    },
+    {
+      "url": "https://www.springer.com/saved-research",
+      "title": "Springer, serving the global research community",
+      "summary": "Title: Springer, serving the global research community URL Source: https://www.springer.com/saved-research Final URL: https://link.springer.com/brands/springer Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data. Manage preferences for further information and to change your choic",
+      "keywords": [
+        "springer",
+        "com",
+        "https",
+        "link",
+        "brands",
+        "springernature",
+        "cookies",
+        "home",
+        "javascript",
+        "journals",
+        "research",
+        "search",
+        "authors",
+        "content"
+      ],
+      "hash": "2af47e65df4337b04bf989342aace08c8dac7957c86c0a6bdd705ad1e4196446",
+      "learned_at": "2026-11-15T16:59:57+00:00"
     }
   ],
   "failures": [
@@ -26583,6 +26627,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-15T16:59:58+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v73",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-15T16:59:57+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 4 new pages",
+      "attempted": 24,
+      "frontier": 2492
+    },
     {
       "at": "2026-11-15T09:59:17+00:00",
       "kind": "core_unchanged",
@@ -27493,28 +27563,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 2171
-    },
-    {
-      "at": "2026-11-03T01:02:31+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-03T01:02:31+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 15,
-      "frontier": 2149
     }
   ],
   "metrics": {
-    "successful_fetches": 1600,
+    "successful_fetches": 1604,
     "failed_fetches": 27,
     "duplicate_pages": 2,
-    "candidate_promotions": 71,
+    "candidate_promotions": 72,
     "candidate_rejections": 182
   },
   "core_genome": {
@@ -27548,10 +27603,10 @@
     "www.jpl.nasa.gov",
     "svs.gsfc.nasa.gov",
     "www.youtube.com",
+    "ssd.jpl.nasa.gov",
     "info.arxiv.org",
-    "group.springernature.com",
-    "jpl.nasa.gov",
     "science.nasa.gov",
+    "group.springernature.com",
     "history.nasa.gov"
   ]
 }
