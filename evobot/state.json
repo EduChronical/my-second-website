@@ -1,27 +1,21 @@
 {
   "schema": 2,
-  "generation": 253,
+  "generation": 254,
   "core_version": 72,
-  "runs": 252,
-  "pages_learned": 1584,
-  "last_run": "2026-11-14T23:14:58+00:00",
+  "runs": 253,
+  "pages_learned": 1592,
+  "last_run": "2026-11-15T02:48:38+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "http://ssd.jpl.nasa.gov/tools/sb_ident.html",
-    "http://ssd.jpl.nasa.gov/tools/sbwobs.html",
-    "http://ssd.jpl.nasa.gov/sb/meteor_streams.html",
-    "http://ssd.jpl.nasa.gov/sb/targets.html",
-    "http://ssd.jpl.nasa.gov/sb/sats.html",
-    "http://ssd.jpl.nasa.gov/sb/radar.html",
-    "http://ssd.jpl.nasa.gov/diagrams/",
-    "https://www.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg",
     "https://www.springer.com/saved-research",
-    "https://recruiter.naturecareers.com/",
-    "https://recruiter.naturecareers.com/",
     "https://x.com/NASAGoddard/status/2103563395068809583?s=20",
     "https://scholar.google.co.uk/scholar?btnG=Search+Scholar&as_sauthors=%22Alexandra%2BWitze%22",
-    "https://www.springer.com/oscar-static/images/brand-hubs/springer_logo-33a769fac2.svg",
+    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fspringer",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
+    "https://www.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg",
+    "https://recruiter.naturecareers.com/",
+    "https://recruiter.naturecareers.com/",
+    "https://www.springer.com/oscar-static/images/brand-hubs/springer_logo-33a769fac2.svg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -150,8 +144,10 @@
     "https://www.springer.com/brands/springer/journals",
     "https://www.springer.com/brands/springer/updates",
     "https://www.springer.com/brands/springer",
-    "http://www.naturechina.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
+    "https://jpl.jobs/",
+    "https://jpl.jobs/university-recruiting",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -167,7 +163,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
@@ -189,8 +184,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
-    "https://jpl.jobs/",
-    "https://jpl.jobs/university-recruiting",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
     "https://esahubble.org/images/heic1215a/",
@@ -258,10 +251,10 @@
     "https://en.wikipedia.org/wiki/Subsolar_point",
     "https://en.wikipedia.org/wiki/Libration",
     "https://en.wikipedia.org/wiki/Phase_angle_(astronomy",
+    "http://www.naturechina.com/",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
-    "http://authorservices.springernature.cn/",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -284,6 +277,7 @@
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://sat.gov.in/scripts/showdailyboard.asp",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "http://authorservices.springernature.cn/",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://www.nineplanets.org/luna.html",
@@ -298,15 +292,6 @@
     "http://books.nap.edu/catalog.php?record_id=11954",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link",
-    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fspringer",
-    "https://booksubmarine.springernature.com/link/publish-a-book?imprint=Springer&seriesId=null",
-    "https://booksubmarine.springernature.com/link/publish-a-book?imprint=Springer&seriesId=null",
-    "https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-658-52517-0",
-    "https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-031-49762-9",
-    "https://svs.gsfc.nasa.gov/vis/a030000/a031400/a031402/spiral_path_with_roman-horizontal-00523.png",
-    "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031394/RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png",
-    "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031382/cell-samples-jsc2025e065389.png",
     "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/",
     "https://science.nasa.gov/biological-physical/investigations/avatar/",
     "http://coldatomlab.jpl.nasa.gov/",
@@ -2505,7 +2490,19 @@
     "https://ssd.jpl.nasa.gov/sb/[[%20rec.compressed.url%20]]",
     "https://ssd-api.jpl.nasa.gov/sbdb.api`",
     "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=2015ab%60",
-    "https://ssd-api.jpl.nasa.gov/sbdb_query.api`"
+    "https://ssd-api.jpl.nasa.gov/sbdb_query.api`",
+    "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031382/cell-samples-jsc2025e065389.png",
+    "http://ssd.jpl.nasa.gov/sb/meteor_streams.html",
+    "http://ssd.jpl.nasa.gov/sb/targets.html",
+    "http://ssd.jpl.nasa.gov/sb/sats.html",
+    "http://ssd.jpl.nasa.gov/sb/radar.html",
+    "http://ssd.jpl.nasa.gov/diagrams/",
+    "https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-moved-to-springer-nature-link",
+    "https://support.springernature.com/zh-CN/support/solutions/articles/6000281876-springer-nature-%E5%93%81%E7%89%8C%E7%BD%91%E7%AB%99%E6%AD%A3%E8%BF%81%E7%A7%BB%E8%87%B3-springer-nature-link",
+    "https://support.springernature.com/de/support/solutions/articles/6000281876-springer-nature-marken-websites-wechseln-zu-springer-nature-link",
+    "https://support.springernature.com/ja-JP/support/solutions/articles/6000281876-springer-nature-%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AF-springer-nature-link-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%99",
+    "https://support.springernature.com/support/home",
+    "https://support.springernature.com/en/support/solutions/6000138290"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12560,193 +12557,49 @@
       "at": "2026-11-14T23:17:43+00:00",
       "status": "ok",
       "hash": "15595de8a547e9a1d6f598c5571971b9ce9c672f020ddf37d0a5040556fb4df0"
+    },
+    "https://svs.gsfc.nasa.gov/vis/a030000/a031400/a031402/spiral_path_with_roman-horizontal-00523.png": {
+      "at": "2026-11-15T02:48:41+00:00",
+      "status": "ok",
+      "hash": "a8ae1ba033442d5beebbbf8cbc955ba0d952b680650acd7736836034ec0c73f0"
+    },
+    "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031394/RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png": {
+      "at": "2026-11-15T02:48:44+00:00",
+      "status": "ok",
+      "hash": "493ef7a265da46c653937c081c1f592a66ad28d53333a1875f8be8b33807c455"
+    },
+    "http://ssd.jpl.nasa.gov/tools/sb_ident.html": {
+      "at": "2026-11-15T02:51:05+00:00",
+      "status": "ok",
+      "hash": "f4a8fe27801a21e8f23eb0ae1dc4cba49a16661c87d14b07413db65f14fe5c94"
+    },
+    "http://ssd.jpl.nasa.gov/tools/sbwobs.html": {
+      "at": "2026-11-15T02:51:11+00:00",
+      "status": "ok",
+      "hash": "2a0369b5750543181d294bcc946bc1f233e2041b2b4fb729683f4ea509318107"
+    },
+    "https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link": {
+      "at": "2026-11-15T02:51:14+00:00",
+      "status": "ok",
+      "hash": "5a9907de3c6095705f2ac2bb44a667f6c22122a713c9c0d034ad1624e59d03a4"
+    },
+    "https://booksubmarine.springernature.com/link/publish-a-book?imprint=Springer&seriesId=null": {
+      "at": "2026-11-15T02:51:30+00:00",
+      "status": "ok",
+      "hash": "d2f367a70046380d369662119fcda17f69d43947e2e4544d31887f9f3dce5cf3"
+    },
+    "https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-658-52517-0": {
+      "at": "2026-11-15T02:51:33+00:00",
+      "status": "ok",
+      "hash": "603b084a8bf6835429d2560eee646e3eb427674cbeeb5817e4fae30b3e50119e"
+    },
+    "https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-031-49762-9": {
+      "at": "2026-11-15T02:51:34+00:00",
+      "status": "ok",
+      "hash": "d966b6a3aea6088d8eeb53b8254d18b1acd605f27ec9422ac97d89baa0f949a5"
     }
   },
   "memory": [
-    {
-      "url": "https://apps.apple.com/us/app/space-images/id347075764?platform=iphone",
-      "title": "Space Images App - App Store",
-      "summary": "Title: Space Images App - App Store URL Source: https://apps.apple.com/us/app/space-images/id347075764?platform=iphone Markdown Content: for iPhone [iPhone](https://apps.apple.com/us/iphone/today)[iPad](https://apps.apple.com/us/ipad/today)[Mac](https://apps.apple.com/us/mac/discover)[Vision](https://apps.apple.com/us/vision/apps-and-games)[Watch](https://apps.apple.com/us/watch/apps-and-games)[TV](https://apps.apple.com/us/tv/discover) Search * [Today](https://apps.apple.com/us/iphone/today) * [Games](https://apps.apple.com/us/iphone/games) * [Apps](https://apps.apple.com/us/iphone/apps) * [Arcade](https://apps.apple.com/us/iphone/arcade) Categories * [Categories](https://apps.apple.com/us/iphone/editorial/6753950852) * [Photo & Video](https://apps.apple.com/us/iphone/grouping/25236) * [Health & Fitness](https://apps.apple.com/us/iphone/grouping/25188) * [Productivity](https://apps.appl",
-      "keywords": [
-        "apps",
-        "apple",
-        "com",
-        "https",
-        "iphone",
-        "1x1",
-        "app",
-        "artwork",
-        "assets",
-        "gif",
-        "grouping",
-        "image",
-        "platform",
-        "id347075764"
-      ],
-      "hash": "356a89fbe47e3daa6ef4e37210b93c6dd937fd3e08b1d178a9ffa97a3b3d0f54",
-      "learned_at": "2026-10-25T01:48:40+00:00"
-    },
-    {
-      "url": "https://apps.apple.com/us/app/space-images/id347075764",
-      "title": "Space Images App - App Store",
-      "summary": "Title: Space Images App - App Store URL Source: https://apps.apple.com/us/app/space-images/id347075764 Markdown Content: Search * [Today](https://apps.apple.com/us/iphone/today) * [Games](https://apps.apple.com/us/iphone/games) * [Apps](https://apps.apple.com/us/iphone/apps) * [Arcade](https://apps.apple.com/us/iphone/arcade) Platform * [iPhone](https://apps.apple.com/us/iphone/today) * [iPad](https://apps.apple.com/us/ipad/today) * [Mac](https://apps.apple.com/us/mac/discover) * [Vision](https://apps.apple.com/us/vision/apps-and-games) * [Watch](https://apps.apple.com/us/watch/apps-and-games) * [TV](https://apps.apple.com/us/tv/discover) ![Image 1](https://apps.apple.com/assets/artwork/1x1.gif) ![Image 2](https://apps.apple.com/assets/artwork/1x1.gif) # Space Images The Latest from NASA Missions Free · Designed for iPad. Not verified for macOS. Share * [16 Ratings 4.6 5.](https://apps.a",
-      "keywords": [
-        "apps",
-        "apple",
-        "com",
-        "https",
-        "app",
-        "1x1",
-        "artwork",
-        "assets",
-        "gif",
-        "image",
-        "iphone",
-        "id347075764",
-        "images",
-        "space"
-      ],
-      "hash": "cf3271c78eef3144067f35185ec9b2b5c52688d2f26e5563a5a3c643a8b91d03",
-      "learned_at": "2026-10-25T01:48:43+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/news/mars_water_pr_20000622.html",
-      "title": "New Images Suggest Present-Day Sources of Liquid Water on Mars",
-      "summary": "Title: New Images Suggest Present-Day Sources of Liquid Water on Mars URL Source: https://nssdc.gsfc.nasa.gov/planetary/news/mars_water_pr_20000622.html Markdown Content: * * * --------------- Planetary News --------------- * * * #### June 22, 2000 [![Image 1: Gullies in Noachis crater](https://nssdc.gsfc.nasa.gov/planetary/thumbnail/noachis_gullies.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/noachis_gullies.jpg) In what could turn out to be a landmark discovery in the history of Mars exploration, imaging scientists using data from NASA's Mars Global Surveyor spacecraft have recently observed features that suggest there may be current sources of liquid water at or near the surface of the red planet. The new images show the smallest features ever observed from martian orbit -- the size of an SUV. NASA scientists compare the features to those left by flash floods on Earth. \"We see fe",
-      "keywords": [
-        "mars",
-        "water",
-        "nasa",
-        "features",
-        "science",
-        "liquid",
-        "new",
-        "planetary",
-        "ago",
-        "ever",
-        "global",
-        "gov",
-        "gsfc",
-        "gullies"
-      ],
-      "hash": "b420195178bbe4b08c1b37f1cca7d866abde544c0ccd750d10c9b8bd6a45f668",
-      "learned_at": "2026-10-25T07:00:24+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/news/mco_19990923.html",
-      "title": "Mars Climate Orbiter May Have Been Destroyed",
-      "summary": "Title: Mars Climate Orbiter May Have Been Destroyed URL Source: https://nssdc.gsfc.nasa.gov/planetary/news/mco_19990923.html Markdown Content: * * * --------------- Planetary News --------------- * * * #### September 23, 1999 [![Image 1: [Drawing of Mars Climate Orbiter]](http://nssdc.gsfc.nasa.gov/thumbnail/spacecraft/mars98orb.gif)](http://nssdc.gsfc.nasa.gov/image/spacecraft/mars98orb.jpg) At 09:01 UT (5:01 a.m. EDT), Thursday, 23 September 1999 [Mars Climate Orbiter](http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1998-073A) (MCO) fired its main engine to begin its insertion into Mars orbit. Five minutes later the spacecraft was occulted by Mars (went behind Mars as seen from Earth) and the signal was lost as planned. Telemetry up to this point indicated that the spacecraft was functioning normally. Communication with MCO was scheduled to be reacquired about 20 minutes later, at",
-      "keywords": [
-        "mars",
-        "spacecraft",
-        "mco",
-        "climate",
-        "orbiter",
-        "error",
-        "gov",
-        "gsfc",
-        "nasa",
-        "nssdc",
-        "altitude",
-        "atmosphere",
-        "been",
-        "data"
-      ],
-      "hash": "9d86082bc4577808c91c5b48d0f8fb839707ef23ef044dc707b4810ca5395e4b",
-      "learned_at": "2026-10-25T07:00:48+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/cn/advancing-discovery",
-      "title": "Advancing Discovery | Springer Nature",
-      "summary": "Title: Advancing Discovery | Springer Nature URL Source: https://www.springernature.com/cn/advancing-discovery Markdown Content: ## 促进探索发现 我们如何携手科研界，促进探索发现。 施普林格·自然（Springer Nature）致力于促进探索发现，为此我们出版扎实和有深刻见解的科研成果，支持拓展新的知识领域，推动思想和信息的全球交流，并在开放获取中发挥领导作用。 此中的关键在于我们竭尽所能为整个科研界提供最佳服务，从而： * 帮助作者与人分享自己的新发现； * 帮助科研人员寻找、获得和理解他人的研究工作； * 向图书馆和机构提供技术和数据上的创新服务；* 为协会组织提供优质的出版支持； * 在科研资助机构和政策制定者所关注的重要问题上发挥引领作用。 ![Image 1: T_advancingdiscovery_bookmark_nobutton_neutral](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12250412/data/v1) ## 更多资讯 [![Image 2: 管理团队](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12247642/data/v5)](https://www.springernature.com/cn/group-old/aboutus/excecutive-team \"Executive team\") [![Image 3: 责任企业](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/12247648/data/v3)](http",
-      "keywords": [
-        "https",
-        "springernature",
-        "content",
-        "apps",
-        "cms-resources",
-        "data",
-        "image",
-        "k8s",
-        "public",
-        "rest",
-        "springer-cms",
-        "com",
-        "www",
-        "group-old"
-      ],
-      "hash": "c09a83a71e5f595dfada9940dbcab7f5e4525553734ec50e21d7e837fefaec15",
-      "learned_at": "2026-10-25T07:00:52+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/cn/products",
-      "title": "Products | Springer Nature",
-      "summary": "Title: Products | Springer Nature URL Source: https://www.springernature.com/cn/products Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-statement/11033522) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies ",
-      "keywords": [
-        "com",
-        "springernature",
-        "www",
-        "https",
-        "cookies",
-        "nature",
-        "products",
-        "springer",
-        "data",
-        "information",
-        "librarians",
-        "optional",
-        "use",
-        "app-sn"
-      ],
-      "hash": "604dca5b9df9dec74897627762ad4b5f6d67cf815bb0c09b6364002ac9089b74",
-      "learned_at": "2026-10-25T07:01:00+00:00"
-    },
-    {
-      "url": "https://link.springer.com/brands/nature-books",
-      "title": "Excellence, expertise and societal impact",
-      "summary": "Title: Excellence, expertise and societal impact URL Source: https://link.springer.com/brands/nature-books Markdown Content: Loading [MathJax]/jax/output/HTML-CSS/config.js ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data. Manage preferences for further information and to change your choices. A",
-      "keywords": [
-        "com",
-        "https",
-        "springer",
-        "link",
-        "nature",
-        "books",
-        "cookies",
-        "springernature",
-        "nature-books",
-        "research",
-        "search",
-        "brands",
-        "content",
-        "data"
-      ],
-      "hash": "5f87efd5f8d0f6e0c481549fd5aa8e2f1737c06808f9e7759bf91cdd486c5c6e",
-      "learned_at": "2026-10-25T07:01:05+00:00"
-    },
-    {
-      "url": "https://group.springernature.com/de/group",
-      "title": "Springer Nature | Corporate Affairs Homepage",
-      "summary": "Title: Springer Nature | Corporate Affairs Homepage URL Source: https://group.springernature.com/de/group Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-statement/11033522) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Alle Cookies akzeptieren O",
-      "keywords": [
-        "group",
-        "com",
-        "https",
-        "springernature",
-        "about-us",
-        "cookies",
-        "nature",
-        "springer",
-        "data",
-        "geschäftsbereich",
-        "information",
-        "use",
-        "app-sn",
-        "communities"
-      ],
-      "hash": "2fe9e03ceb75f0b05b877d56a62e8959a61288d84e06118a924d5a8626295b2a",
-      "learned_at": "2026-10-25T12:31:36+00:00"
-    },
     {
       "url": "https://www.springernature.com/cn/editors",
       "title": "Editors | Springer Nature",
@@ -26362,6 +26215,190 @@
       ],
       "hash": "15595de8a547e9a1d6f598c5571971b9ce9c672f020ddf37d0a5040556fb4df0",
       "learned_at": "2026-11-14T23:17:43+00:00"
+    },
+    {
+      "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031400/a031402/spiral_path_with_roman-horizontal-00523.png",
+      "title": "spiral_path_with_roman-horizontal-00523.png",
+      "summary": "Title: spiral_path_with_roman-horizontal-00523.png URL Source: https://svs.gsfc.nasa.gov/vis/a030000/a031400/a031402/spiral_path_with_roman-horizontal-00523.png Published Time: Tue, 28 Jul 2026 00:13:27 GMT Markdown Content: The Nancy Grace Roman Space Telescope is shown in blue color, the words Nancy Grace Roman Space Telescope are written on the top of the image",
+      "keywords": [
+        "grace",
+        "nancy",
+        "png",
+        "roman",
+        "space",
+        "spiral_path_with_roman-horizontal-00523",
+        "telescope",
+        "2026",
+        "a030000",
+        "a031400",
+        "a031402",
+        "blue",
+        "color",
+        "content"
+      ],
+      "hash": "a8ae1ba033442d5beebbbf8cbc955ba0d952b680650acd7736836034ec0c73f0",
+      "learned_at": "2026-11-15T02:48:41+00:00"
+    },
+    {
+      "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031394/RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png",
+      "title": "RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png",
+      "summary": "Title: RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png URL Source: https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031394/RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png Published Time: Wed, 06 May 2026 17:49:11 GMT Markdown Content: The following image was totally created using a computer program but includes some actual photos and shapes of China",
+      "keywords": [
+        "png",
+        "rtdfs_24303r1343c_montage-0pt2-s-apart_1080p",
+        "2026",
+        "a030000",
+        "a031300",
+        "a031394",
+        "actual",
+        "china",
+        "computer",
+        "content",
+        "created",
+        "following",
+        "gmt",
+        "gov"
+      ],
+      "hash": "493ef7a265da46c653937c081c1f592a66ad28d53333a1875f8be8b33807c455",
+      "learned_at": "2026-11-15T02:48:44+00:00"
+    },
+    {
+      "url": "http://ssd.jpl.nasa.gov/tools/sb_ident.html",
+      "title": "Small-Body Identification Tool",
+      "summary": "Title: Small-Body Identification Tool URL Source: http://ssd.jpl.nasa.gov/tools/sb_ident.html Final URL: https://ssd.jpl.nasa.gov/tools/sb_ident.html#/ Published Time: Thu, 05 Nov 2026 21:02:55 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/tools/sb_ident.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl",
+      "keywords": [
+        "nasa",
+        "ssd",
+        "gov",
+        "https",
+        "jpl",
+        "html",
+        "tools",
+        "orbits",
+        "planets",
+        "sb_ident",
+        "sats",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "f4a8fe27801a21e8f23eb0ae1dc4cba49a16661c87d14b07413db65f14fe5c94",
+      "learned_at": "2026-11-15T02:51:05+00:00"
+    },
+    {
+      "url": "http://ssd.jpl.nasa.gov/tools/sbwobs.html",
+      "title": "What's Observable?",
+      "summary": "Title: What's Observable? URL Source: http://ssd.jpl.nasa.gov/tools/sbwobs.html Final URL: https://ssd.jpl.nasa.gov/tools/sbwobs.html#/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/tools/sbwobs.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/tools/sbwobs.html",
+      "keywords": [
+        "ssd",
+        "https",
+        "nasa",
+        "gov",
+        "jpl",
+        "html",
+        "orbits",
+        "tools",
+        "planets",
+        "sbwobs",
+        "sats",
+        "ephemerides",
+        "image",
+        "images"
+      ],
+      "hash": "2a0369b5750543181d294bcc946bc1f233e2041b2b4fb729683f4ea509318107",
+      "learned_at": "2026-11-15T02:51:11+00:00"
+    },
+    {
+      "url": "https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link",
+      "title": "Springer Nature brand websites moved to Springer Nature Link",
+      "summary": "Title: Springer Nature brand websites moved to Springer Nature Link URL Source: https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-statement) for more information on the use of your perso",
+      "keywords": [
+        "support",
+        "com",
+        "https",
+        "springernature",
+        "solutions",
+        "nature",
+        "springer",
+        "articles",
+        "cookies",
+        "home",
+        "data",
+        "information",
+        "optional",
+        "use"
+      ],
+      "hash": "5a9907de3c6095705f2ac2bb44a667f6c22122a713c9c0d034ad1624e59d03a4",
+      "learned_at": "2026-11-15T02:51:14+00:00"
+    },
+    {
+      "url": "https://booksubmarine.springernature.com/link/publish-a-book?imprint=Springer&seriesId=null",
+      "title": "Springer Nature",
+      "summary": "Title: Springer Nature URL Source: https://booksubmarine.springernature.com/link/publish-a-book?imprint=Springer&seriesId=null Markdown Content:",
+      "keywords": [
+        "springer",
+        "booksubmarine",
+        "com",
+        "content",
+        "https",
+        "imprint",
+        "link",
+        "markdown",
+        "nature",
+        "null",
+        "publish-a-book",
+        "seriesid",
+        "source",
+        "springernature"
+      ],
+      "hash": "d2f367a70046380d369662119fcda17f69d43947e2e4544d31887f9f3dce5cf3",
+      "learned_at": "2026-11-15T02:51:30+00:00"
+    },
+    {
+      "url": "https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-658-52517-0",
+      "title": "978-3-658-52517-0",
+      "summary": "Title: 978-3-658-52517-0 URL Source: https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-658-52517-0 Published Time: Tue, 13 Oct 2026 12:21:41 GMT Markdown Content: The image shows the cover of a book titled Der neue Online-Handel, which translates to The New Online Trade",
+      "keywords": [
+        "978-3-658-52517-0",
+        "book",
+        "2026",
+        "com",
+        "content",
+        "cover",
+        "cover-hires",
+        "der",
+        "gmt",
+        "https",
+        "image",
+        "markdown",
+        "media",
+        "neue"
+      ],
+      "hash": "603b084a8bf6835429d2560eee646e3eb427674cbeeb5817e4fae30b3e50119e",
+      "learned_at": "2026-11-15T02:51:33+00:00"
+    },
+    {
+      "url": "https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-031-49762-9",
+      "title": "978-3-031-49762-9",
+      "summary": "Title: 978-3-031-49762-9 URL Source: https://media.springernature.com/w184/springer-static/cover-hires/book/978-3-031-49762-9 Published Time: Tue, 29 Sep 2026 09:57:40 GMT Markdown Content: a book titled interventional oncology",
+      "keywords": [
+        "978-3-031-49762-9",
+        "book",
+        "2026",
+        "com",
+        "content",
+        "cover-hires",
+        "gmt",
+        "https",
+        "interventional",
+        "markdown",
+        "media",
+        "oncology",
+        "published",
+        "sep"
+      ],
+      "hash": "d966b6a3aea6088d8eeb53b8254d18b1acd605f27ec9422ac97d89baa0f949a5",
+      "learned_at": "2026-11-15T02:51:34+00:00"
     }
   ],
   "failures": [
@@ -26502,6 +26539,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-15T02:51:34+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-15T02:51:34+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 15,
+      "frontier": 2496
+    },
     {
       "at": "2026-11-14T23:17:44+00:00",
       "kind": "core_promoted",
@@ -27423,29 +27475,14 @@
       "message": "Crawl cycle learned 2 new pages",
       "attempted": 24,
       "frontier": 2138
-    },
-    {
-      "at": "2026-11-02T07:59:51+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-02T07:59:51+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 2156
     }
   ],
   "metrics": {
-    "successful_fetches": 1584,
+    "successful_fetches": 1592,
     "failed_fetches": 27,
     "duplicate_pages": 2,
     "candidate_promotions": 71,
-    "candidate_rejections": 180
+    "candidate_rejections": 181
   },
   "core_genome": {
     "query_weight": 3.0,
