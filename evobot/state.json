@@ -1,12 +1,19 @@
 {
   "schema": 2,
-  "generation": 259,
+  "generation": 260,
   "core_version": 74,
-  "runs": 258,
-  "pages_learned": 1626,
-  "last_run": "2026-11-16T08:20:42+00:00",
+  "runs": 259,
+  "pages_learned": 1634,
+  "last_run": "2026-11-16T18:43:18+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+    "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+    "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/)",
+    "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/)",
+    "https://www.youtube.com/watch?v=Qj_62FWfH78",
+    "https://www.youtube.com/watch?v=4bim5EEwvVI",
+    "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
     "https://support.google.com/My-Ad-Center-Help/answer/12155656",
     "https://support.google.com/My-Ad-Center-Help/answer/13861201",
     "https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD",
@@ -128,7 +135,6 @@
     "https://astrogeology.usgs.gov/tools/map-a-planet-2",
     "https://www.instagram.com/reels/Dd_zDPwR7b5/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
@@ -148,6 +154,7 @@
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
     "https://ec.europa.eu/info/law/law-topic/data-protection_en",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
@@ -284,29 +291,6 @@
     "http://lroc.sese.asu.edu/",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/5760x3240_16x9_30p/fancy/comp.6907.tif",
-    "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
-    "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
-    "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/)",
-    "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/)",
-    "http://ssd.jpl.nasa.gov/sats/phys_par/",
-    "http://ssd.jpl.nasa.gov/sats/obs_data.html",
-    "http://ssd.jpl.nasa.gov/sats/discovery.html",
-    "http://ssd.jpl.nasa.gov/sb/",
-    "http://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
-    "http://ssd.jpl.nasa.gov/tools/sbdb_query.html",
-    "http://ssd.jpl.nasa.gov/tools/mdesign.html",
-    "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.6907.jpg",
-    "https://www.youtube.com/watch?v=Qj_62FWfH78",
-    "https://www.youtube.com/watch?v=4bim5EEwvVI",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-9-the-breaking-point",
-    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-10-saving-galileo",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300",
-    "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg?w=300",
-    "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
     "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=300",
     "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
     "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=300",
@@ -2492,7 +2476,19 @@
     "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.7194.jpg",
     "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/5760x3240_16x9_30p/fancy/comp.7194.tif",
     "https://science.nasa.gov/mission/lro/",
-    "https://science.nasa.gov/mission/lro/"
+    "https://science.nasa.gov/mission/lro/",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue/",
+    "https://www.youtube.com/watch?v=cVrRzGbV9Mk",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders/",
+    "https://www.youtube.com/watch?v=1rVH0YlcKyY",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-9-the-breaking-point",
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-10-saving-galileo",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+    "http://ssd.jpl.nasa.gov/sats/discovery.html",
+    "http://ssd.jpl.nasa.gov/sb/",
+    "http://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+    "http://ssd.jpl.nasa.gov/tools/sbdb_query.html",
+    "http://ssd.jpl.nasa.gov/tools/mdesign.html"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12853,193 +12849,49 @@
       "at": "2026-11-16T08:21:06+00:00",
       "status": "ok",
       "hash": "9a404e8c1860a56f3ca0625a3de7df06af4d46fc2520610506467af7d268d7bf"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg?w=300": {
+      "at": "2026-11-16T18:43:21+00:00",
+      "status": "ok",
+      "hash": "f856bc8e43f539e61ec674edea3a3ffc92137bab99603bfc01d98479ec2409dd"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue": {
+      "at": "2026-11-16T18:43:30+00:00",
+      "status": "ok",
+      "hash": "5253f778373b57dd0ec748a68876d6d701c4f90e93e7cc44e788bd95301ed50a"
+    },
+    "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders": {
+      "at": "2026-11-16T18:43:34+00:00",
+      "status": "ok",
+      "hash": "f3b347e2fec7681bf68b97b829b141258732add16484b59bf74589fa4a0192d3"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300": {
+      "at": "2026-11-16T18:43:37+00:00",
+      "status": "ok",
+      "hash": "cc3edbba5fd6b1ac8e6c24ac3b99b62f2bd60e8b1035511ef3406b9c165bdc69"
+    },
+    "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/5760x3240_16x9_30p/fancy/comp.6907.tif": {
+      "at": "2026-11-16T18:43:39+00:00",
+      "status": "ok",
+      "hash": "280d479ede15e27fe42e1d795a860d8f32311dd045ba19a25d06c091462340be"
+    },
+    "http://ssd.jpl.nasa.gov/sats/phys_par/": {
+      "at": "2026-11-16T18:45:59+00:00",
+      "status": "ok",
+      "hash": "7c7ab15cf8e171cb8a9810300f72adb8e7327204b041edf25f63bf85b4a04d92"
+    },
+    "http://ssd.jpl.nasa.gov/sats/obs_data.html": {
+      "at": "2026-11-16T18:46:04+00:00",
+      "status": "ok",
+      "hash": "1c2fc1eed0a801f98e4f204e33049985bebf6078f3a3fb78f674fe5365a0508e"
+    },
+    "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.6907.jpg": {
+      "at": "2026-11-16T18:46:07+00:00",
+      "status": "ok",
+      "hash": "7b6e6b0ea0075493526073ea442be1b33fbc79cf7c7701100adc4e7366a03820"
     }
   },
   "memory": [
-    {
-      "url": "https://www.jpl.nasa.gov/who-we-are/universe/",
-      "title": "Universe Newsletter",
-      "summary": "Title: Universe Newsletter URL Source: https://www.jpl.nasa.gov/who-we-are/universe/ Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/universe/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-white.C-70vHRG.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) ![Image 3](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesjpl20180629jpl_vista-16.2e16d0ba.fill-1024x441-c10.jpg) Photo of NASA's Jet Propulsion Laboratory nestled in",
-      "keywords": [
-        "https",
-        "jpl",
-        "nasa",
-        "www",
-        "gov",
-        "2025",
-        "d2pn8kiwq2w21t",
-        "cloudfront",
-        "net",
-        "documents",
-        "pdf",
-        "who-we-are",
-        "universe",
-        "image"
-      ],
-      "hash": "3b425194de8e4828602ab43f520b6f4e35ca43e8553dec79b032d602a5847f8d",
-      "learned_at": "2026-10-26T04:38:43+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/social/",
-      "title": "Social | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Social | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/social/ Markdown Content: [](https://www.jpl.nasa.gov/social/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Social JPL’s social media brings the cosmos to the palm of your hand, showcasing the engineering, science, and ingenuity that power our quest to understand the universe",
-      "keywords": [
-        "https",
-        "nasa",
-        "jpl",
-        "www",
-        "gov",
-        "image",
-        "jet",
-        "laboratory",
-        "nasajpl",
-        "propulsion",
-        "logo",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t"
-      ],
-      "hash": "7c905fb934b1342fd9664014687c1824bfa92f8ed9ff13ebdffe983fcd2b4829",
-      "learned_at": "2026-10-26T04:38:45+00:00"
-    },
-    {
-      "url": "https://media.springernature.com/lw1200/springer-cms-alt/rest/v1/img/16565588/3by1?as=jpg",
-      "title": "3by1",
-      "summary": "Title: 3by1 URL Source: https://media.springernature.com/lw1200/springer-cms-alt/rest/v1/img/16565588/3by1?as=jpg Markdown Content: Man and woman in orange facemask use a sensing device in the woods",
-      "keywords": [
-        "3by1",
-        "16565588",
-        "com",
-        "content",
-        "device",
-        "facemask",
-        "https",
-        "img",
-        "jpg",
-        "lw1200",
-        "man",
-        "markdown",
-        "media",
-        "orange"
-      ],
-      "hash": "6373c29aa1523d1cc33baa6daf963b71f127200b9319e4b861f812156fbb4bdd",
-      "learned_at": "2026-10-26T10:32:00+00:00"
-    },
-    {
-      "url": "https://media.springernature.com/lw485/springer-cms-alt/rest/v1/img/25294494/16by9?as=jpg",
-      "title": "16by9",
-      "summary": "Title: 16by9 URL Source: https://media.springernature.com/lw485/springer-cms-alt/rest/v1/img/25294494/16by9?as=jpg Markdown Content: A person sits labeled A, writing with a pencil on a piece of paper",
-      "keywords": [
-        "16by9",
-        "25294494",
-        "com",
-        "content",
-        "https",
-        "img",
-        "jpg",
-        "labeled",
-        "lw485",
-        "markdown",
-        "media",
-        "paper",
-        "pencil",
-        "person"
-      ],
-      "hash": "47af407eab4df7fe48a2a88bd600c7206ffe7db1574ea7f2ceb5a3e8ed75e4a2",
-      "learned_at": "2026-10-26T10:32:02+00:00"
-    },
-    {
-      "url": "https://www.nature.com/articles/d41586-023-03271-4",
-      "title": "Mars has a surprise layer of molten rock inside",
-      "summary": "Title: Mars has a surprise layer of molten rock inside URL Source: https://www.nature.com/articles/d41586-023-03271-4 Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/info/privacy) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [S",
-      "keywords": [
-        "nature",
-        "com",
-        "https",
-        "www",
-        "content",
-        "articles",
-        "search",
-        "cookies",
-        "use",
-        "authors",
-        "d41586-023-03271-4",
-        "data",
-        "explore",
-        "information"
-      ],
-      "hash": "c91ad137ceae7d814420218d6663f13690b9a336916bafcbd8784f015043a827",
-      "learned_at": "2026-10-26T10:32:07+00:00"
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/",
-      "title": "Nature Careers | Science jobs",
-      "summary": "Title: Nature Careers | Science jobs URL Source: https://www.nature.com/naturecareers/ Published Time: Tue, 23 Jun 2026 02:06:19 GMT Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.nature.com/naturecareers/privacy-policy/) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all co",
-      "keywords": [
-        "nature",
-        "com",
-        "https",
-        "naturecareers",
-        "www",
-        "cookies",
-        "jobs",
-        "careers",
-        "job",
-        "main",
-        "menu",
-        "content",
-        "data",
-        "information"
-      ],
-      "hash": "dd0efa40ed3cde2e7905c30480544258046e4e84194a67b073ec793c804ca3b6",
-      "learned_at": "2026-10-26T10:32:10+00:00"
-    },
-    {
-      "url": "https://masterclasses.nature.com/masterclasses/request-a-quote/16559442",
-      "title": "Internal Error",
-      "summary": "Title: Internal Error URL Source: https://masterclasses.nature.com/masterclasses/request-a-quote/16559442 Warning: Target URL returned error 500: Internal Server Error Markdown Content: 500 # Internal Error",
-      "keywords": [
-        "error",
-        "internal",
-        "500",
-        "masterclasses",
-        "url",
-        "16559442",
-        "com",
-        "content",
-        "https",
-        "markdown",
-        "nature",
-        "request-a-quote",
-        "returned",
-        "server"
-      ],
-      "hash": "476f7aa4164a20f88ddf93c6fb967706f35b586f7fb90b0df4f44c0755f79a03",
-      "learned_at": "2026-10-26T10:32:15+00:00"
-    },
-    {
-      "url": "https://masterclasses.nature.com/masterclasses-nature-com/catalogue/24073606",
-      "title": "Internal Error",
-      "summary": "Title: Internal Error URL Source: https://masterclasses.nature.com/masterclasses-nature-com/catalogue/24073606 Warning: Target URL returned error 500: Internal Server Error Markdown Content: 500 # Internal Error",
-      "keywords": [
-        "error",
-        "internal",
-        "500",
-        "url",
-        "24073606",
-        "catalogue",
-        "com",
-        "content",
-        "https",
-        "markdown",
-        "masterclasses",
-        "masterclasses-nature-com",
-        "nature",
-        "returned"
-      ],
-      "hash": "1b21605e4c9aaa946a4735ec5b59987700592cb8360c1ea9eafad30511c95f3d",
-      "learned_at": "2026-10-26T10:32:19+00:00"
-    },
     {
       "url": "https://www.nasa.gov/image-of-the-day/page/3/",
       "title": "Image of the Day - NASA",
@@ -26655,6 +26507,190 @@
       ],
       "hash": "9a404e8c1860a56f3ca0625a3de7df06af4d46fc2520610506467af7d268d7bf",
       "learned_at": "2026-11-16T08:21:06+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg?w=300",
+      "title": "iss075e0250247-preview.jpg",
+      "summary": "Title: iss075e0250247-preview.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0250247-preview.jpg?w=300 Published Time: Mon, 16 Nov 2026 18:43:19 GMT Markdown Content: A woeful legal professional braves his carrier to return to his beloved client, only to discover that there is no evidence links to this individual, and that his friend has been abandoned by the prosecution!",
+      "keywords": [
+        "his",
+        "2026",
+        "iss075e0250247-preview",
+        "jpg",
+        "300",
+        "abandoned",
+        "been",
+        "beloved",
+        "braves",
+        "carrier",
+        "client",
+        "content",
+        "discover",
+        "evidence"
+      ],
+      "hash": "f856bc8e43f539e61ec674edea3a3ffc92137bab99603bfc01d98479ec2409dd",
+      "learned_at": "2026-11-16T18:43:21+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue",
+      "title": "Episode 7: To the Rescue | NASA Jet Propulsion Laboratory (JPL)",
+      "summary": "Title: Episode 7: To the Rescue | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue Final URL: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue/ Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-7-to-the-rescue/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ ",
+      "keywords": [
+        "jpl",
+        "https",
+        "www",
+        "nasa",
+        "gov",
+        "who-we-are",
+        "missions",
+        "documentary-series-jpl-and-the-space-age",
+        "news",
+        "documentary",
+        "episode",
+        "episode-7-to-the-rescue",
+        "mission_status",
+        "series"
+      ],
+      "hash": "5253f778373b57dd0ec748a68876d6d701c4f90e93e7cc44e788bd95301ed50a",
+      "learned_at": "2026-11-16T18:43:30+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders",
+      "title": "Episode 8: The Pathfinders",
+      "summary": "Title: Episode 8: The Pathfinders URL Source: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders Final URL: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders/ Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-8-the-pathfinders/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo",
+      "keywords": [
+        "jpl",
+        "https",
+        "www",
+        "nasa",
+        "gov",
+        "who-we-are",
+        "missions",
+        "news",
+        "documentary-series-jpl-and-the-space-age",
+        "topics",
+        "documentary",
+        "episode",
+        "episode-8-the-pathfinders",
+        "mission_status"
+      ],
+      "hash": "f3b347e2fec7681bf68b97b829b141258732add16484b59bf74589fa4a0192d3",
+      "learned_at": "2026-11-16T18:43:34+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300",
+      "title": "chapeamission2.jpg",
+      "summary": "Title: chapeamission2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300 Published Time: Mon, 16 Nov 2026 18:43:36 GMT Markdown Content: Group of Astronauts posing for professional group photos",
+      "keywords": [
+        "2026",
+        "chapeamission2",
+        "group",
+        "jpg",
+        "300",
+        "astronauts",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mon",
+        "nasa",
+        "nov"
+      ],
+      "hash": "cc3edbba5fd6b1ac8e6c24ac3b99b62f2bd60e8b1035511ef3406b9c165bdc69",
+      "learned_at": "2026-11-16T18:43:37+00:00"
+    },
+    {
+      "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/5760x3240_16x9_30p/fancy/comp.6907.tif",
+      "title": "URL Source: http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/5760x3240_16x9_30p/fancy/comp.6907.tif",
+      "summary": "Title: URL Source: http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/5760x3240_16x9_30p/fancy/comp.6907.tif Final URL: about:blank Markdown Content:",
+      "keywords": [
+        "url",
+        "5760x3240_16x9_30p",
+        "6907",
+        "a000000",
+        "a005500",
+        "a005587",
+        "blank",
+        "comp",
+        "content",
+        "fancy",
+        "final",
+        "frames",
+        "gov",
+        "gsfc"
+      ],
+      "hash": "280d479ede15e27fe42e1d795a860d8f32311dd045ba19a25d06c091462340be",
+      "learned_at": "2026-11-16T18:43:39+00:00"
+    },
+    {
+      "url": "http://ssd.jpl.nasa.gov/sats/phys_par/",
+      "title": "Planetary Satellite Physical Parameters",
+      "summary": "Title: Planetary Satellite Physical Parameters URL Source: http://ssd.jpl.nasa.gov/sats/phys_par/ Final URL: https://ssd.jpl.nasa.gov/sats/phys_par/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sats/phys_par/#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sats/ph",
+      "keywords": [
+        "ssd",
+        "https",
+        "jpl",
+        "nasa",
+        "gov",
+        "html",
+        "sats",
+        "orbits",
+        "phys_par",
+        "planets",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "7c7ab15cf8e171cb8a9810300f72adb8e7327204b041edf25f63bf85b4a04d92",
+      "learned_at": "2026-11-16T18:45:59+00:00"
+    },
+    {
+      "url": "http://ssd.jpl.nasa.gov/sats/obs_data.html",
+      "title": "Planetary Satellite Observational Data",
+      "summary": "Title: Planetary Satellite Observational Data URL Source: http://ssd.jpl.nasa.gov/sats/obs_data.html Final URL: https://ssd.jpl.nasa.gov/sats/obs_data.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/sats/obs_data.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/sats/obs_data.html#) * [What does SSD d",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "ssd",
+        "gov",
+        "https",
+        "html",
+        "sats",
+        "obs_data",
+        "orbits",
+        "planets",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "1c2fc1eed0a801f98e4f204e33049985bebf6078f3a3fb78f674fe5365a0508e",
+      "learned_at": "2026-11-16T18:46:04+00:00"
+    },
+    {
+      "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.6907.jpg",
+      "title": "moon.6907.jpg",
+      "summary": "Title: moon.6907.jpg URL Source: http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/frames/730x730_1x1_30p/moon.6907.jpg Published Time: Thu, 16 Oct 2025 23:08:46 GMT Markdown Content: A black circle with a bit of light pollution, many craters on the right side",
+      "keywords": [
+        "6907",
+        "jpg",
+        "moon",
+        "2025",
+        "730x730_1x1_30p",
+        "a000000",
+        "a005500",
+        "a005587",
+        "bit",
+        "black",
+        "circle",
+        "content",
+        "craters",
+        "frames"
+      ],
+      "hash": "7b6e6b0ea0075493526073ea442be1b33fbc79cf7c7701100adc4e7366a03820",
+      "learned_at": "2026-11-16T18:46:07+00:00"
     }
   ],
   "failures": [
@@ -26795,6 +26831,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-16T18:46:07+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-16T18:46:07+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 16,
+      "frontier": 2482
+    },
     {
       "at": "2026-11-16T08:21:06+00:00",
       "kind": "core_promoted",
@@ -27716,29 +27767,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 2209
-    },
-    {
-      "at": "2026-11-04T01:28:52+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-04T01:28:52+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 13,
-      "frontier": 2206
     }
   ],
   "metrics": {
-    "successful_fetches": 1626,
+    "successful_fetches": 1634,
     "failed_fetches": 27,
     "duplicate_pages": 2,
     "candidate_promotions": 73,
-    "candidate_rejections": 184
+    "candidate_rejections": 185
   },
   "core_genome": {
     "query_weight": 3.0,
