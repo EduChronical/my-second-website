@@ -1,24 +1,12 @@
 {
   "schema": 2,
-  "generation": 257,
+  "generation": 258,
   "core_version": 73,
-  "runs": 256,
-  "pages_learned": 1612,
-  "last_run": "2026-11-15T21:38:27+00:00",
+  "runs": 257,
+  "pages_learned": 1618,
+  "last_run": "2026-11-16T01:24:10+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg",
-    "https://link.springer.com/journals/",
-    "https://link.springer.com/journals/",
-    "https://order.springer.com/public/cart",
-    "https://en-gb.facebook.com/policy.php",
-    "https://www.springer.com/oscar-static/images/brand-hubs/springer_hero_mobile-a8f89c33ce.webp",
-    "https://www.springer.com/brands/springer",
-    "https://www.springer.com/brands/springer/journals",
-    "https://www.springer.com/brands/springer/updates",
-    "https://www.springer.com/brands/springer",
-    "https://support.google.com/chrome/answer/95414",
     "https://support.google.com/My-Ad-Center-Help/answer/12155656",
     "https://support.google.com/My-Ad-Center-Help/answer/13861201",
     "https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD",
@@ -33,6 +21,8 @@
     "https://link.springer.com/brands/discover",
     "https://link.springer.com/termsandconditions",
     "https://cloudbackend.scdn7.secure.raxcdn.com/img/upload/06hmu_visuals-and-assets_980x240_v2.jpg",
+    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
+    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "https://recruiter.naturecareers.com/",
     "https://recruiter.naturecareers.com/",
@@ -156,6 +146,8 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/148701539_3724512380920015_77.2e16d0ba.fill-640x360-c100.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
+    "https://doi.org/10.1016/j.jfp.2023.100185",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -165,7 +157,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_quakes-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Ingenuity-flight-54.m4v",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Eagle_7_.webm",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/Clipper_7_d.webm",
@@ -219,7 +210,6 @@
     "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
     "https://doi.org/10.1007/s10569-017-9805-5",
     "https://orcid.org/",
-    "https://doi.org/10.1016/j.jfp.2023.100185",
     "https://doi.org/10.1093/jn/nxaa188",
     "https://en.wikipedia.org/wiki/Right_ascension",
     "https://en.wikipedia.org/wiki/Declination",
@@ -293,20 +283,6 @@
     "http://lroc.sese.asu.edu/",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://covers.springernature.com/books/jpg_width_153_pixels/978-3-642-13757-0.jpg",
-    "https://link.springer.com/oscar-static/images/homepage/homepage-hero-7b93d896e3.jpg",
-    "https://link.springer.com/advanced-search",
-    "https://link.springer.com/oscar-static/images/homepage/card-v1-1-1x-98610b4ede.jpg",
-    "https://link.springer.com/oscar-static/images/homepage/card-v1-2-1x-76eb7488a9.jpg",
-    "https://link.springer.com/oscar-static/images/homepage/card-v1-3-1x-d13d66eda4.jpg",
-    "https://link.springer.com/oscar-static/images/springer-logo_75x20-8b4fb16d43.svg",
-    "https://link.springer.com/oscar-static/images/homepage/logo-nature-portfolio-stacked-bbb8c01a8a.svg",
-    "https://link.springer.com/oscar-static/images/homepage/logo-bmc-no-whitespace-ea25728a2a.svg",
-    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
-    "https://link.springernature.com/home",
-    "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
-    "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1038%2Fs41550-026-02983-7/MediaObjects/41550_2026_2983_Fig1_HTML.png",
-    "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1007%2Fs10739-026-09866-7/MediaObjects/10739_2026_9866_Fig1_HTML.png",
     "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1038%2Fs41586-026-11111-4/MediaObjects/41586_2026_11111_Fig1_HTML.png",
     "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015105/ArtemisWow_Terminator_Thumb.png",
     "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005670/GEOSTrueColor_SolarEclipse_1920x1080.png",
@@ -2488,7 +2464,22 @@
     "https://covers.springernature.com/books/jpg_width_153_pixels/978-3-031-38314-4.jpg",
     "https://covers.springernature.com/books/jpg_width_153_pixels/978-3-031-19726-0.jpg",
     "https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch_example.long",
-    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=c2a8e800-70e6-4a6a-aca8-ea3b7f1c6854&target_redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fspringer"
+    "https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=c2a8e800-70e6-4a6a-aca8-ea3b7f1c6854&target_redirect_uri=https%3A%2F%2Flink.springer.com%2Fbrands%2Fspringer",
+    "https://media.springernature.com/w326h183/springer-static/image/art:10.1038/s41550-026-02983-7/MediaObjects/41550_2026_2983_Fig1_HTML.png",
+    "https://media.springernature.com/w326h183/springer-static/image/art:10.1007/s10739-026-09866-7/MediaObjects/10739_2026_9866_Fig1_HTML.png",
+    "https://link.springer.com/oscar-static/images/brand-hubs/springer_hero_mobile-a8f89c33ce.webp",
+    "https://link.springer.com/brands/springer/journals",
+    "https://link.springer.com/brands/springer/updates",
+    "https://link.springer.com/brands/springer/about",
+    "https://link.springer.com/brands/springer/journal-policies",
+    "https://link.springer.com/brands/springer/editing-a-journal",
+    "https://www.springer.com/brands/springer/journals",
+    "https://www.springer.com/brands/springer/updates",
+    "https://support.google.com/chrome/answer/111996",
+    "https://support.google.com/chrome/answer/14697318",
+    "https://support.google.com/chromebook/answer/1331549",
+    "https://lh3.googleusercontent.com/2cJLX70os05-e___sYyMxIa7s8NFhM1uI3_XSgtEipErjDrdEG0TusjZwZmPFaQ_488=h36",
+    "https://lh3.googleusercontent.com/WD3LKKej34vq3cZXwilgeahIPOiokN2uarmkDxtMqKMFg4SSys8BkOBJbn4_4R930gE=h36"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12727,147 +12718,91 @@
       "at": "2026-11-15T21:41:17+00:00",
       "status": "ok",
       "hash": "4bba98422e799686a5963a6d0a8b4a6e216aff08479ccae1bdb8f15d5bbbe8dd"
+    },
+    "https://covers.springernature.com/books/jpg_width_153_pixels/978-3-642-13757-0.jpg": {
+      "at": "2026-11-16T01:24:12+00:00",
+      "status": "ok",
+      "hash": "5d68eb138647be9daa28f93ad7ebbbb7c9316e483298d0990fff7cd3802e105a"
+    },
+    "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1038%2Fs41550-026-02983-7/MediaObjects/41550_2026_2983_Fig1_HTML.png": {
+      "at": "2026-11-16T01:24:14+00:00",
+      "status": "ok",
+      "hash": "df6862f42313f2de424ba06c7467adb1b1459255e84a984d0fa8790fa5c4c484"
+    },
+    "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1007%2Fs10739-026-09866-7/MediaObjects/10739_2026_9866_Fig1_HTML.png": {
+      "at": "2026-11-16T01:24:16+00:00",
+      "status": "ok",
+      "hash": "63e1f33af3b35cc765c1094ea37f3fafbafb05b6f6fe6f37d03e44e490ff4fc8"
+    },
+    "https://link.springernature.com/home": {
+      "at": "2026-11-16T01:24:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/advanced-search": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/homepage/homepage-hero-7b93d896e3.jpg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/homepage/card-v1-1-1x-98610b4ede.jpg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/homepage/card-v1-2-1x-76eb7488a9.jpg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/homepage/card-v1-3-1x-d13d66eda4.jpg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/springer-logo_75x20-8b4fb16d43.svg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/homepage/logo-nature-portfolio-stacked-bbb8c01a8a.svg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/oscar-static/images/homepage/logo-bmc-no-whitespace-ea25728a2a.svg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/facebook-icon.2e16d0ba.fill-640x360-c100.jpg": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://link.springer.com/journals/": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://order.springer.com/public/cart": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://en-gb.facebook.com/policy.php": {
+      "at": "2026-11-16T01:24:17+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.springer.com/oscar-static/images/brand-hubs/springer_hero_mobile-a8f89c33ce.webp": {
+      "at": "2026-11-16T01:24:21+00:00",
+      "status": "ok",
+      "hash": "41aff45b34ca3ab3a9e64fc2abaa9cc9e5b93f6c90ac75144eb4aef301b7f5bf"
+    },
+    "https://www.springer.com/brands/springer": {
+      "at": "2026-11-16T01:24:27+00:00",
+      "status": "ok",
+      "hash": "b117a350c9d7ec4c207380e7bfa3e5a5442755e41dc3c023a7394281e0614096"
+    },
+    "https://support.google.com/chrome/answer/95414": {
+      "at": "2026-11-16T01:24:28+00:00",
+      "status": "ok",
+      "hash": "a32d88d06cd66e5e9d5a7d4c89f6b4bffedc5e6d405d26370c5ca8721bfe5c8a"
     }
   },
   "memory": [
-    {
-      "url": "https://secure.authorservices.springernature.com/en/researcher/submit/select",
-      "title": "Submit a manuscript | Nature Research Editing Service",
-      "summary": "Title: Submit a manuscript | Nature Research Editing Service URL Source: https://secure.authorservices.springernature.com/en/researcher/submit/select Markdown Content: * Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. * [Google 1](https://secure.authorservices.springernature.com/en/researcher/submit/select#)[Learn more about this provider![Image 1: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ \"Learn more about this provider Google's privacy policy - opens in a new window\")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personali",
-      "keywords": [
-        "cookie",
-        "http",
-        "provider",
-        "com",
-        "https",
-        "springernature",
-        "learn",
-        "new",
-        "opens",
-        "window",
-        "secure",
-        "submit",
-        "authorservices",
-        "duration"
-      ],
-      "hash": "ce670f16d41ed70e27f3d0054b33581a8e36c0046d943d1efed515fba689d523",
-      "learned_at": "2026-10-25T21:57:19+00:00"
-    },
-    {
-      "url": "https://secure.authorservices.springernature.com/prices/quote/new",
-      "title": "| Nature Research Editing Service",
-      "summary": "Title: | Nature Research Editing Service URL Source: https://secure.authorservices.springernature.com/prices/quote/new Markdown Content: * Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. * [Google 1](https://secure.authorservices.springernature.com/prices/quote/new#)[Learn more about this provider![Image 1: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ \"Learn more about this provider Google's privacy policy - opens in a new window\")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization. **test_cookie**Used to check if th",
-      "keywords": [
-        "new",
-        "provider",
-        "com",
-        "cookie",
-        "http",
-        "https",
-        "learn",
-        "springernature",
-        "opens",
-        "window",
-        "secure",
-        "authorservices",
-        "duration",
-        "maximum"
-      ],
-      "hash": "a467edfa1aaee69ffe8cc17eea53c73dc3543e501f3c58a0375bfe18adc423d2",
-      "learned_at": "2026-10-25T21:57:24+00:00"
-    },
-    {
-      "url": "https://solutions.springernature.com/pages/privacy-policy",
-      "title": "Privacy Policy",
-      "summary": "Title: Privacy Policy URL Source: https://solutions.springernature.com/pages/privacy-policy Published Time: Sat, 24 Oct 2026 02:00:40 GMT Markdown Content: This policy was last updated on 11/11/2020. This is the privacy policy (“policy”) for [Shop.springernature.com/](https://shop.springernature.com/) which is run and provided Springer Customer Service Center LLC, 233 Spring St, New York, NY, 10013 United States (**we, us** and **our**). We can also be contacted at [customerservice@springernature.com](mailto:customerservice@springernature.com). We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have ### I. Summary of our processing activities We publish scholarly journa",
-      "keywords": [
-        "data",
-        "personal",
-        "see",
-        "website",
-        "com",
-        "information",
-        "policy",
-        "springernature",
-        "may",
-        "only",
-        "customer",
-        "processing",
-        "provide",
-        "services"
-      ],
-      "hash": "c045e63a79dd304030bde8df8f02d62877e04a2b91231211a4911370d9182e2e",
-      "learned_at": "2026-10-25T21:57:30+00:00"
-    },
-    {
-      "url": "https://solutions.springernature.com/checkout",
-      "title": "Springer Nature Research Solutions",
-      "summary": "Title: Springer Nature Research Solutions URL Source: https://solutions.springernature.com/checkout Published Time: Fri, 23 Oct 2026 21:29:26 GMT Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://solutions.springernature.com/pages/privacy-policy) for more information on the use of your personal data. Manage preferences for further information and to change your choi",
-      "keywords": [
-        "com",
-        "solutions",
-        "springernature",
-        "https",
-        "checkout",
-        "cart",
-        "cookies",
-        "research",
-        "search",
-        "cdn",
-        "content",
-        "data",
-        "empty",
-        "files"
-      ],
-      "hash": "694d74c79aa8afd40091f60cb9fbe82916666ce35a80af79e5c82196369a5f66",
-      "learned_at": "2026-10-25T21:57:37+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/gp/group/careers",
-      "title": "Careers | Springer Nature | Springer Nature Group | Springer Nature",
-      "summary": "Title: Careers | Springer Nature | Springer Nature Group | Springer Nature URL Source: https://www.springernature.com/gp/group/careers Markdown Content: Imagine going to work knowing that what you do will help researchers, clinicians and educators find solutions to the world’s greatest challenges. At Springer Nature, you get to do that every day, in an innovative global environment where you work alongside inspiring colleagues on varied and rewarding projects. ​ Our open and ambitious culture gives you space to develop your curiosity and stretch your horizons as well as everything you need to be yourself and perform at your best. If you think you have what it takes to help us make progress together, we are always looking for talented individuals who are driven to working together with our communities and customers to share knowledge and bring greater understanding to the world. ## We are",
-      "keywords": [
-        "nature",
-        "springer",
-        "climate",
-        "content",
-        "employer",
-        "https",
-        "springernature",
-        "action",
-        "change",
-        "data",
-        "global",
-        "help",
-        "progress",
-        "public"
-      ],
-      "hash": "8362c0bcbd1e1b84105f5673254e5c0123e7f1ff78faf5c1282205bac9d2b9d0",
-      "learned_at": "2026-10-26T00:04:15+00:00"
-    },
-    {
-      "url": "https://www.springernature.com/gp/group/media",
-      "title": "Media Center | Springer Nature Group | Springer Nature",
-      "summary": "Title: Media Center | Springer Nature Group | Springer Nature URL Source: https://www.springernature.com/gp/group/media Markdown Content: ## MEDIA CENTRE Resources for journalists The Media Centre provides information on Springer Nature to help you as a journalist. This includes press contacts, press releases, images, company reports and other relevant content. ## Latest Press Release ### Congratulations to the 2026 Nobel Prize Laureates London | Berlin | New York | 14th October 2026 Springer Nature extends its warmest congratulations to this year's Nobel Prizes winners, celebrating their exceptional research and contributions that have shaped knowledge and their respective fields. ## Press Releases[see all](https://www.springernature.com/gp/group/media/press-releases) ### Congratulations to the 2026 Nobel Prize Laureates London | Berlin | New York | 14th October 2026 Springer Nature ext",
-      "keywords": [
-        "https",
-        "springernature",
-        "nature",
-        "media",
-        "press",
-        "springer",
-        "2026",
-        "com",
-        "content",
-        "group",
-        "www",
-        "new",
-        "apps",
-        "berlin"
-      ],
-      "hash": "dec0ca382a2c99c350c0d0057d90be75e1c95e71c738ebae8fc20563b5252498",
-      "learned_at": "2026-10-26T00:04:17+00:00"
-    },
     {
       "url": "https://www.jpl.nasa.gov/edu/teach/tag/search/solar+system+scale+model",
       "title": "K-12 Educator Resources | Learning About Space | NASA JPL Education",
@@ -26529,6 +26464,144 @@
       ],
       "hash": "4bba98422e799686a5963a6d0a8b4a6e216aff08479ccae1bdb8f15d5bbbe8dd",
       "learned_at": "2026-11-15T21:41:17+00:00"
+    },
+    {
+      "url": "https://covers.springernature.com/books/jpg_width_153_pixels/978-3-642-13757-0.jpg",
+      "title": "978-3-642-13757-0.jpg",
+      "summary": "Title: 978-3-642-13757-0.jpg URL Source: https://covers.springernature.com/books/jpg_width_153_pixels/978-3-642-13757-0.jpg Markdown Content: The book cover is bright yellow and vividly structured to present a clear and effective visual for the reader",
+      "keywords": [
+        "978-3-642-13757-0",
+        "jpg",
+        "book",
+        "books",
+        "bright",
+        "clear",
+        "com",
+        "content",
+        "cover",
+        "covers",
+        "effective",
+        "https",
+        "jpg_width_153_pixels",
+        "markdown"
+      ],
+      "hash": "5d68eb138647be9daa28f93ad7ebbbb7c9316e483298d0990fff7cd3802e105a",
+      "learned_at": "2026-11-16T01:24:12+00:00"
+    },
+    {
+      "url": "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1038%2Fs41550-026-02983-7/MediaObjects/41550_2026_2983_Fig1_HTML.png",
+      "title": "502 Server Error",
+      "summary": "Title: 502 Server Error URL Source: https://media.springernature.com/w326h183/springer-static/image/art:10.1038/s41550-026-02983-7/MediaObjects/41550_2026_2983_Fig1_HTML.png Warning: Target URL returned error 502: Bad Gateway Markdown Content: ## The server encountered a temporary error and could not complete your request. Please try again in 30 seconds.",
+      "keywords": [
+        "error",
+        "502",
+        "server",
+        "url",
+        "1038",
+        "41550_2026_2983_fig1_html",
+        "again",
+        "art",
+        "bad",
+        "com",
+        "complete",
+        "content",
+        "could",
+        "encountered"
+      ],
+      "hash": "df6862f42313f2de424ba06c7467adb1b1459255e84a984d0fa8790fa5c4c484",
+      "learned_at": "2026-11-16T01:24:14+00:00"
+    },
+    {
+      "url": "https://media.springernature.com/w326h183/springer-static/image/art%3A10.1007%2Fs10739-026-09866-7/MediaObjects/10739_2026_9866_Fig1_HTML.png",
+      "title": "502 Server Error",
+      "summary": "Title: 502 Server Error URL Source: https://media.springernature.com/w326h183/springer-static/image/art:10.1007/s10739-026-09866-7/MediaObjects/10739_2026_9866_Fig1_HTML.png Warning: Target URL returned error 502: Bad Gateway Markdown Content: ## The server encountered a temporary error and could not complete your request. Please try again in 30 seconds.",
+      "keywords": [
+        "error",
+        "502",
+        "server",
+        "url",
+        "1007",
+        "10739_2026_9866_fig1_html",
+        "again",
+        "art",
+        "bad",
+        "com",
+        "complete",
+        "content",
+        "could",
+        "encountered"
+      ],
+      "hash": "63e1f33af3b35cc765c1094ea37f3fafbafb05b6f6fe6f37d03e44e490ff4fc8",
+      "learned_at": "2026-11-16T01:24:16+00:00"
+    },
+    {
+      "url": "https://www.springer.com/oscar-static/images/brand-hubs/springer_hero_mobile-a8f89c33ce.webp",
+      "title": "springer_hero_mobile-a8f89c33ce.webp",
+      "summary": "Title: springer_hero_mobile-a8f89c33ce.webp URL Source: https://www.springer.com/oscar-static/images/brand-hubs/springer_hero_mobile-a8f89c33ce.webp Markdown Content: retangular organization of paint strokes on a white background",
+      "keywords": [
+        "springer_hero_mobile-a8f89c33ce",
+        "webp",
+        "background",
+        "brand-hubs",
+        "com",
+        "content",
+        "https",
+        "images",
+        "markdown",
+        "organization",
+        "oscar-static",
+        "paint",
+        "retangular",
+        "source"
+      ],
+      "hash": "41aff45b34ca3ab3a9e64fc2abaa9cc9e5b93f6c90ac75144eb4aef301b7f5bf",
+      "learned_at": "2026-11-16T01:24:21+00:00"
+    },
+    {
+      "url": "https://www.springer.com/brands/springer",
+      "title": "Springer, serving the global research community",
+      "summary": "Title: Springer, serving the global research community URL Source: https://www.springer.com/brands/springer Final URL: https://link.springer.com/brands/springer Markdown Content: [Skip to main content](https://link.springer.com/brands/springer#main) Springer has moved to Springer Nature Link. [Learn more about website changes.](https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link) [![Image 7: Springer Nature Link](https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)](https://link.springer.com/) [Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/brands/springer) [Menu](https://link.springer.com/brands/springer#eds-c-header-nav) [Find a journal](https://link.springer.com/journals/)[Publish with us](h",
+      "keywords": [
+        "springer",
+        "com",
+        "https",
+        "link",
+        "brands",
+        "books",
+        "home",
+        "journals",
+        "springernature",
+        "image",
+        "images",
+        "journal",
+        "oscar-static",
+        "research"
+      ],
+      "hash": "b117a350c9d7ec4c207380e7bfa3e5a5442755e41dc3c023a7394281e0614096",
+      "learned_at": "2026-11-16T01:24:27+00:00"
+    },
+    {
+      "url": "https://support.google.com/chrome/answer/95414",
+      "title": "Update Google Chrome - Computer",
+      "summary": "Title: Update Google Chrome - Computer URL Source: https://support.google.com/chrome/answer/95414 Markdown Content: To make sure you're protected by the latest security updates, Google Chrome can automatically update when a new version of the browser is available on your device. Before you update, check if Chrome supports your operating system and you’ve met all the other system requirements. ## Get a Chrome update when available Normally updates happen in the background when you close and reopen your computer's browser. But if you haven't closed your browser in a while, you might find a pending update: ## Learn more about Chrome updates To make sure you have the latest browser version, regularly check for updates. You can also get new features early when you sign in to Chrome beta. [Check your current browser version](https://support.google.com/chrome/answer/95414) 1. On your computer, ",
+      "keywords": [
+        "chrome",
+        "google",
+        "com",
+        "https",
+        "answer",
+        "support",
+        "update",
+        "updates",
+        "95414",
+        "check",
+        "processor",
+        "browser",
+        "arm",
+        "use"
+      ],
+      "hash": "a32d88d06cd66e5e9d5a7d4c89f6b4bffedc5e6d405d26370c5ca8721bfe5c8a",
+      "learned_at": "2026-11-16T01:24:28+00:00"
     }
   ],
   "failures": [
@@ -26669,6 +26742,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-16T01:24:28+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-16T01:24:28+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 6 new pages",
+      "attempted": 24,
+      "frontier": 2473
+    },
     {
       "at": "2026-11-15T21:41:17+00:00",
       "kind": "core_unchanged",
@@ -27579,40 +27667,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 12,
       "frontier": 2187
-    },
-    {
-      "at": "2026-11-03T15:37:17+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v57",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-03T15:37:17+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 2169
     }
   ],
   "metrics": {
-    "successful_fetches": 1612,
+    "successful_fetches": 1618,
     "failed_fetches": 27,
     "duplicate_pages": 2,
     "candidate_promotions": 72,
-    "candidate_rejections": 183
+    "candidate_rejections": 184
   },
   "core_genome": {
     "query_weight": 3.0,
