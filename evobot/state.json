@@ -1,19 +1,23 @@
 {
   "schema": 2,
-  "generation": 260,
+  "generation": 261,
   "core_version": 74,
-  "runs": 259,
-  "pages_learned": 1634,
-  "last_run": "2026-11-16T18:43:18+00:00",
+  "runs": 260,
+  "pages_learned": 1642,
+  "last_run": "2026-11-17T02:07:31+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://cneos.jpl.nasa.gov/sentry/intro.html",
+    "https://cneos.jpl.nasa.gov/stats/size.html",
     "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
     "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
     "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/)",
     "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/)",
     "https://www.youtube.com/watch?v=Qj_62FWfH78",
     "https://www.youtube.com/watch?v=4bim5EEwvVI",
-    "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
+    "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+    "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+    "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
     "https://support.google.com/My-Ad-Center-Help/answer/12155656",
     "https://support.google.com/My-Ad-Center-Help/answer/13861201",
     "https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD",
@@ -30,6 +34,7 @@
     "https://cloudbackend.scdn7.secure.raxcdn.com/img/upload/06hmu_visuals-and-assets_980x240_v2.jpg",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
+    "https://unsplash.com/@thisisengineering",
     "https://recruiter.naturecareers.com/",
     "https://recruiter.naturecareers.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
@@ -116,7 +121,6 @@
     "https://apps.apple.com/us/iphone/apps",
     "https://apps.apple.com/us/iphone/arcade",
     "https://news.ycombinator.com/",
-    "https://unsplash.com/@thisisengineering",
     "https://github.com/trending",
     "https://cdn.parsely.com/",
     "https://retool.com/",
@@ -151,7 +155,8 @@
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
-    "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
+    "https://curl.haxx.se/download.html",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/OMB_clip_for_carousel.m4v",
@@ -160,7 +165,6 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://www.esa.int/Science_Exploration/Space_Science/Planck",
     "https://www.esa.int/Science_Exploration/Space_Science/Euclid",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -237,7 +241,6 @@
     "https://www.rutschle.net/tech/sslh/README.html",
     "https://www.protocols.io/",
     "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
-    "https://curl.haxx.se/download.html",
     "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
@@ -252,6 +255,7 @@
     "https://en.wikipedia.org/wiki/Libration",
     "https://en.wikipedia.org/wiki/Phase_angle_(astronomy",
     "https://en.wikipedia.org/wiki/Saros_(astronomy",
+    "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://www.naturechina.com/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -291,22 +295,8 @@
     "http://lroc.sese.asu.edu/",
     "http://aa.usno.navy.mil/faq/docs/moon_phases.php",
     "http://iaaras.ru/en/dept/ephemeris/observations/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=300",
-    "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=300",
-    "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/news-images/UVEX%20Artists%20Concept_Oct%202026.jpg",
-    "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
-    "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020_th.jpg",
-    "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-    "https://cneos.jpl.nasa.gov/sentry/intro.html",
-    "https://cneos.jpl.nasa.gov/scout/intro.html",
-    "https://cneos.jpl.nasa.gov/sentry/intro.html",
     "http://www.minorplanetcenter.net/",
     "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
-    "https://cneos.jpl.nasa.gov/stats/size.html",
     "https://cneos.jpl.nasa.gov/stats/site_all.html",
     "https://cneos.jpl.nasa.gov/stats/site_140.html",
     "https://cneos.jpl.nasa.gov/stats/site_km.html",
@@ -2488,7 +2478,17 @@
     "http://ssd.jpl.nasa.gov/sb/",
     "http://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
     "http://ssd.jpl.nasa.gov/tools/sbdb_query.html",
-    "http://ssd.jpl.nasa.gov/tools/mdesign.html"
+    "http://ssd.jpl.nasa.gov/tools/mdesign.html",
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020_th.jpg",
+    "https://www.nasa.gov/blogs/spacestation/2026/10/27/spacewalk-preps-robotics-jobs-and-science-duties-fill-tuesday-schedule/",
+    "https://cneos.jpl.nasa.gov/sentry/torino_scale.html",
+    "https://cneos.jpl.nasa.gov/sentry/palermo_scale.html",
+    "https://cneos.jpl.nasa.gov/sentry/palermo_scale.html",
+    "https://cneos.jpl.nasa.gov/sentry/faq.html",
+    "https://cneos.jpl.nasa.gov/doc/milani_impact_paper.html",
+    "https://cneos.jpl.nasa.gov/images/iobs.png",
+    "https://cneos.jpl.nasa.gov/doc/roa_impact_paper.html",
+    "https://cneos.jpl.nasa.gov/images/lov.png"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -12889,193 +12889,49 @@
       "at": "2026-11-16T18:46:07+00:00",
       "status": "ok",
       "hash": "7b6e6b0ea0075493526073ea442be1b33fbc79cf7c7701100adc4e7366a03820"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=300": {
+      "at": "2026-11-17T02:07:33+00:00",
+      "status": "ok",
+      "hash": "6b85797c79a706f56bb6b2fd94a0349ea1d49d732d2423b8e800184ac8765454"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=300": {
+      "at": "2026-11-17T02:07:36+00:00",
+      "status": "ok",
+      "hash": "6967bcad520720e41eae4eb9ed5586696f45f7707a1abcb27919248d24767922"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/news-images/UVEX%20Artists%20Concept_Oct%202026.jpg": {
+      "at": "2026-11-17T02:07:39+00:00",
+      "status": "ok",
+      "hash": "149da8dd0b3dd73ec449989fb91f698a94f9aa2c67caa593b91bd2470ebee504"
+    },
+    "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg": {
+      "at": "2026-11-17T02:07:41+00:00",
+      "status": "ok",
+      "hash": "1d0b50bec7ba0b6d7b588ef5a60f805dcb8db917395a3ac8ce6ac2256f184481"
+    },
+    "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/": {
+      "at": "2026-11-17T02:07:42+00:00",
+      "status": "ok",
+      "hash": "efe391f09b8093c44fd29ab89dbae96fd24bfccb84d6d63aeaf1434979ff86cf"
+    },
+    "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/": {
+      "at": "2026-11-17T02:07:44+00:00",
+      "status": "ok",
+      "hash": "0fe22c2df1b002b76bc1f8f5a9978b60129dc7457d2de33276d767c025a3ea67"
+    },
+    "https://cneos.jpl.nasa.gov/sentry/intro.html": {
+      "at": "2026-11-17T02:07:46+00:00",
+      "status": "ok",
+      "hash": "8f7df1ca09c1af9c53c26069bd6e844dfdcd13af0f6664a2ca4cd34e20fbf55a"
+    },
+    "https://cneos.jpl.nasa.gov/scout/intro.html": {
+      "at": "2026-11-17T02:07:47+00:00",
+      "status": "ok",
+      "hash": "db4df4169b61ad212dc80cb127f1575c2e14b7065d63d2b4c7f6c192bba4b515"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/image-of-the-day/page/3/",
-      "title": "Image of the Day - NASA",
-      "summary": "Title: Image of the Day - NASA URL Source: https://www.nasa.gov/image-of-the-day/page/3/ Published Time: 2023-09-07T13:29:24-04:00 Markdown Content: [Flight engineer Sophie Adenot of ESA (European Space Agency) assists flight engineer Chris Williams of NASA as he tries on... ![Image 1: ESA astronaut Sophie Adenot and NASA astronaut Chris Williams smile at the camera. Adenot wears a teal polo shirt with a patch on the front. Williams is in a white spacesuit. They are on the International Space Station.](https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0760514orig.jpg)](https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/) [This image by ESA’s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a... ![Image 2: This view of the heart of the Milky Way Galaxy features dense yellow clouds and million",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "image",
-        "space",
-        "2026",
-        "center",
-        "galaxy",
-        "image-article",
-        "jpg",
-        "uploads",
-        "wp-content",
-        "adenot"
-      ],
-      "hash": "4fff93dc1c80b247c998b7f462876aedadd2a898174e7f83dc876958d76b1c67",
-      "learned_at": "2026-10-26T10:32:20+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/image-of-the-day/page/138/",
-      "title": "Image of the Day - NASA",
-      "summary": "Title: Image of the Day - NASA URL Source: https://www.nasa.gov/image-of-the-day/page/138/ Published Time: 2023-09-07T13:29:24-04:00 Markdown Content: [Astronauts John Young (left) and Virgil \"Gus\" Grissom took part in training exercises as the back-up crew for the Gemini... ![Image 1: Gemini 6 Back-up Crew](https://www.nasa.gov/wp-content/uploads/2023/03/209725main_GPN-2000-001832.jpg)](https://www.nasa.gov/image-article/gemini-6-back-up-crew/) [On June 3, 1965, Edward H. White II became the first American to step outside his spacecraft and let go,... ![Image 2: Ed White: First American Spacewalker](https://www.nasa.gov/wp-content/uploads/2023/03/178429main_image_feature_838_ys_full-a.jpg)](https://www.nasa.gov/image-article/ed-white-first-american-spacewalker/) [The lowest spot on land, the Dead Sea depression sinks 400 meters (1,300 feet) below sea level. River beds known... ![Image 3",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "image",
-        "2023",
-        "image-article",
-        "jpg",
-        "uploads",
-        "wp-content",
-        "crew",
-        "sea",
-        "training",
-        "above"
-      ],
-      "hash": "bd5c84f5770ec1733e8ff1165b6cd6926ff2555a45e133a182a981c4eed18630",
-      "learned_at": "2026-10-26T10:32:23+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/2023-annular-eclipse-news-and-articles/",
-      "title": "2023 Annular Eclipse News and Articles - NASA",
-      "summary": "Title: 2023 Annular Eclipse News and Articles - NASA URL Source: https://www.nasa.gov/2023-annular-eclipse-news-and-articles/ Published Time: 2023-09-07T13:34:22Z Markdown Content: [![Image 13: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 14: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "apps"
-      ],
-      "hash": "2c0926b39f509d02c5ed7a6728f74379d2bae46e60253b48b310d3eaaa82525c",
-      "learned_at": "2026-10-26T16:57:27+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg",
-      "title": "https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg",
-      "summary": "Title: https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg Published Time: Mon, 26 Oct 2026 16:57:31 GMT Markdown Content: A woman wearing red t shirt is playing some kind of virtual game, and she is busy with the game",
-      "keywords": [
-        "2026",
-        "game",
-        "gov",
-        "https",
-        "iss075e0000191orig",
-        "jpg",
-        "nasa",
-        "uploads",
-        "wp-content",
-        "www",
-        "busy",
-        "content",
-        "gmt",
-        "kind"
-      ],
-      "hash": "38cf6f0187529fbc182c621943e9be8ab43bdf6120d01da1b957a141a0ab4c5a",
-      "learned_at": "2026-10-26T16:57:39+00:00"
-    },
-    {
-      "url": "https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/meteorite-falling.png",
-      "title": "meteorite-falling.png",
-      "summary": "Title: meteorite-falling.png URL Source: https://ares.jsc.nasa.gov/astromaterials3d/_images/_navigation/meteorite-falling.png Published Time: Tue, 15 Dec 2020 15:01:01 GMT Markdown Content: A 70x63 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "meteorite-falling",
-        "png",
-        "2020",
-        "70x63",
-        "_images",
-        "_navigation",
-        "ares",
-        "astromaterials3d",
-        "avatar",
-        "content",
-        "dec",
-        "gmt",
-        "gov",
-        "https"
-      ],
-      "hash": "af843cb3969f62365f46ab194b4caf5d599a3c0a357aa7b4bc0f7e8f68d401f6",
-      "learned_at": "2026-10-26T16:57:40+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/acme/",
-      "title": "ACME - NASA Science",
-      "summary": "Title: ACME - NASA Science URL Source: https://science.nasa.gov/mission/acme/ Published Time: 2022-05-26T08:33:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Multimedia ",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "acme"
-      ],
-      "hash": "ab43261533d023a6923ac411c775243494ae9679f7c805db55531c4ac265f062",
-      "learned_at": "2026-10-26T16:57:42+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/mission/acrimsat/",
-      "title": "ACRIMSAT - NASA Science",
-      "summary": "Title: ACRIMSAT - NASA Science URL Source: https://science.nasa.gov/mission/acrimsat/ Published Time: 2023-06-16T08:40:11-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.gov/news/nasa-media-contacts/) * Mul",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "acrimsat"
-      ],
-      "hash": "2398a0d2c143bf65515add2e5b40f622e71620b8d892b6d0e04c420e152569c9",
-      "learned_at": "2026-10-26T16:57:46+00:00"
-    },
-    {
-      "url": "https://support.springer.com/en/support/solutions/6000138386",
-      "title": "Open Access",
-      "summary": "Title: Open Access URL Source: https://support.springer.com/en/support/solutions/6000138386 Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://www.springernature.com/gp/legal/privacy-statement) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [![Ima",
-      "keywords": [
-        "support",
-        "springer",
-        "com",
-        "https",
-        "access",
-        "solutions",
-        "open",
-        "6000138386",
-        "cookies",
-        "home",
-        "articles",
-        "data",
-        "information",
-        "nature"
-      ],
-      "hash": "ff5660b42263507e91d16e0adddb038c15441b34eaf6932f4f5d0379d5f09600",
-      "learned_at": "2026-10-26T16:57:51+00:00"
-    },
     {
       "url": "https://ares.jsc.nasa.gov/astromaterials3d/sample-catalog.htm?origin=c-complex",
       "title": "NASA | Astromaterials 3D | Sample Catalog",
@@ -26691,6 +26547,190 @@
       ],
       "hash": "7b6e6b0ea0075493526073ea442be1b33fbc79cf7c7701100adc4e7366a03820",
       "learned_at": "2026-11-16T18:46:07+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=300",
+      "title": "1-pia26715-bae-sunshade-inspection-1.jpg",
+      "summary": "Title: 1-pia26715-bae-sunshade-inspection-1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=300 Published Time: Tue, 17 Nov 2026 02:07:32 GMT Markdown Content: A person cleaning something, they have gloves, mask and a white uniform on",
+      "keywords": [
+        "1-pia26715-bae-sunshade-inspection-1",
+        "2026",
+        "jpg",
+        "300",
+        "cleaning",
+        "content",
+        "gloves",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "mask",
+        "nasa",
+        "nov"
+      ],
+      "hash": "6b85797c79a706f56bb6b2fd94a0349ea1d49d732d2423b8e800184ac8765454",
+      "learned_at": "2026-11-17T02:07:33+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=300",
+      "title": "image.jpg",
+      "summary": "Title: image.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=300 Published Time: Tue, 17 Nov 2026 02:07:34 GMT Markdown Content: A person dirtles칠하는 도시자전거를 운반한 남자가 마지막 자전거의 케이블을 고정하고 있다",
+      "keywords": [
+        "2026",
+        "image",
+        "jpg",
+        "300",
+        "content",
+        "dirtles칠하는",
+        "gmt",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "nov",
+        "person",
+        "published"
+      ],
+      "hash": "6967bcad520720e41eae4eb9ed5586696f45f7707a1abcb27919248d24767922",
+      "learned_at": "2026-11-17T02:07:36+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/news-images/UVEX%20Artists%20Concept_Oct%202026.jpg",
+      "title": "UVEX%20Artists%20Concept_Oct%202026.jpg",
+      "summary": "Title: UVEX%20Artists%20Concept_Oct%202026.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/news-images/UVEX%20Artists%20Concept_Oct%202026.jpg Markdown Content: Long lasting satellite placed on solar panel in space starting to explore, which is discovering new species",
+      "keywords": [
+        "202026",
+        "20artists",
+        "20concept_oct",
+        "assets",
+        "jpg",
+        "science",
+        "uvex",
+        "astro",
+        "content",
+        "discovering",
+        "dynamicimage",
+        "explore",
+        "gov",
+        "https"
+      ],
+      "hash": "149da8dd0b3dd73ec449989fb91f698a94f9aa2c67caa593b91bd2470ebee504",
+      "learned_at": "2026-11-17T02:07:39+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
+      "title": "NocClouds_Hofer_6048.jpg",
+      "summary": "Title: NocClouds_Hofer_6048.jpg URL Source: https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg Markdown Content: A picture of the night sky",
+      "keywords": [
+        "apod",
+        "assets",
+        "jpg",
+        "nocclouds_hofer_6048",
+        "science",
+        "2026",
+        "cds",
+        "content",
+        "dynamicimage",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "night"
+      ],
+      "hash": "1d0b50bec7ba0b6d7b588ef5a60f805dcb8db917395a3ac8ce6ac2256f184481",
+      "learned_at": "2026-11-17T02:07:41+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/",
+      "title": "NASA’s UVEX Space Telescope Successfully Passes Key Milestone - NASA Science",
+      "summary": "Title: NASA’s UVEX Space Telescope Successfully Passes Key Milestone - NASA Science URL Source: https://science.nasa.gov/blogs/uvex/2026/10/27/nasas-uvex-space-telescope-successfully-passes-key-milestone/ Published Time: 2026-10-27T13:59:30-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Soc",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics",
+        "apps"
+      ],
+      "hash": "efe391f09b8093c44fd29ab89dbae96fd24bfccb84d6d63aeaf1434979ff86cf",
+      "learned_at": "2026-11-17T02:07:42+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "title": "APOD: 2026 October 27 - Noctilucent Clouds over Sweden - NASA Science",
+      "summary": "Title: APOD: 2026 October 27 - Noctilucent Clouds over Sweden - NASA Science URL Source: https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/ Published Time: 2026-10-27T00:05:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.n",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "0fe22c2df1b002b76bc1f8f5a9978b60129dc7457d2de33276d767c025a3ea67",
+      "learned_at": "2026-11-17T02:07:44+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/sentry/intro.html",
+      "title": "Sentry: Earth Impact Monitoring",
+      "summary": "Title: Sentry: Earth Impact Monitoring URL Source: https://cneos.jpl.nasa.gov/sentry/intro.html Markdown Content: When interpreting [Sentry](https://cneos.jpl.nasa.gov/sentry/) pages, where information on known potential NEA impacts is posted, one must bear in mind that an Earth collision by a sizable NEA is a very low probability event. Objects normally appear on the Risk Page because their orbits can bring them close to the Earth’s orbit and the limited number of available observations do not yet allow their trajectories to be well-enough defined. In such cases, there may be a wide range of possible future paths that can be fit to the existing observations, sometimes including a few that can intersect the Earth. Whenever a newly discovered NEA is posted on the [Sentry Impact Risk Page](https://cneos.jpl.nasa.gov/sentry/), by far the most likely outcome is that the object will eventuall",
+      "keywords": [
+        "risk",
+        "sentry",
+        "cneos",
+        "gov",
+        "https",
+        "impact",
+        "jpl",
+        "nasa",
+        "page",
+        "earth",
+        "html",
+        "object",
+        "observations",
+        "scale"
+      ],
+      "hash": "8f7df1ca09c1af9c53c26069bd6e844dfdcd13af0f6664a2ca4cd34e20fbf55a",
+      "learned_at": "2026-11-17T02:07:46+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/scout/intro.html",
+      "title": "Scout: NEOCP Hazard Assessment",
+      "summary": "Title: Scout: NEOCP Hazard Assessment URL Source: https://cneos.jpl.nasa.gov/scout/intro.html Markdown Content: Scout provides trajectory analysis and hazard assessment for recently detected objects on the Minor Planet Center’s [Near-Earth Object Confirmation Page](http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html) (NEOCP). Objects on these pages are _unconfirmed_; their designations are user-assigned and _unofficial_. These objects could be real asteroids, but they cannot be officially designated until they are confirmed by additional observations. In fact, it is very possible that some of these “objects” are not real, but rather observing artifacts. If the [Minor Planet Center](http://www.minorplanetcenter.net/) receives enough confirming observations to make sure that an object is a real asteroid, the object is given an official designation and disappears from the NEOCP ",
+      "keywords": [
+        "objects",
+        "scout",
+        "neocp",
+        "assessment",
+        "html",
+        "http",
+        "minorplanetcenter",
+        "neo",
+        "net",
+        "observations",
+        "these",
+        "www",
+        "arcs",
+        "hazard"
+      ],
+      "hash": "db4df4169b61ad212dc80cb127f1575c2e14b7065d63d2b4c7f6c192bba4b515",
+      "learned_at": "2026-11-17T02:07:47+00:00"
     }
   ],
   "failures": [
@@ -26831,6 +26871,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-17T02:07:48+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-17T02:07:48+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 10,
+      "frontier": 2482
+    },
     {
       "at": "2026-11-16T18:46:07+00:00",
       "kind": "core_unchanged",
@@ -27741,40 +27796,14 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 2209
-    },
-    {
-      "at": "2026-11-04T07:57:24+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v58",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-04T07:57:24+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 2209
     }
   ],
   "metrics": {
-    "successful_fetches": 1634,
+    "successful_fetches": 1642,
     "failed_fetches": 27,
     "duplicate_pages": 2,
     "candidate_promotions": 73,
-    "candidate_rejections": 185
+    "candidate_rejections": 186
   },
   "core_genome": {
     "query_weight": 3.0,
