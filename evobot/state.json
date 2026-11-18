@@ -1,22 +1,12 @@
 {
   "schema": 2,
-  "generation": 264,
-  "core_version": 75,
-  "runs": 263,
-  "pages_learned": 1666,
-  "last_run": "2026-11-18T01:48:21+00:00",
+  "generation": 265,
+  "core_version": 76,
+  "runs": 264,
+  "pages_learned": 1674,
+  "last_run": "2026-11-18T09:16:03+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg?w=300",
-    "https://api.nasa.gov/",
-    "https://api.nasa.gov/](https://api.nasa.gov/).",
-    "https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/",
-    "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-    "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-    "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-    "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/marsthermos.2e16d0ba.fill-400x400-c50.jpg",
-    "https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD",
     "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
     "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
     "https://storage.googleapis.com/support-kms-prod/v46TCdgzF24nc1rd5CTUDyXL1eegZvDMa2wh",
@@ -77,7 +67,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Explore_Banner_6.5.26_V4.orig.2e16d0ba.fill-1024x441-c10.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_driveonmars-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_gettomars-640x350.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/earthminute_fever-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/linked-in_RSrxlsw.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/curiosity_pia20602_IpMD49q.0accaac1.fill-548x400-c50.jpg",
@@ -146,7 +135,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
-    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://curl.haxx.se/download.html",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -157,12 +145,14 @@
     "https://esahubble.org/images/heic1215a/",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
     "https://ec.europa.eu/info/law/law-topic/data-protection_en",
+    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
+    "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
@@ -240,7 +230,6 @@
     "https://www.innovation-sandbox.in/",
     "https://www.rutschle.net/tech/sslh/README.html",
     "https://www.protocols.io/",
-    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
@@ -295,18 +284,6 @@
     "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-    "https://www.nasa.gov/audio-and-ringtones/",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/nasa-climate-kids.png?w=960",
-    "https://www.nasa.gov/wp-content/uploads/2023/02/home-and-city.png?w=320",
-    "https://cneos.jpl.nasa.gov/nhats/subscribe.html",
-    "https://www.nasa.gov/wp-content/uploads/2023/11/1-yukondelta-usfws.webp?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/pix-large-985x350-sonification-j.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/07/lost-universe-banner-square-v1.jpg?w=750",
-    "https://www.nasa.gov/wp-content/uploads/2023/06/hubble.jpg?w=980",
-    "https://www.nasa.gov/humans-in-space/artemis/hooray-for-sls/",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/hubble-skymap.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/10/exointeractives.png?w=553",
     "https://www.nasa.gov/wp-content/uploads/2018/07/living_off_the_land_curiosity_tracks.jpg?w=1024",
     "https://www.nasa.gov/wp-content/uploads/2023/05/51722192568-0b18f83560-c.jpg?w=800",
     "https://www.nasa.gov/you-are-going/",
@@ -2502,7 +2479,30 @@
     "https://ssd-api.jpl.nasa.gov/doc/sb_sat.html",
     "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg",
     "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=300",
-    "https://airbornescience.nasa.gov/aircraft/Gulfstream_V_NSF_NCAR"
+    "https://airbornescience.nasa.gov/aircraft/Gulfstream_V_NSF_NCAR",
+    "https://cneos.jpl.nasa.gov/nhats/details.html",
+    "https://api.nasa.gov/assets/img/favicons/favicon-usa-57.png",
+    "https://api.nasa.gov/assets/img/icon-dot-gov.svg",
+    "https://api.nasa.gov/assets/img/icon-https.svg",
+    "https://api.nasa.gov/assets/files/apod/APOD-APIs-and-RSS-info.pdf",
+    "https://api.nasa.gov/assets/img/favicons/favicon-192.png",
+    "https://api.nasa.gov/assets/img/close.svg",
+    "https://api.nasa.gov/](https:/api.nasa.gov/).",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg?w=1024",
+    "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+    "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/pix-large-985x350-sonification-j.jpg?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/07/lost-universe-banner-square-v1.jpg?w=750",
+    "https://www.nasa.gov/wp-content/uploads/2023/06/hubble.jpg?w=980",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg?w=150&h=150&crop=1",
+    "https://www.nasa.gov/audio-and-ringtones/",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/nasa-climate-kids.png?w=960",
+    "https://www.nasa.gov/wp-content/uploads/2023/02/home-and-city.png?w=320",
+    "https://www.nasa.gov/wp-content/uploads/2023/11/1-yukondelta-usfws.webp?w=1024",
+    "https://www.nasa.gov/humans-in-space/artemis/hooray-for-sls/",
+    "https://www.nasa.gov/wp-content/uploads/2023/05/hubble-skymap.png?w=1024",
+    "https://www.nasa.gov/wp-content/uploads/2023/10/exointeractives.png?w=553"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13063,193 +13063,57 @@
       "at": "2026-11-18T01:48:40+00:00",
       "status": "ok",
       "hash": "6cbb1a24e6ebc5ff13ffa03f3246aa0b6b5b92606b95cd2e5074a105b956f0b5"
+    },
+    "https://cneos.jpl.nasa.gov/nhats/subscribe.html": {
+      "at": "2026-11-18T09:16:05+00:00",
+      "status": "ok",
+      "hash": "e96eab6b28cb148f98231a1b2cf408603c168d6de26b82cec54c4e739cc8c0ca"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg?w=300": {
+      "at": "2026-11-18T09:16:08+00:00",
+      "status": "ok",
+      "hash": "68d19ef1323caa90515d9f12490d31dc29e65803953a71e1a0cd43c6c9b220ea"
+    },
+    "https://api.nasa.gov/": {
+      "at": "2026-11-18T09:16:09+00:00",
+      "status": "ok",
+      "hash": "f71b69580fb3a942587151a2b47756ff8b3b3d40a522ae74de11328e206fb26c"
+    },
+    "https://api.nasa.gov/](https://api.nasa.gov/).": {
+      "at": "2026-11-18T09:16:11+00:00",
+      "status": "ok",
+      "hash": "ebd068dafb5aa9e6e9f5c3b50d01c06bbc70a62b4aa38f257ea089ec6e44cedb"
+    },
+    "https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/": {
+      "at": "2026-11-18T09:16:12+00:00",
+      "status": "ok",
+      "hash": "66fcfd8a1436665994bccf7ee4d13a5cfed7ca6eb2542dbe4764ae32cea32ceb"
+    },
+    "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
+      "at": "2026-11-18T09:16:13+00:00",
+      "status": "ok",
+      "hash": "64e9f1784d5cdebea1aebeb65dcc00dfeb70944733067399e7598cdc7741015c"
+    },
+    "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/": {
+      "at": "2026-11-18T09:16:15+00:00",
+      "status": "ok",
+      "hash": "4f944558241ee401583fd9f7add7c6f5645c2c0f3d6f2c5b215a4a28a136201d"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/marsthermos.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-18T09:16:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/earthminute_fever-640x350.2e16d0ba.fill-400x400-c50.jpg": {
+      "at": "2026-11-18T09:16:15+00:00",
+      "status": "robots_disallow"
+    },
+    "https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD": {
+      "at": "2026-11-18T09:16:17+00:00",
+      "status": "ok",
+      "hash": "ea266b073806b32ab7b59d81a05954863765f8707d05fc78b9e4e7843d92e846"
     }
   },
   "memory": [
-    {
-      "url": "https://support.google.com/ads/answer/2662922?hl=en-GB",
-      "title": "Control your ad experience - My Ad Centre Help",
-      "summary": "Title: Control your ad experience - My Ad Centre Help URL Source: https://support.google.com/ads/answer/2662922?hl=en-GB Markdown Content: ![Image 1](https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD) My Ad Centre and About this Ad give you more control of your ad experience by letting you give feedback on the types of ads that you want to be shown. Whether you're on Google services or on sites that partner with Google to show ads, you can block an ad, report an ad, learn who paid for an ad and much more. My Ad Centre works best in the newest version of your browser. If you’re using an outdated version, you may not be able to use My Ad Centre. Learn more about how to [Update Google Chrome](https://support.google.com/chrome/answer/95414). Some features of My Ad Centre may not be available if you’ve turned off personalised ads or if you’re signed out of y",
-      "keywords": [
-        "ads",
-        "centre",
-        "google",
-        "com",
-        "https",
-        "answer",
-        "open",
-        "support",
-        "2662922",
-        "en-gb",
-        "using",
-        "connected",
-        "control",
-        "use"
-      ],
-      "hash": "6ef4f80e54bd334cdf0d340bf3159ea929d9c8116ec9e513f5b2d6e498531fc9",
-      "learned_at": "2026-10-27T11:06:40+00:00"
-    },
-    {
-      "url": "https://link.springer.com/shop/all-disciplines/en-eu/",
-      "title": "Springer Shop",
-      "summary": "Title: Springer Shop URL Source: https://link.springer.com/shop/all-disciplines/en-eu/ Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data. Manage preferences for further information and to change your choices. Accept all cookies Reject optional cookies [](https://link.springer.c",
-      "keywords": [
-        "springer",
-        "com",
-        "https",
-        "shop",
-        "link",
-        "all-disciplines",
-        "cookies",
-        "engineering",
-        "en-eu",
-        "sciences",
-        "data",
-        "information",
-        "optional",
-        "use"
-      ],
-      "hash": "ba4eb0ec9a01d1aa4acf4eacff31d5eb78a1589e65a5889f3478fb49747603e0",
-      "learned_at": "2026-10-27T11:06:44+00:00"
-    },
-    {
-      "url": "https://link.springer.com/",
-      "title": "Access research journals, articles, books and more | Springer Nature Link",
-      "summary": "Title: Access research journals, articles, books and more | Springer Nature Link URL Source: https://link.springer.com/ Markdown Content: Loading [MathJax]/jax/output/HTML-CSS/config.js ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection. See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data. Manage preferences for further information and to change yo",
-      "keywords": [
-        "com",
-        "https",
-        "link",
-        "springer",
-        "search",
-        "springernature",
-        "authors",
-        "cookies",
-        "image",
-        "research",
-        "images",
-        "journals",
-        "oscar-static",
-        "www"
-      ],
-      "hash": "349aa8b666f42bc32866ebddcf0ba010de4d9e7ef37e7366961b1e82b8fa7db5",
-      "learned_at": "2026-10-27T11:06:47+00:00"
-    },
-    {
-      "url": "https://svs.gsfc.nasa.gov/search?people=Ernie+Wright",
-      "title": "SVS Search",
-      "summary": "Title: SVS Search URL Source: https://svs.gsfc.nasa.gov/search?people=Ernie+Wright Markdown Content: [![Image 9: NASA Home Page](https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg)](https://www.nasa.gov/)[Scientific Visualization Studio](https://svs.gsfc.nasa.gov/) * [Galleries](https://svs.gsfc.nasa.gov/gallery/the-galleries/) * [Help](https://svs.gsfc.nasa.gov/help/) Search # Search ## Search Box Search Sort by: * [](https://svs.gsfc.nasa.gov/api/search/?people=Ernie+Wright \"View the current search in our API\") * [](https://twitter.com/intent/tweet \"Share this page on Twitter\") * [](https://www.facebook.com/share.php?u=http%3A//svs.gsfc.nasa.gov/search/%3Fpeople%3DErnie%2BWright \"Share this page on Facebook\") * [(RSS)](https://svs.gsfc.nasa.gov/api/search/rss?people=Ernie+Wright \"View the current search as an RSS feed\")[(Atom)](https://svs.gsfc.nasa.gov/api/search/atom?peopl",
-      "keywords": [
-        "search",
-        "nasa",
-        "https",
-        "svs",
-        "gov",
-        "gsfc",
-        "lunar",
-        "api",
-        "ernie",
-        "past",
-        "people",
-        "wright",
-        "atom",
-        "current"
-      ],
-      "hash": "2ddbc090647cfbb2e46e5e6b139d92a44cf6945112d5175798a5b1abbd752cf1",
-      "learned_at": "2026-10-27T16:32:35+00:00"
-    },
-    {
-      "url": "https://svs.gsfc.nasa.gov/4605",
-      "title": "Moon Phase and Libration, 2018 South Up",
-      "summary": "Title: Moon Phase and Libration, 2018 South Up URL Source: https://svs.gsfc.nasa.gov/4605 Published Time: 2017-12-18T01:00:00-05:00 Markdown Content: [![Image 2: NASA Home Page](https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg)](https://www.nasa.gov/)[Scientific Visualization Studio](https://svs.gsfc.nasa.gov/) * [Galleries](https://svs.gsfc.nasa.gov/gallery/the-galleries/) * [Help](https://svs.gsfc.nasa.gov/help/) Search [4604: Moon Phase and Libration, 2018](https://svs.gsfc.nasa.gov/4604)[4601: Jupiter Quasi-Quadrennial Oscillation](https://svs.gsfc.nasa.gov/4601)[](https://svs.gsfc.nasa.gov/15112) # Moon Phase and Libration, 2018 South Up * **Released** Monday, December 18, 2017 * ID: 4605 * [](https://svs.gsfc.nasa.gov/api/4605 \"View this page in our API\") * [](https://twitter.com/intent/tweet \"Share this page on Twitter\") * [](https://www.facebook.com/share.php?u=http%",
-      "keywords": [
-        "nasa",
-        "gov",
-        "svs",
-        "gsfc",
-        "https",
-        "moon",
-        "7194",
-        "time",
-        "4605",
-        "a000000",
-        "vis",
-        "api",
-        "frames",
-        "http"
-      ],
-      "hash": "32d4da4b58d196212f0dfdef0a22b98ced2813a3de39d04c4601332b610479a5",
-      "learned_at": "2026-10-27T16:32:49+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/sats/elem/",
-      "title": "Planetary Satellite Mean Elements",
-      "summary": "Title: Planetary Satellite Mean Elements URL Source: https://ssd.jpl.nasa.gov/sats/elem/ Markdown Content: * [Main Table](https://ssd.jpl.nasa.gov/sats/elem/) * [Grouped Tables](https://ssd.jpl.nasa.gov/sats/elem/sep.html) Mean elements, in this context, are simply the elements of a precessing ellipse which has been fit in a least squares sense to the numerically integrated orbit. Please see the warning above. Table [column headings](https://ssd.jpl.nasa.gov/sats/elem/#legend) are described below. Satellites of ### Table Column Descriptions | Satellite | IAU name or designation of the satellite | | --- | | Code | JPL satellite ID | | Ephemeris | planetary satellite ephemeris ID used to derive the mean elements | | Frame | reference frame of the mean elements | | Epoch | epoch of the osculating mean elements | | a | semi-major Axis | | e | eccentricity | | ω | argument of periapsis | | M ",
-      "keywords": [
-        "_aj_",
-        "elements",
-        "satellites",
-        "jacobson",
-        "mean",
-        "brozović",
-        "jpl",
-        "node",
-        "satellite",
-        "elem",
-        "gov",
-        "https",
-        "nasa",
-        "orbits"
-      ],
-      "hash": "8bdcd331c165d2b701aa1daf028b297a0a8e73f11678303eb4ab17f03656a365",
-      "learned_at": "2026-10-27T16:32:53+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
-      "title": "APOD: 2026 October 19 - Treble Clef: Unusual X-ray Hot Radio Source - NASA Science",
-      "summary": "Title: APOD: 2026 October 19 - Treble Clef: Unusual X-ray Hot Radio Source - NASA Science URL Source: https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/ Published Time: 2026-10-19T00:05:00-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [So",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "aeronautics",
-        "apps"
-      ],
-      "hash": "ba2eb110544c0ca5bea35f35b839c5f2fb37a86a402b04f45886ec635a79afb0",
-      "learned_at": "2026-10-27T16:32:54+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director - NASA",
-      "summary": "Title: NASA Names Stephen Cash Marshall Space Flight Center Director - NASA URL Source: https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/ Published Time: 2026-10-16T20:14:39Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/ne",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "events",
-        "images",
-        "multimedia",
-        "science",
-        "image",
-        "plus",
-        "podcasts",
-        "apps"
-      ],
-      "hash": "505d11e239934c92ff448dbec9041f3fc08e275d9b6266221e4a012bef0cce0f",
-      "learned_at": "2026-10-27T16:32:57+00:00"
-    },
     {
       "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
       "title": "Artemis II Heat Shield After Splashdown - NASA",
@@ -26865,6 +26729,190 @@
       ],
       "hash": "6cbb1a24e6ebc5ff13ffa03f3246aa0b6b5b92606b95cd2e5074a105b956f0b5",
       "learned_at": "2026-11-18T01:48:40+00:00"
+    },
+    {
+      "url": "https://cneos.jpl.nasa.gov/nhats/subscribe.html",
+      "title": "Accessible NEAs",
+      "summary": "Title: Accessible NEAs URL Source: https://cneos.jpl.nasa.gov/nhats/subscribe.html Markdown Content: [Skip Navigation](https://cneos.jpl.nasa.gov/nhats/subscribe.html#main_content) ![Image 1: CNEOS Banner](https://cneos.jpl.nasa.gov/images/cneos_banner.png) [![Image 2: NASA](https://cneos.jpl.nasa.gov/images/logo_nasa.png)](https://www.nasa.gov/ \"NASA\") [![Image 3: JPL](https://cneos.jpl.nasa.gov/images/jpl-top.png)](https://www.jpl.nasa.gov/ \"JPL\") [![Image 4: Caltech](https://cneos.jpl.nasa.gov/images/cal-tech-bottom.png)](https://www.caltech.edu/ \"Caltech\") [![Image 5: CNEOS](https://cneos.jpl.nasa.gov/images/cneos.png)](https://cneos.jpl.nasa.gov/ \"CNEOS\") [![Image 6: CNEOS Title](https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png)](https://cneos.jpl.nasa.gov/ \"CNEOS\") [Home](https://cneos.jpl.nasa.gov/) * [About](https://cneos.jpl.nasa.gov/about/)[Center for NEO Studies](http",
+      "keywords": [
+        "nasa",
+        "cneos",
+        "https",
+        "gov",
+        "jpl",
+        "html",
+        "image",
+        "images",
+        "png",
+        "stats",
+        "intro",
+        "introduction",
+        "neo",
+        "orbits"
+      ],
+      "hash": "e96eab6b28cb148f98231a1b2cf408603c168d6de26b82cec54c4e739cc8c0ca",
+      "learned_at": "2026-11-18T09:16:05+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg?w=300",
+      "title": "nasa-meatball-1.jpg",
+      "summary": "Title: nasa-meatball-1.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg?w=300 Published Time: Wed, 18 Nov 2026 09:16:06 GMT Markdown Content: Boeing's likeness braided into this emblem shows how the Seattle-based company has been historically linked to NASA",
+      "keywords": [
+        "jpg",
+        "nasa",
+        "nasa-meatball-1",
+        "2025",
+        "2026",
+        "300",
+        "been",
+        "boeing",
+        "braided",
+        "company",
+        "content",
+        "emblem",
+        "gmt",
+        "gov"
+      ],
+      "hash": "68d19ef1323caa90515d9f12490d31dc29e65803953a71e1a0cd43c6c9b220ea",
+      "learned_at": "2026-11-18T09:16:08+00:00"
+    },
+    {
+      "url": "https://api.nasa.gov/",
+      "title": "NASA Open APIs",
+      "summary": "Title: NASA Open APIs URL Source: https://api.nasa.gov/ Published Time: Mon, 05 Oct 2026 21:48:32 GMT Markdown Content: ![Image 2: U.S. flag](https://api.nasa.gov/assets/img/favicons/favicon-usa-57.png) An official website of the United States government Here's how you know ![Image 3: Dot gov](https://api.nasa.gov/assets/img/icon-dot-gov.svg) **The .gov means it's official.** Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. ![Image 4: Https](https://api.nasa.gov/assets/img/icon-https.svg) **The site is secure.** The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. × **⚠ Please Note:** The APOD API has been updated. It now returns information from https://science.nasa.gov/wp-json/wp/v2/apod-basic. The leg",
+      "keywords": [
+        "api",
+        "https",
+        "nasa",
+        "gov",
+        "apod",
+        "assets",
+        "image",
+        "apis",
+        "img",
+        "authentication",
+        "gibs",
+        "key",
+        "archived",
+        "been"
+      ],
+      "hash": "f71b69580fb3a942587151a2b47756ff8b3b3d40a522ae74de11328e206fb26c",
+      "learned_at": "2026-11-18T09:16:09+00:00"
+    },
+    {
+      "url": "https://api.nasa.gov/](https://api.nasa.gov/).",
+      "title": "Page not found · GitHub Pages",
+      "summary": "Title: Page not found · GitHub Pages URL Source: https://api.nasa.gov/](https:/api.nasa.gov/). Warning: Target URL returned error 404: Not Found Markdown Content: ## 404 **File not found** The site configured at this address does not contain the requested file. If this is your site, make sure that the filename case matches the URL as well as any file permissions. For root URLs (like `http://example.com/`) you must provide an `index.html` file. [Read the full documentation](https://help.github.com/pages/) for more information about using **GitHub Pages**. [GitHub Status](https://githubstatus.com/) — [@githubstatus](https://twitter.com/githubstatus) [![Image 1](blob:http://localhost/6691b6771aee6d71f28885ba1e6cb58e)](https://api.nasa.gov/)[![Image 2](blob:http://localhost/a718d401a153f4ec3816bbbebdadb6c4)](https://api.nasa.gov/)",
+      "keywords": [
+        "https",
+        "api",
+        "com",
+        "file",
+        "github",
+        "gov",
+        "nasa",
+        "found",
+        "githubstatus",
+        "http",
+        "pages",
+        "url",
+        "404",
+        "blob"
+      ],
+      "hash": "ebd068dafb5aa9e6e9f5c3b50d01c06bbc70a62b4aa38f257ea089ec6e44cedb",
+      "learned_at": "2026-11-18T09:16:11+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/",
+      "title": "Week Begins with Robotics Prep for Spacewalk and Advanced Research - NASA",
+      "summary": "Title: Week Begins with Robotics Prep for Spacewalk and Advanced Research - NASA URL Source: https://www.nasa.gov/blogs/spacestation/2026/10/26/week-begins-with-robotics-prep-for-spacewalk-and-advanced-research/ Published Time: 2026-10-26T15:48:51Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newslette",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "science",
+        "apps"
+      ],
+      "hash": "66fcfd8a1436665994bccf7ee4d13a5cfed7ca6eb2542dbe4764ae32cea32ceb",
+      "learned_at": "2026-11-18T09:16:12+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis - NASA Science",
+      "summary": "Title: NASA’s Perseverance Views Dust at Neretva Vallis - NASA Science URL Source: https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/ Published Time: 2026-10-26T18:48:12-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/soc",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "64e9f1784d5cdebea1aebeb65dcc00dfeb70944733067399e7598cdc7741015c",
+      "learned_at": "2026-11-18T09:16:13+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected - NASA Science",
+      "summary": "Title: NEO Surveyor’s Sunshade Gets Inspected - NASA Science URL Source: https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/ Published Time: 2026-10-26T16:53:13-04:00 Markdown Content: [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media ",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "4f944558241ee401583fd9f7add7c6f5645c2c0f3d6f2c5b215a4a28a136201d",
+      "learned_at": "2026-11-18T09:16:15+00:00"
+    },
+    {
+      "url": "https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD",
+      "title": "Asset 3.svg",
+      "summary": "Title: Asset 3.svg URL Source: https://storage.googleapis.com/support-kms-prod/T378iKSbJ9U6zE8boiepWiIjudruCDIlIsxD Published Time: Mon, 07 Aug 2023 18:59:15 GMT Markdown Content: woman in pile of books holding newspaper in lap holding newspaper in lap",
+      "keywords": [
+        "holding",
+        "lap",
+        "newspaper",
+        "2023",
+        "asset",
+        "aug",
+        "books",
+        "com",
+        "content",
+        "gmt",
+        "googleapis",
+        "https",
+        "markdown",
+        "mon"
+      ],
+      "hash": "ea266b073806b32ab7b59d81a05954863765f8707d05fc78b9e4e7843d92e846",
+      "learned_at": "2026-11-18T09:16:17+00:00"
     }
   ],
   "failures": [
@@ -27005,6 +27053,32 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-18T09:16:17+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v76",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-18T09:16:17+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 23,
+      "frontier": 2496
+    },
     {
       "at": "2026-11-18T01:48:41+00:00",
       "kind": "core_unchanged",
@@ -27915,28 +27989,13 @@
       "message": "Crawl cycle learned 6 new pages",
       "attempted": 24,
       "frontier": 2287
-    },
-    {
-      "at": "2026-11-05T09:21:54+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-05T09:21:54+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 2264
     }
   ],
   "metrics": {
-    "successful_fetches": 1666,
+    "successful_fetches": 1674,
     "failed_fetches": 27,
     "duplicate_pages": 2,
-    "candidate_promotions": 74,
+    "candidate_promotions": 75,
     "candidate_rejections": 188
   },
   "core_genome": {
@@ -27966,14 +28025,14 @@
     "science.org",
     "www.nasa.gov",
     "www.nature.com",
-    "www.springernature.com",
     "www.jpl.nasa.gov",
-    "ssd.jpl.nasa.gov",
+    "www.springernature.com",
     "svs.gsfc.nasa.gov",
+    "ssd.jpl.nasa.gov",
+    "science.nasa.gov",
     "www.youtube.com",
     "media.springernature.com",
-    "group.springernature.com",
-    "science.nasa.gov",
-    "history.nasa.gov"
+    "cneos.jpl.nasa.gov",
+    "assets.science.nasa.gov"
   ]
 }
