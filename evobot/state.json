@@ -1,16 +1,22 @@
 {
   "schema": 2,
-  "generation": 265,
+  "generation": 266,
   "core_version": 76,
-  "runs": 264,
-  "pages_learned": 1674,
-  "last_run": "2026-11-18T09:16:03+00:00",
+  "runs": 265,
+  "pages_learned": 1682,
+  "last_run": "2026-11-18T18:12:29+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=11&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=12&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=13&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=50&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=79&smid=0",
     "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
     "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
     "https://storage.googleapis.com/support-kms-prod/v46TCdgzF24nc1rd5CTUDyXL1eegZvDMa2wh",
-    "https://unsplash.com/@thisisengineering",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/kilauea-eruption-PIA26504-16x.2e16d0ba.fill-1024x441-c10.jpg",
@@ -74,6 +80,7 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/pasta_building.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/msl_parachute_test_PIA10208.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/phoenix_concept.2e16d0ba.fill-400x400-c50.jpg",
+    "https://unsplash.com/@thisisengineering",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1a-PIA25912-Curiositys_Postca.2e16d0ba.fill-1024x441-c10.png",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Newsletter_signup_heading-01.width-1024.png",
@@ -136,7 +143,6 @@
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
-    "https://curl.haxx.se/download.html",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -152,6 +158,7 @@
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
+    "https://curl.haxx.se/download.html",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
@@ -284,29 +291,6 @@
     "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://www.nasa.gov/wp-content/uploads/2018/07/living_off_the_land_curiosity_tracks.jpg?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/05/51722192568-0b18f83560-c.jpg?w=800",
-    "https://www.nasa.gov/you-are-going/",
-    "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hubble-skymap/",
-    "https://trek.nasa.gov/img/treks_logo.png",
-    "https://trek.nasa.gov/galleries",
-    "https://trek.nasa.gov/moondiff",
-    "https://trek.nasa.gov/resources/esw2024_NASATreksactivity_SE.pdf",
-    "https://trek.nasa.gov/resources/TE_NASA%20Moon%20TREKS%20Activity.pdf",
-    "https://trek.nasa.gov/galleriesVrlibrary",
-    "https://trek.nasa.gov/bennu",
-    "https://trek.nasa.gov/ceres",
-    "https://lunar-landing.arc.nasa.gov/",
-    "https://www.youtube.com/watch?v=2B4SOtZ74fY",
-    "https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=11&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=12&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=13&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=50&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=79&smid=0",
     "https://www.sebi.gov.in/filings.html",
     "https://www.sebi.gov.in/filings/processing-status.html",
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=8",
@@ -2502,7 +2486,26 @@
     "https://www.nasa.gov/wp-content/uploads/2023/11/1-yukondelta-usfws.webp?w=1024",
     "https://www.nasa.gov/humans-in-space/artemis/hooray-for-sls/",
     "https://www.nasa.gov/wp-content/uploads/2023/05/hubble-skymap.png?w=1024",
-    "https://www.nasa.gov/wp-content/uploads/2023/10/exointeractives.png?w=553"
+    "https://www.nasa.gov/wp-content/uploads/2023/10/exointeractives.png?w=553",
+    "https://www.nasa.gov/you-are-going/",
+    "https://trek.nasa.gov/moondiff",
+    "https://trek.nasa.gov/resources/esw2024_NASATreksactivity_SE.pdf",
+    "https://trek.nasa.gov/resources/TE_NASA%20Moon%20TREKS%20Activity.pdf",
+    "https://trek.nasa.gov/galleriesVrlibrary",
+    "https://trek.nasa.gov/bennu",
+    "https://trek.nasa.gov/ceres",
+    "https://www.youtube.com/watch?v=S6jcC5plaNk",
+    "https://www.youtube.com/watch?v=S6jcC5plaNk",
+    "https://www.youtube.com/watch?v=kJiI-SjSU9s",
+    "https://www.youtube.com/watch?v=i1crB-GFAok",
+    "https://www.youtube.com/watch?v=fTBAM_fgREM",
+    "https://www.youtube.com/watch?v=200TCnazFx8",
+    "https://www.youtube.com/watch?v=3zQYHngbvGs",
+    "https://www.youtube.com/@nasalmmptrekteam7933",
+    "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D2B4SOtZ74fY&hl=en&ec=65620",
+    "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253D2B4SOtZ74fY&hl=en",
+    "https://yt3.ggpht.com/ytc/AIdro_k2w-_WiSbqSa4ve3QLqEXAlh6B2EjzNwhdUYXVR5c=s48-c-k-c0x00ffffff-no-rj",
+    "https://yt3.ggpht.com/ytc/AIdro_mKeoEKinZ3g3s3z-e7bdK5QYwhEqo9Azr_6d9fsvuEDDo=s88-c-k-c0x00ffffff-no-rj"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13111,193 +13114,54 @@
       "at": "2026-11-18T09:16:17+00:00",
       "status": "ok",
       "hash": "ea266b073806b32ab7b59d81a05954863765f8707d05fc78b9e4e7843d92e846"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2018/07/living_off_the_land_curiosity_tracks.jpg?w=1024": {
+      "at": "2026-11-18T18:12:33+00:00",
+      "status": "ok",
+      "hash": "e16e9aaf909a3461be05cbe02fea548cfa1b2dfaa1bbc77f8567a832450087ca"
+    },
+    "https://www.nasa.gov/wp-content/uploads/2023/05/51722192568-0b18f83560-c.jpg?w=800": {
+      "at": "2026-11-18T18:12:36+00:00",
+      "status": "ok",
+      "hash": "cbeb4fc964db806ccbe9df178205821d53a4dae4eee0de607929d9443ce90d29"
+    },
+    "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hubble-skymap/": {
+      "at": "2026-11-18T18:12:37+00:00",
+      "status": "ok",
+      "hash": "f7cb92522ae7d1d63e0e45be6f9c115461fbc6cb9dff4440464214cc45536556"
+    },
+    "https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/": {
+      "at": "2026-11-18T18:12:38+00:00",
+      "status": "ok",
+      "hash": "095d8c2cc04eaf5bf53b48d7b0982738a4149feb14b74d62d107d2d0ae6520e6"
+    },
+    "https://trek.nasa.gov/img/treks_logo.png": {
+      "at": "2026-11-18T18:12:40+00:00",
+      "status": "ok",
+      "hash": "9f34265102bc24ca4697880076751307cdac67b149a1e25c3fd8613b29c40ded"
+    },
+    "https://trek.nasa.gov/galleries": {
+      "at": "2026-11-18T18:12:41+00:00",
+      "status": "ok",
+      "hash": "74dc671f41404641d3f6b7106c35831cf62acc4ce84d61a5898d64338455c4e8"
+    },
+    "https://lunar-landing.arc.nasa.gov/": {
+      "at": "2026-11-18T18:15:35+00:00",
+      "status": "error",
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
+    },
+    "https://www.youtube.com/watch?v=2B4SOtZ74fY": {
+      "at": "2026-11-18T18:15:41+00:00",
+      "status": "ok",
+      "hash": "fb7ab08cecbcf8697724910404919b16b4c7166985a949326c5c6b52dff3ce40"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146": {
+      "at": "2026-11-18T18:15:51+00:00",
+      "status": "ok",
+      "hash": "06fa28f2d99950e165666e239dae4a3d85c0543449a5e5a28d0ff1ffbb4bb401"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-      "title": "Artemis II Heat Shield After Splashdown - NASA",
-      "summary": "Title: Artemis II Heat Shield After Splashdown - NASA URL Source: https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/ Published Time: 2026-10-16T16:28:01Z Markdown Content: [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 3: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.na",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "artemis",
-        "image",
-        "plus",
-        "podcasts"
-      ],
-      "hash": "17cf30ecac74003bfda262f5e9a6c6730223037dba93eface918a14afe92d693",
-      "learned_at": "2026-10-27T16:33:00+00:00"
-    },
-    {
-      "url": "http://ssd.jpl.nasa.gov/sats/",
-      "title": "Planetary Satellites",
-      "summary": "Title: Planetary Satellites URL Source: http://ssd.jpl.nasa.gov/sats/ Markdown Content: ### What is a planetary satellite? Naturally-formed bodies in orbit around planets are referred to here as “planetary satellites”, and are often called “moons.” Planetary satellites (as well as the primary planet) orbit the planetary system barycenter, the combined center of mass of the planet and all of the moons in that planetary system. The barycenter, in turn, orbits the Sun. The Sun, in turn, orbits the center of the Galaxy, an orbit which, as of yet, is not available on [Horizons](https://ssd.jpl.nasa.gov/horizons/). The best-known planetary satellite is, of course, Earth’s moon, eponymously named — before any other planetary satellites were known — “the Moon”. Currently, we know of no planetary satellites in orbit around Mercury or Venus. All the other planets have at least one known planetary ",
-      "keywords": [
-        "planetary",
-        "satellites",
-        "jpl",
-        "gov",
-        "nasa",
-        "ssd",
-        "https",
-        "sats",
-        "known",
-        "orbit",
-        "orbits",
-        "satellite",
-        "discovery",
-        "html"
-      ],
-      "hash": "4bdc6b535881274ae2576a00d9daef1b28e5e7b093334510ac4da5539ee1a5e9",
-      "learned_at": "2026-10-27T16:35:19+00:00"
-    },
-    {
-      "url": "https://cneos.jpl.nasa.gov/images/cneos.png",
-      "title": "cneos.png",
-      "summary": "Title: cneos.png URL Source: https://cneos.jpl.nasa.gov/images/cneos.png Published Time: Thu, 08 Jan 2026 22:17:45 GMT Markdown Content: A 215x46 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "cneos",
-        "png",
-        "2026",
-        "215x46",
-        "avatar",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "jan",
-        "jpl"
-      ],
-      "hash": "f5bf74a437de34e446e16434ced41f7ac58b25061dc1993a3787800f4eef2159",
-      "learned_at": "2026-10-27T20:55:49+00:00"
-    },
-    {
-      "url": "https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png",
-      "title": "cneos_title_stacked.png",
-      "summary": "Title: cneos_title_stacked.png URL Source: https://cneos.jpl.nasa.gov/images/cneos_title_stacked.png Published Time: Thu, 08 Jan 2026 22:17:46 GMT Markdown Content: This is a blank image or an empty canvas with no content, dimension, or context",
-      "keywords": [
-        "cneos_title_stacked",
-        "content",
-        "png",
-        "2026",
-        "blank",
-        "canvas",
-        "cneos",
-        "context",
-        "dimension",
-        "empty",
-        "gmt",
-        "gov",
-        "https",
-        "image"
-      ],
-      "hash": "902a6738d2e1865859f07f15c8faeac277c670f360a62a81f8001f1dc175930c",
-      "learned_at": "2026-10-27T20:55:51+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-      "title": "APOD: 2026 October 18 - Sonified: Eagle Nebula Pillars - NASA Science",
-      "summary": "Title: APOD: 2026 October 18 - Sonified: Eagle Nebula Pillars - NASA Science URL Source: https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/ Published Time: 2026-10-18T00:05:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.na",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "b6a776f08b02ce8b7e5b188371fc570ad4195dfce933401220b02e2e5fbd4fc7",
-      "learned_at": "2026-10-27T20:55:54+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams",
-      "title": "Episode 5: The Stuff of Dreams",
-      "summary": "Title: Episode 5: The Stuff of Dreams URL Source: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-5-the-stuff-of-dreams) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Who We Are](https://www.jpl.nasa.gov",
-      "keywords": [
-        "jpl",
-        "https",
-        "www",
-        "nasa",
-        "gov",
-        "who-we-are",
-        "news",
-        "missions",
-        "documentary-series-jpl-and-the-space-age",
-        "topics",
-        "documentary",
-        "episode",
-        "mission_status",
-        "series"
-      ],
-      "hash": "293654eecf8b058af16ae15c870ff14f0dd8ff62077225ea0a408f93a5be88b1",
-      "learned_at": "2026-10-27T20:56:00+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager",
-      "title": "Episode 6: The Footsteps of Voyager | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Episode 6: The Footsteps of Voyager | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager Markdown Content: [](https://www.jpl.nasa.gov/who-we-are/documentary-series-jpl-and-the-space-age/episode-6-the-footsteps-of-voyager) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-col",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "who-we-are",
-        "missions",
-        "news",
-        "documentary-series-jpl-and-the-space-age",
-        "topics",
-        "documentary",
-        "episode",
-        "footsteps",
-        "mission_status"
-      ],
-      "hash": "d9d1d2f4a92f0a18af6a4815861238cc503a5e9036881395213f8217f3efdba6",
-      "learned_at": "2026-10-27T20:56:03+00:00"
-    },
-    {
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-      "title": "Autumn Paints Poland's Bieszczady Mountains - NASA Science",
-      "summary": "Title: Autumn Paints Poland's Bieszczady Mountains - NASA Science URL Source: https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/ Published Time: 2026-10-19T00:01:00-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/so",
-      "keywords": [
-        "nasa",
-        "https",
-        "gov",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "earth",
-        "image",
-        "plus",
-        "podcasts",
-        "resources"
-      ],
-      "hash": "57c1bf76cddf87be7857d945dce6fbf9b1deea5d4d428703e2bd37bc9918d90e",
-      "learned_at": "2026-10-27T20:56:04+00:00"
-    },
     {
       "url": "https://www.nasa.gov/news/media-contacts/",
       "title": "NASA Media Contacts - NASA",
@@ -26913,6 +26777,190 @@
       ],
       "hash": "ea266b073806b32ab7b59d81a05954863765f8707d05fc78b9e4e7843d92e846",
       "learned_at": "2026-11-18T09:16:17+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2018/07/living_off_the_land_curiosity_tracks.jpg?w=1024",
+      "title": "living_off_the_land_curiosity_tracks.jpg",
+      "summary": "Title: living_off_the_land_curiosity_tracks.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2018/07/living_off_the_land_curiosity_tracks.jpg?w=1024 Published Time: Wed, 18 Nov 2026 18:12:31 GMT Markdown Content: The Martian landscape",
+      "keywords": [
+        "jpg",
+        "living_off_the_land_curiosity_tracks",
+        "1024",
+        "2018",
+        "2026",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "landscape",
+        "markdown",
+        "martian",
+        "nasa",
+        "nov"
+      ],
+      "hash": "e16e9aaf909a3461be05cbe02fea548cfa1b2dfaa1bbc77f8567a832450087ca",
+      "learned_at": "2026-11-18T18:12:33+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/05/51722192568-0b18f83560-c.jpg?w=800",
+      "title": "51722192568-0b18f83560-c.jpg",
+      "summary": "Title: 51722192568-0b18f83560-c.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2023/05/51722192568-0b18f83560-c.jpg?w=800 Published Time: Wed, 18 Nov 2026 18:12:34 GMT Markdown Content: NASA astronauts take a photo with the launch pad and rocket with a large background moon next to a blue, star filled sky",
+      "keywords": [
+        "51722192568-0b18f83560-c",
+        "jpg",
+        "nasa",
+        "2023",
+        "2026",
+        "800",
+        "astronauts",
+        "background",
+        "blue",
+        "content",
+        "filled",
+        "gmt",
+        "gov",
+        "https"
+      ],
+      "hash": "cbeb4fc964db806ccbe9df178205821d53a4dae4eee0de607929d9443ce90d29",
+      "learned_at": "2026-11-18T18:12:36+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hubble-skymap/",
+      "title": "Hubble Skymap - NASA Science",
+      "summary": "Title: Hubble Skymap - NASA Science URL Source: https://science.nasa.gov/mission/hubble/multimedia/online-activities/hubble-skymap/ Published Time: 2022-05-26T03:38:56-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https:/",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "multimedia",
+        "news",
+        "images",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "f7cb92522ae7d1d63e0e45be6f9c115461fbc6cb9dff4440464214cc45536556",
+      "learned_at": "2026-11-18T18:12:37+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/",
+      "title": "What Did Hubble See on Your Birthday? - NASA Science",
+      "summary": "Title: What Did Hubble See on Your Birthday? - NASA Science URL Source: https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday/ Published Time: 2022-05-26T04:11:51-04:00 Markdown Content: [![Image 4: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 5: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "multimedia",
+        "news",
+        "images",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "095d8c2cc04eaf5bf53b48d7b0982738a4149feb14b74d62d107d2d0ae6520e6",
+      "learned_at": "2026-11-18T18:12:38+00:00"
+    },
+    {
+      "url": "https://trek.nasa.gov/img/treks_logo.png",
+      "title": "treks_logo.png",
+      "summary": "Title: treks_logo.png URL Source: https://trek.nasa.gov/img/treks_logo.png Published Time: Thu, 22 Jan 2026 19:11:45 GMT Markdown Content: a NASA solar system Trek graphic",
+      "keywords": [
+        "nasa",
+        "png",
+        "trek",
+        "treks_logo",
+        "2026",
+        "content",
+        "gmt",
+        "gov",
+        "graphic",
+        "https",
+        "img",
+        "jan",
+        "markdown",
+        "published"
+      ],
+      "hash": "9f34265102bc24ca4697880076751307cdac67b149a1e25c3fd8613b29c40ded",
+      "learned_at": "2026-11-18T18:12:40+00:00"
+    },
+    {
+      "url": "https://trek.nasa.gov/galleries",
+      "title": "404 Not Found",
+      "summary": "Title: 404 Not Found URL Source: https://trek.nasa.gov/galleries Warning: Target URL returned error 404: Not Found Markdown Content: # Not Found The requested URL was not found on this server.",
+      "keywords": [
+        "found",
+        "url",
+        "404",
+        "content",
+        "error",
+        "galleries",
+        "gov",
+        "https",
+        "markdown",
+        "nasa",
+        "requested",
+        "returned",
+        "server",
+        "source"
+      ],
+      "hash": "74dc671f41404641d3f6b7106c35831cf62acc4ce84d61a5898d64338455c4e8",
+      "learned_at": "2026-11-18T18:12:41+00:00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2B4SOtZ74fY",
+      "title": "Open TrekVR - YouTube",
+      "summary": "Title: Open TrekVR - YouTube URL Source: https://www.youtube.com/watch?v=2B4SOtZ74fY Warning: Target URL returned error 401: Unauthorized Markdown Content: Back [![Image 1](https://www.youtube.com/watch?v=2B4SOtZ74fY)](https://www.youtube.com/ \"YouTube Home\") Skip navigation Search Search with your voice [](https://www.youtube.com/watch?v=2B4SOtZ74fY) [Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D2B4SOtZ74fY&hl=en&ec=65620) [![Image 2](https://www.youtube.com/watch?v=2B4SOtZ74fY)](https://www.youtube.com/ \"YouTube Home\") [](https://www.youtube.com/watch?v=2B4SOtZ74fY) [](https://www.youtube.com/watch?v=2B4SOtZ74fY) [Video 1](https://www.youtube.com/watch?v=2B4SOtZ74fY) [](https://",
+      "keywords": [
+        "youtube",
+        "com",
+        "https",
+        "watch",
+        "www",
+        "2b4sotz74fy",
+        "image",
+        "ago",
+        "live",
+        "playlist",
+        "mix",
+        "open",
+        "trekvr",
+        "cancel"
+      ],
+      "hash": "fb7ab08cecbcf8697724910404919b16b4c7166985a949326c5c6b52dff3ce40",
+      "learned_at": "2026-11-18T18:15:41+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=146 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAc",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "146",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid"
+      ],
+      "hash": "06fa28f2d99950e165666e239dae4a3d85c0543449a5e5a28d0ff1ffbb4bb401",
+      "learned_at": "2026-11-18T18:15:51+00:00"
     }
   ],
   "failures": [
@@ -27050,9 +27098,29 @@
       "at": "2026-11-14T19:24:52+00:00",
       "url": "https://www.jpl.nasa.gov/edu/resources/?page=1&content_types=edu_resources.EDUStudentProjectPage",
       "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "at": "2026-11-18T18:15:35+00:00",
+      "url": "https://lunar-landing.arc.nasa.gov/",
+      "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
     }
   ],
   "events": [
+    {
+      "at": "2026-11-18T18:15:51+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-18T18:15:51+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 16,
+      "frontier": 2499
+    },
     {
       "at": "2026-11-18T09:16:17+00:00",
       "kind": "core_promoted",
@@ -27974,29 +28042,14 @@
       "message": "Crawl cycle learned 7 new pages",
       "attempted": 24,
       "frontier": 2326
-    },
-    {
-      "at": "2026-11-05T17:30:59+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-05T17:30:59+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 6 new pages",
-      "attempted": 24,
-      "frontier": 2287
     }
   ],
   "metrics": {
-    "successful_fetches": 1674,
-    "failed_fetches": 27,
+    "successful_fetches": 1682,
+    "failed_fetches": 28,
     "duplicate_pages": 2,
     "candidate_promotions": 75,
-    "candidate_rejections": 188
+    "candidate_rejections": 189
   },
   "core_genome": {
     "query_weight": 3.0,
