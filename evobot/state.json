@@ -1,20 +1,12 @@
 {
   "schema": 2,
-  "generation": 266,
+  "generation": 267,
   "core_version": 76,
-  "runs": 265,
-  "pages_learned": 1682,
-  "last_run": "2026-11-18T18:12:29+00:00",
+  "runs": 266,
+  "pages_learned": 1685,
+  "last_run": "2026-11-19T00:28:08+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=11&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=12&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=13&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=50&smid=0",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=79&smid=0",
-    "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
     "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
     "https://storage.googleapis.com/support-kms-prod/v46TCdgzF24nc1rd5CTUDyXL1eegZvDMa2wh",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/join_leaders-2020-1.801e7dd7.fill-640x360-c100.jpg",
@@ -143,22 +135,21 @@
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
+    "https://ec.europa.eu/info/law/law-topic/data-protection_en",
+    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
+    "https://curl.haxx.se/download.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
+    "http://cypherpunks.faithweb.com/nomime.html",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_phoning-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_quakes-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://esahubble.org/images/heic1215a/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
-    "https://ec.europa.eu/info/law/law-topic/data-protection_en",
-    "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
-    "http://www.msss.com/mars_images/moc/dec00_seds/",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "http://cypherpunks.faithweb.com/nomime.html",
-    "https://curl.haxx.se/download.html",
     "https://errors.edgesuite.net/18.117b3517.1790423130.105551ef",
     "https://www.google.co.uk/ads/preferences",
     "https://www.google.co.uk/settings/ads/plugin",
@@ -251,6 +242,7 @@
     "https://en.wikipedia.org/wiki/Libration",
     "https://en.wikipedia.org/wiki/Phase_angle_(astronomy",
     "https://en.wikipedia.org/wiki/Saros_(astronomy",
+    "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://www.google.com/policies/technologies/ads/",
     "http://tools.google.com/",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
@@ -291,22 +283,6 @@
     "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://www.sebi.gov.in/filings.html",
-    "https://www.sebi.gov.in/filings/processing-status.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=8",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=9",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=62",
-    "https://www.sebi.gov.in/conf.html",
-    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doBoardMeeting=yes",
-    "https://www.sebi.gov.in/alldepartment.html",
-    "https://www.sebi.gov.in/contact-us.html",
-    "https://www.sebi.gov.in/allbenchmark.html",
-    "https://www.sebi.gov.in/sebiweb/boardmember/BoardMemberAction.do?doFormerMember=yes",
-    "https://www.sebi.gov.in/equal_opportunity_policy.html",
-    "https://www.sebi.gov.in/sebiweb/holiday/HolidayAction.do?doHoliday=yes",
-    "https://www.sebi.gov.in/rti-act-2005.html",
-    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doVacancies=yes",
-    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doTender=yes",
     "https://www.sebi.gov.in/iors.html",
     "https://www.sebi.gov.in/legal.html",
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=1&smid=0",
@@ -2505,7 +2481,28 @@
     "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D2B4SOtZ74fY&hl=en&ec=65620",
     "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253D2B4SOtZ74fY&hl=en",
     "https://yt3.ggpht.com/ytc/AIdro_k2w-_WiSbqSa4ve3QLqEXAlh6B2EjzNwhdUYXVR5c=s48-c-k-c0x00ffffff-no-rj",
-    "https://yt3.ggpht.com/ytc/AIdro_mKeoEKinZ3g3s3z-e7bdK5QYwhEqo9Azr_6d9fsvuEDDo=s88-c-k-c0x00ffffff-no-rj"
+    "https://yt3.ggpht.com/ytc/AIdro_mKeoEKinZ3g3s3z-e7bdK5QYwhEqo9Azr_6d9fsvuEDDo=s88-c-k-c0x00ffffff-no-rj",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=11&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=12&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=13&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=50&smid=0",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=79&smid=0",
+    "https://www.sebi.gov.in/filings.html",
+    "https://www.sebi.gov.in/filings/processing-status.html",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=8",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=9",
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=14&smid=62",
+    "https://www.sebi.gov.in/conf.html",
+    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doBoardMeeting=yes",
+    "https://www.sebi.gov.in/alldepartment.html",
+    "https://www.sebi.gov.in/contact-us.html",
+    "https://www.sebi.gov.in/allbenchmark.html",
+    "https://www.sebi.gov.in/sebiweb/boardmember/BoardMemberAction.do?doFormerMember=yes",
+    "https://www.sebi.gov.in/equal_opportunity_policy.html",
+    "https://www.sebi.gov.in/sebiweb/holiday/HolidayAction.do?doHoliday=yes",
+    "https://www.sebi.gov.in/rti-act-2005.html",
+    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doVacancies=yes",
+    "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doTender=yes"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13159,78 +13156,24 @@
       "at": "2026-11-18T18:15:51+00:00",
       "status": "ok",
       "hash": "06fa28f2d99950e165666e239dae4a3d85c0543449a5e5a28d0ff1ffbb4bb401"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138": {
+      "at": "2026-11-19T00:28:17+00:00",
+      "status": "ok",
+      "hash": "4cd508be3e250ad3661a4bd9f5ee89fa40cc1697fdc60438b5d05790c8070254"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0": {
+      "at": "2026-11-19T00:28:24+00:00",
+      "status": "ok",
+      "hash": "4ba040283bee0b8c7e858ca29b8e89d397c426d808a1d045caee31e1d559e300"
+    },
+    "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG": {
+      "at": "2026-11-19T00:28:25+00:00",
+      "status": "ok",
+      "hash": "7499ed98b56b4ab31eb82087cb1bed997df94a1ad34ade33c57a3a7f4601aa48"
     }
   },
   "memory": [
-    {
-      "url": "https://www.nasa.gov/news/media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "summary": "Title: NASA Media Contacts - NASA URL Source: https://www.nasa.gov/news/media-contacts/ Published Time: 2023-06-29T14:53:17-04:00 Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https:/",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "search",
-        "news",
-        "science",
-        "events",
-        "images",
-        "multimedia",
-        "image",
-        "media",
-        "plus",
-        "podcasts"
-      ],
-      "hash": "53fb585a9910ca5098dabc9c8926ca538a81b1ba0dbf7626827ce9892775ed5b",
-      "learned_at": "2026-10-27T20:56:05+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/news/recently-published/",
-      "title": "All NASA News - NASA",
-      "summary": "Title: All NASA News - NASA URL Source: https://www.nasa.gov/news/recently-published/ Published Time: 2023-06-30T08:59:39-04:00 Markdown Content: ## Recently Published Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. [![Image 1](https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=300)](https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/) [NASA Invites Media to Crew Completion of Yearlong Mars Simulation](https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/) 3 min read The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center… News Release [![Image 2",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "www",
-        "2026",
-        "image",
-        "science",
-        "uvex",
-        "blogs",
-        "jpg",
-        "min",
-        "read",
-        "space",
-        "300"
-      ],
-      "hash": "57a055d05463b077613f86b28f9e231e976c6669806a0cc9c682fa644a6ad1f8",
-      "learned_at": "2026-10-27T20:56:08+00:00"
-    },
-    {
-      "url": "https://cneos.jpl.nasa.gov/risk/intro.html",
-      "title": "Impact Risk: Introduction",
-      "summary": "Title: Impact Risk: Introduction URL Source: https://cneos.jpl.nasa.gov/risk/intro.html Markdown Content: To assess whether a given NEO can impact the Earth, we must do more than compute an orbit and predict how close that orbit comes to Earth. Because orbit computations are based on imperfect data, each asteroid will have a range possible orbits that match the observed sky positions. CNEOS designed the [Sentry](https://cneos.jpl.nasa.gov/sentry/intro.html) impact monitoring system to analyze the full range of possible orbits for each NEO, searching for potential Earth close approaches over the next 100 years and calculating the probability of impact for each. The results are tabulated on the [Sentry Risk Page](https://cneos.jpl.nasa.gov/sentry/). The [Scout](https://cneos.jpl.nasa.gov/scout/intro.html) impact hazard assessment system operates on a different set of objects, the unconfirm",
-      "keywords": [
-        "cneos",
-        "gov",
-        "https",
-        "impact",
-        "jpl",
-        "nasa",
-        "sentry",
-        "scout",
-        "earth",
-        "html",
-        "neo",
-        "risk",
-        "each",
-        "intro"
-      ],
-      "hash": "66f1e90520a4fef981a9748ece36d6d7cf48ee79176ae329f6d929f8dc9d0354",
-      "learned_at": "2026-10-28T00:20:20+00:00"
-    },
     {
       "url": "https://cneos.jpl.nasa.gov/scout/",
       "title": "Scout: NEOCP Hazard Assessment",
@@ -26961,6 +26904,75 @@
       ],
       "hash": "06fa28f2d99950e165666e239dae4a3d85c0543449a5e5a28d0ff1ffbb4bb401",
       "learned_at": "2026-11-18T18:15:51+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138",
+      "title": "SEBI | Orders",
+      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=138 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAc",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "138",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid"
+      ],
+      "hash": "4cd508be3e250ad3661a4bd9f5ee89fa40cc1697fdc60438b5d05790c8070254",
+      "learned_at": "2026-11-19T00:28:17+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0",
+      "title": "SEBI | Informal Guidance",
+      "summary": "Title: SEBI | Informal Guidance URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=10&smid=0 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/ho",
+      "keywords": [
+        "sebi",
+        "https",
+        "gov",
+        "www",
+        "sebiweb",
+        "font",
+        "yes",
+        "dolisting",
+        "home",
+        "homeaction",
+        "sid",
+        "smid",
+        "ssid",
+        "html"
+      ],
+      "hash": "4ba040283bee0b8c7e858ca29b8e89d397c426d808a1d045caee31e1d559e300",
+      "learned_at": "2026-11-19T00:28:24+00:00"
+    },
+    {
+      "url": "https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
+      "title": "og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG",
+      "summary": "Title: og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG URL Source: https://storage.googleapis.com/support-kms-prod/og5HHfAGvY6IERh0tFkgoGRBhHTxgavp1qzG Published Time: Sun, 10 Jul 2022 21:01:34 GMT Markdown Content: A 24x24 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "og5hhfagvy6ierh0tfkgogrbhhtxgavp1qzg",
+        "2022",
+        "24x24",
+        "avatar",
+        "com",
+        "content",
+        "gmt",
+        "googleapis",
+        "https",
+        "icon",
+        "image",
+        "jul",
+        "likely",
+        "logo"
+      ],
+      "hash": "7499ed98b56b4ab31eb82087cb1bed997df94a1ad34ade33c57a3a7f4601aa48",
+      "learned_at": "2026-11-19T00:28:25+00:00"
     }
   ],
   "failures": [
@@ -27106,6 +27118,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-19T00:28:25+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-19T00:28:25+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 3 new pages",
+      "attempted": 24,
+      "frontier": 2496
+    },
     {
       "at": "2026-11-18T18:15:51+00:00",
       "kind": "core_unchanged",
@@ -28016,40 +28043,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 2372
-    },
-    {
-      "at": "2026-11-05T22:49:30+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v60",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-05T22:49:30+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 7 new pages",
-      "attempted": 24,
-      "frontier": 2326
     }
   ],
   "metrics": {
-    "successful_fetches": 1682,
+    "successful_fetches": 1685,
     "failed_fetches": 28,
     "duplicate_pages": 2,
     "candidate_promotions": 75,
-    "candidate_rejections": 189
+    "candidate_rejections": 190
   },
   "core_genome": {
     "query_weight": 3.0,
