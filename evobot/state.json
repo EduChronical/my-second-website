@@ -1,12 +1,16 @@
 {
   "schema": 2,
-  "generation": 274,
+  "generation": 275,
   "core_version": 79,
-  "runs": 273,
-  "pages_learned": 1740,
-  "last_run": "2026-11-21T01:55:32+00:00",
+  "runs": 274,
+  "pages_learned": 1748,
+  "last_run": "2026-11-21T09:23:22+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
+    "http://pds.jpl.nasa.gov/home/about/node-descriptions.shtml",
+    "http://pds.jpl.nasa.gov/contact/contact.shtml",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fmission%2Fpioneer-p-31-able-5b%2F",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fmission%2Fpioneer-p-31-able-5b%2F",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
@@ -40,6 +44,7 @@
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "https://segment.com/legal/privacy/",
     "https://storage.googleapis.com/support-kms-prod/v46TCdgzF24nc1rd5CTUDyXL1eegZvDMa2wh",
     "https://unsplash.com/@thisisengineering",
@@ -239,7 +244,6 @@
     "https://en.wikipedia.org/wiki/Phase_angle_(astronomy",
     "https://en.wikipedia.org/wiki/Saros_(astronomy",
     "https://spase-group.org/",
-    "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://www.ftc.gov/ogc/coppa1.htm",
     "http://www.section508.gov/",
     "http://sat.gov.in/scripts/showdailyboard.asp",
@@ -283,30 +287,6 @@
     "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/161101AP_RE_90165_18018.bsp",
-    "https://ssd.jpl.nasa.gov/contact/",
-    "https://ssd.jpl.nasa.gov/orbits.html",
-    "https://ssd.jpl.nasa.gov/sats/orbits.html",
-    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
-    "https://ssd.jpl.nasa.gov/ephem.html",
-    "https://ssd.jpl.nasa.gov/planets/",
-    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
-    "https://pds.nasa.gov/home/about/9bc0cdeb-b78b-4fd4-840f-ed4a63510adf_html_22f9afb1a1378f1c.png",
-    "http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
-    "http://pds.jpl.nasa.gov/home/about/node-descriptions.shtml",
-    "http://pds.jpl.nasa.gov/contact/contact.shtml",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fmission%2Fpioneer-p-31-able-5b%2F",
-    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fmission%2Fpioneer-p-31-able-5b%2F",
-    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-57x57.png",
-    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-60x60.png",
-    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-72x72.png",
-    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-76x76.png",
-    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-114x114.png",
-    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-120x120.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal_sp.png",
-    "https://spaceplace.nasa.gov/resources/homepage/logo-sp.png",
-    "https://spaceplace.nasa.gov/resources/homepage/search-button.sp.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nav_space.png",
     "https://spaceplace.nasa.gov/resources/homepage/nav_science.png",
     "https://spaceplace.nasa.gov/resources/homepage/nav_educators.png",
     "https://spaceplace.nasa.gov/resources/homepage/featured/all-about-the-moon.jpg",
@@ -2506,7 +2486,19 @@
     "https://www.sebi.gov.in/css/date_picker2.css",
     "https://www.sebi.gov.in/index.html",
     "https://www.sebi.gov.in/enforcement/orders/oct-2026/judgment-dated-28-10-2026-passed-by-the-hon-ble-sebi-special-court-mumbai-in-sebi-special-case-246-of-2020-sebi-vs-m-s-vynex-chemical-engg-b-and-ors-_105486.html",
-    "https://www.unidata.ucar.edu/software/netcdf"
+    "https://www.unidata.ucar.edu/software/netcdf",
+    "https://spaceplace.nasa.gov/resources/homepage/search-button.sp.png",
+    "https://spaceplace.nasa.gov/resources/homepage/nav_space.png",
+    "https://ssd.jpl.nasa.gov/orbits.html",
+    "https://ssd.jpl.nasa.gov/sats/orbits.html",
+    "https://ssd.jpl.nasa.gov/tools/orbit_viewer.html",
+    "https://ssd.jpl.nasa.gov/ephem.html",
+    "https://ssd.jpl.nasa.gov/planets/",
+    "https://ssd.jpl.nasa.gov/planets/phys_par.html",
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-72x72.png",
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-76x76.png",
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-114x114.png",
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-120x120.png"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13470,193 +13462,49 @@
       "at": "2026-11-21T01:55:42+00:00",
       "status": "ok",
       "hash": "010eff11830a11673f29279658875b062915e7ca24d4ced02d5ce129a944bb9f"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal_sp.png": {
+      "at": "2026-11-21T09:23:23+00:00",
+      "status": "ok",
+      "hash": "dbcdeefd42e7520c58f065273adec6a2dd5f2db5213288b7520380e2fc567c75"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/logo-sp.png": {
+      "at": "2026-11-21T09:23:24+00:00",
+      "status": "ok",
+      "hash": "9c9931feae20caa061de20eaa93278d72038c466d26b3652293cc5b51efbacfc"
+    },
+    "https://pds.nasa.gov/home/about/9bc0cdeb-b78b-4fd4-840f-ed4a63510adf_html_22f9afb1a1378f1c.png": {
+      "at": "2026-11-21T09:23:25+00:00",
+      "status": "ok",
+      "hash": "9b594973becf90307a1236d9ed8913dae2f4fc09ec78cf1f49c1746fd160e227"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/161101AP_RE_90165_18018.bsp": {
+      "at": "2026-11-21T09:23:27+00:00",
+      "status": "ok",
+      "hash": "547e36c53e522685c1dd8dbde78f388f5eedfa64661f170dffd634eb66a24145"
+    },
+    "https://ssd.jpl.nasa.gov/contact/": {
+      "at": "2026-11-21T09:23:29+00:00",
+      "status": "ok",
+      "hash": "c7eaea477763a7669d8c6ce77358afea7c3b492f4f9e3cfc9e020fb4bc31f21f"
+    },
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-57x57.png": {
+      "at": "2026-11-21T09:23:30+00:00",
+      "status": "ok",
+      "hash": "d1455a0ab1a66bab0b4776a0a75810a3943ee994c762fb4ef2e16a85ec7dbbed"
+    },
+    "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-60x60.png": {
+      "at": "2026-11-21T09:23:31+00:00",
+      "status": "ok",
+      "hash": "4df3a0aca0f4c804ce522e32f2a6fc11ac897290bb8de2b4e78622733e5901fd"
+    },
+    "http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf": {
+      "at": "2026-11-21T09:23:33+00:00",
+      "status": "ok",
+      "hash": "dcbd8fc242d83e914b271df706f80f96ce5e5f5a6719ce1319172ca6ba04f2bc"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/sb/orbits.html",
-      "title": "Small-Body Orbits & Ephemerides",
-      "summary": "Title: Small-Body Orbits & Ephemerides URL Source: https://ssd.jpl.nasa.gov/sb/orbits.html Markdown Content: The orbits for all known small-bodies are provided via JPL’s Small-Body DataBase ([SBDB](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html)). In this context, small-bodies are defined as comets and asteroids, where “asteroids” includes Kuiper-belt objects (TNOs) and dwarf planets. In addition to orbital elements and physical parameters, the SBDB provides uncertainties in each orbital element which are useful in observation planning, hazard assessment and mission planning. The SBDB is kept up-to-date. As new small bodies are announced and as new data (astrometry) for existing small bodies are made available, we automatically compute new orbits typically within an hour or two. ## Ephemerides Use the [Horizons web-interface](https://ssd.jpl.nasa.gov/horizons/app.html) to generate ephem",
-      "keywords": [
-        "https",
-        "jpl",
-        "gov",
-        "nasa",
-        "html",
-        "ssd",
-        "sbdb",
-        "database",
-        "elements",
-        "horizons",
-        "orbital",
-        "tools",
-        "available",
-        "small-body"
-      ],
-      "hash": "34f9eb7e093c6585cc85929f9b47bffb2854261d40ffe6ffb368b78c79b41779",
-      "learned_at": "2026-10-30T00:05:42+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/doc/",
-      "title": "Technical Documents",
-      "summary": "Title: Technical Documents URL Source: https://ssd.jpl.nasa.gov/doc/ Published Time: Thu, 22 Oct 2026 19:31:29 GMT Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/doc/#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/doc/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "planets",
-        "doc",
-        "sats",
-        "ephemerides",
-        "image",
-        "images",
-        "png"
-      ],
-      "hash": "d49ccd072c675233cadeabffad8540185b6a38e3d0e09763177f7b7442046398",
-      "learned_at": "2026-10-30T00:05:43+00:00"
-    },
-    {
-      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4",
-      "title": "SEBI | Orders",
-      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=4 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
-      "keywords": [
-        "sebi",
-        "https",
-        "gov",
-        "www",
-        "sebiweb",
-        "font",
-        "yes",
-        "dolisting",
-        "home",
-        "homeaction",
-        "sid",
-        "smid",
-        "ssid",
-        "html"
-      ],
-      "hash": "29f3a826b941826c9be65627452d443c3ce8f69677ffd1d17c1ec3880e5debfc",
-      "learned_at": "2026-10-30T00:05:54+00:00"
-    },
-    {
-      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5",
-      "title": "SEBI | Orders",
-      "summary": "Title: SEBI | Orders URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=5 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home/HomeAction",
-      "keywords": [
-        "sebi",
-        "https",
-        "gov",
-        "www",
-        "sebiweb",
-        "font",
-        "yes",
-        "dolisting",
-        "home",
-        "homeaction",
-        "sid",
-        "smid",
-        "ssid",
-        "html"
-      ],
-      "hash": "5a694c2c89ad4ba4bdc7842ca4d7a71b1c82fc4494a0ffbafa0c864ce4070d9c",
-      "learned_at": "2026-10-30T00:06:03+00:00"
-    },
-    {
-      "url": "https://pds.jpl.nasa.gov/home/about/",
-      "title": "PDS: About the PDS",
-      "summary": "Title: PDS: About the PDS URL Source: https://pds.nasa.gov/home/about/ Markdown Content: The PDS is a federation of nine teams geographically distributed around the U.S. Six are science discipline nodes, focusing on Atmospheres, Geosciences, Cartography and Imaging Sciences, Planetary Plasma Interactions, Ring-Moon Systems, and Small Bodies. There are two support nodes: the Engineering Node, and the Navigation and Ancillary Information Node. The ninth team is the project management group, which includes a project scientist function. Several of the nodes have \"sub-nodes\" to help with a specific aspect of the node's discipline. Several of the nodes oversee one or more data nodes, established for a short period of time to deliver a specific data collection to the PDS. Each node is led by an expert in the subject discipline, and each has an advisory group made up of other practitioners of th",
-      "keywords": [
-        "pds",
-        "nasa",
-        "node",
-        "gov",
-        "https",
-        "nodes",
-        "home",
-        "contact",
-        "discipline",
-        "each",
-        "information",
-        "report",
-        "data",
-        "group"
-      ],
-      "hash": "a80065f5469d88bc6ba24da9d1b0de57226b579980a3a2c0ba1e0c82d5079b2c",
-      "learned_at": "2026-10-30T05:40:06+00:00"
-    },
-    {
-      "url": "https://pds.jpl.nasa.gov/home/users/",
-      "title": "PDS: Information for Data Users",
-      "summary": "Title: PDS: Information for Data Users URL Source: https://pds.nasa.gov/home/users/ Markdown Content: ## Researchers * [Search or browse](https://pds.nasa.gov/datasearch/data-search/) for data sets * [Get notified (subscribe)](https://pds.nasa.gov/datasearch/subscription-service/top.cfm) when new data become available * [Find tools](https://pds.nasa.gov/tools/about/) for viewing and working with PDS data * [Learn about](https://pds.nasa.gov/datastandards/about/) PDS data standards ## Educators, Students, and the General Public The PDS is mainly designed for scientists researching the planets. While you may find what you are looking for here, you may also find the sites below to be helpful. * [Planetary Photojournal](http://photojournal.jpl.nasa.gov/index.html) A searchable collection of press release images from NASA planetary missions. * [Map a Planet](https://astrogeology.usgs.gov/tool",
-      "keywords": [
-        "pds",
-        "gov",
-        "nasa",
-        "https",
-        "data",
-        "find",
-        "tools",
-        "datasearch",
-        "galleries",
-        "html",
-        "http",
-        "images",
-        "may",
-        "photojournal"
-      ],
-      "hash": "5be7a68c298e4872e679f392763e4f303213dce08b5db97330328e0b31249641",
-      "learned_at": "2026-10-30T05:40:07+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/resources/homepage/search-button.png",
-      "title": "search-button.png",
-      "summary": "Title: search-button.png URL Source: https://spaceplace.nasa.gov/resources/homepage/search-button.png Markdown Content: A 73x26 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "png",
-        "search-button",
-        "73x26",
-        "avatar",
-        "content",
-        "gov",
-        "homepage",
-        "https",
-        "icon",
-        "image",
-        "likely",
-        "logo",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "5491ffa8e3ab02410b6fd64a7994fe541e61d25754e39304def3902799a75548",
-      "learned_at": "2026-10-30T05:40:08+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/resources/homepage/nav_earth.png",
-      "title": "nav_earth.png",
-      "summary": "Title: nav_earth.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nav_earth.png Markdown Content: A green icon features a blue and white representation of the Earth with scattered clouds",
-      "keywords": [
-        "nav_earth",
-        "png",
-        "blue",
-        "clouds",
-        "content",
-        "earth",
-        "features",
-        "gov",
-        "green",
-        "homepage",
-        "https",
-        "icon",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "216afba7cc548a96ac6b0aadc20f96a119101251052265af60993d07ebca6025",
-      "learned_at": "2026-10-30T05:40:11+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130412AP_RE_90165_18018.bsp",
       "title": "Sorry: Page not Found",
@@ -27270,6 +27118,190 @@
       ],
       "hash": "010eff11830a11673f29279658875b062915e7ca24d4ced02d5ce129a944bb9f",
       "learned_at": "2026-11-21T01:55:42+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal_sp.png",
+      "title": "nasa-science-logo-horizontal_sp.png",
+      "summary": "Title: nasa-science-logo-horizontal_sp.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal_sp.png Markdown Content: A 128x24 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "nasa-science-logo-horizontal_sp",
+        "png",
+        "128x24",
+        "avatar",
+        "content",
+        "gov",
+        "homepage",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "dbcdeefd42e7520c58f065273adec6a2dd5f2db5213288b7520380e2fc567c75",
+      "learned_at": "2026-11-21T09:23:23+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/logo-sp.png",
+      "title": "logo-sp.png",
+      "summary": "Title: logo-sp.png URL Source: https://spaceplace.nasa.gov/resources/homepage/logo-sp.png Markdown Content: A 251x49 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "logo-sp",
+        "png",
+        "251x49",
+        "avatar",
+        "content",
+        "gov",
+        "homepage",
+        "https",
+        "icon",
+        "image",
+        "likely",
+        "logo",
+        "markdown",
+        "nasa"
+      ],
+      "hash": "9c9931feae20caa061de20eaa93278d72038c466d26b3652293cc5b51efbacfc",
+      "learned_at": "2026-11-21T09:23:24+00:00"
+    },
+    {
+      "url": "https://pds.nasa.gov/home/about/9bc0cdeb-b78b-4fd4-840f-ed4a63510adf_html_22f9afb1a1378f1c.png",
+      "title": "404 Not Found",
+      "summary": "Title: 404 Not Found URL Source: https://pds.nasa.gov/home/about/9bc0cdeb-b78b-4fd4-840f-ed4a63510adf_html_22f9afb1a1378f1c.png Warning: Target URL returned error 404: Not Found Markdown Content: # Not Found The requested URL was not found on this server.",
+      "keywords": [
+        "found",
+        "url",
+        "404",
+        "9bc0cdeb-b78b-4fd4-840f-ed4a63510adf_html_22f9afb1a1378f1c",
+        "content",
+        "error",
+        "gov",
+        "home",
+        "https",
+        "markdown",
+        "nasa",
+        "pds",
+        "png",
+        "requested"
+      ],
+      "hash": "9b594973becf90307a1236d9ed8913dae2f4fc09ec78cf1f49c1746fd160e227",
+      "learned_at": "2026-11-21T09:23:25+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/satellites/161101AP_RE_90165_18018.bsp",
+      "title": "Sorry: Page not Found",
+      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/eph/satellites/161101AP_RE_90165_18018.bsp Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/satellites/161101AP_RE_90165_18018.bsp#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/",
+      "keywords": [
+        "nasa",
+        "https",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "orbits",
+        "planets",
+        "satellites",
+        "161101ap_re_90165_18018",
+        "bsp",
+        "eph",
+        "ftp",
+        "sats"
+      ],
+      "hash": "547e36c53e522685c1dd8dbde78f388f5eedfa64661f170dffd634eb66a24145",
+      "learned_at": "2026-11-21T09:23:27+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/contact/",
+      "title": "Contact Us",
+      "summary": "Title: Contact Us URL Source: https://ssd.jpl.nasa.gov/contact/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/contact/#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"Opens in new window\")[JPL](https://www.jpl.nasa.gov/ \"Opens in new window\")[Caltech](https://www.caltech.edu/ \"Opens in new window\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/contact/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nasa.gov",
+      "keywords": [
+        "https",
+        "nasa",
+        "ssd",
+        "gov",
+        "jpl",
+        "html",
+        "orbits",
+        "contact",
+        "planets",
+        "sats",
+        "ephemerides",
+        "image",
+        "images",
+        "png"
+      ],
+      "hash": "c7eaea477763a7669d8c6ce77358afea7c3b492f4f9e3cfc9e020fb4bc31f21f",
+      "learned_at": "2026-11-21T09:23:29+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-57x57.png",
+      "title": "apple-touch-icon-57x57.png",
+      "summary": "Title: apple-touch-icon-57x57.png URL Source: https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-57x57.png Published Time: Wed, 30 Sep 2026 21:22:41 GMT Markdown Content: A 57x57 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "apple-touch-icon-57x57",
+        "png",
+        "2026",
+        "57x57",
+        "assets",
+        "avatar",
+        "content",
+        "favicons",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "likely"
+      ],
+      "hash": "d1455a0ab1a66bab0b4776a0a75810a3943ee994c762fb4ef2e16a85ec7dbbed",
+      "learned_at": "2026-11-21T09:23:30+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-60x60.png",
+      "title": "apple-touch-icon-60x60.png",
+      "summary": "Title: apple-touch-icon-60x60.png URL Source: https://science.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/apple-touch-icon-60x60.png Published Time: Wed, 30 Sep 2026 21:22:41 GMT Markdown Content: A 60x60 small image, likely a logo, icon or avatar",
+      "keywords": [
+        "apple-touch-icon-60x60",
+        "png",
+        "2026",
+        "60x60",
+        "assets",
+        "avatar",
+        "content",
+        "favicons",
+        "gmt",
+        "gov",
+        "https",
+        "icon",
+        "image",
+        "likely"
+      ],
+      "hash": "4df3a0aca0f4c804ce522e32f2a6fc11ac897290bb8de2b4e78622733e5901fd",
+      "learned_at": "2026-11-21T09:23:31+00:00"
+    },
+    {
+      "url": "http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
+      "title": "pds_level123_requirements_20170420",
+      "summary": "Title: pds_level123_requirements_20170420 URL Source: http://pds.jpl.nasa.gov/home/about/pds_level123_requirements_20170420.pdf Final URL: https://pds.nasa.gov/home/about/pds_level123_requirements_20170420.pdf Published Time: Wed, 14 Jun 2023 19:29:27 GMT Number of Pages: 7 Markdown Content: April 20, 2017 1 # PDS REQUIREMENTS 1. PDS will provide expertise to guide and assist missions, programs, and individuals to organize and document digital data supporting NASA's goals in planetary science and solar system exploration. 1.1 Single Point of Contact: PDS will provide a single point of contact to each mission, program, agency, or individual ( i.e. , data providers) wishing to submit archival data 1.1.1 PDS will assign a lead node for each data provider submitting data to PDS 1.1.2 PDS will assign a lead individual, designated by the lead node, who is authorized to negotiate for PDS 1.1.3 ",
+      "keywords": [
+        "pds",
+        "data",
+        "provide",
+        "archival",
+        "providers",
+        "standards",
+        "documents",
+        "expertise",
+        "lead",
+        "plans",
+        "products",
+        "schedules",
+        "archive",
+        "interface"
+      ],
+      "hash": "dcbd8fc242d83e914b271df706f80f96ce5e5f5a6719ce1319172ca6ba04f2bc",
+      "learned_at": "2026-11-21T09:23:33+00:00"
     }
   ],
   "failures": [
@@ -27435,6 +27467,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-21T09:23:34+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-21T09:23:34+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 20,
+      "frontier": 2492
+    },
     {
       "at": "2026-11-21T01:55:43+00:00",
       "kind": "core_promoted",
@@ -28356,29 +28403,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 21,
       "frontier": 2500
-    },
-    {
-      "at": "2026-11-07T19:29:58+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-07T19:29:58+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 23,
-      "frontier": 2481
     }
   ],
   "metrics": {
-    "successful_fetches": 1740,
+    "successful_fetches": 1748,
     "failed_fetches": 32,
     "duplicate_pages": 2,
     "candidate_promotions": 78,
-    "candidate_rejections": 194
+    "candidate_rejections": 195
   },
   "core_genome": {
     "query_weight": 3.0,
