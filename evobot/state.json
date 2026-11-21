@@ -1,20 +1,12 @@
 {
   "schema": 2,
-  "generation": 273,
-  "core_version": 78,
-  "runs": 272,
-  "pages_learned": 1733,
-  "last_run": "2026-11-20T20:51:58+00:00",
+  "generation": 274,
+  "core_version": 79,
+  "runs": 273,
+  "pages_learned": 1740,
+  "last_run": "2026-11-21T01:55:32+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://pds.nasa.gov/home/about/PDS_Charter_2015.docx",
-    "https://pds.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
-    "https://pds.nasa.gov/home/about/node-descriptions.shtml",
-    "https://pds.nasa.gov/contact/contact.shtml",
-    "https://pds.nasa.gov/images/PDS_OrgChart.jpg",
-    "https://pds.nasa.gov/tools/about/",
-    "https://www.unidata.ucar.edu/software/netcdf/",
-    "https://segment.com/legal/privacy/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26309-Curiosity_Views_Sul.2e16d0ba.fill-400x400-c50.png",
@@ -43,9 +35,12 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_phoning-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_quakes-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/The-Pathfinders_show-1000x.width-1024.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
+    "https://pds-rings.seti.org/",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
+    "https://segment.com/legal/privacy/",
     "https://storage.googleapis.com/support-kms-prod/v46TCdgzF24nc1rd5CTUDyXL1eegZvDMa2wh",
     "https://unsplash.com/@thisisengineering",
     "https://support.google.com/My-Ad-Center-Help/answer/12155656",
@@ -154,7 +149,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/pasta_building.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/msl_parachute_test_PIA10208.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/phoenix_concept.2e16d0ba.fill-400x400-c50.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "https://d2pn8kiwq2w21t.cloudfront.net/media/2_DMs_higher_in_frame_slower.webm",
     "https://esahubble.org/images/heic1215a/",
@@ -205,7 +199,6 @@
     "https://info.orcid.org/privacy-policy/",
     "https://doi.org/10.1016/j.actaastro.2016.04.026",
     "https://universe-of-learning.org/home",
-    "https://pds-rings.seti.org/",
     "https://arc.aiaa.org/doi/abs/10.2514/6.2018-0200",
     "https://en.wikipedia.org/wiki/Main_Page",
     "https://geographiclib.sourceforge.io/cgi-bin/GeoidEval",
@@ -253,6 +246,8 @@
     "http://www.agu.org/reference/gephys.html",
     "http://polac.obspm.fr/llrdatae.html",
     "http://aa.usno.navy.mil/data/index.php",
+    "http://pds-rings.seti.org/galleries.html",
+    "http://pds-geosciences.wustl.edu/",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
     "http://cypherpunks.faithweb.com/nomime.html",
@@ -278,7 +273,6 @@
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://www.iau.org/static/resolutions/IAU2012_English.pdf",
     "http://www.nineplanets.org/luna.html",
-    "http://pds-rings.seti.org/galleries.html",
     "http://cfa-www.harvard.edu/iauc/07100/07129.html",
     "http://www.caltech.edu/",
     "http://www.housing.caltech.edu/",
@@ -289,24 +283,6 @@
     "http://www.minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://pds.nasa.gov/home/users/",
-    "https://pds.jpl.nasa.gov/home/proposers/",
-    "https://pds.jpl.nasa.gov/home/providers/",
-    "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png",
-    "https://spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png",
-    "http://pds.jpl.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf",
-    "http://pds.jpl.nasa.gov/images/PDS_OrgChart.jpg",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
-    "https://pds.nasa.gov/images/nasa_logo(280x280",
-    "https://pds.nasa.gov/",
-    "https://pds.nasa.gov/datasearch/keyword-search/",
-    "https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml",
-    "https://pds.nasa.gov/site-help.shtml",
-    "http://pds-geosciences.wustl.edu/",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130528BP_IRRE_00256_25017.bsp",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140127AP_RE_90165_18018.bsp",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140809BP_IRRE_00256_25017.bsp",
-    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/161011AP_RE_90165_18018.bsp",
     "https://ssd.jpl.nasa.gov/ftp/eph/satellites/161101AP_RE_90165_18018.bsp",
     "https://ssd.jpl.nasa.gov/contact/",
     "https://ssd.jpl.nasa.gov/orbits.html",
@@ -2505,7 +2481,32 @@
     "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=85&smid=0",
     "https://www.sebi.gov.in/enforcement.html",
     "https://www.sebi.gov.in/enforcement/orders.html",
-    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1"
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=1",
+    "https://pds.jpl.nasa.gov/css/main.css?v=20260610",
+    "https://pds.jpl.nasa.gov/feedback/css/feedback.css",
+    "https://pds.jpl.nasa.gov/pds-app-bar/pds-app-bar.css",
+    "https://pds.jpl.nasa.gov/home/providers/",
+    "https://pds.nasa.gov/css/main.css?v=20260610",
+    "https://pds.nasa.gov/feedback/css/feedback.css",
+    "https://pds.nasa.gov/pds-app-bar/pds-app-bar.css",
+    "https://pds.nasa.gov/datasearch/data-search",
+    "https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml",
+    "https://pds.nasa.gov/home/about/PDS_Charter_2015.docx",
+    "https://pds.nasa.gov/home/about/pds_level123_requirements_20170420.pdf",
+    "https://pds.nasa.gov/home/about/node-descriptions.shtml",
+    "https://pds.nasa.gov/contact/contact.shtml",
+    "https://pds.nasa.gov/images/PDS_OrgChart.jpg",
+    "https://pds.nasa.gov/tools/about/",
+    "https://pds.nasa.gov/home/users/",
+    "https://pds.nasa.gov/",
+    "https://pds.nasa.gov/site-help.shtml",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140809BP_IRRE_00256_25017.bsp",
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/161011AP_RE_90165_18018.bsp",
+    "http://pds.jpl.nasa.gov/images/PDS_OrgChart.jpg",
+    "https://www.sebi.gov.in/css/date_picker2.css",
+    "https://www.sebi.gov.in/index.html",
+    "https://www.sebi.gov.in/enforcement/orders/oct-2026/judgment-dated-28-10-2026-passed-by-the-hon-ble-sebi-special-court-mumbai-in-sebi-special-case-246-of-2020-sebi-vs-m-s-vynex-chemical-engg-b-and-ors-_105486.html",
+    "https://www.unidata.ucar.edu/software/netcdf"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13419,170 +13420,59 @@
       "at": "2026-11-20T20:52:38+00:00",
       "status": "ok",
       "hash": "20ea0fd450765200e2405ee352fa5b9e036d227da8f7796710a1ff7bbb0e7b86"
+    },
+    "http://pds.jpl.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf": {
+      "at": "2026-11-21T01:55:32+00:00",
+      "status": "ok",
+      "hash": "812598a3c75fe76b757e1ccee92f5c00057ee23ca8e547a041eaa55f7a573069"
+    },
+    "https://pds.jpl.nasa.gov/home/proposers/": {
+      "at": "2026-11-21T01:55:33+00:00",
+      "status": "ok",
+      "hash": "98cf8c02505d9f69e721435aec4eb74f4855d0bc71cef6a7c8a8ed0b24688af7"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png": {
+      "at": "2026-11-21T01:55:33+00:00",
+      "status": "ok",
+      "hash": "3d85bd0dd0ff4a987db763e8fdadde98c0cf5578620da1d73e807af95334d974"
+    },
+    "https://spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png": {
+      "at": "2026-11-21T01:55:35+00:00",
+      "status": "ok",
+      "hash": "d8fd10ccade34b96eb075b7111c60778530a97fcc61ace64e731603d0d806272"
+    },
+    "https://pds.nasa.gov/images/nasa_logo(280x280": {
+      "at": "2026-11-21T01:55:36+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://pds.nasa.gov/datasearch/keyword-search/": {
+      "at": "2026-11-21T01:55:36+00:00",
+      "status": "ok",
+      "hash": "6399720341a636f8ceee36f99c053f5f0d00ab719bf5534127e5526e0cf67572"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130528BP_IRRE_00256_25017.bsp": {
+      "at": "2026-11-21T01:55:36+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140127AP_RE_90165_18018.bsp": {
+      "at": "2026-11-21T01:55:37+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77": {
+      "at": "2026-11-21T01:55:40+00:00",
+      "status": "ok",
+      "hash": "3c5a5107cc0cd63d31fa3ffb7680ffe41628c186965cda959e3ab4a96fadeacd"
+    },
+    "https://www.unidata.ucar.edu/software/netcdf/": {
+      "at": "2026-11-21T01:55:42+00:00",
+      "status": "ok",
+      "hash": "010eff11830a11673f29279658875b062915e7ca24d4ced02d5ce129a944bb9f"
     }
   },
   "memory": [
-    {
-      "url": "https://ssd.jpl.nasa.gov/glossary/astrometry.html",
-      "title": "Astrometry",
-      "summary": "Title: Astrometry URL Source: https://ssd.jpl.nasa.gov/glossary/astrometry.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/glossary/astrometry.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/glossary/astrometry.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.jpl.nas",
-      "keywords": [
-        "https",
-        "nasa",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "astrometry",
-        "planets",
-        "glossary",
-        "sats",
-        "ephemerides",
-        "image",
-        "images"
-      ],
-      "hash": "6be61565970900e17620f1e9c02fd1a405acb2c0657da1b96d267a8ef1fb29fd",
-      "learned_at": "2026-10-29T20:23:49+00:00"
-    },
-    {
-      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=13",
-      "title": "SEBI | Rights Issues",
-      "summary": "Title: SEBI | Rights Issues URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=13 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=13 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home",
-      "keywords": [
-        "sebi",
-        "https",
-        "gov",
-        "www",
-        "sebiweb",
-        "font",
-        "yes",
-        "dolisting",
-        "home",
-        "homeaction",
-        "sid",
-        "smid",
-        "ssid",
-        "html"
-      ],
-      "hash": "68ea3d8ca0f2f92e181729543c837c5b9896bf0ff78e19a7edb480b0f496c376",
-      "learned_at": "2026-10-29T20:23:58+00:00"
-    },
-    {
-      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=14",
-      "title": "SEBI | Rights Issues",
-      "summary": "Title: SEBI | Rights Issues URL Source: https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=14 Markdown Content: [![Image 1: Azadi ka Amrit Mahotsav](https://www.sebi.gov.in/images/azadi-logo.png)](https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=16&smid=14 \"Azadi ka Amrit Mahotsav\") [![Image 2: Securities and Exchange Board of India](https://www.sebi.gov.in/images/sebi-logo.png)](https://www.sebi.gov.in/index.html \"Securities and Exchange Board of India\") SEBI Check [Scan QR](https://www.sebi.gov.in/sebiweb/qr-verification.html)[Type](https://www.sebi.gov.in/sebiweb/upi-verification.html)[Account](https://www.sebi.gov.in/sebiweb/account-verification.html) * [![Image 3: Hindi Language](https://www.sebi.gov.in/images/hindi.png)](https://www.sebi.gov.in/hindi/index.html \"Hindi Website\") * [(A)+](https://www.sebi.gov.in/sebiweb/home",
-      "keywords": [
-        "sebi",
-        "https",
-        "gov",
-        "www",
-        "sebiweb",
-        "font",
-        "yes",
-        "dolisting",
-        "home",
-        "homeaction",
-        "sid",
-        "smid",
-        "ssid",
-        "html"
-      ],
-      "hash": "5b5f6f72dc17b4cfabb2775ca3c7361d2d79aae6732963a5c908303391bb134c",
-      "learned_at": "2026-10-29T20:24:07+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1",
-      "title": "sr-1-freedom-lmo-2.jpg",
-      "summary": "Title: sr-1-freedom-lmo-2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=150&h=150&crop=1 Published Time: Fri, 30 Oct 2026 00:05:31 GMT Markdown Content: A satellite with solar panels orbiting near a planet with brown terrain",
-      "keywords": [
-        "150",
-        "2026",
-        "jpg",
-        "sr-1-freedom-lmo-2",
-        "brown",
-        "content",
-        "crop",
-        "fri",
-        "gmt",
-        "gov",
-        "https",
-        "markdown",
-        "nasa",
-        "near"
-      ],
-      "hash": "e091d874a8ffe0aca17ef0d55dac9b7442154872edf1490431152481fc30109c",
-      "learned_at": "2026-10-30T00:05:32+00:00"
-    },
-    {
-      "url": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024",
-      "title": "sr-1-freedom-lmo-2.jpg",
-      "summary": "Title: sr-1-freedom-lmo-2.jpg URL Source: https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1024 Published Time: Fri, 30 Oct 2026 00:05:33 GMT Markdown Content: Satellite above Mars with golden tiles",
-      "keywords": [
-        "2026",
-        "jpg",
-        "sr-1-freedom-lmo-2",
-        "1024",
-        "above",
-        "content",
-        "fri",
-        "gmt",
-        "golden",
-        "gov",
-        "https",
-        "markdown",
-        "mars",
-        "nasa"
-      ],
-      "hash": "5d851d4984dc728c9876f2d43dae46115c733e81cbc6f4f30218bcf887f59e7d",
-      "learned_at": "2026-10-30T00:05:34+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/resources/homepage/nasa.png",
-      "title": "nasa.png",
-      "summary": "Title: nasa.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nasa.png Markdown Content: informal generalized version of the NASA logo for a team website",
-      "keywords": [
-        "nasa",
-        "png",
-        "content",
-        "generalized",
-        "gov",
-        "homepage",
-        "https",
-        "informal",
-        "logo",
-        "markdown",
-        "resources",
-        "source",
-        "spaceplace",
-        "team"
-      ],
-      "hash": "cc9a8f29c78fd104b2da4f4cd7d8a1853af71ed028ebd45bc28ac6c6f07948cd",
-      "learned_at": "2026-10-30T00:05:36+00:00"
-    },
-    {
-      "url": "https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png",
-      "title": "nasa-science-logo-horizontal.png",
-      "summary": "Title: nasa-science-logo-horizontal.png URL Source: https://spaceplace.nasa.gov/resources/homepage/nasa-science-logo-horizontal.png Markdown Content: A 128x24 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "nasa-science-logo-horizontal",
-        "png",
-        "128x24",
-        "avatar",
-        "content",
-        "gov",
-        "homepage",
-        "https",
-        "icon",
-        "image",
-        "likely",
-        "logo",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "055066097bbf5e5f2f3e817c62a3bf32da34102f73a9304504329fb21015141c",
-      "learned_at": "2026-10-30T00:05:37+00:00"
-    },
     {
       "url": "https://ssd.jpl.nasa.gov/sb/orbits.html",
       "title": "Small-Body Orbits & Ephemerides",
@@ -27219,6 +27109,167 @@
       ],
       "hash": "20ea0fd450765200e2405ee352fa5b9e036d227da8f7796710a1ff7bbb0e7b86",
       "learned_at": "2026-11-20T20:52:38+00:00"
+    },
+    {
+      "url": "http://pds.jpl.nasa.gov/home/about/PlanetaryDataSystemRMS17-26_20jun17.pdf",
+      "title": "\u0018�$˃��\u001a�6�\"�ӷ����̷Z6�q\u0015�ݴ�b�nna[��\u0016��h��H��;�c�W\u0013�R\rw�n�a�k,��\\��M\u0007���,m�K4�yL�����GD���\u0018\u0002i��w�8�ÿ����\u0010;�#�c��f\u0012\r\u000f���כE���;�[A,s�58qg<��\u000f\f�8�X�r�&�\u0000�`ߺ�ͭG\u000f��\u001e\u001f�?3�ߠ\u0010\u0007��c�\f������O�ڿ,�m��a���X��%�J�T�b�(`\tS�'�k5b�C��C�7�",
+      "summary": "%PDF-1.4 %���� 522 0 obj <</Linearized 1/L 9444063/O 524/E 620561/N 110/T 9433507/H [ 916 2432]>> endobj xref 522 31 0000000016 00000 n 0000003348 00000 n 0000003456 00000 n 0000003590 00000 n 0000003791 00000 n 0000004143 00000 n 0000004221 00000 n 0000004269 00000 n 0000004306 00000 n 0000004444 00000 n 0000005001 00000 n 0000005379 00000 n 0000005778 00000 n 0000005911 00000 n 0000006054 00000 n 0000006155 00000 n 0000035319 00000 n 0000035589 00000 n 0000036099 00000 n 0000036204 00000 n 0000076879 00000 n 0000077143 00000 n 0000077757 00000 n 0000080449 00000 n 0000080554 00000 n 0000129198 00000 n 0000129482 00000 n 0000130077 00000 n 0000130929 00000 n 0000141444 00000 n 0000000916 00000 n trailer <</Size 553/Root 523 0 R/Info 521 0 R/ID[<D7DC98AA1010D6BC37BEA665CACD7870><26E019C2440E451991969A40E97F401F>]/Prev 9433495>> startxref 0 %%EOF 552 0 obj <</Filter/FlateDecode/I 4025/L 4",
+      "keywords": [
+        "00000",
+        "522",
+        "obj",
+        "-_ui",
+        "-nf",
+        "-ԗng",
+        "0000000016",
+        "0000000916",
+        "0000003348",
+        "0000003456",
+        "0000003590",
+        "0000003791",
+        "0000004143",
+        "0000004221"
+      ],
+      "hash": "812598a3c75fe76b757e1ccee92f5c00057ee23ca8e547a041eaa55f7a573069",
+      "learned_at": "2026-11-21T01:55:32+00:00"
+    },
+    {
+      "url": "https://pds.jpl.nasa.gov/home/proposers/",
+      "title": "pds.jpl.nasa.gov/home/proposers/",
+      "summary": "PDS: Information for Data Proposers Main menu Home Data Search Tools Data Standards Menu: Home Home About PDS Data Users Data Proposers Data Providers NASA Portal Site Help Contact Us Feedback Table of Contents Overview Frequently Asked Questions (FAQs) Requesting a Letter of Support Develop a Data Management Plan (DMP) Other Data Repositories Information for Data Proposers Overview In response to a 2013 federal mandate the NASA Plan for Increasing Access to the Results of Scientific Research was developed to guide the management of and access to research data and peer-reviewed publications. Accordingly, the NASA Guidebook for Proposers describes the requirement that all proposals submitted under a NASA funding opportunity are required to submit a Data Management Plan. This website contains information and links that NASA’s Planetary Data System (PDS) believes will be helpful in preparin",
+      "keywords": [
+        "data",
+        "pds",
+        "nasa",
+        "archive",
+        "plan",
+        "support",
+        "management",
+        "letter",
+        "proposal",
+        "proposers",
+        "home",
+        "information",
+        "overview",
+        "providers"
+      ],
+      "hash": "98cf8c02505d9f69e721435aec4eb74f4855d0bc71cef6a7c8a8ed0b24688af7",
+      "learned_at": "2026-11-21T01:55:33+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/nav_sun.png",
+      "title": "spaceplace.nasa.gov/resources/homepage/nav_sun.png",
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0003\u0000\u0000\u0000uM3a\u0000\u0000\u0002�PLTE\u0000\u0000\u0000��!��������������-��������%�� ��\u0013�� ��o����� �� �� ������� �� �� �� ��x����� ��F�����������������������w�����/�� �!��\u0015��\u0011� 6��\u000e�,� 7��\u0019�(��1��'�� ��5��-��8�� ��#��+�$��?��;���� 1�!4� 2�!.��#,�!3� 0��>��C�<0�0�ے�K:�)+�!�R1�!.�1,��G� /�8/�(,��:��B�7�\",�I9�C5�\"-�*)�-+�&*��O�')��E�&,�!6�)+�$+�F6�5-�%.��Y�(-۟p�4��R�P>�A3�$.�?2�%*��\u0010�Ôڛl�+-�.,�&,��V��\u0014��\u0010��L��M<ؓc��I�)*�� ٗg��L�&)��-��#� ��I�R@�����_�R.�� �ݠ��x��t��U�S+��7�5-��\u0019��m��f��O� 1�\"/�!/��,�� �����r��l��e��6� ��\u0019�ض��[��9�.3��\u000e�Ò���ޥy�X+��\u0015�̟��R�1,��*� ��\u0016�Ч�����^��@�Ӯ��j�F/��\u0011�ǘ��~ݢu��M�-�Y+��&�����o��A��,�U+��)��(�\"�u!�� ����������{��J�N=��*�����׌Z�UB��?�Y=��5��+�@*� �� ����ҧ�������H�nG�����������?��=���j;�Ջ��iܢ[��Y�V�Е��i�xH�P-�=(�È�����r��[���L\u0000\u0000\u0000&tRNS\u0000@����\u0011\u0001\u0005!�0�^��hP���Ϸ�v�@4����аѿ�� � �\u0000\u0000 ^IDATx���I�Rq ��)(��YZ�}#z�I\u001b��\u000fmC \u000eT\u00148 C:\u0005 \u0002oς��'���fE���\u000eh�R9ڥ\u0005�i�C �h�f&���Kt���\u0017G�Zӥ�m�����",
+      "keywords": [
+        "0halsc",
+        "0ya",
+        "0z_",
+        "aϡdge",
+        "b0-",
+        "ccc-",
+        "cyց",
+        "cδj",
+        "d0q",
+        "gnk5",
+        "idatx",
+        "ihdr",
+        "ikr",
+        "iln"
+      ],
+      "hash": "3d85bd0dd0ff4a987db763e8fdadde98c0cf5578620da1d73e807af95334d974",
+      "learned_at": "2026-11-21T01:55:33+00:00"
+    },
+    {
+      "url": "https://spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png",
+      "title": "spaceplace.nasa.gov/resources/homepage/nav_solarsystem.png",
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0003\u0000\u0000\u0000uM3a\u0000\u0000\u0002�PLTE\u0000\u0000\u0000ף�ŗ�̣�ɝ����ʠ�����̄ͥ�ƙ�����t��̄ץ�Ƙ�ͥ����ץ�˛��������̄�|��̄Ԣ��̄П��̄Ɲ��̄����̄�̄�̄�̄����̄�{�ʚ�ϡ��̄�̄���⫤캒ԧ�����̈́�Xz�·SB��a~SA��c��Ћ�h��Z{�\\|�ЎI7{Q?��^}�я�e��Ή�t��ΊF3y�m�J7|�k�D2xK8{G4y�p��q�K8}�Ғ�_����H5y�ӓ�v�N<�I6zcO��k��x��y��h�P>�WE�TA��k�YG�O<}ZH�����|�R?�i�UC�Q>~L:~M;~�ԖM9|�{��v�\\J�ZF��Ń﯃N;|�`{ц��m�`N�ؙ�_M�Ҋ�Ѓ�Ԑ��r��~��z�\\G��x��ȉݩ�ٟ�Փ��s��f�^L���ȃ��o��}��c�血�{఺ۤ�Ӎ�م~�o|��᳽΀��e�YD�\\J���v~�g|���؜�ԡ��}��z�Ȅ�ƀ��襄ᗃ݌ެ�Γ�̎�ɇ�쩂������Õ��ڋ������ϝ�֕�͑�ˋ�nT�駇ޒ��w��o�������ԣ�֖�Ɉ��z�`L��~�bO��������i����}a�WD�ք�ܨ�ș��s���ŏ㨏䣎vY�XC�ݱ�ƞ�坃Ҩ��o�k~����ˏ�g�ᛋ�c��Ä����[�������ʛ�ԗ��̔�y�챑ُ�gP�׎��~����u[}aJ}������Ã繃����x�t�����m��k�����f��|�\u0000\u0000\u00000tRNS\u0000����\u0006�\u0002A\u00100���\u0001��pR@!��ϼ�eP5 \u0010��a`2���pa�π\u0016��V�\u0000\u0000 �IDATx���mh\u0012q �q׫ k��\u0003D�\u0004=��.�\u0013:D0�S ��\u0016�E2(\u0018L�!;Y �p���[�:�'�����Mcԋ�E \"� ^\u0014�zSD��z��������\u0011��ň��}����6E�F�\u001a5jԨQ��4�\u0005M5�y˪yP\u0016-{t����Z��-�n�LʪuɮS-5���㥋�X�?��R����Jɖe�>",
+      "keywords": [
+        "0trns",
+        "1bв",
+        "1vn2",
+        "3au",
+        "4oq",
+        "5jԩq",
+        "aɯt",
+        "bbn",
+        "by1ڹ",
+        "bʬj",
+        "c3c",
+        "d2xk8",
+        "da0",
+        "eij91"
+      ],
+      "hash": "d8fd10ccade34b96eb075b7111c60778530a97fcc61ace64e731603d0d806272",
+      "learned_at": "2026-11-21T01:55:35+00:00"
+    },
+    {
+      "url": "https://pds.nasa.gov/datasearch/keyword-search/",
+      "title": "pds.nasa.gov/datasearch/keyword-search/",
+      "summary": "PDS: Keyword Search Main menu Home Data Search Tools Data Standards Menu: Data Search Data Search Keyword Search Data Releases NASA Portal Site Help Contact Us Feedback PDS Nodes Atmospheres (ATM) Cartography and Imaging Sciences (IMG) Geosciences (GEO) Navigational & Ancillary Information Facility (NAIF) Planetary Plasma Interactions (PPI) Ring-Moon Systems (RMS) Small Bodies (SBN) Keyword Search New Beta Site is Live! See our new search interface here: https://pds.mcp.nasa.gov/portal/search This interface allows the user to search the holdings of the PDS archive. Results from a search include links to data sets available from the PDS archive. In addition to PDS data, the results also include links to data sets curated by other international space agencies. You may also visit the Data Search application if you are looking for search tools or other resources. Other PDS-supported search s",
+      "keywords": [
+        "search",
+        "data",
+        "instrument",
+        "pds",
+        "products",
+        "keyword",
+        "specified",
+        "identifier",
+        "name",
+        "type",
+        "examples",
+        "investigation",
+        "like",
+        "nasa"
+      ],
+      "hash": "6399720341a636f8ceee36f99c053f5f0d00ab719bf5534127e5526e0cf67572",
+      "learned_at": "2026-11-21T01:55:36+00:00"
+    },
+    {
+      "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=2&ssid=9&smid=77",
+      "title": "www.sebi.gov.in/sebiweb/home/HomeAction.do",
+      "summary": "SEBI | Orders Home &raquo; Enforcement &raquo; Orders &raquo; Orders Of Special Courts Enforcement Enforcement ▼ Enforcement Search &#9660; Search by Title, Keywords, Entity Name Date : To Department -- All Department -- Corporation Finance Department Corporation Finance Investigation Department Department Economic and Policy Analysis Department of Debt and Hybrid Securities Enforcement Department - 1 Enquiries and Adjudication Department Integrated Surveillance Department Investigations Department Investment Management Department Legal Affairs Department 1 (Vertical 2) Market Intermediaries Regulation and Supervision Department Market Regulation Department Office of the Chairperson Office of WTM Prosecution and Settlement Department Quasi-Judicial Cell Regional Offices Sub Section -- All Sub Section -- Orders Informal Guidance Clarifications on Insider Trading Orders That Could Not be S",
+      "keywords": [
+        "sebi",
+        "orders",
+        "department",
+        "special",
+        "2026",
+        "passed",
+        "court",
+        "ble",
+        "case",
+        "hon",
+        "mumbai",
+        "dated",
+        "judgment",
+        "ors"
+      ],
+      "hash": "3c5a5107cc0cd63d31fa3ffb7680ffe41628c186965cda959e3ab4a96fadeacd",
+      "learned_at": "2026-11-21T01:55:40+00:00"
+    },
+    {
+      "url": "https://www.unidata.ucar.edu/software/netcdf/",
+      "title": "www.unidata.ucar.edu/software/netcdf/",
+      "summary": "NetCDF | NSF Unidata NetCDF | NSF Unidata Skip to main content Main navigation NSF Unidata Contact Us Search About Overview of NSF Unidata Who We Are What We Do Staff Listing Acknowledge NSF Unidata Unidata Bibliography Glossary Of Terms Contact Us Data Gridded Data Radar Data Satellite Data Lightning Data Textual Weather Bulletins Archived Data Access NSF Unidata&#039;s TDS Internet Data Distribution (IDD) AWIPS EDEX Access Software Tools AWIPS IDV MetPy NetCDF Software THREDDS Data Server (TDS) Local Data Manager (LDM) Siphon UDUNITS Community Supported Software Support Community Community Engagement Summer Internships Equipment Awards DeSouza Award Community Advisory Committee Community Jobs News Science Gateway About the Science Gateway Education Hub Learning Resource Catalog Data Proximate Computing Latest Science Gateway News Request a JupyterHub Search Contact Us Breadcrumb Home S",
+      "keywords": [
+        "netcdf",
+        "data",
+        "software",
+        "nsf",
+        "unidata",
+        "community",
+        "access",
+        "information",
+        "file",
+        "github",
+        "loading",
+        "release",
+        "contact",
+        "gateway"
+      ],
+      "hash": "010eff11830a11673f29279658875b062915e7ca24d4ced02d5ce129a944bb9f",
+      "learned_at": "2026-11-21T01:55:42+00:00"
     }
   ],
   "failures": [
@@ -27366,9 +27417,50 @@
       "at": "2026-11-19T16:55:25+00:00",
       "url": "https://umbra.nascom.nasa.gov/",
       "error": "TimeoutError: The read operation timed out"
+    },
+    {
+      "at": "2026-11-21T01:55:36+00:00",
+      "url": "https://pds.nasa.gov/images/nasa_logo(280x280",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "at": "2026-11-21T01:55:36+00:00",
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/satellites/130528BP_IRRE_00256_25017.bsp",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "at": "2026-11-21T01:55:37+00:00",
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/satellites/140127AP_RE_90165_18018.bsp",
+      "error": "HTTPError: HTTP Error 404: Not Found"
     }
   ],
   "events": [
+    {
+      "at": "2026-11-21T01:55:43+00:00",
+      "kind": "core_promoted",
+      "message": "Promoted evolved core v79",
+      "baseline": 0.944444,
+      "candidate": 0.944444,
+      "hosts": 24,
+      "genome": {
+        "query_weight": 3.0,
+        "trusted_bonus": 8.0,
+        "https_bonus": 0.2,
+        "title_bonus": 2.0,
+        "keyword_bonus": 2.0,
+        "summary_bonus": 1.0,
+        "keyword_min": 3,
+        "answer_top": 4,
+        "summary_chars": 360
+      }
+    },
+    {
+      "at": "2026-11-21T01:55:43+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2500
+    },
     {
       "at": "2026-11-20T20:52:38+00:00",
       "kind": "core_unchanged",
@@ -28279,28 +28371,13 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 23,
       "frontier": 2481
-    },
-    {
-      "at": "2026-11-07T15:18:14+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-07T15:18:14+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 16,
-      "frontier": 2497
     }
   ],
   "metrics": {
-    "successful_fetches": 1733,
-    "failed_fetches": 29,
+    "successful_fetches": 1740,
+    "failed_fetches": 32,
     "duplicate_pages": 2,
-    "candidate_promotions": 77,
+    "candidate_promotions": 78,
     "candidate_rejections": 194
   },
   "core_genome": {
@@ -28329,15 +28406,15 @@
     "nature.com",
     "science.org",
     "www.nasa.gov",
-    "www.nature.com",
     "www.springernature.com",
-    "www.jpl.nasa.gov",
+    "www.nature.com",
     "ssd.jpl.nasa.gov",
     "science.nasa.gov",
     "svs.gsfc.nasa.gov",
+    "www.sebi.gov.in",
+    "www.jpl.nasa.gov",
     "cneos.jpl.nasa.gov",
     "media.springernature.com",
-    "www.sebi.gov.in",
     "group.springernature.com"
   ]
 }
