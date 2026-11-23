@@ -1,23 +1,16 @@
 {
   "schema": 2,
-  "generation": 281,
+  "generation": 282,
   "core_version": 81,
-  "runs": 280,
-  "pages_learned": 1794,
-  "last_run": "2026-11-22T22:42:54+00:00",
+  "runs": 281,
+  "pages_learned": 1802,
+  "last_run": "2026-11-23T03:11:43+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://touchpoints.app.cloud.gov/img/icon-https.svg",
-    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/LADEE/lunar.html",
-    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/JUNO/juno.html",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
-    "https://ec.europa.eu/info/law/law-topic/data-protection_en",
     "https://pds-rings.seti.org/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
-    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
-    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_driveonmars-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_gettomars-640x350.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/marsgame_MEI.2e16d0ba.fill-400x400-c50.jpg",
@@ -89,11 +82,15 @@
     "https://atmos.nmsu.edu/data_and_services/atmospheres_data/newsletter/newsletter.html",
     "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MESSENGER/messenger.html",
     "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MERCURY/mercury.html",
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/VENUS/venus_matrix.html",
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/JUPITER/icy_satellites.html",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://planetarydata.org/",
-    "http://pds-geosciences.wustl.edu/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
+    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
+    "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://curl.haxx.se/download.html",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/The-Pathfinders_show-1000x.width-1024.jpg",
@@ -247,6 +244,7 @@
     "https://eeps.wustl.edu/",
     "https://**/",
     "https://darts.isas.jaxa.jp/missions/akatsuki/index_en.html",
+    "http://pds-geosciences.wustl.edu/",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://www.ftc.gov/ogc/coppa1.htm",
@@ -294,19 +292,6 @@
     "http://an.rsl.wustl.edu/",
     "http://wufs.wustl.edu/eprsl/",
     "http://www.wustl.edu/",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/VENUS/venus_matrix.html",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/JUPITER/icy_satellites.html",
-    "https://ssd.jpl.nasa.gov/css/styles.css",
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/",
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/",
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/",
-    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bpc/",
-    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/b0/72/b072c8d1-e09c-4759-b385-a49bd73308d4/issue2_pages.jpg__1240x510_q85_crop_subsampling-2.jpg",
-    "https://astrobiology.nasa.gov/education/primer/",
-    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/a8/8b/a88b0d84-9209-4532-b92e-67deb75eb2b8/graphic_history_circle_img.jpg__170x170_q85_crop_subsampling-2.jpg",
-    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/f2/01/f201ff84-f18e-43ac-9891-7c8ada932515/img-7.jpg__170x170_q85_crop_subsampling-2.jpg",
-    "https://astrobiology.nasa.gov/education/primer/",
-    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/28/92/2892f383-3d43-4c0d-b178-0d12e4f6996c/img-8.jpg__170x170_q85_crop_subsampling-2.jpg",
     "https://science.nasa.gov/learners/wavelength",
     "https://astrobiology.nasa.gov/ask-an-astrobiologist/",
     "https://astrobiology.nasa.gov/careers-employment/",
@@ -2503,7 +2488,25 @@
     "https://github.com/fluidicon.png",
     "https://github.com/manifest.json",
     "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fautoplot%2Fdocumentation%2Fwiki%2Fhelp",
-    "https://pds-atmospheres.nmsu.edu/atmospage_files/planets.jpg"
+    "https://pds-atmospheres.nmsu.edu/atmospage_files/planets.jpg",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/de102/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/de102/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/ascii/",
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/bpc/",
+    "https://ssd.jpl.nasa.gov/css/styles.css",
+    "https://science.nasa.gov/astrobiology/researchers/publications/",
+    "https://science.nasa.gov/astrobiology/researchers/publications/",
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/a8/8b/a88b0d84-9209-4532-b92e-67deb75eb2b8/graphic_history_circle_img.jpg__170x170_q85_crop_subsampling-2.jpg",
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/f2/01/f201ff84-f18e-43ac-9891-7c8ada932515/img-7.jpg__170x170_q85_crop_subsampling-2.jpg",
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/28/92/2892f383-3d43-4c0d-b178-0d12e4f6996c/img-8.jpg__170x170_q85_crop_subsampling-2.jpg",
+    "https://pds-atmospheres.nmsu.edu/atmospage_files/nasa-logo.gif",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/LADEE/ladee_images/PDS_Planets_comet.jpg",
+    "https://pds-atmospheres.nmsu.edu/about_t_node/about_t_node.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/data_and_services.htm",
+    "https://pds-atmospheres.nmsu.edu/education_and_outreach/education_and_outreach.htm",
+    "https://pds-atmospheres.nmsu.edu/contact_us/contact_us.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/JUNO/microwave.html",
+    "https://commission.europa.eu/law/law-topic/data-protection_en"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13779,193 +13782,49 @@
       "at": "2026-11-22T22:43:22+00:00",
       "status": "ok",
       "hash": "d0228750c35aa8389308c85c3cd6a2175b5fdb950c4f048d731e05d3075cda15"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/": {
+      "at": "2026-11-23T03:11:46+00:00",
+      "status": "ok",
+      "hash": "dc62b165c1ecd235bee2f6d1581a027c4633ccd7bf3e3b19edc9210d3842ae6e"
+    },
+    "https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/": {
+      "at": "2026-11-23T03:11:49+00:00",
+      "status": "ok",
+      "hash": "63ef4bf1d1a9c422b347665a1ee92e900b8e43c2dc2208faa68c0c35436f6423"
+    },
+    "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/b0/72/b072c8d1-e09c-4759-b385-a49bd73308d4/issue2_pages.jpg__1240x510_q85_crop_subsampling-2.jpg": {
+      "at": "2026-11-23T03:11:52+00:00",
+      "status": "ok",
+      "hash": "3ff42512ffce5ea90498d0724baaa20d00194d7d37b9a3be7d5f73f81470a142"
+    },
+    "https://astrobiology.nasa.gov/education/primer/": {
+      "at": "2026-11-23T03:11:55+00:00",
+      "status": "ok",
+      "hash": "bc5ab7f3300fe293bcbc0f45efd0e4422caa4523f03d0a1aca802c8809c9c52d"
+    },
+    "https://touchpoints.app.cloud.gov/img/icon-https.svg": {
+      "at": "2026-11-23T03:11:57+00:00",
+      "status": "ok",
+      "hash": "1527ec807e4704a6969d288cee8a9fc564569e60cb91d224d0882a21caa4c57a"
+    },
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/LADEE/lunar.html": {
+      "at": "2026-11-23T03:12:06+00:00",
+      "status": "ok",
+      "hash": "ecce0027ba22c9db905ff4297cb8ea1490018b0c238d5ab63e410f83a2accce7"
+    },
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/JUNO/juno.html": {
+      "at": "2026-11-23T03:12:12+00:00",
+      "status": "ok",
+      "hash": "19637ced62e69a7e2efd95330bad176f73d020d49dbaf3e755eb3eb9270f7e51"
+    },
+    "https://ec.europa.eu/info/law/law-topic/data-protection_en": {
+      "at": "2026-11-23T03:12:16+00:00",
+      "status": "ok",
+      "hash": "7a8cc6d36b54e3dac0f1d635b5976213cedfc1e2fb514b3b71e35d40213dc6b3"
     }
   },
   "memory": [
-    {
-      "url": "https://jplwater.nasa.gov/images/logo_nasa.gif",
-      "title": "logo_nasa.gif",
-      "summary": "Title: logo_nasa.gif URL Source: https://jplwater.nasa.gov/images/logo_nasa.gif Published Time: Tue, 28 Nov 2023 20:26:19 GMT Markdown Content: A 288x51 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "gif",
-        "logo_nasa",
-        "2023",
-        "288x51",
-        "avatar",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "jplwater",
-        "likely"
-      ],
-      "hash": "22428dde9ddceb8c21fe35a8d849bb67d0a45abe10c681265b2c8ea475754a39",
-      "learned_at": "2026-10-31T13:28:33+00:00"
-    },
-    {
-      "url": "https://jplwater.nasa.gov/images/spacer.gif",
-      "title": "spacer.gif",
-      "summary": "Title: spacer.gif URL Source: https://jplwater.nasa.gov/images/spacer.gif Published Time: Tue, 28 Nov 2023 20:26:19 GMT Markdown Content: A 1x1 image, likely be a tacker probe",
-      "keywords": [
-        "gif",
-        "spacer",
-        "1x1",
-        "2023",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "image",
-        "images",
-        "jplwater",
-        "likely",
-        "markdown",
-        "nasa"
-      ],
-      "hash": "e0b5f653a5efe99a8fd8d702e1e56cdb99903811ebbcae1d3af073df84d37c67",
-      "learned_at": "2026-10-31T13:28:34+00:00"
-    },
-    {
-      "url": "https://mars.nasa.gov/mars2020/",
-      "title": "Mars 2020: Perseverance Rover - NASA Science",
-      "summary": "Title: Mars 2020: Perseverance Rover - NASA Science URL Source: https://mars.nasa.gov/mars2020/ Final URL: https://science.nasa.gov/mission/mars-2020-perseverance/ Published Time: 2017-12-05T00:19:50-05:00 Markdown Content: [![Image 7: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 8: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmed",
-      "keywords": [
-        "nasa",
-        "gov",
-        "https",
-        "science",
-        "www",
-        "search",
-        "news",
-        "images",
-        "multimedia",
-        "image",
-        "plus",
-        "podcasts",
-        "resources",
-        "aeronautics"
-      ],
-      "hash": "0766f0c6ec2208eda460481dcdcf545418e9374348744c1f9521571383cfc5a6",
-      "learned_at": "2026-10-31T13:28:37+00:00"
-    },
-    {
-      "url": "http://pds-geosciences.wustl.edu/missions/apollo/index.htm",
-      "title": "PDS Geosciences Node Data and Services: Apollo Data",
-      "summary": "Title: PDS Geosciences Node Data and Services: Apollo Data URL Source: http://pds-geosciences.wustl.edu/missions/apollo/index.htm Final URL: https://pds-geosciences.wustl.edu/missions/apollo/index.htm Markdown Content: [![Image 1: PDS logo](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and a",
-      "keywords": [
-        "https",
-        "edu",
-        "wustl",
-        "nasa",
-        "pds-geosciences",
-        "gov",
-        "pds",
-        "htm",
-        "image",
-        "images",
-        "default",
-        "data",
-        "http",
-        "node"
-      ],
-      "hash": "bde70e793b1325f5ba3aeff2c7be65ae9462005969f6ad6cf4a12c831483f900",
-      "learned_at": "2026-10-31T13:28:39+00:00"
-    },
-    {
-      "url": "http://pds-geosciences.wustl.edu/missions/apollo/",
-      "title": "PDS Geosciences Node Data and Services: Apollo Data",
-      "summary": "Title: PDS Geosciences Node Data and Services: Apollo Data URL Source: http://pds-geosciences.wustl.edu/missions/apollo/ Final URL: https://pds-geosciences.wustl.edu/missions/apollo/ Markdown Content: [![Image 1: PDS logo](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and approval under a re",
-      "keywords": [
-        "https",
-        "edu",
-        "wustl",
-        "nasa",
-        "pds-geosciences",
-        "gov",
-        "pds",
-        "image",
-        "images",
-        "default",
-        "htm",
-        "data",
-        "http",
-        "node"
-      ],
-      "hash": "173efd3246184e9684868525f391a518c2639dbebc22a6dd111543405ca1933d",
-      "learned_at": "2026-10-31T13:28:42+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/images/ssd_logo.png",
-      "title": "ssd_logo.png",
-      "summary": "Title: ssd_logo.png URL Source: https://ssd.jpl.nasa.gov/images/ssd_logo.png Published Time: Wed, 25 Mar 2026 06:55:49 GMT Markdown Content: White box",
-      "keywords": [
-        "png",
-        "ssd_logo",
-        "2026",
-        "box",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "images",
-        "jpl",
-        "mar",
-        "markdown",
-        "nasa",
-        "published"
-      ],
-      "hash": "807e37e4613806edb88af0cfb1437b1aa2231b0e38bc3293bed18060debc7110",
-      "learned_at": "2026-10-31T17:53:09+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp",
-      "title": "Sorry: Page not Found",
-      "summary": "Title: Sorry: Page not Found URL Source: https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp Warning: Target URL returned error 404: Not Found Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp#main_content) ![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 3: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 4: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 6: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/eph/planets/de200.bsp#) * [What does SSD d",
-      "keywords": [
-        "nasa",
-        "https",
-        "jpl",
-        "ssd",
-        "gov",
-        "html",
-        "planets",
-        "orbits",
-        "bsp",
-        "de200",
-        "eph",
-        "ftp",
-        "sats",
-        "ephemerides"
-      ],
-      "hash": "f74f29838adbc18019fc86f487ebef4cff8e883da4d3443e8fe2823c04451628",
-      "learned_at": "2026-10-31T17:53:25+00:00"
-    },
-    {
-      "url": "https://jplwater.nasa.gov/?id=1.projectbkg",
-      "title": "NASA CERCLA Program at JPL",
-      "summary": "Title: NASA CERCLA Program at JPL URL Source: https://jplwater.nasa.gov/?id=1.projectbkg Markdown Content: **Project Backgrounder - Overview of NASA’s Comprehensive Groundwater Cleanup Plan at and in the Vicinity of the Jet Propulsion Laboratory (JPL)** **For Media Contacts and Credentialing info,**[click here](https://jplwater.nasa.gov/?id=3.infofornewsmedia) **A Commitment to Safeguard Area Drinking Water and Restore Water Resources** NASA is committed to cleaning up groundwater affected by chemicals associated with historic and long-discontinued waste disposal practices at the Jet Propulsion Laboratory (JPL). NASA is cleaning up the site under the Federal Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), commonly known as Superfund. The groundwater chemicals being addressed by NASA are volatile organic compounds (VOCs), perchlorate, and Per- and Polyfluoro",
-      "keywords": [
-        "nasa",
-        "groundwater",
-        "gov",
-        "https",
-        "cleanup",
-        "jpl",
-        "chemicals",
-        "final",
-        "jplwater",
-        "plan",
-        "water",
-        "area",
-        "cercla",
-        "environmental"
-      ],
-      "hash": "6f7834037aedc77a3887b043f2b7f0f91a41cf183312a0739cc4344fbbfb2089",
-      "learned_at": "2026-10-31T17:53:28+00:00"
-    },
     {
       "url": "https://jplwater.nasa.gov/?id=3.infofornewsmedia",
       "title": "NASA CERCLA Program at JPL",
@@ -27574,6 +27433,190 @@
       ],
       "hash": "d0228750c35aa8389308c85c3cd6a2175b5fdb950c4f048d731e05d3075cda15",
       "learned_at": "2026-11-22T22:43:22+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/",
+      "title": "Public FTP File Browser",
+      "summary": "Title: Public FTP File Browser URL Source: https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/eph/planets/Linux/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.",
+      "keywords": [
+        "https",
+        "nasa",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "planets",
+        "orbits",
+        "ftp",
+        "eph",
+        "linux",
+        "sats",
+        "ephemerides",
+        "image"
+      ],
+      "hash": "dc62b165c1ecd235bee2f6d1581a027c4633ccd7bf3e3b19edc9210d3842ae6e",
+      "learned_at": "2026-11-23T03:11:46+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/",
+      "title": "Public FTP File Browser",
+      "summary": "Title: Public FTP File Browser URL Source: https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/ Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/ftp/eph/planets/SunOS/#) * [What does SSD do?](https://ssd.jpl.nasa.gov/about/) * [FAQ](https://ssd.",
+      "keywords": [
+        "https",
+        "nasa",
+        "jpl",
+        "ssd",
+        "gov",
+        "html",
+        "planets",
+        "orbits",
+        "ftp",
+        "eph",
+        "sunos",
+        "sats",
+        "ephemerides",
+        "image"
+      ],
+      "hash": "63ef4bf1d1a9c422b347665a1ee92e900b8e43c2dc2208faa68c0c35436f6423",
+      "learned_at": "2026-11-23T03:11:49+00:00"
+    },
+    {
+      "url": "https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/b0/72/b072c8d1-e09c-4759-b385-a49bd73308d4/issue2_pages.jpg__1240x510_q85_crop_subsampling-2.jpg",
+      "title": "issue2_pages.jpg__1240x510_q85_crop_subsampling-2.jpg",
+      "summary": "Title: issue2_pages.jpg__1240x510_q85_crop_subsampling-2.jpg URL Source: https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/b0/72/b072c8d1-e09c-4759-b385-a49bd73308d4/issue2_pages.jpg__1240x510_q85_crop_subsampling-2.jpg Published Time: Thu, 18 Jun 2015 13:17:19 GMT Markdown Content: a collage of various comic panels with various characters",
+      "keywords": [
+        "issue2_pages",
+        "jpg",
+        "jpg__1240x510_q85_crop_subsampling-2",
+        "various",
+        "2015",
+        "astrobiology",
+        "b072c8d1-e09c-4759-b385-a49bd73308d4",
+        "characters",
+        "collage",
+        "comic",
+        "content",
+        "filer_public",
+        "filer_public_thumbnails",
+        "gmt"
+      ],
+      "hash": "3ff42512ffce5ea90498d0724baaa20d00194d7d37b9a3be7d5f73f81470a142",
+      "learned_at": "2026-11-23T03:11:52+00:00"
+    },
+    {
+      "url": "https://astrobiology.nasa.gov/education/primer/",
+      "title": "Astrobiology Publications - NASA Science",
+      "summary": "Title: Astrobiology Publications - NASA Science URL Source: https://astrobiology.nasa.gov/education/primer/ Final URL: https://science.nasa.gov/astrobiology/researchers/publications/#featured Published Time: 2026-05-15T20:51:56-04:00 Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](ht",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "astrobiology",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "bc5ab7f3300fe293bcbc0f45efd0e4422caa4523f03d0a1aca802c8809c9c52d",
+      "learned_at": "2026-11-23T03:11:55+00:00"
+    },
+    {
+      "url": "https://touchpoints.app.cloud.gov/img/icon-https.svg",
+      "title": "icon-https.svg",
+      "summary": "Title: icon-https.svg URL Source: https://touchpoints.app.cloud.gov/img/icon-https.svg Published Time: Fri, 13 Nov 2026 19:22:57 GMT Markdown Content: Green circle with a green padlock inside",
+      "keywords": [
+        "green",
+        "icon-https",
+        "svg",
+        "2026",
+        "app",
+        "circle",
+        "cloud",
+        "content",
+        "fri",
+        "gmt",
+        "gov",
+        "https",
+        "img",
+        "inside"
+      ],
+      "hash": "1527ec807e4704a6969d288cee8a9fc564569e60cb91d224d0882a21caa4c57a",
+      "learned_at": "2026-11-23T03:11:57+00:00"
+    },
+    {
+      "url": "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/LADEE/lunar.html",
+      "title": "Welcome to the Lunar Atmospheres Data Archive",
+      "summary": "Title: Welcome to the Lunar Atmospheres Data Archive URL Source: https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/LADEE/lunar.html Markdown Content: [![Image 1](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and approval under a regular NASA Research Announcement. Find a No",
+      "keywords": [
+        "https",
+        "edu",
+        "nmsu",
+        "pds-atmospheres",
+        "nasa",
+        "pds",
+        "data_and_services",
+        "gov",
+        "atmospheres_data",
+        "htm",
+        "ladee",
+        "lunar",
+        "data",
+        "html"
+      ],
+      "hash": "ecce0027ba22c9db905ff4297cb8ea1490018b0c238d5ab63e410f83a2accce7",
+      "learned_at": "2026-11-23T03:12:06+00:00"
+    },
+    {
+      "url": "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/JUNO/juno.html",
+      "title": "Juno Archive Page",
+      "summary": "Title: Juno Archive Page URL Source: https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/JUNO/juno.html Published Time: Mon, 16 Nov 2026 17:09:25 GMT Markdown Content: **The Juno Spacecraft** Juno is a spin-stabilized spacecraft, powered by 3 large, deployable rigid-panel arrays that can be moved to adjust the spin axis relative to the high gain antennae boresight. The spacecraft utilizes high energy density Li ion batteries for battery-regulated bus voltage. Basic radiation protection for sensitive electronics is afforded by a titanium-walled vault. Telecom is achieved with X-band uplink and downlink. Ka-band telecom is included for improved Doppler measurement performance **Juno Basic Mission Goals** **Origins** -Determine the abundance of water and place an upper limit on the mass of Jupiter's solid core. **Interior** - Understand Jupiter's interior structure and how m",
+      "keywords": [
+        "data",
+        "juno",
+        "edu",
+        "https",
+        "jupiter",
+        "nmsu",
+        "pds-atmospheres",
+        "atmospheres_data",
+        "data_and_services",
+        "documentation",
+        "html",
+        "perijove",
+        "tables",
+        "spacecraft"
+      ],
+      "hash": "19637ced62e69a7e2efd95330bad176f73d020d49dbaf3e755eb3eb9270f7e51",
+      "learned_at": "2026-11-23T03:12:12+00:00"
+    },
+    {
+      "url": "https://ec.europa.eu/info/law/law-topic/data-protection_en",
+      "title": "Data protection",
+      "summary": "Title: Data protection URL Source: https://ec.europa.eu/info/law/law-topic/data-protection_en Final URL: https://commission.europa.eu/law/law-topic/data-protection_en Markdown Content: Page contents * [Data protection in the EU](https://commission.europa.eu/law/law-topic/data-protection_en#data-protection-in-the-eu) * [Data protection: questions and answers](https://commission.europa.eu/law/law-topic/data-protection_en#data-protection-questions-and-answers) * [International dimension of data protection](https://commission.europa.eu/law/law-topic/data-protection_en#international-dimension-of-data-protection) * [Funding to support the implementation of the GDPR](https://commission.europa.eu/law/law-topic/data-protection_en#funding-to-support-the-implementation-of-the-gdpr) * [Simplifying compliance with the GDPR through reduced record-keeping obligations](https://commission.europa.eu/law/l",
+      "keywords": [
+        "data",
+        "protection",
+        "law",
+        "europa",
+        "https",
+        "law-topic",
+        "commission",
+        "data-protection_en",
+        "gdpr",
+        "obligations",
+        "read",
+        "regulation",
+        "rights",
+        "rules"
+      ],
+      "hash": "7a8cc6d36b54e3dac0f1d635b5976213cedfc1e2fb514b3b71e35d40213dc6b3",
+      "learned_at": "2026-11-23T03:12:16+00:00"
     }
   ],
   "failures": [
@@ -27749,6 +27792,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-23T03:12:16+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-23T03:12:16+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 15,
+      "frontier": 2500
+    },
     {
       "at": "2026-11-22T22:43:22+00:00",
       "kind": "core_unchanged",
@@ -28659,40 +28717,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 19,
       "frontier": 2500
-    },
-    {
-      "at": "2026-11-09T04:16:39+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v65",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-09T04:16:39+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 24,
-      "frontier": 2499
     }
   ],
   "metrics": {
-    "successful_fetches": 1794,
+    "successful_fetches": 1802,
     "failed_fetches": 34,
     "duplicate_pages": 2,
     "candidate_promotions": 80,
-    "candidate_rejections": 199
+    "candidate_rejections": 200
   },
   "core_genome": {
     "query_weight": 3.0,
