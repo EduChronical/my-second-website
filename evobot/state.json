@@ -1,28 +1,21 @@
 {
   "schema": 2,
-  "generation": 283,
+  "generation": 284,
   "core_version": 82,
-  "runs": 282,
-  "pages_learned": 1810,
-  "last_run": "2026-11-23T12:55:22+00:00",
+  "runs": 283,
+  "pages_learned": 1818,
+  "last_run": "2026-11-24T00:38:42+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://pds-atmospheres.nmsu.edu/Venus/venus.html",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/newsletter/newsletter.html",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MESSENGER/messenger.html",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MERCURY/mercury.html",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/VENUS/venus_matrix.html",
-    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/JUPITER/icy_satellites.html",
-    "https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_03.png",
+    "https://pds-ppi.igpp.ucla.edu/search/default.jsp",
+    "https://vo-pds-ppi.igpp.ucla.edu/",
+    "https://search-pdsppi.igpp.ucla.edu/",
+    "https://pds-smallbodies.astro.umd.edu/howto/prepare_PDS4.shtml",
+    "https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B2A1D139B-B9C7-CE8C-2E81-223FD08460F9%7D&path=open",
+    "https://nspires.nasaprs.com/external/",
+    "https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B600EE5E5-E9D5-FF55-0CAD-764F6D4BEEA9%7D",
+    "https://nspires.nasaprs.com/external/",
     "https://pds-rings.seti.org/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
-    "https://jpl.jobs/",
-    "https://jpl.jobs/university-recruiting",
-    "https://www.stunnel.org/downloads.html",
-    "https://www.stunnel.org/downloads.html",
-    "https://www.stunnel.org/platforms.html",
-    "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
-    "https://www.stunnel.org/",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
@@ -142,11 +135,18 @@
     "https://www.utn.edu.ar/es/",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
-    "https://ode.rsl.wustl.edu/",
     "https://eeps.wustl.edu/",
+    "https://epss.ucla.edu/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://pds-geosciences.wustl.edu/",
-    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
+    "https://jpl.jobs/",
+    "https://jpl.jobs/university-recruiting",
+    "https://www.stunnel.org/downloads.html",
+    "https://www.stunnel.org/downloads.html",
+    "https://www.stunnel.org/platforms.html",
+    "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
+    "https://www.stunnel.org/",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/May_2025_Monthly_PDF.pdf",
     "https://minorplanetcenter.net/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
@@ -238,6 +238,7 @@
     "https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)).",
     "https://**/",
     "https://darts.isas.jaxa.jp/missions/akatsuki/index_en.html",
+    "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
     "http://planetarydata.org/",
@@ -275,6 +276,7 @@
     "http://an.rsl.wustl.edu/",
     "http://wufs.wustl.edu/eprsl/",
     "http://www.wustl.edu/",
+    "http://www.ucla.edu/",
     "http://www.mapaplanet.org/explorer/moon.html",
     "http://www.nineplanets.org/luna.html",
     "http://www.minorplanetcenter.net/",
@@ -287,26 +289,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://pds-ppi.igpp.ucla.edu/search/default.jsp",
-    "https://vo-pds-ppi.igpp.ucla.edu/",
-    "https://search-pdsppi.igpp.ucla.edu/",
-    "https://epss.ucla.edu/",
-    "http://www.ucla.edu/",
-    "http://photojournal.jpl.nasa.gov/",
-    "https://pds.nasa.gov/home/proposers/Mission-Proposers-Archive-Guide-v5_clean_20190424.pdf",
-    "https://pds-smallbodies.astro.umd.edu/webdings/planets.jpg",
-    "https://pds-smallbodies.astro.umd.edu/howto/prepare_PDS4.shtml",
-    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_documents-v5.1/SUPPORT/dataset.shtml",
-    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_documents:rex-v3.0/SUPPORT/dataset.shtml",
-    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex-v4.0/SUPPORT/dataset.shtml",
-    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex:launch_raw-v1.0/SUPPORT/dataset.shtml",
-    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex:launch_cal-v1.0/SUPPORT/dataset.shtml",
-    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex:jupiter_raw-v1.0/SUPPORT/dataset.shtml",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-2026-to-be-released-july-2026/",
-    "https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B2A1D139B-B9C7-CE8C-2E81-223FD08460F9%7D&path=open",
-    "https://nspires.nasaprs.com/external/",
-    "https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B600EE5E5-E9D5-FF55-0CAD-764F6D4BEEA9%7D",
-    "https://nspires.nasaprs.com/external/",
     "https://pds.nasa.gov/datasearch/subscription-service/data-release-calendar.shtml",
     "https://pds-smallbodies.astro.umd.edu/data_sb/by_mission.shtml",
     "https://pds-smallbodies.astro.umd.edu/data_sb/by_target.shtml",
@@ -2506,7 +2488,25 @@
     "https://geoweb.rsl.wustl.edu/community/index.php?do=findComment&comment=6216",
     "https://geoweb.rsl.wustl.edu/community/index.php?do=findComment&comment=6215",
     "https://pds-atmospheres.nmsu.edu/other_i_sites/other_i_sites.htm",
-    "https://archives.esac.esa.int/psa/ftp/VENUS-EXPRESS/VRA/VEX-V-VRA-1-2-3-EXT1-0145-V1.0/"
+    "https://archives.esac.esa.int/psa/ftp/VENUS-EXPRESS/VRA/VEX-V-VRA-1-2-3-EXT1-0145-V1.0/",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fresearchers%2Fsolicitations%2Froses-2025%2Froses-2026-to-be-released-july-2026%2F",
+    "https://science.nasa.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.nasa.gov%2Fresearchers%2Fsolicitations%2Froses-2025%2Froses-2026-to-be-released-july-2026%2F",
+    "http://cdn.parsely.com/",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm",
+    "https://pds-atmospheres.nmsu.edu/Venus/akatsuki.html",
+    "https://atmos.nmsu.edu/atmospage_files/main.css?v=20261019",
+    "https://atmos.nmsu.edu/atmospage_files/themes/messenger.css",
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MERCURY/mercury.html",
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/VENUS/venus_matrix.html",
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/JUPITER/icy_satellites.html",
+    "https://ode.rsl.wustl.edu/css/pds_style.css",
+    "https://ode.rsl.wustl.edu/ode_mars.ico"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -13874,193 +13874,77 @@
       "at": "2026-11-23T12:55:57+00:00",
       "status": "ok",
       "hash": "d540ec697f3a9d949f43c10a9ce9640a3cdb404f4a5cb323e095809952bc6342"
+    },
+    "https://pds.nasa.gov/home/proposers/Mission-Proposers-Archive-Guide-v5_clean_20190424.pdf": {
+      "at": "2026-11-24T00:38:42+00:00",
+      "status": "ok",
+      "hash": "6a621b7063c7f12030e47d2a4e313824bd6e3f5afb73e6cda8f004428db634f5"
+    },
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-2026-to-be-released-july-2026/": {
+      "at": "2026-11-24T00:38:43+00:00",
+      "status": "ok",
+      "hash": "c63ceca8db84f6b0b7e27ef8c65a7791f52b8457f3262eb097371cb8dfa29b02"
+    },
+    "http://photojournal.jpl.nasa.gov/": {
+      "at": "2026-11-24T00:38:44+00:00",
+      "status": "ok",
+      "hash": "ab4b8d98dcc8ad912e32fa78265a30dd2a67ffbd6bb093a347ea05e33fb1ceed"
+    },
+    "https://pds-smallbodies.astro.umd.edu/webdings/planets.jpg": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_documents-v5.1/SUPPORT/dataset.shtml": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_documents:rex-v3.0/SUPPORT/dataset.shtml": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex-v4.0/SUPPORT/dataset.shtml": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex:launch_raw-v1.0/SUPPORT/dataset.shtml": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex:launch_cal-v1.0/SUPPORT/dataset.shtml": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-smallbodies.astro.umd.edu/holdings/pds4-nh_rex:jupiter_raw-v1.0/SUPPORT/dataset.shtml": {
+      "at": "2026-11-24T00:38:45+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-atmospheres.nmsu.edu/Venus/venus.html": {
+      "at": "2026-11-24T00:38:46+00:00",
+      "status": "ok",
+      "hash": "03b8ed905f30aa0dc59f9548e424355ed9db28fe735d1ce6a42c1b9f48f0d779"
+    },
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/newsletter/newsletter.html": {
+      "at": "2026-11-24T00:38:47+00:00",
+      "status": "ok",
+      "hash": "3509de042626c2e6dfe70b21ee2831bbae09797d840afdc2a45e838777cc4879"
+    },
+    "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MESSENGER/messenger.html": {
+      "at": "2026-11-24T00:38:48+00:00",
+      "status": "ok",
+      "hash": "66eff4cdee76c1c891ceb485fe96ff3d65c897cfd78b92a8cea4a1ec67770190"
+    },
+    "https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_03.png": {
+      "at": "2026-11-24T00:38:49+00:00",
+      "status": "ok",
+      "hash": "aef4797e584881d6d63c6e928c58931c91b2dc910915f5e217d85900e7941e08"
+    },
+    "https://ode.rsl.wustl.edu/": {
+      "at": "2026-11-24T00:38:50+00:00",
+      "status": "ok",
+      "hash": "a7371ea1fc0c44df535d76970a3d6bb38bdd48cee38e2149882cd5f9cdcaf9ca"
     }
   },
   "memory": [
-    {
-      "url": "http://www.nasa.gov/audience/formedia/features/communication_policy.html",
-      "title": "NASA Policy on the Release of Information to News and Information Media - NASA",
-      "summary": "Title: NASA Policy on the Release of Information to News and Information Media - NASA URL Source: http://www.nasa.gov/audience/formedia/features/communication_policy.html Final URL: https://www.nasa.gov/reference/nasa-policy-on-the-release-of-information-to-news-and-information-media/ Published Time: 2025-12-31T19:14:39Z Markdown Content: This directive sets forth policy governing the release of public information, which is defined as information in any form provided to news and information media, especially information that has the potential to generate significant media, or public interest or inquiry. Examples include, but are not limited to, press releases, media advisories, news features, and web postings. Not included under this definition are scientific and technical reports, web postings designed for technical or scientific interchange, and technical information presented at profe",
-      "keywords": [
-        "nasa",
-        "information",
-        "policy",
-        "public",
-        "scientific",
-        "technical",
-        "media",
-        "any",
-        "release",
-        "activities",
-        "agency",
-        "directive",
-        "news",
-        "under"
-      ],
-      "hash": "7d33e412cf3de530905be78938c2fb1345945d52c7fb979660d11c8f8d4a73fc",
-      "learned_at": "2026-10-31T20:57:39+00:00"
-    },
-    {
-      "url": "http://oig.nasa.gov/hotline.html",
-      "title": "Hotline - NASA OIG",
-      "summary": "Title: Hotline - NASA OIG URL Source: http://oig.nasa.gov/hotline.html Final URL: https://oig.nasa.gov/hotline/ Markdown Content: Report Fraud, Waste & Abuse: [HOTLINE](https://oig.nasa.gov/hotline/) or 1-800-424-9183[Whistleblower Protections](https://oig.nasa.gov/nasa-oig-whistleblower-protection/) [![Image 1: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * Menu Search Results for **{phrase}** (**{results_count}** of **{results_count_total}**) Displaying **{results_count}** results of **{results_count_total}** [![Image 2: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * [News & Features](https://oig.nasa.gov/news/) * [Multimedia](https://oig.nasa.gov/multimedia/) * [Subscribe](https://lp.constantcontactpages.com/sl/x2uIcln) Search ## Suggested S",
-      "keywords": [
-        "nasa",
-        "oig",
-        "https",
-        "gov",
-        "hotline",
-        "news",
-        "space",
-        "image",
-        "multimedia",
-        "fraud",
-        "images",
-        "mission",
-        "wp-content",
-        "artemis"
-      ],
-      "hash": "48cb2bdb3c96065bfc13c901c38fd2923f6efe5c76e6463847af31e81e80f151",
-      "learned_at": "2026-10-31T20:57:43+00:00"
-    },
-    {
-      "url": "http://oig.nasa.gov/",
-      "title": "Office of Inspector General - NASA OIG",
-      "summary": "Title: Office of Inspector General - NASA OIG URL Source: http://oig.nasa.gov/ Final URL: https://oig.nasa.gov/ Published Time: 2024-02-06T18:24:16-05:00 Markdown Content: Report Fraud, Waste & Abuse: [HOTLINE](https://oig.nasa.gov/hotline/) or 1-800-424-9183[Whistleblower Protections](https://oig.nasa.gov/nasa-oig-whistleblower-protection/) [![Image 4: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * Menu Search Results for **{phrase}** (**{results_count}** of **{results_count_total}**) Displaying **{results_count}** results of **{results_count_total}** [![Image 5: NASA OIG Logo](https://oig.nasa.gov/wp-content/themes/nasa-oig/assets/images/oig-logo@2x.png)](https://oig.nasa.gov/) * [News & Features](https://oig.nasa.gov/news/) * [Multimedia](https://oig.nasa.gov/multimedia/) * [Subscribe](https://lp.constantcontactp",
-      "keywords": [
-        "nasa",
-        "oig",
-        "https",
-        "gov",
-        "news",
-        "space",
-        "image",
-        "multimedia",
-        "fraud",
-        "images",
-        "mission",
-        "wp-content",
-        "artemis",
-        "assets"
-      ],
-      "hash": "3cbfa012c77bfba7c562a09bfd50561247a967b8f8b375b495082a77d875b27c",
-      "learned_at": "2026-10-31T20:57:46+00:00"
-    },
-    {
-      "url": "https://datatracker.ietf.org/doc/html/rfc3875",
-      "title": "RFC 3875: The Common Gateway Interface (CGI) Version 1.1",
-      "summary": "Title: RFC 3875: The Common Gateway Interface (CGI) Version 1.1 URL Source: https://datatracker.ietf.org/doc/html/rfc3875 Markdown Content: Network Working Group D. Robinson Request for Comments: 3875 K. Coar Category: Informational The Apache Software Foundation October 2004 Status of this Memo This memo provides information for the Internet community. It does not specify an Internet standard of any kind. Distribution of this memo is unlimited. Copyright Notice Copyright (C) The Internet Society (2004). IESG Note This document is not a candidate for any level of Internet Standard. The IETF disclaims any knowledge of the fitness of this document for any purpose, and in particular notes that it has not had IETF review for such things as security, congestion control or inappropriate interaction with deployed protocols. The RFC Editor has chosen to publish this document at its discretion. R",
-      "keywords": [
-        "ietf",
-        "https",
-        "datatracker",
-        "doc",
-        "html",
-        "org",
-        "rfc3875",
-        "interface",
-        "cgi",
-        "document",
-        "section-1",
-        "any",
-        "internet",
-        "page-4"
-      ],
-      "hash": "f180a5e9320f93574c241b1796d774e9a89956f53c34293cf219dde0d0fc56ca",
-      "learned_at": "2026-10-31T20:57:52+00:00"
-    },
-    {
-      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg",
-      "title": "ph202441327901.jpg",
-      "summary": "Title: ph202441327901.jpg URL Source: https://static.pib.gov.in/WriteReadData/specificdocs/photo/2024/apr/ph202441327901.jpg Published Time: Mon, 01 Apr 2024 08:23:37 GMT Markdown Content: A woman wearing a orange saree looking straight at camera in a glass",
-      "keywords": [
-        "2024",
-        "apr",
-        "jpg",
-        "ph202441327901",
-        "camera",
-        "content",
-        "glass",
-        "gmt",
-        "gov",
-        "https",
-        "looking",
-        "markdown",
-        "mon",
-        "orange"
-      ],
-      "hash": "a5d2f90ba9885d3976422caad03d8e2c42c08cee1a98896eb519bdc137237d1e",
-      "learned_at": "2026-11-01T00:00:06+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
-      "title": "JPL Image Use Policy | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: JPL Image Use Policy | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/jpl-image-use-policy/ Markdown Content: Unless otherwise noted, images and video on JPL public web sites (public sites ending with a jpl.nasa.gov address) may be used for any purpose without prior permission, subject to the special cases noted below. Publishers who wish to have authorization may print this page and retain it for their records; JPL does not issue image permissions on an image by image basis. By electing to download the material from this web site the user agrees: 1. that Caltech makes no representations or warranties with respect to ownership of copyrights in the images, and does not represent others who may claim to be authors or owners of copyright of any of the images, and makes no warranties as to the quality of the images. Caltech shall not be responsible for any l",
-      "keywords": [
-        "nasa",
-        "jpl",
-        "use",
-        "image",
-        "images",
-        "may",
-        "caltech",
-        "gov",
-        "any",
-        "logo",
-        "commercial",
-        "must",
-        "noted",
-        "obtained"
-      ],
-      "hash": "a22c419948780af1ad73809c581db6c53358c4fa34b0b6005711d45c13e28652",
-      "learned_at": "2026-11-01T00:00:10+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/frequently-asked-questions/",
-      "title": "Frequently Asked Questions | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Frequently Asked Questions | NASA Jet Propulsion Laboratory (JPL) URL Source: https://www.jpl.nasa.gov/frequently-asked-questions/ Markdown Content: **Tours** _How can I arrange to go on a tour of JPL?_ JPL tours are conducted regularly by the Public Services Office. For more information, please visit their [website.](https://www.jpl.nasa.gov/events/tours/) _Does JPL have a gift shop that sells souvenirs, space-oriented gifts, etc.?_ The JPL Store sells souvenirs, gifts, etc., and accepts mail orders. Since it is located on the Laboratory's premises, special arrangement must be made to visit it. For more information, call (818) 354-6120 or visit the [JPL Store website.](https://thejplstore.com/) * * * **Employment** _How can I apply to work at JPL?_ You can get information about currently open positions on the [employment opportunities](https://www.jpl.nasa.gov/opportunities/) web",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "gov",
-        "https",
-        "information",
-        "technical",
-        "www",
-        "http",
-        "visit",
-        "opportunities",
-        "program",
-        "818",
-        "_how",
-        "available"
-      ],
-      "hash": "8eb41632824bd841ed5fc0993214120fa7c4583d31ad5bad29e21df4e39e6b99",
-      "learned_at": "2026-11-01T00:00:13+00:00"
-    },
-    {
-      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph202394248901.png",
-      "title": "ph202394248901.png",
-      "summary": "Title: ph202394248901.png URL Source: https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/sep/ph202394248901.png Published Time: Mon, 04 Sep 2023 11:44:11 GMT Markdown Content: man with a watermark image of an a for very generous network owner",
-      "keywords": [
-        "2023",
-        "ph202394248901",
-        "png",
-        "sep",
-        "content",
-        "generous",
-        "gmt",
-        "gov",
-        "https",
-        "image",
-        "man",
-        "markdown",
-        "mon",
-        "network"
-      ],
-      "hash": "3fd381cb1d690ad3e8fea66dfc0207ae487d6a6684cd5e2b2a3996d09bc099f1",
-      "learned_at": "2026-11-01T00:00:15+00:00"
-    },
     {
       "url": "http://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
       "title": "https://ilrs.gsfc.nasa.gov/images/LAGEOS_alt_448x275.jpg",
@@ -27669,6 +27553,190 @@
       ],
       "hash": "d540ec697f3a9d949f43c10a9ce9640a3cdb404f4a5cb323e095809952bc6342",
       "learned_at": "2026-11-23T12:55:57+00:00"
+    },
+    {
+      "url": "https://pds.nasa.gov/home/proposers/Mission-Proposers-Archive-Guide-v5_clean_20190424.pdf",
+      "title": "pds.nasa.gov/home/proposers/Mission-Proposers-Archive-Guide-v5_clean_20190424.pdf",
+      "summary": "%PDF-1.5 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en-US) /StructTreeRoot 153 0 R/MarkInfo<</Marked true>>>> endobj 2 0 obj <</Type/Pages/Count 17/Kids[ 3 0 R 20 0 R 23 0 R 24 0 R 28 0 R 30 0 R 31 0 R 33 0 R 35 0 R 38 0 R 40 0 R 44 0 R 47 0 R 48 0 R 49 0 R 51 0 R 149 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R/F2 9 0 R/F3 14 0 R/F4 16 0 R>>/ExtGState<</GS7 7 0 R/GS8 8 0 R>>/XObject<</Image18 18 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 956>> stream x��X�o�6\u0010~7����& 3E��\u0013\b\u00048��u@� 1���\u000f^��\u0006\u001a+��\u0016��w�\u0014Ǟ\u001b+r�����#ﻻO�'g�u�������,\u001bW���Sq\u0007�y��!���Xd׋��jQ-�Uv���* �^,�u���t\u0002_�\u0003�x�y!����z �b8��WX \u0007��� �\u0010 \u0004� � �\u0003Av \u0004�Q�{�J3m`�@v�7\u0016�7�&��;��]\u000e\u0007���$�t��\u001b��\u0004�ґN��ͲL]�J1��T%뒬 ӑM�T'�b��\u0006R!�q\u0018Z�B&��ґK����[X��",
+      "keywords": [
+        "obj",
+        "endobj",
+        "type",
+        "abcdee",
+        "750",
+        "font",
+        "fontdescriptor",
+        "-250",
+        "basefont",
+        "calibri-light",
+        "extgstate",
+        "subtype",
+        "ascent",
+        "calibri"
+      ],
+      "hash": "6a621b7063c7f12030e47d2a4e313824bd6e3f5afb73e6cda8f004428db634f5",
+      "learned_at": "2026-11-24T00:38:42+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-2026-to-be-released-july-2026/",
+      "title": "science.nasa.gov/researchers/solicitations/roses-2025/roses-2026-to-be-released-july-2026/",
+      "summary": "ROSES-2026 to be released July 2026 - NASA Science Explore Search News & Events News & Events Recently Published Video Series on NASA+ Podcasts & Audio Blogs Newsletters Social Media Media Resources Multimedia Multimedia NASA+ Images NASA Live NASA Apps Podcasts Image of the Day e-Books 3D Resources Interactives STEM Multimedia NASA Brand & Usage Guidelines NASA+ Search Suggested Searches Artemis ISS Roman Webb Quesst Moon Base View All Topics A-Z Home Missions Humans in Space Earth The Solar System The Universe Science Aeronautics Technology Learning Resources About NASA Español News & Events Multimedia NASA+ Highlights 2 min read NASA Scientists Find Clues to Ancient Ice Beyond Neptune article 5 days ago 6 min read NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth article 4 days ago 4 min read What’s Up: November 2026 Skywatching Tips from NASA article 3 weeks ago Back M",
+      "keywords": [
+        "nasa",
+        "science",
+        "space",
+        "earth",
+        "missions",
+        "multimedia",
+        "technology",
+        "resources",
+        "search",
+        "aeronautics",
+        "ago",
+        "article",
+        "events",
+        "min"
+      ],
+      "hash": "c63ceca8db84f6b0b7e27ef8c65a7791f52b8457f3262eb097371cb8dfa29b02",
+      "learned_at": "2026-11-24T00:38:43+00:00"
+    },
+    {
+      "url": "http://photojournal.jpl.nasa.gov/",
+      "title": "photojournal.jpl.nasa.gov",
+      "summary": "Photojournal - NASA Science Explore Search News & Events News & Events Recently Published Video Series on NASA+ Podcasts & Audio Blogs Newsletters Social Media Media Resources Multimedia Multimedia NASA+ Images NASA Live NASA Apps Podcasts Image of the Day e-Books 3D Resources Interactives STEM Multimedia NASA Brand & Usage Guidelines NASA+ Search Suggested Searches Artemis ISS Roman Webb Quesst Moon Base View All Topics A-Z Home Missions Humans in Space Earth The Solar System The Universe Science Aeronautics Technology Learning Resources About NASA Español News & Events Multimedia NASA+ Highlights 2 min read NASA Scientists Find Clues to Ancient Ice Beyond Neptune article 5 days ago 6 min read NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth article 4 days ago 4 min read What’s Up: November 2026 Skywatching Tips from NASA article 3 weeks ago Back Missions Search All NASA",
+      "keywords": [
+        "nasa",
+        "science",
+        "space",
+        "earth",
+        "missions",
+        "multimedia",
+        "technology",
+        "resources",
+        "search",
+        "aeronautics",
+        "ago",
+        "article",
+        "events",
+        "min"
+      ],
+      "hash": "ab4b8d98dcc8ad912e32fa78265a30dd2a67ffbd6bb093a347ea05e33fb1ceed",
+      "learned_at": "2026-11-24T00:38:44+00:00"
+    },
+    {
+      "url": "https://pds-atmospheres.nmsu.edu/Venus/venus.html",
+      "title": "pds-atmospheres.nmsu.edu/Venus/venus.html",
+      "summary": "Venus Data Archive Skip to main content Skip to menu PDS: The Planetary Atmospheres Node Search for: NASA Portal Home About Us Data and Services Education Contact Us External Links Quick Searches by Target Mercury Venus Mars Jupiter Saturn Uranus Neptune PDS Nodes PDS Atmospheres Geosciences Cartography and Imaging Navigation & Ancillary Information Facility (NAIF) Planetary Plasma Interactions (PPI) Ring-Moon Systems Small Bodies PDS Support Engineering PDS Tools Data Analysis Proposals Support New Horizons data at the Small Bodies Node Welcome to the Venus Archive Page! This page is designed to serve as a resource for accessing Venus atmospheric data sets housed at or accessed through the PDS Atmospheres Node. For additional information and to access datasets stored in other PDS Nodes, users are encouraged to explore the search engine on the PDS home page https://pds.nasa.gov/datasearc",
+      "keywords": [
+        "pds",
+        "data",
+        "venus",
+        "nasa",
+        "gov",
+        "https",
+        "mercury",
+        "mission",
+        "tools",
+        "atmospheres",
+        "atmospheric",
+        "jpl",
+        "node",
+        "nodes"
+      ],
+      "hash": "03b8ed905f30aa0dc59f9548e424355ed9db28fe735d1ce6a42c1b9f48f0d779",
+      "learned_at": "2026-11-24T00:38:46+00:00"
+    },
+    {
+      "url": "https://atmos.nmsu.edu/data_and_services/atmospheres_data/newsletter/newsletter.html",
+      "title": "atmos.nmsu.edu/data_and_services/atmospheres_data/newsletter/newsletter.html",
+      "summary": "PDS Atmospheres Node Newsletters Skip to main content Skip to menu PDS: The Planetary Atmospheres Node Search for: NASA Portal Home About Us Data and Services Education Contact Us External Links Data Catalog ADS NASA Astrophysics Data System NASA Research Solicitations Abstracts of Funded NASA Proposals Atmospheres data and related services Atmospheres data Software Document submission Abstracts of funded NASA proposals Sphere PDS Nodes PDS Atmospheres Geosciences Cartography and Imaging Navigation & Ancillary Information Facility (NAIF) Planetary Plasma Interactions (PPI) Ring-Moon Systems Small Bodies PDS4 Tools Minimal User's Tutorial PDS4 Wide Search PDS4 Label to Text PDS4 Label to PDS3 Label PDS3 Label to PDS4 Label Data Format Translations PDS Atmospheres Node Newsletters Vol 4 Issue 2: Autumn 2023 Vol 4 Issue 1: Spring 2023 Vol 3 Issue 2: Autumn 2022 Vol 3 Issue 1: Spring 2022 Vo",
+      "keywords": [
+        "issue",
+        "vol",
+        "atmospheres",
+        "data",
+        "label",
+        "nasa",
+        "pds",
+        "pds4",
+        "2020",
+        "autumn",
+        "node",
+        "spring",
+        "2021",
+        "2022"
+      ],
+      "hash": "3509de042626c2e6dfe70b21ee2831bbae09797d840afdc2a45e838777cc4879",
+      "learned_at": "2026-11-24T00:38:47+00:00"
+    },
+    {
+      "url": "https://atmos.nmsu.edu/data_and_services/atmospheres_data/MESSENGER/messenger.html",
+      "title": "atmos.nmsu.edu/data_and_services/atmospheres_data/MESSENGER/messenger.html",
+      "summary": "Messenger MASCS UVVS Archive Skip to main content Skip to menu PDS: The Planetary Atmospheres Node Search for: NASA Portal Home About Us Data and Services Education Contact Us External Links Data Catalog ADS NASA Astrophysics Data System NASA Research Solicitations Abstracts of Funded NASA Proposals Atmospheres data and related services Atmospheres data Software PDS Nodes PDS Atmospheres Geosciences Cartography and Imaging Navigation & Ancillary Information Facility (NAIF) Planetary Plasma Interactions (PPI) Ring-Moon Systems Small Bodies Messenger Main UVVS Raw Calibrated Derived VIRS Raw Calibrated Derived Tools Binary Readers for UVVS & VIRS Welcome to the Messenger MASCS UVVS Archive Page --> --> Introduction The MESSENGER Mission The spacecraft was launched in August 2004. It completed one flyby of Earth, two of Venus, and three of Mercury before entering an orbit around Mercury in ",
+      "keywords": [
+        "mercury",
+        "mar",
+        "venus",
+        "calibration",
+        "cruise",
+        "flyby",
+        "sirius",
+        "space",
+        "2007",
+        "2008",
+        "data",
+        "oct",
+        "sep",
+        "mission"
+      ],
+      "hash": "66eff4cdee76c1c891ceb485fe96ff3d65c897cfd78b92a8cea4a1ec67770190",
+      "learned_at": "2026-11-24T00:38:48+00:00"
+    },
+    {
+      "url": "https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_03.png",
+      "title": "pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_03.png",
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000B\u0000\u0000\u00005\b\u0003\u0000\u0000\u0000­ͣ\u0000\u0000\u0000\u0004gAMA\u0000\u0000��7\u0005��\u0000\u0000\u0000\u0019tEXtSoftware\u0000Adobe ImageReadyq�e<\u0000\u0000\u0003\u0000PLTECv�������ZWU������������������������Z����������麺����������������������vrm��ꗒ������������|��ό��������Ŀ�|wHII���4/+��������΍�����������������a�����������������������������dca��ٓ�����`[V��叏�������~zt������������;h�rrq*Ui������������������������������zvq��ǅ����𚖐������������}{z��� <Kb_] \u0012\u0014���������������n�ő�����������������TRO���������������jid��������Պ��8^s������������������\u0018(1qni���mli��ƭ��������������������'Yq��������߼��������������1Yl���������������������������������������������������������������������������������������������������6`v�����������㰮�������������������I�����l{~������������������������������>=;h��������������������ABD����������������������Ƕ�������渵�������������������LY^������������������������������gfa���������������������l���\u0000\u0000 �IDATx�b�O1\u0000\b ���(\u0003��\u0003\u0004\u0010Ј \u000e� \u000feYc�(��,+�+����X�����߿~�� \u0004y",
+      "keywords": [
+        "1qni",
+        "1yl",
+        "4_c",
+        "5u_",
+        "700",
+        "7ђf",
+        "abd",
+        "adobe",
+        "chh",
+        "dca",
+        "eyc",
+        "gama",
+        "gfa",
+        "idatx"
+      ],
+      "hash": "aef4797e584881d6d63c6e928c58931c91b2dc910915f5e217d85900e7941e08",
+      "learned_at": "2026-11-24T00:38:49+00:00"
+    },
+    {
+      "url": "https://ode.rsl.wustl.edu/",
+      "title": "ode.rsl.wustl.edu",
+      "summary": "PDS Geosciences Node Orbital Data Explorer (ODE) + NASA Homepage + NASA en Espa�ol + Contact NASA HOME DATA AND SERVICES TOOLS ABOUT US CONTACT US SITE MAP block in the head (all .odeHome classes). --> Welcome to the Orbital Data Explorer The PDS Geosciences Node Orbital Data Explorer (ODE) is a cross-mission and cross-instrument search, display, and download tool for the PDS orbital science data archives of Mars , the Moon , Mercury , and Venus . Find observations with the faceted product search or on an interactive map, add PDS data products to the cart to download many at once, or download individual files from each product's detail page. All data products are freely available. Questions can be directed to ode@wunder.wustl.edu . New in ODE: a refreshed look, a New user guide on the search pages, and better keyboard and screen reader support. See What's New . --> Orbital data from MRO,",
+      "keywords": [
+        "data",
+        "search",
+        "mars",
+        "orbital",
+        "orbiter",
+        "lunar",
+        "map",
+        "product",
+        "grs",
+        "venus",
+        "esa",
+        "express",
+        "instruments",
+        "messenger"
+      ],
+      "hash": "a7371ea1fc0c44df535d76970a3d6bb38bdd48cee38e2149882cd5f9cdcaf9ca",
+      "learned_at": "2026-11-24T00:38:50+00:00"
     }
   ],
   "failures": [
@@ -27844,6 +27912,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-24T00:38:50+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-24T00:38:50+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 18,
+      "frontier": 2500
+    },
     {
       "at": "2026-11-23T12:55:57+00:00",
       "kind": "core_promoted",
@@ -28765,29 +28848,14 @@
       "message": "Crawl cycle learned 3 new pages",
       "attempted": 24,
       "frontier": 2486
-    },
-    {
-      "at": "2026-11-09T22:57:16+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-09T22:57:16+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 5 new pages",
-      "attempted": 24,
-      "frontier": 2483
     }
   ],
   "metrics": {
-    "successful_fetches": 1810,
+    "successful_fetches": 1818,
     "failed_fetches": 34,
     "duplicate_pages": 2,
     "candidate_promotions": 81,
-    "candidate_rejections": 200
+    "candidate_rejections": 201
   },
   "core_genome": {
     "query_weight": 3.0,
