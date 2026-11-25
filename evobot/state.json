@@ -1,14 +1,12 @@
 {
   "schema": 2,
-  "generation": 286,
+  "generation": 287,
   "core_version": 83,
-  "runs": 285,
-  "pages_learned": 1834,
-  "last_run": "2026-11-24T20:47:49+00:00",
+  "runs": 286,
+  "pages_learned": 1842,
+  "last_run": "2026-11-25T03:49:44+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&method=init",
-    "https://pds-ppi.igpp.ucla.edu/theme/images/home/top_banner.png",
     "https://pds-ppi.igpp.ucla.edu/feedback.jsp",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_March_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
@@ -16,6 +14,8 @@
     "https://pds-ppi.igpp.ucla.edu/overview.jsp",
     "https://pds-ppi.igpp.ucla.edu/doc/index.jsp",
     "https://pds-ppi.igpp.ucla.edu/software/index.jsp",
+    "https://www.nobelprize.org/prizes/physics/2011/summary/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "http://pds-geosciences.wustl.edu/",
     "https://nspires.nasaprs.com/external/",
     "https://nspires.nasaprs.com/external/",
@@ -96,13 +96,11 @@
     "https://epss.ucla.edu/",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
-    "https://www.nobelprize.org/prizes/physics/2011/summary/",
     "https://solicitation.nasaprs.com/ROSES2025",
     "https://nspires.nasaprs.com/external/solicitations/solicitations!programElementsAll.do?id=NNH25ZDA001N&method=programElementsAll",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/May_2025_Monthly_PDF.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
@@ -116,7 +114,10 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_April_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
-    "http://www.msss.com/mars_images/moc/dec00_seds/",
+    "https://solicitation.nasaprs.com/ROSES2025table2",
+    "https://solicitation.nasaprs.com/ROSES2025table3",
+    "https://nspires.nasaprs.com/",
+    "https://nspires.nasaprs.com/",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://pds-atmospheres.nmsu.edu/",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
@@ -243,6 +244,7 @@
     "https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)).",
     "https://**/",
     "https://darts.isas.jaxa.jp/missions/akatsuki/index_en.html",
+    "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
@@ -293,20 +295,6 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/](https://science.nasa.gov/researchers/solicitations/roses-2025/)",
-    "https://solicitation.nasaprs.com/ROSES2025table2",
-    "https://solicitation.nasaprs.com/ROSES2025table3",
-    "https://assets.science.nasa.gov/content/dam/science/cds/researchers/library-and-useful-links/2025/How_to_Subscribe_to_the_ROSES-2025_Due_Date_Calendars-tagged.pdf",
-    "https://nspires.nasaprs.com/",
-    "https://soma.larc.nasa.gov/",
-    "https://nspires.nasaprs.com/",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6a.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6b.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6c.txt",
-    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash9.txt",
-    "https://jplwater.nasa.gov/?id=feedback",
     "https://jplwater.nasa.gov/images/header_text.gif",
     "https://science.nasa.gov/mission/mars-2020-perseverance/",
     "https://science.nasa.gov/mission/mars-2020-perseverance/",
@@ -2506,7 +2494,18 @@
     "http://pds.nasa.gov/contact/contact.shtml",
     "https://doi.org/10.1029/2021JA030241",
     "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1026391&solicitationId=%7B600EE5E5-E9D5-FF55-0CAD-764F6D4BEEA9%7D&viewSolicitationDocument=1",
-    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1053488&solicitationId=%7BC92A28D2-9E30-4149-24B7-8A40ED4F564B%7D&viewSolicitationDocument=1"
+    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1053488&solicitationId=%7BC92A28D2-9E30-4149-24B7-8A40ED4F564B%7D&viewSolicitationDocument=1",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/](https:/science.nasa.gov/researchers/solicitations/roses-2025/",
+    "https://calendar.google.com/calendar/ical/bad74bc7fe44a5b6ab283d20f7bd1afb1",
+    "https://soma.larc.nasa.gov/contactus.html",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6a.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6b.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash6c.txt",
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstswash9.txt",
+    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1053488&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
+    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041499&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
+    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041497&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
+    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041498&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -14032,193 +14031,49 @@
       "at": "2026-11-24T20:48:23+00:00",
       "status": "ok",
       "hash": "3c0e23cf6ac01df1461dd8f0ee0e9ddf57eae3787b1c39c4f317487f4550e14e"
+    },
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/](https://science.nasa.gov/researchers/solicitations/roses-2025/)": {
+      "at": "2026-11-25T03:49:47+00:00",
+      "status": "ok",
+      "hash": "d399e1e0ebb87e8232492ac7b1f4be896d813ca1b57a87a46484300b4611a7d4"
+    },
+    "https://assets.science.nasa.gov/content/dam/science/cds/researchers/library-and-useful-links/2025/How_to_Subscribe_to_the_ROSES-2025_Due_Date_Calendars-tagged.pdf": {
+      "at": "2026-11-25T03:49:49+00:00",
+      "status": "ok",
+      "hash": "422f0ba39e4be0f5c4535121779bb88abc7ee8a701eeb87978ce6d325830dc31"
+    },
+    "https://soma.larc.nasa.gov/": {
+      "at": "2026-11-25T03:49:51+00:00",
+      "status": "ok",
+      "hash": "96a2917f00d299ab4b038b73bdda5bd5482dd9f507852eb39a9430b4a2040335"
+    },
+    "https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt": {
+      "at": "2026-11-25T03:49:53+00:00",
+      "status": "ok",
+      "hash": "c330a14363062d7d0281a6e15151abd597c9c8bddfd628aed9207f20913dd98c"
+    },
+    "https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt": {
+      "at": "2026-11-25T03:49:54+00:00",
+      "status": "ok",
+      "hash": "e2a9060fbca7886169dfe90503251c584cdb0377dd4f96ecefc95dc74e05a78c"
+    },
+    "https://jplwater.nasa.gov/?id=feedback": {
+      "at": "2026-11-25T03:50:01+00:00",
+      "status": "ok",
+      "hash": "17c5b1d110b0502a7b002da36e6619c545617d05ffe278ddc83b409355610938"
+    },
+    "https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&method=init": {
+      "at": "2026-11-25T03:50:03+00:00",
+      "status": "ok",
+      "hash": "fb4d4bd756bc4f575a4279e115300dd3c5e026030c184424759d8cfc5532b17a"
+    },
+    "https://pds-ppi.igpp.ucla.edu/theme/images/home/top_banner.png": {
+      "at": "2026-11-25T03:50:06+00:00",
+      "status": "ok",
+      "hash": "5207ab1be96920e2bd4efb5c9c666a6954934798fd565604c405d91ad9431631"
     }
   },
   "memory": [
-    {
-      "url": "https://rbi.org.in/images/letspace.png",
-      "title": "letspace.png",
-      "summary": "Title: letspace.png URL Source: https://rbi.org.in/images/letspace.png Published Time: Sun, 09 Aug 2026 10:13:14 GMT Markdown Content: A 21x21 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "letspace",
-        "png",
-        "2026",
-        "21x21",
-        "aug",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely",
-        "logo"
-      ],
-      "hash": "7af4f80ff4872302cd8b92be93dd18bb1bb8f4688e53b330a832392a4e269f39",
-      "learned_at": "2026-11-01T12:16:40+00:00"
-    },
-    {
-      "url": "https://rbi.org.in/images/font-increase.gif",
-      "title": "font-increase.gif",
-      "summary": "Title: font-increase.gif URL Source: https://rbi.org.in/images/font-increase.gif Published Time: Sun, 09 Aug 2026 10:15:45 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "font-increase",
-        "gif",
-        "2026",
-        "20x20",
-        "aug",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely",
-        "logo"
-      ],
-      "hash": "558d404cb730356ea2ac056914825b3e950097b0981d7f1e664f1b8dba4d3f53",
-      "learned_at": "2026-11-01T12:16:40+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/news/?page=1&topics=Internships",
-      "title": "Edu News | NASA JPL Education",
-      "summary": "Title: Edu News | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/news/?page=1&topics=Internships Markdown Content: [](https://www.jpl.nasa.gov/edu/news/?page=1&topics=Internships) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-outline.dJHJgslS.svg)![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) [Education](https://www.jpl.nasa.gov/edu/) K-12 Resources Internships News & Events About [NASA OSTEM](https://www.nasa.gov/learning-resources/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 3: JPL Logo](https://www.jpl.n",
-      "keywords": [
-        "jpl",
-        "https",
-        "nasa",
-        "www",
-        "gov",
-        "news",
-        "edu",
-        "image",
-        "education",
-        "internships",
-        "_nuxt",
-        "logo",
-        "svg",
-        "cloudfront"
-      ],
-      "hash": "49c131c61546d86792bcf01f072b1fc63b11aa2652d79f10ba8f0c8cf003c74b",
-      "learned_at": "2026-11-01T17:58:32+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/news/2018/11/26/nasajpl-interns-join-mars-landing-site-dude-to-prepare-for-touchdown/",
-      "title": "NASA/JPL Interns Join Mars ‘Landing-Site Dude’ to Prepare for Touchdown – News | NASA JPL Education",
-      "summary": "Title: NASA/JPL Interns Join Mars ‘Landing-Site Dude’ to Prepare for Touchdown – News | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/news/2018/11/26/nasajpl-interns-join-mars-landing-site-dude-to-prepare-for-touchdown/ Final URL: https://www.jpl.nasa.gov/edu/news/nasajpl-interns-join-mars-landing-site-dude-to-prepare-for-touchdown/ Markdown Content: Now, Golombek and his interns take a decidedly more technological approach, feeding images of candidate landing sites into a machine-learning program designed to measure the size of rocks based on the shadows they cast and carefully combining a series of images, maps and other data using Geographical Information Systems, or GIS, software (a required skill for Golombek’s interns). Still, there are some things that must be done by hand – or eye, as the case may be. “Lauren [Berger] is now an expert on inescapable hazards,” says G",
-      "keywords": [
-        "golombek",
-        "nasa",
-        "mars",
-        "landing",
-        "gov",
-        "https",
-        "interns",
-        "jpl",
-        "mission",
-        "now",
-        "site",
-        "team",
-        "berger",
-        "death"
-      ],
-      "hash": "2cc6b28478ed005ec07d162280aa47a1b4994db38e35ccdcafb04ed135c01b10",
-      "learned_at": "2026-11-01T17:58:37+00:00"
-    },
-    {
-      "url": "https://rbi.org.in/images/font-decrease.gif",
-      "title": "font-decrease.gif",
-      "summary": "Title: font-decrease.gif URL Source: https://rbi.org.in/images/font-decrease.gif Published Time: Sun, 09 Aug 2026 10:15:44 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "font-decrease",
-        "gif",
-        "2026",
-        "20x20",
-        "aug",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely",
-        "logo"
-      ],
-      "hash": "503958fe812f67ef4220f880a8cb41492f4554a535de5898eb7ab5c17b673662",
-      "learned_at": "2026-11-01T17:58:39+00:00"
-    },
-    {
-      "url": "https://rbi.org.in/images/font-reset.gif",
-      "title": "font-reset.gif",
-      "summary": "Title: font-reset.gif URL Source: https://rbi.org.in/images/font-reset.gif Published Time: Sun, 09 Aug 2026 10:15:45 GMT Markdown Content: A 20x20 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "font-reset",
-        "gif",
-        "2026",
-        "20x20",
-        "aug",
-        "avatar",
-        "content",
-        "gmt",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "likely",
-        "logo"
-      ],
-      "hash": "4e8c19793dbfa99aafe2578637e2ba0f508c50edf28c910bb4601b35b81565d5",
-      "learned_at": "2026-11-01T17:58:39+00:00"
-    },
-    {
-      "url": "https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_August_10_12_2026.jpeg",
-      "title": "Photograph_LDP_August_10_12_2026.jpeg",
-      "summary": "Title: Photograph_LDP_August_10_12_2026.jpeg URL Source: https://cab.rbi.org.in/images/mediagallery/Photograph_LDP_August_10_12_2026.jpeg Published Time: Wed, 09 Sep 2026 11:14:24 GMT Markdown Content: Programme on Forstering Leadership and Effective Team building for Women Executives (In Campus) August 10- 12,2026",
-      "keywords": [
-        "2026",
-        "jpeg",
-        "photograph_ldp_august_10_12_2026",
-        "10-",
-        "august",
-        "building",
-        "cab",
-        "campus",
-        "content",
-        "effective",
-        "executives",
-        "forstering",
-        "gmt",
-        "https"
-      ],
-      "hash": "ee13a1535f69d551e83ea4861ea816230da5ada4d19dd153e2428dbd0b1fdc0f",
-      "learned_at": "2026-11-01T17:58:47+00:00"
-    },
-    {
-      "url": "https://cos.rbi.org.in/images/logo.png",
-      "title": "logo.png",
-      "summary": "Title: logo.png URL Source: https://cos.rbi.org.in/images/logo.png Published Time: Thu, 28 Jul 2022 12:48:18 GMT Markdown Content: College of Supervisors logo scheme",
-      "keywords": [
-        "logo",
-        "png",
-        "2022",
-        "college",
-        "content",
-        "cos",
-        "gmt",
-        "https",
-        "images",
-        "jul",
-        "markdown",
-        "org",
-        "published",
-        "rbi"
-      ],
-      "hash": "f8e677716e0602d9937da69ce470dfca08ab82d17cc632e8d3c67e93835f8ef9",
-      "learned_at": "2026-11-01T17:58:52+00:00"
-    },
     {
       "url": "https://cos.rbi.org.in/default.aspx",
       "title": "College of Supervisors",
@@ -27827,6 +27682,190 @@
       ],
       "hash": "3c0e23cf6ac01df1461dd8f0ee0e9ddf57eae3787b1c39c4f317487f4550e14e",
       "learned_at": "2026-11-24T20:48:23+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/](https://science.nasa.gov/researchers/solicitations/roses-2025/)",
+      "title": "Page not found - NASA Science",
+      "summary": "Title: Page not found - NASA Science URL Source: https://science.nasa.gov/researchers/solicitations/roses-2025/](https:/science.nasa.gov/researchers/solicitations/roses-2025/) Final URL: https://science.nasa.gov/researchers/solicitations/roses-2025/](https:/science.nasa.gov/researchers/solicitations/roses-2025/ Warning: Target URL returned error 404: Not Found Markdown Content: [![Image 1: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcas",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "researchers",
+        "roses-2025",
+        "solicitations",
+        "image",
+        "plus"
+      ],
+      "hash": "d399e1e0ebb87e8232492ac7b1f4be896d813ca1b57a87a46484300b4611a7d4",
+      "learned_at": "2026-11-25T03:49:47+00:00"
+    },
+    {
+      "url": "https://assets.science.nasa.gov/content/dam/science/cds/researchers/library-and-useful-links/2025/How_to_Subscribe_to_the_ROSES-2025_Due_Date_Calendars-tagged.pdf",
+      "title": "How to Subscribe to the ROSES-24 due date calendars",
+      "summary": "Title: How to Subscribe to the ROSES-24 due date calendars URL Source: https://assets.science.nasa.gov/content/dam/science/cds/researchers/library-and-useful-links/2025/How_to_Subscribe_to_the_ROSES-2025_Due_Date_Calendars-tagged.pdf Published Time: Fri, 27 Jun 2025 21:15:26 GMT Number of Pages: 8 Markdown Content: How to Subscribe to the ROSES-2024 Due Date Calendars Public Google calendars have been created that contain the NOI and Proposal due dates for all ROSES-2025 program elements. In response to requests from the community, there are now five calendars; one for each Science Division. You may subscribe to whichever calendar(s) you wish, reducing the number of programs in your overall list and eliminating those that you don’t care about. The calendars are correlated with the program element appendix numbers as follows: Appendix A: Earth Science Appendix B: Heliophysics Appendix C: ",
+      "keywords": [
+        "due",
+        "calendar",
+        "appendix",
+        "dates",
+        "calendars",
+        "programs",
+        "date",
+        "program",
+        "science",
+        "subscribe",
+        "2025",
+        "division",
+        "element",
+        "added"
+      ],
+      "hash": "422f0ba39e4be0f5c4535121779bb88abc7ee8a701eeb87978ce6d325830dc31",
+      "learned_at": "2026-11-25T03:49:49+00:00"
+    },
+    {
+      "url": "https://soma.larc.nasa.gov/",
+      "title": "NASA SOMA Homepage",
+      "summary": "Title: NASA SOMA Homepage URL Source: https://soma.larc.nasa.gov/ Markdown Content: ## LaRC Science Office for Mission Assessments HomePage ## About SOMA The Science Office for Mission Assessments (SOMA) at NASA Langley Research Center (LaRC) _supports the Science Mission Directorate (SMD) at NASA Headquarters in the acquisition of Earth and space science missions and instruments through the development of Announcement of Opportunity (AO) solicitations and the Technical, Management, and Cost (TMC) evaluations of proposals received in response to the AO solicitations and Phase A concept studies._ In addition, the SOMA leads special studies, independent assessments, and reviews for SMD. [Click to view Points of Contact](https://soma.larc.nasa.gov/contactus.html) ## Planning List for SMD Solicitations The following list is the NASA Science Mission Directorate (SMD) planning list for solicit",
+      "keywords": [
+        "nasa",
+        "science",
+        "soma",
+        "solicitations",
+        "larc",
+        "planning",
+        "smd",
+        "list",
+        "mission",
+        "announcements",
+        "assessments",
+        "cost",
+        "gov",
+        "https"
+      ],
+      "hash": "96a2917f00d299ab4b038b73bdda5bd5482dd9f507852eb39a9430b4a2040335",
+      "learned_at": "2026-11-25T03:49:51+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnstslplma.txt Published Time: Wed, 25 Mar 2026 06:54:05 GMT Markdown Content: # Meridian Circle Observations, La Palma Observatory, RGO # (Updated Aug 20, 1999 : observations now referred to ICRF) P5032448647663371 95018881 1101360450 +073721130 1992LPA P5032448650654186 95018881 1100100000 +074729010 1992LPA P5032448652648254 95018881 1059292030 +075158310 1992LPA P5032448658630262 95018881 1057097410 +080751020 1992LPA P5032448661621641 95018881 1056324440 +081147540 1992LPA P5032448663615525 95018881 1055357100 +081814690 1992LPA P5032448665609129 95018881 1054146490 +082707720 1992LPA P5032448679566380 95018881 1047427990 +090844510 1992LPA P5032448686544919 95018881 1044193490 +092939300 1992LPA P5032448693523513 95018881 1041006240 +094936980 1992LPA P5032448694520378 95018881 1040256110 +095304230 1992LPA P5032448695517417 ",
+      "keywords": [
+        "95018881",
+        "1992lpa",
+        "1993lpa",
+        "observations",
+        "-034655210",
+        "-034806100",
+        "-040208390",
+        "-040549570",
+        "-041421910",
+        "-041429880",
+        "-041521370",
+        "-041605910",
+        "-041819750",
+        "-042303550"
+      ],
+      "hash": "c330a14363062d7d0281a6e15151abd597c9c8bddfd628aed9207f20913dd98c",
+      "learned_at": "2026-11-25T03:49:53+00:00"
+    },
+    {
+      "url": "https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt",
+      "title": "URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt",
+      "summary": "Title: URL Source: https://ssd.jpl.nasa.gov/dat/planets/trnststokyo.txt Published Time: Wed, 25 Mar 2026 06:54:05 GMT Markdown Content: # Meridian Circle Observations, Tokyo Observatory P0042446455415120 388 1 31531373630 3-181050600 1986TOK P0042446456414073 388 1 31534032790 3-181951420 1986TOK P0042446457413027 388 1 31536292870 3-182843650 1986TOK P0042446459410939 388 1 31541213770 3-184607590 1986TOK P0042446464405728 388 1 31553327970 3-192724040 1986TOK P0042446481387986 388 1 31634571440 3-212329670 1986TOK P0042446514351687 388 1 31752384840 3-232338500 1986TOK P0042446516349315 388 1 31757060950 3-232657430 1986TOK P0042446533327796 388 1 31833031970 3-234146760 1986TOK P0042446534326437 388 1 31835021110 3-234206150 1986TOK P0042446555294699 388 1 31912000000 3-234401860 1986TOK P0042446558289549 388 1 31916234750 3-234451750 1986TOK P0042446559287789 388 1 31917476110 3-2345",
+      "keywords": [
+        "1986tok",
+        "388",
+        "2026",
+        "3-163139530",
+        "3-181050600",
+        "3-181951420",
+        "3-182843650",
+        "3-184607590",
+        "3-190201550",
+        "3-192724040",
+        "3-211511650",
+        "3-212329670",
+        "3-213726240",
+        "3-215907060"
+      ],
+      "hash": "e2a9060fbca7886169dfe90503251c584cdb0377dd4f96ecefc95dc74e05a78c",
+      "learned_at": "2026-11-25T03:49:54+00:00"
+    },
+    {
+      "url": "https://jplwater.nasa.gov/?id=feedback",
+      "title": "NASA CERCLA Program at JPL",
+      "summary": "Title: NASA CERCLA Program at JPL URL Source: https://jplwater.nasa.gov/?id=feedback Markdown Content: ![Image 1: NASA CERCLA Program at JPL](https://jplwater.nasa.gov/images/header_text.gif) * [Home](https://jplwater.nasa.gov/?id=feedback#) * [Investigation & Cleanup](https://jplwater.nasa.gov/?id=feedback#) * [Project Backgrounder](https://jplwater.nasa.gov/?id=feedback#) * [Major Milestones](https://jplwater.nasa.gov/?id=feedback#) * [Key Documents](https://jplwater.nasa.gov/?id=feedback#) * [Information Repository](https://jplwater.nasa.gov/?id=feedback#) * [Other Investigations](https://jplwater.nasa.gov/?id=feedback#) * [Outreach](https://jplwater.nasa.gov/?id=feedback#) * [Years in Review](https://jplwater.nasa.gov/?id=feedback#) * [Factsheets](https://jplwater.nasa.gov/?id=feedback#) * [Public Meetings](https://jplwater.nasa.gov/?id=feedback#) * [Displays](https://jplwater.nasa.g",
+      "keywords": [
+        "nasa",
+        "feedback",
+        "gov",
+        "https",
+        "jplwater",
+        "program",
+        "cercla",
+        "jpl",
+        "español",
+        "site",
+        "web",
+        "354-1585",
+        "818",
+        "acronyms"
+      ],
+      "hash": "17c5b1d110b0502a7b002da36e6619c545617d05ffe278ddc83b409355610938",
+      "learned_at": "2026-11-25T03:50:01+00:00"
+    },
+    {
+      "url": "https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&method=init",
+      "title": "NSPIRES - Solicitations Summary",
+      "summary": "Title: NSPIRES - Solicitations Summary URL Source: https://nspires.nasaprs.com/external/solicitations/summary.do?solId={1F963989-1A67-FD25-55A3-A0C24A073AEB}&method=init Markdown Content: Warning Icon **- In observance of Thanksgiving Day, the NSPIRES Help Desk will be closed on Thursday, November 26, 2026.** [Scroll](https://nspires.nasaprs.com/external/solicitations/summary.do?solId={1F963989-1A67-FD25-55A3-A0C24A073AEB}&method=init# \"Back to Top\") ## C.8 Yearly Opportunities for Research in Planetary Defense[Close](https://nspires.nasaprs.com/external/solicitations/summary.do?solId={1F963989-1A67-FD25-55A3-A0C24A073AEB}&method=init \"Close\") Number:**NNH25ZDA001N-YORPD** Directorate:**Science Mission Directorate** Type:**NASA Research Announcement** Status:**Past** Dates ### Notices * NOTICE: Research security training required starting August 5, 2026. All PIs and any Co-Is that would ",
+      "keywords": [
+        "nspires",
+        "research",
+        "date",
+        "proposal",
+        "due",
+        "https",
+        "training",
+        "amendment",
+        "new",
+        "notice",
+        "security",
+        "solicitations",
+        "summary",
+        "1f963989-1a67-fd25-55a3-a0c24a073aeb"
+      ],
+      "hash": "fb4d4bd756bc4f575a4279e115300dd3c5e026030c184424759d8cfc5532b17a",
+      "learned_at": "2026-11-25T03:50:03+00:00"
+    },
+    {
+      "url": "https://pds-ppi.igpp.ucla.edu/theme/images/home/top_banner.png",
+      "title": "top_banner.png",
+      "summary": "Title: top_banner.png URL Source: https://pds-ppi.igpp.ucla.edu/theme/images/home/top_banner.png Published Time: Tue, 12 Mar 2024 02:53:05 GMT Markdown Content: image shows three images together With Nasa logo on it",
+      "keywords": [
+        "images",
+        "png",
+        "top_banner",
+        "2024",
+        "content",
+        "edu",
+        "gmt",
+        "home",
+        "https",
+        "igpp",
+        "image",
+        "logo",
+        "mar",
+        "markdown"
+      ],
+      "hash": "5207ab1be96920e2bd4efb5c9c666a6954934798fd565604c405d91ad9431631",
+      "learned_at": "2026-11-25T03:50:06+00:00"
     }
   ],
   "failures": [
@@ -28012,6 +28051,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-25T03:50:06+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-25T03:50:06+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 12,
+      "frontier": 2499
+    },
     {
       "at": "2026-11-24T20:48:23+00:00",
       "kind": "core_promoted",
@@ -28933,29 +28987,14 @@
       "message": "Crawl cycle learned 4 new pages",
       "attempted": 24,
       "frontier": 2496
-    },
-    {
-      "at": "2026-11-10T20:24:15+00:00",
-      "kind": "core_unchanged",
-      "message": "No candidate beat the current core",
-      "score": 0.944444,
-      "hosts": 24,
-      "candidate_errors": []
-    },
-    {
-      "at": "2026-11-10T20:24:15+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 2491
     }
   ],
   "metrics": {
-    "successful_fetches": 1834,
+    "successful_fetches": 1842,
     "failed_fetches": 36,
     "duplicate_pages": 2,
     "candidate_promotions": 82,
-    "candidate_rejections": 202
+    "candidate_rejections": 203
   },
   "core_genome": {
     "query_weight": 3.0,
