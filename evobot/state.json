@@ -1,30 +1,22 @@
 {
   "schema": 2,
-  "generation": 287,
+  "generation": 288,
   "core_version": 83,
-  "runs": 286,
-  "pages_learned": 1842,
-  "last_run": "2026-11-25T03:49:44+00:00",
+  "runs": 287,
+  "pages_learned": 1849,
+  "last_run": "2026-11-25T13:40:58+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://pds-ppi.igpp.ucla.edu/feedback.jsp",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_March_2025.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf",
-    "https://pds-ppi.igpp.ucla.edu/index.jsp",
-    "https://pds-ppi.igpp.ucla.edu/overview.jsp",
-    "https://pds-ppi.igpp.ucla.edu/doc/index.jsp",
-    "https://pds-ppi.igpp.ucla.edu/software/index.jsp",
-    "https://www.nobelprize.org/prizes/physics/2011/summary/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf",
-    "http://pds-geosciences.wustl.edu/",
-    "https://nspires.nasaprs.com/external/",
-    "https://nspires.nasaprs.com/external/",
-    "https://pds-rings.seti.org/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_leapday.width-1024.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/dsn_tracking-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_phoning-640x350.2e16d0ba.fill-400x400-c50.gif",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_quakes-640x350.2e16d0ba.fill-400x400-c50.gif",
+    "https://nspires.nasaprs.com/external/solicitations/solicitations!programElementsAll.do?id=NNH25ZDA001N&method=programElementsAll",
+    "https://nspires.nasaprs.com/",
+    "https://nspires.nasaprs.com/",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
+    "http://pds-geosciences.wustl.edu/",
+    "https://pds-rings.seti.org/",
     "https://help.sap.com/docs/SAP_MARKETING_CLOUD?locale=en-US",
     "https://touchpoints.digital.gov/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/The-Pathfinders_show-1000x.width-1024.jpg",
@@ -97,7 +89,6 @@
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://iopscience.iop.org/article/10.3847/2041-8213/ad1ddd",
     "https://solicitation.nasaprs.com/ROSES2025",
-    "https://nspires.nasaprs.com/external/solicitations/solicitations!programElementsAll.do?id=NNH25ZDA001N&method=programElementsAll",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/JPL-annual-report-2022.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/May_2025_Monthly_PDF.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
@@ -116,10 +107,14 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
     "https://solicitation.nasaprs.com/ROSES2025table2",
     "https://solicitation.nasaprs.com/ROSES2025table3",
-    "https://nspires.nasaprs.com/",
-    "https://nspires.nasaprs.com/",
+    "https://esahubble.org/images/heic1215a/",
+    "https://en.wikipedia.org/wiki/Gregorian_calendar",
+    "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
+    "https://doi.org/10.3847/1538-3881/abd414",
+    "https://doi.org/10.3847/1538-3881/abd414",
     "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Alexandra+Witze",
     "http://pds-atmospheres.nmsu.edu/",
+    "http://www.msss.com/mars_images/moc/dec00_seds/",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
     "https://idp.springer.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Flink.springer.com%2F",
     "https://segment.com/legal/privacy/",
@@ -166,7 +161,6 @@
     "https://twitter.com/en/privacy",
     "https://www.communicatemagazine.com/article/employer-brand-management-awards-2025-winners-announced/",
     "https://www.instagram.com/reels/Dd_zDPwR7b5/",
-    "https://esahubble.org/images/heic1215a/",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
     "https://www.stunnel.org/downloads.html",
@@ -175,7 +169,6 @@
     "https://www.stunnel.org/platforms.html](https://www.stunnel.org/platforms.html)",
     "https://www.stunnel.org/",
     "https://minorplanetcenter.net/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/72032c99a83edc45d4fecf9b5d9b1f.2e16d0ba.fill-400x400-c50.png",
     "https://curl.haxx.se/download.html",
     "https://publicationethics.org/",
     "https://www.agu.org/abscicon",
@@ -208,8 +201,6 @@
     "https://en.wikipedia.org/wiki/Main_Page",
     "https://geographiclib.sourceforge.io/cgi-bin/GeoidEval",
     "https://gmpg.org/xfn/11",
-    "https://en.wikipedia.org/wiki/Gregorian_calendar",
-    "https://en.wikipedia.org/wiki/Gregorian_calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)",
     "https://doi.org/10.1007/s10569-017-9805-5",
     "https://orcid.org/",
     "https://doi.org/10.1093/jn/nxaa188",
@@ -218,8 +209,6 @@
     "https://webbtelescope.org/glossary.html",
     "https://webbtelescope.org/glossary.html",
     "https://webbtelescope.org/glossary.html",
-    "https://doi.org/10.3847/1538-3881/abd414",
-    "https://doi.org/10.3847/1538-3881/abd414",
     "https://sdgs.un.org/goals",
     "https://roarmap.eprints.org/",
     "https://www.aggo-conicet.gob.ar/",
@@ -244,7 +233,6 @@
     "https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)).",
     "https://**/",
     "https://darts.isas.jaxa.jp/missions/akatsuki/index_en.html",
-    "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "http://astrogeology.usgs.gov/Projects/PlanetaryMapping/VenusMappers/TOC.html",
     "http://planetarynames.wr.usgs.gov/Page/MOON/target",
@@ -295,24 +283,10 @@
     "http://iaaras.ru/en/dept/ephemeris/observations/",
     "http://www.json.org/",
     "http://www.json.org/",
-    "https://jplwater.nasa.gov/images/header_text.gif",
-    "https://science.nasa.gov/mission/mars-2020-perseverance/",
-    "https://science.nasa.gov/mission/mars-2020-perseverance/",
-    "https://pds-geosciences.wustl.edu/contact/default.htm",
-    "https://pds-geosciences.wustl.edu/sitemap/default.htm",
-    "https://pds-geosciences.wustl.edu/spectrallibrary/default.htm",
-    "https://pds-geosciences.wustl.edu/dataserv/anonftp.html",
-    "https://pds-geosciences.wustl.edu/workshops/default.htm",
-    "https://pds-geosciences.wustl.edu/missions/mep/index.htm",
-    "https://pds-geosciences.wustl.edu/missions/mars2020/index.htm",
-    "https://pds-geosciences.wustl.edu/missions/mars2020/pixl.htm",
-    "https://pds-geosciences.wustl.edu/missions/apollo/",
-    "https://pds-geosciences.wustl.edu/missions/apollo/",
     "https://pds-geosciences.wustl.edu/missions/mars2020/returned_sample_science.htm",
     "https://pds-geosciences.wustl.edu/missions/mars2020/rimfax.htm",
     "https://pds-geosciences.wustl.edu/missions/mars2020/sherloc.htm",
     "https://pds-geosciences.wustl.edu/missions/mars2020/supercam.htm",
-    "https://pds-geosciences.wustl.edu/missions/apollo/",
     "https://pds-geosciences.wustl.edu/missions/insight/index.htm",
     "https://ssd.jpl.nasa.gov/ftp/eph/planets/de202.bsp",
     "https://ssd.jpl.nasa.gov/ftp/eph/planets/de403.bsp",
@@ -2505,7 +2479,32 @@
     "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1053488&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
     "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041499&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
     "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041497&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
-    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041498&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1"
+    "https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=1041498&solicitationId=%7B1F963989-1A67-FD25-55A3-A0C24A073AEB%7D&viewSolicitationDocument=1",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=150&h=150&crop=1",
+    "https://pds-geosciences.wustl.edu/missions/insight/hp3rad.htm",
+    "https://pds-geosciences.wustl.edu/missions/insight/ida.htm",
+    "https://pds-geosciences.wustl.edu/missions/insight/rise.htm",
+    "https://pds-geosciences.wustl.edu/missions/insight/seis.htm",
+    "https://pds-geosciences.wustl.edu/missions/msl/index.htm",
+    "https://pds-geosciences.wustl.edu/missions/msl/apxs.htm",
+    "https://pds-geosciences.wustl.edu/missions/msl/chemcam.htm",
+    "https://pds-geosciences.wustl.edu/missions/mars2020/pixl.htm",
+    "https://pds-ppi.igpp.ucla.edu/personnel.jsp",
+    "https://pds-geosciences.wustl.edu/contact/default.htm",
+    "https://pds-geosciences.wustl.edu/sitemap/default.htm",
+    "https://pds-geosciences.wustl.edu/spectrallibrary/default.htm",
+    "https://pds-geosciences.wustl.edu/workshops/default.htm",
+    "https://pds-geosciences.wustl.edu/missions/mep/index.htm",
+    "https://pds-geosciences.wustl.edu/missions/apollo/",
+    "https://pds-ppi.igpp.ucla.edu/mission",
+    "https://pds-ppi.igpp.ucla.edu/theme/images/home/home_center_2.gif",
+    "https://pds-ppi.igpp.ucla.edu/theme/images/home/home_center_1.gif",
+    "https://pds-ppi.igpp.ucla.edu/overview.jsp",
+    "https://pds-ppi.igpp.ucla.edu/doc/index.jsp",
+    "https://pds-ppi.igpp.ucla.edu/software/index.jsp",
+    "https://nspires.nasaprs.com/external/solicitations/solicitations!init.do",
+    "https://nspires.nasaprs.com/external/solicitations/solicitations!init.do?s=Due+in+30+Days",
+    "https://nspires.nasaprs.com/external/solicitations/solicitations!init.do?s=Future"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -14071,170 +14070,64 @@
       "at": "2026-11-25T03:50:06+00:00",
       "status": "ok",
       "hash": "5207ab1be96920e2bd4efb5c9c666a6954934798fd565604c405d91ad9431631"
+    },
+    "https://jplwater.nasa.gov/images/header_text.gif": {
+      "at": "2026-11-25T13:41:00+00:00",
+      "status": "ok",
+      "hash": "8e4dff70fdf8f24b63812fa81128978db0d678726ea496ade9479c0eae01b49b"
+    },
+    "https://science.nasa.gov/mission/mars-2020-perseverance/": {
+      "at": "2026-11-25T13:41:02+00:00",
+      "status": "ok",
+      "hash": "814830289fad30cb5884287ef6308be27c03a2aa68c05ebaeccf2fb0ec86f243"
+    },
+    "https://pds-geosciences.wustl.edu/dataserv/anonftp.html": {
+      "at": "2026-11-25T13:41:04+00:00",
+      "status": "ok",
+      "hash": "501930580fb1c933a15bc8b284b31d7faf2f1f981c40205f2b85e6afbb46de2c"
+    },
+    "https://pds-geosciences.wustl.edu/missions/mars2020/index.htm": {
+      "at": "2026-11-25T13:41:06+00:00",
+      "status": "ok",
+      "hash": "d1cc965f9de054862860108b271d56eb44166d5017a41923529d7de57054c950"
+    },
+    "https://pds-ppi.igpp.ucla.edu/feedback.jsp": {
+      "at": "2026-11-25T13:41:08+00:00",
+      "status": "ok",
+      "hash": "ab840092002d64155db4bb7f91c7a0acd0ca5b5b356121f6103434d4001dd14b"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_March_2025.pdf": {
+      "at": "2026-11-25T13:41:09+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/smds_learninggoals_01.2026.pdf": {
+      "at": "2026-11-25T13:41:09+00:00",
+      "status": "robots_disallow"
+    },
+    "https://pds-ppi.igpp.ucla.edu/index.jsp": {
+      "at": "2026-11-25T13:41:16+00:00",
+      "status": "ok",
+      "hash": "6546922bcd2bf7c9faa78a249a32943d7992fecccdd68c08bcfc47dd6de9da75"
+    },
+    "https://www.nobelprize.org/prizes/physics/2011/summary/": {
+      "at": "2026-11-25T13:41:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2024AnnualReport-tagged-web.pdf": {
+      "at": "2026-11-25T13:41:16+00:00",
+      "status": "robots_disallow"
+    },
+    "https://nspires.nasaprs.com/external/": {
+      "at": "2026-11-25T13:41:22+00:00",
+      "status": "ok",
+      "hash": "92a071be37a31e5952b2deb66148cee03cc3da39383089e1e84bb2631fe7f0e9"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/miam_mountains-640x350.2e16d0ba.fill-400x400-c50.gif": {
+      "at": "2026-11-25T13:41:23+00:00",
+      "status": "robots_disallow"
     }
   },
   "memory": [
-    {
-      "url": "https://cos.rbi.org.in/default.aspx",
-      "title": "College of Supervisors",
-      "summary": "Title: College of Supervisors URL Source: https://cos.rbi.org.in/default.aspx Markdown Content: Language : [![Image 2: College Of Supervisors Logo](https://cos.rbi.org.in/images/logo.png)](https://cos.rbi.org.in/Default.aspx) Keeping the Financial System Resilient, Future Ready and Crisis Immune * [Home](https://cos.rbi.org.in/default.aspx) * [About Us](https://cos.rbi.org.in/AboutUs.aspx) * [Annual Report](https://cos.rbi.org.in/Notifications.aspx) * [Our Programmes](https://cos.rbi.org.in/programs.aspx) * [Photo Gallery](https://cos.rbi.org.in/PhotoGallery.aspx) * [CoS-InSights](https://cos.rbi.org.in/Insights.aspx) * [Global Conference](https://cos.rbi.org.in/GlobalConference.aspx) * [Contact Us](https://cos.rbi.org.in/Contact.aspx) ![Image 3](https://cos.rbi.org.in/images/ShriSanjayMalhotra.png) Shri Sanjay Malhotra Governor - Reserve Bank of India ##### Message from the Governor – R",
-      "keywords": [
-        "cos",
-        "https",
-        "org",
-        "rbi",
-        "aspx",
-        "supervisors",
-        "college",
-        "financial",
-        "bank",
-        "reserve",
-        "system",
-        "default",
-        "india",
-        "contact"
-      ],
-      "hash": "c6f3088babeae6ec51fe492d7d630eadfccd811c6772fee90d254d3df09adea5",
-      "learned_at": "2026-11-01T17:58:59+00:00"
-    },
-    {
-      "url": "https://jpleducation-external.jpl.nasa.gov/static/assets/images/logo_nasa_trio_black%402x.png",
-      "title": "logo_nasa_trio_black@2x.png",
-      "summary": "Title: logo_nasa_trio_black@2x.png URL Source: https://jpleducation-external.jpl.nasa.gov/static/assets/images/logo_nasa_trio_black@2x.png Published Time: Tue, 28 Apr 2026 14:22:05 GMT Markdown Content: Jet Propulsion Laboratory California Institute of Technology NASA logo with related text",
-      "keywords": [
-        "logo_nasa_trio_black",
-        "nasa",
-        "png",
-        "2026",
-        "apr",
-        "assets",
-        "california",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "images",
-        "institute",
-        "jet"
-      ],
-      "hash": "1327101ebd01b45c57a5977f7c9fe11ac6c416a7356c74cb2aee8baf482b5d96",
-      "learned_at": "2026-11-01T21:56:43+00:00"
-    },
-    {
-      "url": "https://jpleducation-external.jpl.nasa.gov/static/images/loader.gif",
-      "title": "loader.gif",
-      "summary": "Title: loader.gif URL Source: https://jpleducation-external.jpl.nasa.gov/static/images/loader.gif Published Time: Tue, 28 Apr 2026 14:22:05 GMT Markdown Content: A 49x50 small image, likely a logo, icon or avatar",
-      "keywords": [
-        "gif",
-        "loader",
-        "2026",
-        "49x50",
-        "apr",
-        "avatar",
-        "content",
-        "gmt",
-        "gov",
-        "https",
-        "icon",
-        "image",
-        "images",
-        "jpl"
-      ],
-      "hash": "eee18c0f596295c9f5e348cff7ed1c9623eea628c964b4a7416b00bd4c1e06a4",
-      "learned_at": "2026-11-01T21:56:44+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/banner/mercury.gif",
-      "title": "mercury.gif",
-      "summary": "Title: mercury.gif URL Source: https://nssdc.gsfc.nasa.gov/planetary/banner/mercury.gif Published Time: Tue, 22 Dec 2015 16:12:01 GMT Markdown Content: Earth",
-      "keywords": [
-        "gif",
-        "mercury",
-        "2015",
-        "banner",
-        "content",
-        "dec",
-        "earth",
-        "gmt",
-        "gov",
-        "gsfc",
-        "https",
-        "markdown",
-        "nasa",
-        "nssdc"
-      ],
-      "hash": "1992e9793fa9095598ebdf6754b041457030179306dfd26d79d45b1113c7d30e",
-      "learned_at": "2026-11-01T21:56:45+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/learn/",
-      "title": "K-12 Educator Resources | Learning About Space | NASA JPL Education",
-      "summary": "Title: K-12 Educator Resources | Learning About Space | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/learn/ Final URL: https://www.jpl.nasa.gov/edu/resources/ Markdown Content: ## Search K-12 Educator Resources Sort by Showing 1–15 of 358 results Subjects Science (288) Engineering (169) Math (160) Technology (121) English Language Arts (13) Arts (8) Grades K (129) 1 (135) 2 (156) 3 (184) 4 (227) 5 (248) 6 (282) 7 (278) 8 (278) 9 (234) 10 (231) 11 (234) 12 (233) Time Under 30 mins (72) 30 - 60 mins (107) 1-2 hrs (47) Over 2 hrs (16) Resource Type Lesson Plans (200) Teachable Moments (59) Student Projects (52) Videos (32) Galleries (11) Collections (3) Images (1) Special Features Disponible en Español (24) Educator Learning (23) Video Tutorial (15) Quick and Easy (12) Tips for Remote Instruction (6) Simple Supplies (5) Out-of-School Activity (4) Learning at Home (3) Tech Add",
-      "keywords": [
-        "https",
-        "nasa",
-        "engineering",
-        "image",
-        "jpl",
-        "resources",
-        "edu",
-        "gov",
-        "images",
-        "www",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "grades",
-        "net"
-      ],
-      "hash": "c0112d6a6590517163ed99637facd4f2127916bb3c7f790528d87bac69264f10",
-      "learned_at": "2026-11-01T21:56:50+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/edu/teach/",
-      "title": "K-12 Educator Resources | Learning About Space | NASA JPL Education",
-      "summary": "Title: K-12 Educator Resources | Learning About Space | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/teach/ Final URL: https://www.jpl.nasa.gov/edu/resources/ Markdown Content: ## Search K-12 Educator Resources Sort by Showing 1–15 of 358 results Subjects Science (288) Engineering (169) Math (160) Technology (121) English Language Arts (13) Arts (8) Grades K (129) 1 (135) 2 (156) 3 (184) 4 (227) 5 (248) 6 (282) 7 (278) 8 (278) 9 (234) 10 (231) 11 (234) 12 (233) Time Under 30 mins (72) 30 - 60 mins (107) 1-2 hrs (47) Over 2 hrs (16) Resource Type Lesson Plans (200) Teachable Moments (59) Student Projects (52) Videos (32) Galleries (11) Collections (3) Images (1) Special Features Disponible en Español (24) Educator Learning (23) Video Tutorial (15) Quick and Easy (12) Tips for Remote Instruction (6) Simple Supplies (5) Out-of-School Activity (4) Learning at Home (3) Tech Add",
-      "keywords": [
-        "https",
-        "nasa",
-        "engineering",
-        "image",
-        "jpl",
-        "resources",
-        "edu",
-        "gov",
-        "images",
-        "www",
-        "cloudfront",
-        "d2pn8kiwq2w21t",
-        "grades",
-        "net"
-      ],
-      "hash": "4a1b5f27b7cc0fb192a08d001623c55fae0a47150ef1b0a2f6da7495ddb3ee19",
-      "learned_at": "2026-11-01T21:56:54+00:00"
-    },
-    {
-      "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html",
-      "title": "Neptune Fact Sheet",
-      "summary": "Title: Neptune Fact Sheet URL Source: https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html Markdown Content: * * * * * * [![Image 1: Neptune](https://nssdc.gsfc.nasa.gov/planetary/banner/neptune.gif)](https://nssdc.gsfc.nasa.gov/planetary/image/neptune.jpg) * * * ## Neptune/Earth Comparison * * * ### Bulk parameters | | Neptune | Earth | Ratio (Neptune/Earth) | | --- | --- | --- | | Mass (10 24 kg) | 102.409 | 5.9722 | 17.15 | | Volume (10 10 km 3) | 6,254 | 108.321 | 57.74 | | Equatorial radius (1 bar level) (km) | 24,764 | 6,378.1 | 3.883 | | Polar radius (1 bar level) (km) | 24,341 | 6,356.8 | 3.829 | | Volumetric mean radius (km) | 24,622 | 6,371.0 | 3.865 | | Ellipticity (Flattening) | 0.01708 | 0.00335 | 5.10 | | Mean density (kg/m 3) | 1,638 | 5,513 | 0.297 | | Gravity (mean, 1 bar) (m/s 2) | 11.27 | 9.82 | 1.15 | | Acceleration (eq., 1 bar) (m/s 2) | 11.00 | 9.78 | 1.",
-      "keywords": [
-        "neptune",
-        "---",
-        "bar",
-        "earth",
-        "orbit",
-        "mean",
-        "orbital",
-        "period",
-        "planetary",
-        "velocity",
-        "183",
-        "days",
-        "deg",
-        "gov"
-      ],
-      "hash": "6a21b623c67f5e9c12461b6b78130ae4221143199d8be4dea927382d5c50541e",
-      "learned_at": "2026-11-01T21:56:55+00:00"
-    },
     {
       "url": "https://solarsystem.nasa.gov/people/all/?page=0&per_page=40&order=last_name+asc&placeholder=Enter+name",
       "title": "People of NASA Science - NASA Science",
@@ -27866,6 +27759,167 @@
       ],
       "hash": "5207ab1be96920e2bd4efb5c9c666a6954934798fd565604c405d91ad9431631",
       "learned_at": "2026-11-25T03:50:06+00:00"
+    },
+    {
+      "url": "https://jplwater.nasa.gov/images/header_text.gif",
+      "title": "header_text.gif",
+      "summary": "Title: header_text.gif URL Source: https://jplwater.nasa.gov/images/header_text.gif Published Time: Tue, 28 Nov 2023 20:26:19 GMT Markdown Content: Logo for NASA CerCLA Program at JPL",
+      "keywords": [
+        "gif",
+        "header_text",
+        "nasa",
+        "2023",
+        "cercla",
+        "content",
+        "gmt",
+        "gov",
+        "https",
+        "images",
+        "jpl",
+        "jplwater",
+        "logo",
+        "markdown"
+      ],
+      "hash": "8e4dff70fdf8f24b63812fa81128978db0d678726ea496ade9479c0eae01b49b",
+      "learned_at": "2026-11-25T13:41:00+00:00"
+    },
+    {
+      "url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+      "title": "Mars 2020: Perseverance Rover - NASA Science",
+      "summary": "Title: Mars 2020: Perseverance Rover - NASA Science URL Source: https://science.nasa.gov/mission/mars-2020-perseverance/ Published Time: 2017-12-05T00:19:50-05:00 Markdown Content: [![Image 7: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 8: NASA Logo](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://www.nasa.gov/plus/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/socialmedia/) * [Media Resources](https://www.nasa.g",
+      "keywords": [
+        "nasa",
+        "https",
+        "gov",
+        "science",
+        "www",
+        "search",
+        "news",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "resources",
+        "aeronautics"
+      ],
+      "hash": "814830289fad30cb5884287ef6308be27c03a2aa68c05ebaeccf2fb0ec86f243",
+      "learned_at": "2026-11-25T13:41:02+00:00"
+    },
+    {
+      "url": "https://pds-geosciences.wustl.edu/dataserv/anonftp.html",
+      "title": "PDS Geosciences Node: Anonymous FTP Access",
+      "summary": "Title: PDS Geosciences Node: Anonymous FTP Access URL Source: https://pds-geosciences.wustl.edu/dataserv/anonftp.html Markdown Content: [![Image 1: PDS logo](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and approval under a regular NASA Research Announcement. Find a Node * [Atmospheres (ATM",
+      "keywords": [
+        "https",
+        "edu",
+        "wustl",
+        "nasa",
+        "pds-geosciences",
+        "pds",
+        "gov",
+        "default",
+        "htm",
+        "image",
+        "images",
+        "node",
+        "contact",
+        "gif"
+      ],
+      "hash": "501930580fb1c933a15bc8b284b31d7faf2f1f981c40205f2b85e6afbb46de2c",
+      "learned_at": "2026-11-25T13:41:04+00:00"
+    },
+    {
+      "url": "https://pds-geosciences.wustl.edu/missions/mars2020/index.htm",
+      "title": "PDS Geosciences Node Data and Services: Mars 2020 Mission",
+      "summary": "Title: PDS Geosciences Node Data and Services: Mars 2020 Mission URL Source: https://pds-geosciences.wustl.edu/missions/mars2020/index.htm Markdown Content: [![Image 1: PDS logo](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and approval under a regular NASA Research Announcement. Find a Nod",
+      "keywords": [
+        "https",
+        "edu",
+        "wustl",
+        "nasa",
+        "pds-geosciences",
+        "gov",
+        "pds",
+        "htm",
+        "default",
+        "image",
+        "images",
+        "node",
+        "contact",
+        "data"
+      ],
+      "hash": "d1cc965f9de054862860108b271d56eb44166d5017a41923529d7de57054c950",
+      "learned_at": "2026-11-25T13:41:06+00:00"
+    },
+    {
+      "url": "https://pds-ppi.igpp.ucla.edu/feedback.jsp",
+      "title": "PDS/PPI Home Page",
+      "summary": "Title: PDS/PPI Home Page URL Source: https://pds-ppi.igpp.ucla.edu/feedback.jsp Markdown Content: [![Image 1](https://pds.nasa.gov/pds-app-bar/images/PDS_Planets-acr-inv-bw.png)Planetary Data System](https://pds.nasa.gov/) ![Image 2: PDS Information](https://pds.nasa.gov/pds-app-bar/images/info.svg) Find a Node - Use these links to navigate to any of the 8 publicly accessible PDS Nodes. This bar indicates that you are within the PDS enterprise which includes 6 science discipline nodes and 2 support nodes which are overseen by the Project Management Office at NASA's Goddard Space Flight Center (GSFC). Each node is led by an expert in the subject discipline, supported by an advisory group of other practitioners of that discipline, and subject to selection and approval under a regular NASA Research Announcement. [Find a Node](https://pds-ppi.igpp.ucla.edu/feedback.jsp) * [Atmospheres (ATM)]",
+      "keywords": [
+        "https",
+        "edu",
+        "igpp",
+        "pds-ppi",
+        "ucla",
+        "jsp",
+        "pds",
+        "nasa",
+        "gov",
+        "home",
+        "feedback",
+        "image",
+        "images",
+        "index"
+      ],
+      "hash": "ab840092002d64155db4bb7f91c7a0acd0ca5b5b356121f6103434d4001dd14b",
+      "learned_at": "2026-11-25T13:41:08+00:00"
+    },
+    {
+      "url": "https://pds-ppi.igpp.ucla.edu/index.jsp",
+      "title": "PDS/PPI Home Page",
+      "summary": "Title: PDS/PPI Home Page URL Source: https://pds-ppi.igpp.ucla.edu/index.jsp Markdown Content: Find Data ![Image 1](https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_25.gif) ![Image 2](https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_25.gif) [PPI EPN-TAP](https://vo-pds-ppi.igpp.ucla.edu/) - PDS-PPI VO server [Classic PPI Website](https://search-pdsppi.igpp.ucla.edu/) - PDS-PPI classic site [PPI Archive File System](https://pds-ppi.igpp.ucla.edu/data) ![Image 3](https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_25.gif) ![Image 4](https://pds-ppi.igpp.ucla.edu/theme/images/home/ppi_home_16.gif)The Planetary Plasma Interactions (PPI) Node of the Planetary Data System ([PDS](http://pds.jpl.nasa.gov/)) archives and distributes digital data related to the study of the interaction between the solar wind and planetary winds with planetary magnetospheres, ionospheres and su",
+      "keywords": [
+        "https",
+        "ucla",
+        "edu",
+        "igpp",
+        "pds-ppi",
+        "home",
+        "images",
+        "theme",
+        "image",
+        "gif",
+        "data",
+        "nasa",
+        "planetary",
+        "ppi"
+      ],
+      "hash": "6546922bcd2bf7c9faa78a249a32943d7992fecccdd68c08bcfc47dd6de9da75",
+      "learned_at": "2026-11-25T13:41:16+00:00"
+    },
+    {
+      "url": "https://nspires.nasaprs.com/external/",
+      "title": "NSPIRES External",
+      "summary": "Title: NSPIRES External URL Source: https://nspires.nasaprs.com/external/ Markdown Content: Supporting research in science and technology is an important part of NASA's overall mission. NASA solicits this research through the release of various research announcements in a wide range of science and technology disciplines. NASA uses a peer review process to evaluate and select research proposals submitted in response to these research announcements. Researchers can help NASA achieve national research objectives by submitting research proposals and conducting awarded research. #### Solicitations NSPIRES now allow users to [SEARCH](https://nspires.nasaprs.com/external/solicitations/solicitations!init.do) for and view Proposals and NOIs [Due within 30 Days](https://nspires.nasaprs.com/external/solicitations/solicitations!init.do?s=Due%20in%2030%20Days), [FUTURE](https://nspires.nasaprs.com/ex",
+      "keywords": [
+        "nspires",
+        "solicitations",
+        "research",
+        "proposals",
+        "external",
+        "https",
+        "nasa",
+        "com",
+        "nasaprs",
+        "registration",
+        "init",
+        "organization",
+        "user",
+        "announcements"
+      ],
+      "hash": "92a071be37a31e5952b2deb66148cee03cc3da39383089e1e84bb2631fe7f0e9",
+      "learned_at": "2026-11-25T13:41:22+00:00"
     }
   ],
   "failures": [
@@ -28051,6 +28105,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-25T13:41:23+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-25T13:41:23+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 7 new pages",
+      "attempted": 24,
+      "frontier": 2498
+    },
     {
       "at": "2026-11-25T03:50:06+00:00",
       "kind": "core_unchanged",
@@ -28961,40 +29030,14 @@
       "message": "Crawl cycle learned 8 new pages",
       "attempted": 22,
       "frontier": 2499
-    },
-    {
-      "at": "2026-11-11T00:46:46+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v67",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-11T00:46:46+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 4 new pages",
-      "attempted": 24,
-      "frontier": 2496
     }
   ],
   "metrics": {
-    "successful_fetches": 1842,
+    "successful_fetches": 1849,
     "failed_fetches": 36,
     "duplicate_pages": 2,
     "candidate_promotions": 82,
-    "candidate_rejections": 203
+    "candidate_rejections": 204
   },
   "core_genome": {
     "query_weight": 3.0,
