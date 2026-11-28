@@ -1,20 +1,12 @@
 {
   "schema": 2,
-  "generation": 293,
+  "generation": 294,
   "core_version": 85,
-  "runs": 292,
-  "pages_learned": 1888,
-  "last_run": "2026-11-27T23:21:15+00:00",
+  "runs": 293,
+  "pages_learned": 1896,
+  "last_run": "2026-11-28T04:48:32+00:00",
   "last_model_mutation": "2026-09-26T11:52:50+00:00",
   "frontier": [
-    "https://www.nasa.gov/people/warren-hoburg/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/jplinterns_astronauts-2019.width-1024.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/orr.2e16d0ba.fill-490x430-c70.format-jpeg.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa_express.5622afd4.fill-400x400-c50.png",
-    "http://ntrs.nasa.gov/",
-    "http://ntrs.nasa.gov/](http://ntrs.nasa.gov/)",
-    "http://pds-geosciences.wustl.edu/",
-    "https://edc.dgfi.tum.de/pub/slr/data/npt_crd/",
     "https://edc.dgfi.tum.de/pub/slr/data/npt_crd_v2/",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/The-Pathfinders_show-1000x.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/spaceimagesimageslargesizePIA2.2e16d0ba.fill-122x122-c70.jpg",
@@ -29,15 +21,11 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/ingenuityl.2e16d0ba.fill-122x122-c70.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/student_employment.f6336184.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/IMG_2170.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2025_0715_RL0024831_Med.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2025_0715_RL0024797_Med_-_v2.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Keyur-full.original.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2025_0715_RL0024831_Med.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Clipper_7.original.height-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Richard_Cook_Photo_1-thumbnai.2e16d0ba.fill-640x360-c100_9Hyfeao.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Richard_Cook_Photo_1-thumbnai.2e16d0ba.fill-640x360-c100_9Hyfeao.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/shawn_goodman-v2.2e16d0ba.fill-640x360-c100.jpg",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2025-07-15-204145_-_.2e16d0ba.fill-640x360-c100.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Rocketeer_p.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Explorer_one_p_R9JD6Eu.width-1024.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Changing_Face.width-1024.jpg",
@@ -81,12 +69,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/images/Sian_Proctor-768.6564f4c4.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/images/virtual_tour.2e16d0ba.fill-400x400-c50.jpg",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/May_2025_Monthly_PDF.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
-    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_September_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_August_2025.pdf",
@@ -95,21 +77,32 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_April_2025.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/February_2025_Monthly_PDF_.pdf",
     "https://d2pn8kiwq2w21t.cloudfront.net/documents/Universe_-_January_2025.pdf",
+    "https://solicitation.nasaprs.com/ROSES2025",
+    "https://solicitation.nasaprs.com/ROSES2025table2",
+    "https://solicitation.nasaprs.com/ROSES2025table3",
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_artchallenge.2e16d0ba.fill-400x400-c50.jpg",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AnnualReport2021.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/AR21_Sustainability_Addendum.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/Annual_Report_-_2020.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_worksheet_5YTapsF.pdf",
+    "https://d2pn8kiwq2w21t.cloudfront.net/documents/leapday_answers_uBQ4pVq.pdf",
     "https://www.caltech.edu/",
     "https://www.caltech.edu/claimed-copyright-infringement",
     "https://www.utn.edu.ar/es/",
     "https://caltech.edu/",
     "https://atmos.nmsu.edu/proposal_assist.html",
     "https://eeps.wustl.edu/",
-    "https://solicitation.nasaprs.com/ROSES2025",
-    "https://solicitation.nasaprs.com/ROSES2025table2",
-    "https://solicitation.nasaprs.com/ROSES2025table3",
     "https://esahubble.org/images/heic1215a/",
     "https://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf",
     "https://bkg.bund.de/en/das-bkg/veranstaltungen/ilrs-workshop/abstract-submission",
     "https://bkg.bund.de/en/bkg/events/ilrs-workshop",
     "https://jpl.jobs/",
     "https://jpl.jobs/university-recruiting",
+    "https://news.ycombinator.com/",
+    "https://www.communicatemagazine.com/article/employer-brand-management-awards-2025-winners-announced/",
+    "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2025.1717696/full",
+    "https://edc.dgfi.tum.de/en/mailing_lists/slr_mail/no2952/",
     "http://www.ucla.edu/",
     "http://announcements.surf.caltech.edu/index.cfm?event=ShowAOPublicList&type=SURF&formType=AO_JPL",
     "https://touchpoints.digital.gov/",
@@ -155,7 +148,6 @@
     "https://apps.apple.com/us/iphone/games",
     "https://apps.apple.com/us/iphone/apps",
     "https://apps.apple.com/us/iphone/arcade",
-    "https://news.ycombinator.com/",
     "https://cdn.parsely.com/",
     "https://retool.com/",
     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -168,7 +160,6 @@
     "https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm",
     "https://usabilla.com/privacy/",
     "https://twitter.com/en/privacy",
-    "https://www.communicatemagazine.com/article/employer-brand-management-awards-2025-winners-announced/",
     "https://www.instagram.com/reels/Dd_zDPwR7b5/",
     "https://www.stunnel.org/downloads.html",
     "https://www.stunnel.org/downloads.html",
@@ -192,7 +183,6 @@
     "https://d2pn8kiwq2w21t.cloudfront.net/media/NISAR_7_c.webm",
     "https://addons.mozilla.org/en-US/firefox/addon/downthemall/",
     "https://about.downthemall.org/4.0/",
-    "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2025.1717696/full",
     "https://www.iana.org/",
     "https://www.ncfe.org.in/",
     "https://www.nobelprize.org/prizes/physics/2011/prize-announcement/",
@@ -242,6 +232,7 @@
     "https://dx.doi.org/10.1007/s00190-019-01241-1",
     "https://dx.doi.org/10.1007/s00190-018-1207-2",
     "https://www.youtube.com/watch?v=VZZX_idrN50",
+    "https://itrf.ign.fr/en/homepage",
     "http://pds-atmospheres.nmsu.edu/",
     "http://www.msss.com/mars_images/moc/dec00_seds/",
     "http://planetarydata.org/",
@@ -294,19 +285,6 @@
     "http://www.json.org/",
     "http://www.json.org/",
     "http://edc.dgfi.tum.de/",
-    "https://d2pn8kiwq2w21t.cloudfront.net/images/sp_artchallenge.2e16d0ba.fill-400x400-c50.jpg",
-    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
-    "https://www.jpl.nasa.gov/edu/about-jpl-education/",
-    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html",
-    "https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg",
-    "https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg",
-    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html",
-    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html",
-    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/eta2_general.html",
-    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/eta2_general.html",
-    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lrs2_general.html",
-    "https://edc.dgfi.tum.de/en/mailing_lists/slr_mail/no2952/",
-    "https://itrf.ign.fr/en/homepage",
     "https://dtrf.dgfi.tum.de/en/",
     "https://www.jpl.nasa.gov/site/jsgt/jtrf/",
     "https://geodesy.science/ggos/products/terrestrial-reference-frame/",
@@ -2504,7 +2482,31 @@
     "http://www.jpl.nasa.gov/edu/intern",
     "https://www.nasa.gov/humans-in-space/astronauts/jessica-watkins/",
     "https://www.nasa.gov/humans-in-space/astronauts/jessica-watkins/",
-    "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1024"
+    "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1024",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_Campaigns.html",
+    "https://ilrs.gsfc.nasa.gov/science/awg/awgActivities/proposedTrackingEtalon1_and_2_Feb2019.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/jas2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/jas3_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/jas3_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/jas2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/past_missions/tia2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lag1_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/eta2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/eta2_general.html",
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/lrs2_general.html",
+    "https://ntrs.nasa.gov/assets/NASA_logo.svg",
+    "https://ntrs.nasa.gov/search",
+    "https://ntrs.nasa.gov/assets/NASA_logo.svg",
+    "https://ntrs.nasa.gov/sitemap.xml",
+    "https://ntrs.nasa.gov/assets/sti-logo.png",
+    "https://sti.nasa.gov/disclaimers/",
+    "https://nasa.sharepoint.com/sites/NASASTIProgram/SitePages/NTRS-Registered-Content.aspx",
+    "https://nams.nasa.gov/",
+    "https://www.nasa.gov/nasa-web-privacy-policy-and-important-notices/",
+    "http://ntrs.nasa.gov/](http:/ntrs.nasa.gov/)",
+    "https://pds-geosciences.wustl.edu/dataserv/doi.htm",
+    "https://edc.dgfi.tum.de/pub/slr/data/npt_crd/adeos"
   ],
   "visited": {
     "https://www.isro.gov.in/": {
@@ -14368,193 +14370,73 @@
       "at": "2026-11-27T23:21:43+00:00",
       "status": "ok",
       "hash": "045085ec7bd709f16243aabe4f07e2925d82f71bf5f2c47853afcb0465cf82fd"
+    },
+    "https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg": {
+      "at": "2026-11-28T04:48:35+00:00",
+      "status": "ok",
+      "hash": "0dac7226cb5c0f7bfad85a63e742572a4c2d465bd7c5c85880b8e545c4a44bef"
+    },
+    "https://www.jpl.nasa.gov/edu/about-jpl-education/": {
+      "at": "2026-11-28T04:48:39+00:00",
+      "status": "ok",
+      "hash": "e0a35494144bdae96e97854e08c316b8d9c9ed8954e2e4a8e66f82fa62954597"
+    },
+    "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html": {
+      "at": "2026-11-28T04:48:43+00:00",
+      "status": "ok",
+      "hash": "77454f300e6cbf68a32fd8cf266ff62f2110f18336d052270d6bcb8795699bf6"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/orr.2e16d0ba.fill-490x430-c70.format-jpeg.jpg": {
+      "at": "2026-11-28T04:48:44+00:00",
+      "status": "robots_disallow"
+    },
+    "https://www.nasa.gov/people/warren-hoburg/": {
+      "at": "2026-11-28T04:48:47+00:00",
+      "status": "ok",
+      "hash": "d6a05b1dbfa09b5e5cd59f3b3ddb43dd591c77e0729ad50815ac1f892096fc85"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/jplinterns_astronauts-2019.width-1024.jpg": {
+      "at": "2026-11-28T04:48:47+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/nasa_express.5622afd4.fill-400x400-c50.png": {
+      "at": "2026-11-28T04:48:47+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2025_0715_RL0024831_Med.2e16d0ba.fill-640x360-c100.jpg": {
+      "at": "2026-11-28T04:48:47+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/D2025_0715_RL0024797_Med_-_v2.2e16d0ba.fill-640x360-c100.jpg": {
+      "at": "2026-11-28T04:48:47+00:00",
+      "status": "robots_disallow"
+    },
+    "https://d2pn8kiwq2w21t.cloudfront.net/images/photolab-2025-07-15-204145_-_.2e16d0ba.fill-640x360-c100.jpg": {
+      "at": "2026-11-28T04:48:47+00:00",
+      "status": "robots_disallow"
+    },
+    "http://ntrs.nasa.gov/": {
+      "at": "2026-11-28T04:48:49+00:00",
+      "status": "ok",
+      "hash": "133b44c1deaa199416ec851e43e800d5ec55ae640bc41b3f20a7dcda3044dcb2"
+    },
+    "http://ntrs.nasa.gov/](http://ntrs.nasa.gov/)": {
+      "at": "2026-11-28T04:49:05+00:00",
+      "status": "ok",
+      "hash": "00f532b4f00337d45baaf0947b58f0ee8710a8cf4b2743783950647f511d130d"
+    },
+    "http://pds-geosciences.wustl.edu/": {
+      "at": "2026-11-28T04:49:08+00:00",
+      "status": "ok",
+      "hash": "ad5dd4db3fbb10d11fb2113f3f26a9e55d14641b1c859e31ce701156673cc8be"
+    },
+    "https://edc.dgfi.tum.de/pub/slr/data/npt_crd/": {
+      "at": "2026-11-28T04:49:27+00:00",
+      "status": "ok",
+      "hash": "c1ff0b9a0e9fdd67b51b3ead861293bea4326a4418709bbc47cbc1afd75027ae"
     }
   },
   "memory": [
-    {
-      "url": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ecfr.gov%2Fcurrent%2Ftitle-14%2Fchapter-V%2Fpart-1212&data=05%7C01%7Cmia.m.roundtree%40nasa.gov%7C2e899eb7904a4a1746d308dba96a4a0b%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638290046200451578%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=volzOeVhmQWQkd567DU79BmwciQZPDgV6r1A9Peha0I%3D&reserved=0",
-      "title": "14 CFR Part 1212 -- Privacy Act—NASA Regulations",
-      "summary": "Title: 14 CFR Part 1212 -- Privacy Act—NASA Regulations URL Source: https://gcc02.safelinks.protection.outlook.com/?url=https://www.ecfr.gov/current/title-14/chapter-V/part-1212&data=05|01|mia.m.roundtree@nasa.gov|2e899eb7904a4a1746d308dba96a4a0b|7005d45845be48ae8140d43da96dd17b|0|0|638290046200451578|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|3000|||&sdata=volzOeVhmQWQkd567DU79BmwciQZPDgV6r1A9Peha0I=&reserved=0 Final URL: https://www.ecfr.gov/current/title-14/chapter-V/part-1212 Markdown Content: #### Source: [57 FR 4928](https://www.federalregister.gov/citation/57-FR-4928), Feb. 11, 1992, unless otherwise noted. ## Subpart 1212.1—Basic Policy #### § 1212.100 Scope and purpose. This part 1212 implements the Privacy Act of 1974, as amended ([5 U.S.C. 552a](https://www.govinfo.gov/link/uscode/5/552a)). It establishes procedures for individuals to ",
-      "keywords": [
-        "gov",
-        "https",
-        "www",
-        "1212",
-        "nasa",
-        "part",
-        "term",
-        "552a",
-        "act",
-        "identifying",
-        "individual",
-        "privacy",
-        "records",
-        "amended"
-      ],
-      "hash": "ae04e566fe1352bdcc3dc1ef71c256e416324d0fed670e9b2e10c72ed4504ac7",
-      "learned_at": "2026-11-03T21:16:07+00:00"
-    },
-    {
-      "url": "https://www.jpl.nasa.gov/universe/signup.html",
-      "title": "Get JPL Email News",
-      "summary": "Title: Get JPL Email News URL Source: https://www.jpl.nasa.gov/universe/signup.html Markdown Content: [NASA](http://www.nasa.gov/ \"NASA\") [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/ \"Jet Propulsion Laboratory\") [California Institute of Technology](http://www.caltech.edu/ \"California Institute of Technology\") ![Image 3](https://www.jpl.nasa.gov/assets/images/logo_nasa_trio_black@2x.png) [Skip Navigation](https://www.jpl.nasa.gov/universe/signup.html#main) [](https://www.jpl.nasa.gov/universe/signup.html) # Signup for Universe Email Alerts ![Image 4: Mountains behind JPL](https://www.jpl.nasa.gov/universe/images/jpl-mountains.jpg.test) Sign up to receive email alerts when each month's new issue of the Universe newspaper is produced in PDF format. Unsubscribe at any time. ### Lists* - [x] JPL Universe Newspaper ![Image 5](https://app.icontact.com/icp/core/signup/tracking.gif?id=1&",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "www",
-        "gov",
-        "universe",
-        "news",
-        "signup",
-        "html",
-        "php",
-        "edu",
-        "missions",
-        "type",
-        "email"
-      ],
-      "hash": "3ae691e55ab797903d26cd2e503ec91115709efe5a4720c886fde69d45ad6e99",
-      "learned_at": "2026-11-03T21:16:10+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/doc/de440_de441.html",
-      "title": "The JPL Planetary and Lunar Ephemerides DE440 and DE441",
-      "summary": "Title: The JPL Planetary and Lunar Ephemerides DE440 and DE441 URL Source: https://ssd.jpl.nasa.gov/doc/de440_de441.html Markdown Content: [Skip Navigation](https://ssd.jpl.nasa.gov/doc/de440_de441.html#main_content) ![Image 1: banner](https://ssd.jpl.nasa.gov/images/ssd_banner.png)![Image 2: banner](https://ssd.jpl.nasa.gov/images/ssd_banner_small.png)![Image 3: Trio-Logo](https://ssd.jpl.nasa.gov/images/logo_nasa_trio.png)[NASA](https://www.nasa.gov/ \"NASA\")[JPL](https://www.jpl.nasa.gov/ \"JPL\")[Caltech](https://www.caltech.edu/ \"Caltech\")![Image 4: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png) Toggle navigation[Home![Image 5: SSD Solar System Dynamics Home](https://ssd.jpl.nasa.gov/images/ssd_title_overlay.png)](https://ssd.jpl.nasa.gov/) * [About](https://ssd.jpl.nasa.gov/doc/de440_de441.html#) * [What does SSD do?](https://ssd.jpl.nasa.gov/ab",
-      "keywords": [
-        "jpl",
-        "nasa",
-        "https",
-        "ssd",
-        "gov",
-        "html",
-        "orbits",
-        "planets",
-        "de440_de441",
-        "doc",
-        "ephemerides",
-        "sats",
-        "image",
-        "images"
-      ],
-      "hash": "6b240c72b5f203af3261e670095d01080d57922d0e37e02dd575a58a788ed5a9",
-      "learned_at": "2026-11-03T21:16:12+00:00"
-    },
-    {
-      "url": "https://ssd.jpl.nasa.gov/tools/periodic_orbits.html",
-      "title": "Three-Body Periodic Orbits",
-      "summary": "Title: Three-Body Periodic Orbits URL Source: https://ssd.jpl.nasa.gov/tools/periodic_orbits.html Markdown Content: * [Introduction](https://ssd.jpl.nasa.gov/tools/periodic_orbits.html#intro) * [Periodic Orbits](https://ssd.jpl.nasa.gov/tools/periodic_orbits.html#periodic) ### Overview * * * There are an infinite number of periodic solutions in the Circular Restricted Three-Body (CR3BP) problem, as noted by Henri Poincaré in 1892 [1]. These periodic orbits are generally collected into families of solutions that share a set of orbital characteristics. Although a wide variety of families of periodic orbits have been extensively investigated, many of the solutions remain unknown. To facilitate rapid and well-informed decisions regarding the selection of periodic orbits for a particular mission and enable the simultaneous study of various orbit alternatives, the present online interface prov",
-      "keywords": [
-        "orbits",
-        "periodic",
-        "system",
-        "families",
-        "solutions",
-        "three-body",
-        "body",
-        "gov",
-        "html",
-        "https",
-        "jpl",
-        "nasa",
-        "northern",
-        "periodic_orbits"
-      ],
-      "hash": "b8a22facb220720b1ff090395b51efd2d67370b6787dbcf25dbf93c3233e7498",
-      "learned_at": "2026-11-03T21:16:14+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/topics/exoplanets/",
-      "title": "Exploring Exoplanets",
-      "summary": "Title: Exploring Exoplanets URL Source: https://jpl.nasa.gov/topics/exoplanets/ Final URL: https://www.jpl.nasa.gov/topics/exoplanets/ Markdown Content: JPL is at the forefront of a burgeoning and fascinating endeavor — developing technologies to hunt for exoplanets, which are planets beyond our solar system. Breakthroughs in the 1990s by the world science community confirmed that our Sun, the star at the center of our solar system, is not the only star that has planets in orbit around it. Since then, through extensive ground- and space-based observations, astronomers have found thousands of exoplanets. A significant proportion were identified by NASA’s Kepler Space Telescope, a mission launched in 2009, with development managed by JPL. The JPL-managed Spitzer Space Telescope helped piece together characteristics of some exoplanets, including headline-making discoveries about the TRAPPIS",
-      "keywords": [
-        "exoplanets",
-        "star",
-        "jpl",
-        "space",
-        "telescope",
-        "planets",
-        "exoplanet",
-        "kepler",
-        "nasa",
-        "stars",
-        "system",
-        "around",
-        "brightness",
-        "coronagraph"
-      ],
-      "hash": "5169129d6e8171dc005830cc6312cc20b718051fff69a906d2689b211e6f8d99",
-      "learned_at": "2026-11-03T21:16:18+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/topics/stars-and-galaxies/",
-      "title": "Stars and Galaxies",
-      "summary": "Title: Stars and Galaxies URL Source: https://jpl.nasa.gov/topics/stars-and-galaxies/ Final URL: https://www.jpl.nasa.gov/topics/stars-and-galaxies/ Markdown Content: The nighttime sky is magical. The dark curtain sprinkled with tiny dots of light has inspired songs, sparked romances, and prompted humans through the ages to gaze at the twinkling scene overhead and wonder what’s out there and what it all means. Some of those humans are scientists and engineers at JPL, who continue developing new tools and techniques to answer those primal questions. Powerful telescopes on Earth and observatories in space, including many developed and managed by JPL, have peered back in time across colossal distances. They have used multiple wavelengths of light to view stars, galaxies, and other cosmic objects, sometimes as they were billions of years ago. This power enables us to see many stars in their ",
-      "keywords": [
-        "dark",
-        "jpl",
-        "objects",
-        "space",
-        "stars",
-        "many",
-        "earth",
-        "energy",
-        "galaxies",
-        "light",
-        "universe",
-        "across",
-        "after",
-        "dots"
-      ],
-      "hash": "8a490f6b78b05caa8a23f3b6fe99ddcc55c2099687485a789fff5c2586a022bb",
-      "learned_at": "2026-11-03T21:16:21+00:00"
-    },
-    {
-      "url": "https://idp.nature.com/auth/personal/springernature?redirect_uri=https%3A%2F%2Fwww.nature.com%2F",
-      "title": "Springer Nature account - log in or register",
-      "summary": "Title: Springer Nature account - log in or register URL Source: https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/ Final URL: https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fsso&state=5dcd2759-11d7-4728-b502-e593a4c86fdf&target_redirect_uri=https%3A%2F%2Fwww.nature.com%2F Markdown Content: ## Your privacy, your choice We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes. By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Econ",
-      "keywords": [
-        "com",
-        "https",
-        "nature",
-        "springernature",
-        "cookies",
-        "data",
-        "information",
-        "personal",
-        "use",
-        "content",
-        "optional",
-        "parties",
-        "privacy",
-        "redirect_uri"
-      ],
-      "hash": "3c33754cf8561c82c12013d0858fa211bc681a6807d6075f0e044c3c9b55d457",
-      "learned_at": "2026-11-03T21:16:32+00:00"
-    },
-    {
-      "url": "https://jpl.nasa.gov/social/",
-      "title": "Social | NASA Jet Propulsion Laboratory (JPL)",
-      "summary": "Title: Social | NASA Jet Propulsion Laboratory (JPL) URL Source: https://jpl.nasa.gov/social/ Final URL: https://www.jpl.nasa.gov/social/ Markdown Content: [](https://www.jpl.nasa.gov/social/) Skip to main content [JPL](https://www.jpl.nasa.gov/) [Careers](https://www.jpl.jobs/) [Education](https://www.jpl.nasa.gov/edu/) [Science & Technology](https://www.jpl.nasa.gov/science-and-technology/) [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 1: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) About JPL Missions News Galleries Events Visit Topics [](https://www.nasa.gov/ \"NASA\") [](https://www.jpl.nasa.gov/ \"JPL Home\") ![Image 2: JPL Logo](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg) # Social JPL’s social media brings the cosmos to the palm of your hand, showcasing the engineering, science, and ingenuity that po",
-      "keywords": [
-        "https",
-        "nasa",
-        "jpl",
-        "www",
-        "gov",
-        "image",
-        "jet",
-        "laboratory",
-        "propulsion",
-        "logo",
-        "nasajpl",
-        "2e16d0ba",
-        "cloudfront",
-        "d2pn8kiwq2w21t"
-      ],
-      "hash": "fd3336017dbafd5daf2391a66748c92aba8f9f24c2f5fbdbacc01c09f5ad05e7",
-      "learned_at": "2026-11-04T01:28:37+00:00"
-    },
     {
       "url": "https://conferences.nature.com/",
       "title": "Nature Conferences",
@@ -28163,6 +28045,190 @@
       ],
       "hash": "045085ec7bd709f16243aabe4f07e2925d82f71bf5f2c47853afcb0465cf82fd",
       "learned_at": "2026-11-27T23:21:43+00:00"
+    },
+    {
+      "url": "https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg",
+      "title": "ilrs_logo_forNews.jpg",
+      "summary": "Title: ilrs_logo_forNews.jpg URL Source: https://ilrs.gsfc.nasa.gov/images/ilrs_logo_forNews.jpg Published Time: Tue, 09 Oct 2012 14:02:37 GMT Markdown Content: A contemporary logo that combines letters and geometric shapes",
+      "keywords": [
+        "ilrs_logo_fornews",
+        "jpg",
+        "2012",
+        "combines",
+        "contemporary",
+        "content",
+        "geometric",
+        "gmt",
+        "gov",
+        "gsfc",
+        "https",
+        "ilrs",
+        "images",
+        "letters"
+      ],
+      "hash": "0dac7226cb5c0f7bfad85a63e742572a4c2d465bd7c5c85880b8e545c4a44bef",
+      "learned_at": "2026-11-28T04:48:35+00:00"
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/edu/about-jpl-education/",
+      "title": "About JPL Education | NASA JPL Education",
+      "summary": "Title: About JPL Education | NASA JPL Education URL Source: https://www.jpl.nasa.gov/edu/about-jpl-education/ Markdown Content: Welcome to the online home of STEM Engagement at NASA’s Jet Propulsion Laboratory. Our mission is to provide transformational STEM education experiences and resources that empower educators and inspire the next generation of explorers. ![Image 1](https://d2pn8kiwq2w21t.cloudfront.net/images/curiosity_pia20602_IpMD49q.0accaac1.fill-548x400-c50.jpg) ## About JPL ### NASA's Leader in Robotic Exploration Our missions have flown to every planet and the Sun on a quest to understand our place in the universe and to search for the possibility of life beyond Earth. [Learn More](https://www.jpl.nasa.gov/who-we-are/) Located in Southern California, JPL is NASA’s leader in robotic exploration. In addition to supporting the agency’s missions, we also assist the [Office of ST",
+      "keywords": [
+        "nasa",
+        "jpl",
+        "stem",
+        "https",
+        "education",
+        "gov",
+        "www",
+        "educators",
+        "k-12",
+        "kids",
+        "about-jpl-education",
+        "audiences",
+        "content",
+        "edu"
+      ],
+      "hash": "e0a35494144bdae96e97854e08c316b8d9c9ed8954e2e4a8e66f82fa62954597",
+      "learned_at": "2026-11-28T04:48:39+00:00"
+    },
+    {
+      "url": "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html",
+      "title": "ILRS | Missions | Satellite Missions",
+      "summary": "Title: ILRS | Missions | Satellite Missions URL Source: https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html Markdown Content: ## Mission News ### [2026](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2026)[2025](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2025)[2024](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2024)[2023](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2023)[2022](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2022)[2021](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2021)[2020](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2020) ### [2019](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/Mission_News.html#2019)[2018](https://ilrs.gsfc.nasa.gov/missions/satel",
+      "keywords": [
+        "missions",
+        "ilrs",
+        "gov",
+        "gsfc",
+        "html",
+        "https",
+        "nasa",
+        "satellite_missions",
+        "mission_news",
+        "2026",
+        "mission",
+        "2002",
+        "2003",
+        "2004"
+      ],
+      "hash": "77454f300e6cbf68a32fd8cf266ff62f2110f18336d052270d6bcb8795699bf6",
+      "learned_at": "2026-11-28T04:48:43+00:00"
+    },
+    {
+      "url": "https://www.nasa.gov/people/warren-hoburg/",
+      "title": "Warren Hoburg - NASA",
+      "summary": "Title: Warren Hoburg - NASA URL Source: https://www.nasa.gov/people/warren-hoburg/ Published Time: 2020-06-04T22:01:59Z Markdown Content: [![Image 1: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * Explore Search [![Image 2: NASA Logo](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png)](https://www.nasa.gov/) * News & Events ### [News & Events](https://www.nasa.gov/news/) * [News Releases](https://www.nasa.gov/2026-news-releases/) * [Recently Published](https://www.nasa.gov/news/recently-published/) * [Video Series on NASA+](https://plus.nasa.gov/series/) * [Podcasts & Audio](https://www.nasa.gov/podcasts-and-audio/) * [Blogs](https://www.nasa.gov/nasa-blogs/) * [Newsletters](https://www.nasa.gov/newsletters/) * [Social Media](https://www.nasa.gov/social-media/) * [Media Resources](https://www.nasa.",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "www",
+        "search",
+        "news",
+        "science",
+        "events",
+        "images",
+        "multimedia",
+        "image",
+        "plus",
+        "podcasts",
+        "aeronautics"
+      ],
+      "hash": "d6a05b1dbfa09b5e5cd59f3b3ddb43dd591c77e0729ad50815ac1f892096fc85",
+      "learned_at": "2026-11-28T04:48:47+00:00"
+    },
+    {
+      "url": "http://ntrs.nasa.gov/",
+      "title": "NASA Technical Reports Server (NTRS)",
+      "summary": "Title: NASA Technical Reports Server (NTRS) URL Source: http://ntrs.nasa.gov/ Final URL: https://ntrs.nasa.gov/ Markdown Content: ![Image 1: NASA Logo](https://ntrs.nasa.gov/assets/NASA_logo.svg) ## NTRS ## NTRS - NASA Technical Reports Server Search more_vert [Collections](https://ntrs.nasa.gov/)[About](https://sti.nasa.gov/what-is-the-ntrs/)[News](https://sti.nasa.gov/ntrs-news/)[Help](https://sti.nasa.gov/contact-us/)[Login](https://ntrs.nasa.gov/) Press Enter or click the Search button to begin your search. lock_open Publicly Available Content The NASA Technical Reports Server (NTRS) provides access to NASA metadata records, full-text online documents, images, and videos. The types of information included are conference papers, journal articles, meeting papers, patents, research reports, images, movies, and technical videos – scientific and technical information (STI) created or fund",
+      "keywords": [
+        "nasa",
+        "ntrs",
+        "https",
+        "gov",
+        "sti",
+        "content",
+        "technical",
+        "information",
+        "registered",
+        "reports",
+        "search",
+        "access",
+        "civil",
+        "contractors"
+      ],
+      "hash": "133b44c1deaa199416ec851e43e800d5ec55ae640bc41b3f20a7dcda3044dcb2",
+      "learned_at": "2026-11-28T04:48:49+00:00"
+    },
+    {
+      "url": "http://ntrs.nasa.gov/](http://ntrs.nasa.gov/)",
+      "title": "URL Source: http://ntrs.nasa.gov/](http:/ntrs.nasa.gov/)",
+      "summary": "Title: URL Source: http://ntrs.nasa.gov/](http:/ntrs.nasa.gov/) Final URL: https://ntrs.nasa.gov/](http:/ntrs.nasa.gov/) Markdown Content: ![Image 2: NASA Logo](https://ntrs.nasa.gov/assets/NASA_logo.svg) ## NTRS ## NTRS - NASA Technical Reports Server Search more_vert [Collections](https://ntrs.nasa.gov/)[About](https://sti.nasa.gov/what-is-the-ntrs/)[News](https://sti.nasa.gov/ntrs-news/)[Help](https://sti.nasa.gov/contact-us/)[Login](https://ntrs.nasa.gov/) Press Enter or click the Search button to begin your search. [![Image 3: NASA Logo](https://ntrs.nasa.gov/assets/NASA_logo.svg)](https://www.nasa.gov/) [No Fear Act](https://www.nasa.gov/no-fear-act/) | [Freedom of Information Act](https://www.nasa.gov/foia/) | [Office of the Inspector General](http://oig.nasa.gov/) | [Agency Financial Reports](https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/) [NAS",
+      "keywords": [
+        "nasa",
+        "gov",
+        "https",
+        "ntrs",
+        "www",
+        "sti",
+        "http",
+        "assets",
+        "contact-us",
+        "image",
+        "logo",
+        "ocio",
+        "search",
+        "accessibility"
+      ],
+      "hash": "00f532b4f00337d45baaf0947b58f0ee8710a8cf4b2743783950647f511d130d",
+      "learned_at": "2026-11-28T04:49:05+00:00"
+    },
+    {
+      "url": "http://pds-geosciences.wustl.edu/",
+      "title": "PDS Geosciences Node, Washington University, St. Louis, Missouri",
+      "summary": "Title: PDS Geosciences Node, Washington University, St. Louis, Missouri URL Source: http://pds-geosciences.wustl.edu/ Final URL: https://pds-geosciences.wustl.edu/ Markdown Content: Welcome to the Geosciences Node The Geosciences Node of NASA's **[Planetary Data System](https://pds.nasa.gov/)** (PDS) archives and distributes digital data related to the study of the surfaces and interiors of terrestrial planetary bodies. We work directly with NASA missions to help them generate well-documented, permanent data archives. We provide data to NASA-sponsored researchers along with expert assistance in using the data.**All our archives are online and available to the public to download free of charge.** Where's the Data? Click on **[DATA AND SERVICES](https://pds-geosciences.wustl.edu/dataserv/default.htm)** in the black navigation bar above to browse our data holdings. Need a DOI? Please see ou",
+      "keywords": [
+        "edu",
+        "wustl",
+        "https",
+        "pds-geosciences",
+        "data",
+        "missions",
+        "htm",
+        "mars",
+        "2026",
+        "new",
+        "geosciences",
+        "node",
+        "november",
+        "odyssey"
+      ],
+      "hash": "ad5dd4db3fbb10d11fb2113f3f26a9e55d14641b1c859e31ce701156673cc8be",
+      "learned_at": "2026-11-28T04:49:08+00:00"
+    },
+    {
+      "url": "https://edc.dgfi.tum.de/pub/slr/data/npt_crd/",
+      "title": "URL Source: https://edc.dgfi.tum.de/pub/slr/data/npt_crd/",
+      "summary": "Title: URL Source: https://edc.dgfi.tum.de/pub/slr/data/npt_crd/ Markdown Content: [Back to EDC-Website](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/) [/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/)[pub/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/)[slr/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/)[data/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/)[npt_crd/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/) **Filename****Size****User****Group****Date****Attributes** [..](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/) [adeos/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/adeos)42 edc edc 2020-11-26 11:21:10 drwxrwxr-x [adeos2/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/adeos2)42 edc edc 2021-04-13 08:31:02 drwxrwxr-x [ajisai/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/ajisai)186 edc edc 2026-01-01 21:41:08 drwxr-xr-x [alos/](https://edc.dgfi.tum.de/pub/slr/data/npt_crd/alos",
+      "keywords": [
+        "edc",
+        "data",
+        "https",
+        "npt_crd",
+        "pub",
+        "slr",
+        "dgfi",
+        "tum",
+        "drwxr-xr-x",
+        "2023-03-08",
+        "138",
+        "2023-02-07",
+        "2024-03-20",
+        "adeos"
+      ],
+      "hash": "c1ff0b9a0e9fdd67b51b3ead861293bea4326a4418709bbc47cbc1afd75027ae",
+      "learned_at": "2026-11-28T04:49:27+00:00"
     }
   ],
   "failures": [
@@ -28348,6 +28414,21 @@
     }
   ],
   "events": [
+    {
+      "at": "2026-11-28T04:49:27+00:00",
+      "kind": "core_unchanged",
+      "message": "No candidate beat the current core",
+      "score": 0.944444,
+      "hosts": 24,
+      "candidate_errors": []
+    },
+    {
+      "at": "2026-11-28T04:49:27+00:00",
+      "kind": "crawl",
+      "message": "Crawl cycle learned 8 new pages",
+      "attempted": 22,
+      "frontier": 2500
+    },
     {
       "at": "2026-11-27T23:21:44+00:00",
       "kind": "core_unchanged",
@@ -29258,40 +29339,14 @@
       "message": "Crawl cycle learned 2 new pages",
       "attempted": 24,
       "frontier": 2486
-    },
-    {
-      "at": "2026-11-12T18:41:35+00:00",
-      "kind": "core_promoted",
-      "message": "Promoted evolved core v69",
-      "baseline": 0.944444,
-      "candidate": 0.944444,
-      "hosts": 24,
-      "genome": {
-        "query_weight": 3.0,
-        "trusted_bonus": 8.0,
-        "https_bonus": 0.2,
-        "title_bonus": 2.0,
-        "keyword_bonus": 2.0,
-        "summary_bonus": 1.0,
-        "keyword_min": 3,
-        "answer_top": 4,
-        "summary_chars": 360
-      }
-    },
-    {
-      "at": "2026-11-12T18:41:35+00:00",
-      "kind": "crawl",
-      "message": "Crawl cycle learned 8 new pages",
-      "attempted": 22,
-      "frontier": 2498
     }
   ],
   "metrics": {
-    "successful_fetches": 1888,
+    "successful_fetches": 1896,
     "failed_fetches": 36,
     "duplicate_pages": 2,
     "candidate_promotions": 84,
-    "candidate_rejections": 207
+    "candidate_rejections": 208
   },
   "core_genome": {
     "query_weight": 3.0,
